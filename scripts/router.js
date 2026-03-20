@@ -1,1 +1,156 @@
-function _0x4234(){const _0x37bae5=['z2v0q29UzMLNrxjYB3i','odaYotaXufLnCvzn','DgHLBwu','CMvWBgfJzq','thvTB3jHqxv0Aa','z2f0zs1JB3b5','z2v0q3vYCMvUDenVBNrLEhq','zxjYB3i','uMvXDwLYzwqGC2nYAxb0CYbMywLSzwqGDg8GAw5PDgLHBgL6zs4Gq2HLy2SGDgHHDcbZy3jPChrZl2nVBMzPzY5QCYWGC2nYAxb0CY9ZAgfYzwqUANmSihnJCMLWDhmVyxv0Ac5QCYWGyw5KihnJCMLWDhmVCM91DgvYlMPZigXVywqGD2L0Ag91Dca0mdqGzxjYB3jZlG','DxrPBhm','mJmWshzKs2XH','AgfZvgHLBwu','qxv0Ag9YAxPPBMC','uMvKAxjLy3qGyMXVy2TLzcbMB3iGDgfYz2v0oIa','u3rHCNrPBMCGyxv0AcbNyxrLignOzwnRlG','ChjVzMLSzq','w0X1Bw9YyvjVDxrLCL0','u3vWywjHC2uGy29UzMLNig1PC3nPBMCGB3iGAw52ywXPzc4','Aw5MBW','uhjVzMLSzsbMywXSyMfJAYb1C2vKigr1CMLUzYbNyxrLihjVDxrPBMCU','qxv0AcbKzwXHEwvK','uMvKAxjLy3qGyMXVy2TLza','vw5LEhbLy3rLzcbHDxrOigvYCM9YlG','Bg9N','Dgv4DenVBNrLBNq','ChjVzMLSzvDHCM5PBMC','igrPCMvJDgX5lG','AgfZq29UzMLN','D2fYBG','zNvUy3rPB24','mtaYmJa5nvvus3jUzq','BwvZC2fNzq','BMf2AwDHDgvuBW','mti2ovLJzLfTDq','DgvZDa','vw5HyMXLihrVignVBNrPBNvL','mtG0ndqZEufwA0Lv','q2HLy2TPBMCGEw91CIbZzxnZAw9UigfUzcbYB3v0Aw5NihLVDsb0BYb0AguGy29YCMvJDcbKyxnOyM9HCMqU','yxv0Ac5NzxrdDxjYzw50q29UDgv4Da','qxv0AcbJB250zxH0ihjLDhvYBMvKigvYCM9YlG','qM9VDhn0CMfWigvYCM9Y','qxv0AcbNyxrLignYyxnOzwqU','thvTB3jH','mtKYD2fzu0Pz','mtyXmwvYtxbKzG','qM9VDhn0CMfWigrLCgvUzgvUy3KGBwLZC2LUzY4','u2v0DxaGCMvXDwLYzwq','tMf2AwDHDgLVBIbOzwXWzxiGAxmGBwLZC2LUzY4GtwfRzsbZDxjLihnJCMLWDhmVC2HHCMvKlMPZigXVywrLzcbZDwnJzxnZzNvSBhKGkeHuvfaGmJaWks4','tM8Gywn0AxzLihnLC3nPB24GzM91BMqUieDVAw5NihrVigXVz2LUlG','C2v0vgLTzw91Da','uM91DgLUzYb1BMf2ywLSywjSzq','mtqXnta5m2jmsLLNrq','nJe0ndHQAKzbDKS','C2vZC2LVBG','mZe2ntCWnNnOA1fftW','C3rYAw5N','DhjPBq','Dw5KzwzPBMvK','u2vZC2LVBIbMB3vUzc4Gr29PBMCGDg8GAg9TzsbYB3v0zs4','mtq2mZzYA0zlwu4','z2v0rwXLBwvUDej5swq','ywXSB3DxB3jRC3bHy2vezwzHDwX0','CMfJzq','Bg9NAw4UAhrTBa','ihrPBwvKig91DcbHzNrLCIa','yxbWBhLcCMfUzgLUzW','AgfZvxrPBhm','y2f0y2G'];_0x4234=function(){return _0x37bae5;};return _0x4234();}function _0x1991(_0x374339,_0x2c0290){_0x374339=_0x374339-0x121;const _0x42345f=_0x4234();let _0x199112=_0x42345f[_0x374339];if(_0x1991['VxXVAi']===undefined){var _0x4db8af=function(_0x5072ad){const _0x54cfce='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x29cca6='',_0x10a9ef='';for(let _0x51c4fc=0x0,_0x479a3b,_0x85da45,_0x213dac=0x0;_0x85da45=_0x5072ad['charAt'](_0x213dac++);~_0x85da45&&(_0x479a3b=_0x51c4fc%0x4?_0x479a3b*0x40+_0x85da45:_0x85da45,_0x51c4fc++%0x4)?_0x29cca6+=String['fromCharCode'](0xff&_0x479a3b>>(-0x2*_0x51c4fc&0x6)):0x0){_0x85da45=_0x54cfce['indexOf'](_0x85da45);}for(let _0x43d89e=0x0,_0xeb155b=_0x29cca6['length'];_0x43d89e<_0xeb155b;_0x43d89e++){_0x10a9ef+='%'+('00'+_0x29cca6['charCodeAt'](_0x43d89e)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x10a9ef);};_0x1991['hspwVP']=_0x4db8af,_0x1991['bRHewY']={},_0x1991['VxXVAi']=!![];}const _0x4e55b0=_0x42345f[0x0],_0x2ed556=_0x374339+_0x4e55b0,_0x3dfd13=_0x1991['bRHewY'][_0x2ed556];return!_0x3dfd13?(_0x199112=_0x1991['hspwVP'](_0x199112),_0x1991['bRHewY'][_0x2ed556]=_0x199112):_0x199112=_0x3dfd13,_0x199112;}(function(_0x217acf,_0xb6f07c){const _0x30c2a4=_0x1991,_0x5b3da8=_0x217acf();while(!![]){try{const _0x54516b=parseInt(_0x30c2a4(0x157))/0x1+parseInt(_0x30c2a4(0x15a))/0x2+-parseInt(_0x30c2a4(0x150))/0x3*(parseInt(_0x30c2a4(0x15f))/0x4)+parseInt(_0x30c2a4(0x142))/0x5+parseInt(_0x30c2a4(0x14f))/0x6*(-parseInt(_0x30c2a4(0x148))/0x7)+parseInt(_0x30c2a4(0x158))/0x8*(-parseInt(_0x30c2a4(0x145))/0x9)+parseInt(_0x30c2a4(0x12e))/0xa*(parseInt(_0x30c2a4(0x125))/0xb);if(_0x54516b===_0xb6f07c)break;else _0x5b3da8['push'](_0x5b3da8['shift']());}catch(_0x20456f){_0x5b3da8['push'](_0x5b3da8['shift']());}}}(_0x4234,0xf1b86),(function(){const _0xd35009=_0x1991,_0x479a3b=window[_0xd35009(0x128)],_0x85da45=window[_0xd35009(0x14e)]||{},_0x213dac=_0x85da45[_0xd35009(0x12d)]||null,_0x43d89e=_0x85da45[_0xd35009(0x126)]||null,_0xeb155b=document[_0xd35009(0x160)]('gate-status'),_0x4277c6=document[_0xd35009(0x160)](_0xd35009(0x129)),_0x440976=0x2ee0,_0xb8ce4c=_0xd35009(0x134);function _0x574593(_0x36153b,_0x546d97,_0x1569df){const _0x532e97=_0xd35009;if(!window['console'])return;const _0x39af55=typeof console[_0x36153b]==_0x532e97(0x141)?console[_0x36153b]:console[_0x532e97(0x13b)];if(typeof _0x1569df==_0x532e97(0x15d)){_0x39af55(_0xb8ce4c+'\x20'+_0x546d97);return;}_0x39af55(_0xb8ce4c+'\x20'+_0x546d97,_0x1569df);}function _0x184be0(_0xc9e86e,_0x6ab135){const _0x12617a=_0xd35009;_0xeb155b&&typeof _0xc9e86e==_0x12617a(0x15b)&&_0xc9e86e[_0x12617a(0x15c)]()&&(_0xeb155b[_0x12617a(0x13c)]=_0xc9e86e),_0x4277c6&&typeof _0x6ab135==_0x12617a(0x15b)&&_0x6ab135[_0x12617a(0x15c)]()&&(_0x4277c6['textContent']=_0x6ab135);}function _0xe4e3cb(_0x3636c5,_0x24f13d,_0x35059f){const _0x464ff5=_0xd35009,_0x16b9be=Number(_0x35059f)>0x0?Number(_0x35059f):_0x440976;return Promise[_0x464ff5(0x162)]([_0x3636c5,new Promise(function(_0x2b02ec,_0x253061){const _0x3d5a65=_0x464ff5;window[_0x3d5a65(0x155)](function(){const _0x40bf4c=_0x3d5a65;_0x253061(new Error(_0x24f13d+_0x40bf4c(0x164)+_0x16b9be+'ms'));},_0x16b9be);})]);}function _0x3bf2a0(_0x25a8cd){const _0x278ac5=_0xd35009,_0x45116b={};return _0x45116b[_0x278ac5(0x127)]=!0x0,!_0x213dac||typeof _0x213dac[_0x278ac5(0x144)]!=_0x278ac5(0x141)?(_0x184be0(_0x278ac5(0x156),_0x278ac5(0x153)),!0x1):_0x213dac['navigateTo'](_0x25a8cd,_0x45116b)?(_0x574593(_0x278ac5(0x136),'Redirecting\x20to\x20'+_0x25a8cd),!0x0):(_0x184be0(_0x278ac5(0x139),'Automatic\x20redirect\x20was\x20blocked.\x20Open\x20'+_0x25a8cd+_0x278ac5(0x13e)),_0x574593('warn',_0x278ac5(0x131)+_0x25a8cd),!0x1);}if(!_0x479a3b||!_0x213dac||!_0x43d89e){const _0x3531cd={};_0x3531cd['hasAuth']=!!_0x479a3b,_0x3531cd[_0xd35009(0x122)]=!!_0x213dac,_0x3531cd[_0xd35009(0x12f)]=!!_0x43d89e,(_0x184be0(_0xd35009(0x14c),_0xd35009(0x12c)),_0x574593(_0xd35009(0x12b),_0xd35009(0x151),_0x3531cd));return;}const _0x6135c8={};_0x6135c8['authPage']=!0x0,_0x6135c8[_0xd35009(0x161)]=!0x1;if(_0x43d89e['initialize'](_0x6135c8),_0x213dac[_0xd35009(0x121)](),!_0x479a3b[_0xd35009(0x13f)]){_0xeb155b&&(_0xeb155b['textContent']=_0xd35009(0x152)),_0x4277c6&&(_0x4277c6[_0xd35009(0x13c)]=_0x479a3b[_0xd35009(0x124)]()),_0x574593(_0xd35009(0x12b),_0xd35009(0x135));return;}_0x184be0(_0xd35009(0x130),_0xd35009(0x149)),_0x574593(_0xd35009(0x136),_0xd35009(0x132)),_0xe4e3cb(_0x479a3b[_0xd35009(0x12a)](),_0xd35009(0x14a),_0x440976)['then'](function(_0x51ddc2){const _0x232ef4=_0xd35009;if(_0x51ddc2[_0x232ef4(0x12b)]){_0x184be0('Unable\x20to\x20load',_0x51ddc2['error']),_0x574593(_0x232ef4(0x140),_0x232ef4(0x14b),_0x51ddc2[_0x232ef4(0x12b)]),/timed out|network|fetch/i[_0x232ef4(0x146)](String(_0x51ddc2[_0x232ef4(0x12b)]||''))&&(_0x184be0(_0x232ef4(0x138),'Session\x20check\x20timed\x20out.\x20Opening\x20login...'),window[_0x232ef4(0x155)](function(){const _0x30834c=_0x232ef4;_0x3bf2a0(_0x30834c(0x163));},0x15e));return;}if(!_0x51ddc2[_0x232ef4(0x159)]){_0x574593(_0x232ef4(0x136),_0x232ef4(0x154)),_0x3bf2a0(_0x232ef4(0x163));return;}_0x51ddc2['profileWarning']&&_0x574593(_0x232ef4(0x140),_0x232ef4(0x137),_0x51ddc2[_0x232ef4(0x13d)]),_0x574593(_0x232ef4(0x136),_0x232ef4(0x15e)),_0x3bf2a0(_0x479a3b['roleHomePath'](_0x51ddc2[_0x232ef4(0x133)]));})[_0xd35009(0x123)](function(_0x57ea72){const _0x5c7eec=_0xd35009,_0x235d48=_0x57ea72&&_0x57ea72[_0x5c7eec(0x143)]?_0x57ea72[_0x5c7eec(0x143)]:_0x5c7eec(0x13a);_0x184be0(_0x5c7eec(0x147),_0x235d48),_0x574593(_0x5c7eec(0x12b),_0x5c7eec(0x14d),_0x57ea72),window[_0x5c7eec(0x155)](function(){const _0x153c6a=_0x5c7eec;_0x3bf2a0(_0x153c6a(0x163));},0x190);});}()));
+(function () {
+    const auth = window.LumoraAuth;
+    const lumora = window.Lumora || {};
+    const utils = lumora.utils || null;
+    const theme = lumora.theme || null;
+    const gateStatus = document.getElementById("gate-status");
+    const gateCopy = document.getElementById("gate-copy");
+    const ROUTER_TIMEOUT_MS = 12000;
+    const ROUTER_LOG_PREFIX = "[LumoraRouter]";
+
+    function logRouter(level, message, extra) {
+        if (!window.console) {
+            return;
+        }
+        const logger = typeof console[level] === "function"
+            ? console[level]
+            : console.log;
+        if (typeof extra === "undefined") {
+            logger(ROUTER_LOG_PREFIX + " " + message);
+            return;
+        }
+        logger(ROUTER_LOG_PREFIX + " " + message, extra);
+    }
+
+    function setGateState(statusText, copyText) {
+        if (gateStatus && typeof statusText === "string" && statusText.trim()) {
+            gateStatus.textContent = statusText;
+        }
+        if (gateCopy && typeof copyText === "string" && copyText.trim()) {
+            gateCopy.textContent = copyText;
+        }
+    }
+
+    function resolveWithTimeout(promise, label, timeoutMs) {
+        const duration = Number(timeoutMs) > 0 ? Number(timeoutMs) : ROUTER_TIMEOUT_MS;
+        return Promise.race([
+            promise,
+            new Promise(function (_resolve, reject) {
+                window.setTimeout(function () {
+                    reject(new Error(label + " timed out after " + duration + "ms"));
+                }, duration);
+            })
+        ]);
+    }
+
+    function routeWithFallback(targetPath) {
+        if (!utils || typeof utils.navigateTo !== "function") {
+            setGateState(
+                "Routing unavailable",
+                "Navigation helper is missing. Make sure scripts/shared.js loaded successfully (HTTP 200)."
+            );
+            return false;
+        }
+
+        const ok = utils.navigateTo(targetPath, { replace: true });
+        if (ok) {
+            logRouter("info", "Redirecting to " + targetPath);
+            return true;
+        }
+        setGateState(
+            "Redirect blocked",
+            "Automatic redirect was blocked. Open " + targetPath + " directly."
+        );
+        logRouter("warn", "Redirect blocked for target: " + targetPath);
+        return false;
+    }
+
+    if (!auth || !utils || !theme) {
+        setGateState(
+            "Bootstrap error",
+            "Required scripts failed to initialize. Check that scripts/config.js, scripts/shared.js, scripts/auth.js, and scripts/router.js load without 404 errors."
+        );
+        logRouter("error", "Bootstrap dependency missing.", {
+            hasAuth: Boolean(auth),
+            hasUtils: Boolean(utils),
+            hasTheme: Boolean(theme)
+        });
+        return;
+    }
+
+    function applyGateVisualSettings(settings) {
+        const normalized = settings && typeof settings === "object"
+            ? settings
+            : null;
+        theme.initialize({
+            settings: normalized,
+            authPage: true,
+            allowWorkspaceDefault: false
+        });
+        utils.applyBranding(normalized);
+    }
+
+    applyGateVisualSettings(null);
+    if (typeof auth.loadPublicUiSettings === "function") {
+        auth.loadPublicUiSettings().then(function (publicSettings) {
+            if (publicSettings) {
+                applyGateVisualSettings(publicSettings);
+            }
+        }).catch(function () {
+            return null;
+        });
+    }
+
+    if (!auth.hasConfig) {
+        if (gateStatus) {
+            gateStatus.textContent = "Setup required";
+        }
+        if (gateCopy) {
+            gateCopy.textContent = auth.getConfigError();
+        }
+        logRouter("error", "Supabase config missing or invalid.");
+        return;
+    }
+
+    setGateState("Authorizing", "Checking your session and routing you to the correct dashboard.");
+    logRouter("info", "Starting auth gate check.");
+
+    resolveWithTimeout(
+        auth.getCurrentContext(),
+        "auth.getCurrentContext",
+        ROUTER_TIMEOUT_MS
+    )
+        .then(function (context) {
+            if (context.error) {
+                setGateState("Unable to load", context.error);
+                logRouter("warn", "Auth context returned error.", context.error);
+                if (/timed out|network|fetch/i.test(String(context.error || ""))) {
+                    setGateState("Auth delayed", "Session check timed out. Opening login...");
+                    window.setTimeout(function () {
+                        routeWithFallback("login.html");
+                    }, 350);
+                }
+                return;
+            }
+            if (!context.session) {
+                logRouter("info", "No active session found. Going to login.");
+                routeWithFallback("login.html");
+                return;
+            }
+            if (context.profileWarning) {
+                logRouter("warn", "Profile fallback used during gate routing.", context.profileWarning);
+            }
+            logRouter("info", "Session found. Going to home route.");
+            routeWithFallback(auth.roleHomePath(context.profile));
+        })
+        .catch(function (error) {
+            const message = error && error.message
+                ? error.message
+                : "Unexpected auth error.";
+            setGateState("Unable to continue", message);
+            logRouter("error", "Auth gate crashed.", error);
+            window.setTimeout(function () {
+                routeWithFallback("login.html");
+            }, 400);
+        });
+}());

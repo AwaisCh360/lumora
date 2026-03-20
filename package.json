@@ -1,0 +1,14 @@
+{
+  "name": "lumora-web-build",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:no-obfuscate": "node build.mjs --no-obfuscate"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.2",
+    "html-minifier-terser": "^7.2.0",
+    "javascript-obfuscator": "^4.1.1"
+  }
+}

@@ -1,1 +1,404 @@
-function _0x4166(_0x2956b2,_0x4c8581){_0x2956b2=_0x2956b2-0x12b;const _0x51943e=_0x5194();let _0x416650=_0x51943e[_0x2956b2];if(_0x4166['jTTLvZ']===undefined){var _0x4fed78=function(_0x142c30){const _0x272cd1='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x55cd34='',_0x1d35ae='';for(let _0x2cc511=0x0,_0x5e43e6,_0xd31940,_0x31d689=0x0;_0xd31940=_0x142c30['charAt'](_0x31d689++);~_0xd31940&&(_0x5e43e6=_0x2cc511%0x4?_0x5e43e6*0x40+_0xd31940:_0xd31940,_0x2cc511++%0x4)?_0x55cd34+=String['fromCharCode'](0xff&_0x5e43e6>>(-0x2*_0x2cc511&0x6)):0x0){_0xd31940=_0x272cd1['indexOf'](_0xd31940);}for(let _0x13d8b7=0x0,_0x51083b=_0x55cd34['length'];_0x13d8b7<_0x51083b;_0x13d8b7++){_0x1d35ae+='%'+('00'+_0x55cd34['charCodeAt'](_0x13d8b7)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x1d35ae);};_0x4166['ZiZkrF']=_0x4fed78,_0x4166['JOQqzB']={},_0x4166['jTTLvZ']=!![];}const _0x42d54c=_0x51943e[0x0],_0x351992=_0x2956b2+_0x42d54c,_0x2c443e=_0x4166['JOQqzB'][_0x351992];return!_0x2c443e?(_0x416650=_0x4166['ZiZkrF'](_0x416650),_0x4166['JOQqzB'][_0x351992]=_0x416650):_0x416650=_0x2c443e,_0x416650;}function _0x5194(){const _0x51c66b=['C2LNBLvW','yxv0Ac5NzxrtzxnZAw9U','ndKWwvLqtvfJ','AhjLzG','mJu0mtu1BgnVD3PU','B3b0Aw9UCW','uhjVzMLSzsbZEw5JigfMDgvYihnPz24TAw4GzMfPBgvKlG','ntbLrgX5wKy','ywrTAw4','mJqWnJu3owLwD0vwsa','Aw5Zzxj0','zNjVBq','nJnPq2n2tve','ChjVzMLSzs5LBNn1CMu','uhjVzMLSzsbSB29RDxaGzMfPBgvKlG','CMvKAxjLy3rvBMf1DgHLzfrV','C2LNBKLU','zgv0zwn0u2vZC2LVBKLUvxjS','wu9vuL9tvvbbqKftrv9btK9ox0Tfwq','D2fYBG','C2LUz2XL','z29Vz2XL','vw5HyMXLihrVignYzwf0zsb5B3vYihbYB2zPBguU','Aw5MBW','BMf2AwDHDgvuBW','ChjVzMLSzs5LBNn1CMuTywz0zxiTC2LNBNvW','DxrPBhm','mNrfEfb3Ea','zgLZCgXHEv9Uyw1L','thvTB3jHq29UzMLN','ChjVzMLSzxmUC2vSzwn0','zgf0yq','qxv0AcbZDgf0zsbJAgfUz2vKoIa','Aw5Hy3rPDMu','CMvKAxjLy3rbDxrOzwruBW','u3vWywjHC2uGu0rligzHAwXLzcb0BYbSB2fKlIbdAgvJAYb5B3vYigLUDgvYBMv0ig9YienetIbHy2nLC3mSihrOzw4GCMvMCMvZAcb0AguGCgfNzs4','Dg9tDhjPBMC','Dw5KzwzPBMvK','yxv0AfbHz2u','thvTB3jHqxv0Aa','yxv0Aa','C2vSzwn0x2fJy291BNq','C3vWywjHC2vbBM9Us2v5','AgfZu2vZC2LVBG','uhjVzMLSzsbZEw5JigfMDgvYihnPz251CcbMywLSzwqU','y2XPzw50','u2LNBNvWigzHAwXLzc4','z2v0q3vYCMvUDenVBNrLEhq','uhjVzMLSzsbSB29RDxaGzMfPBgvKoYbJB250Aw51Aw5NihDPDgGGzMfSBgjHy2SGChjVzMLSzs4','C3rHDhvZ','ChjVBxb0','ChjVzMLSzxm','C2vSzwn0','Bg9NAw4UAhrTBa','C2LNBKLUv2L0Ae9bDxrO','ywn0AxzL','wu9vuI1quK9krunu','CMfJzq','zw1HAwW','DxnLCG','tg9NAw4GzMfPBgvKlG','Bg9N','ChjVzMLSzs5LBNn1CMuTywz0zxiTC2LNBMLU','CMvXDwLYzufKBwLU','zw5ZDxjLt3DUuhjVzMLSzq','CgfZC3DVCMq','AgfZq29UzMLN','z2v0u2vZC2LVBG','mJG2odC2wvnxExrI','Aw5JBhvKzxm','CM9Szq','C3rYAw5N','ChjVzMLSzxmUAw5Zzxj0','C2LNBKLUv2L0AfbHC3n3B3jK','C2v0rMXHC2G','DhjPBq','C3vWywjHC2vvCMW','CMvWBgfJzq','y29UC29Szq','CM9SzuHVBwvqyxrO','ChjVzMLSzq','vxnLCG','mti2ndCYseLdy3DN','C2vZC2LVBG','y2HHDc5ODg1S','ww91CIbHy2nVDw50igLZigLUywn0AxzLlIbdB250ywn0igfUigfKBwLUAxn0CMf0B3iU','vw5HyMXLihrVihjLywqGEw91CIbZzxnZAw9UlG','t3bLBIbXD2vUx2nOyxrIB3rFC2nYyxrJAc9Zy3jPChrZl2nVBMzPzY5QCYbHBMqGzMLSBcbPBIb5B3vYifn1CgfIyxnLifvstcbHBMqGyw5VBIbRzxKU','nJu1mJe4yLvcBK5q','nZaWnJe4yMDLzhfJ','C3vWywjHC2u','B25bDxrOu3rHDgvdAgfUz2u','y2HHDc5ODg1Sp25LDZ0X','yxnZAwDU','y3jLyxrLq2XPzw50','C2LNBKLUv2L0AeDVB2DSzq','Bg9JyxrPB24','zNvUy3rPB24','DxnLCL9TzxrHzgf0yq','r29Vz2XLihnPz24TAw4GzMfPBgvKlG','BwvZC2fNzq','ndm0ntC4ogzgCvnSqW','thvTB3jH','C2LNBK91Da','CgvYC2LZDfnLC3nPB24','zxjYB3i'];_0x5194=function(){return _0x51c66b;};return _0x5194();}(function(_0x556a76,_0xcd8ee5){const _0x3a2531=_0x4166,_0x5b53a8=_0x556a76();while(!![]){try{const _0x6a15f4=parseInt(_0x3a2531(0x153))/0x1+-parseInt(_0x3a2531(0x17f))/0x2*(-parseInt(_0x3a2531(0x16d))/0x3)+-parseInt(_0x3a2531(0x13e))/0x4*(-parseInt(_0x3a2531(0x16b))/0x5)+-parseInt(_0x3a2531(0x15f))/0x6+parseInt(_0x3a2531(0x170))/0x7*(parseInt(_0x3a2531(0x14c))/0x8)+-parseInt(_0x3a2531(0x152))/0x9+parseInt(_0x3a2531(0x166))/0xa*(-parseInt(_0x3a2531(0x168))/0xb);if(_0x6a15f4===_0xcd8ee5)break;else _0x5b53a8['push'](_0x5b53a8['shift']());}catch(_0x595552){_0x5b53a8['push'](_0x5b53a8['shift']());}}}(_0x5194,0x69b8d),(function(){const _0x2645bf=_0x4166,_0x4b08cd={};_0x4b08cd[_0x2645bf(0x162)]=!0x0,_0x4b08cd['autoRefreshToken']=!0x0,_0x4b08cd[_0x2645bf(0x175)]=!0x0;const _0x55a16b={};_0x55a16b[_0x2645bf(0x18c)]=_0x4b08cd;const _0xe643f6=window['Lumora']&&window[_0x2645bf(0x160)][_0x2645bf(0x17e)],_0x36045c=window[_0x2645bf(0x181)]||{},_0x4ec0d2=!!(_0x36045c[_0x2645bf(0x146)]&&_0x36045c[_0x2645bf(0x18e)]&&!String(_0x36045c[_0x2645bf(0x146)])['includes'](_0x2645bf(0x132))&&!String(_0x36045c[_0x2645bf(0x18e)])[_0x2645bf(0x13f)](_0x2645bf(0x176))),_0x1c750f=!!(window[_0x2645bf(0x154)]&&typeof window[_0x2645bf(0x154)][_0x2645bf(0x158)]==_0x2645bf(0x15b)),_0x2a51c7=_0x4ec0d2&&_0x1c750f,_0x12947e=_0x2a51c7?window['supabase']['createClient'](_0x36045c[_0x2645bf(0x146)],_0x36045c[_0x2645bf(0x18e)],_0x55a16b):null,_0x235cad=_0x2645bf(0x156),_0x32a37b=0x2ee0,_0x46baf0='[LumoraAuth]';function _0x2009cf(_0x48aa41,_0x374b47,_0x5db0ec){const _0x535326=_0x2645bf;if(!window[_0x535326(0x148)])return;const _0x4a451a=typeof console[_0x48aa41]==_0x535326(0x15b)?console[_0x48aa41]:console[_0x535326(0x137)];if(typeof _0x5db0ec==_0x535326(0x189)){_0x4a451a(_0x46baf0+'\x20'+_0x374b47);return;}_0x4a451a(_0x46baf0+'\x20'+_0x374b47,_0x5db0ec);}function _0x1b581d(_0x2b3236,_0x4d2712){const _0x4db835=Number(_0x4d2712)>0x0?Number(_0x4d2712):_0x32a37b;return new Promise(function(_0x3b8edb,_0x1c7840){window['setTimeout'](function(){_0x1c7840(new Error(_0x2b3236+'\x20timed\x20out\x20after\x20'+_0x4db835+'ms'));},_0x4db835);});}function _0x19fc20(_0x343e13,_0x393c51,_0x3e3741){const _0x479db7=_0x2645bf;return Promise[_0x479db7(0x133)]([_0x343e13,_0x1b581d(_0x393c51,_0x3e3741)]);}function _0x54e1fb(){const _0xd1bdf6=_0x2645bf;return _0x4ec0d2?_0x1c750f?_0xd1bdf6(0x151):_0xd1bdf6(0x187):_0xd1bdf6(0x151);}function _0x560226(_0xe447b0){const _0x105e83=_0x2645bf,_0x2458fb=_0xe447b0&&_0xe447b0[_0x105e83(0x134)]?_0xe447b0[_0x105e83(0x134)]:'',_0xbb2e87=_0xe447b0&&_0xe447b0[_0x105e83(0x15c)]&&typeof _0xe447b0['user_metadata'][_0x105e83(0x180)]==_0x105e83(0x141)?_0xe447b0[_0x105e83(0x15c)][_0x105e83(0x180)][_0x105e83(0x145)]():_0x2458fb['split']('@')[0x0]||_0x105e83(0x14b),_0x2aed84={};return _0x2aed84['id']=_0xe447b0['id'],_0x2aed84[_0x105e83(0x134)]=_0x2458fb,_0x2aed84[_0x105e83(0x180)]=_0xbb2e87||_0x105e83(0x14b),_0x2aed84;}function _0x2b8960(_0x346080){const _0x172f7c=_0x2645bf,_0x19e088=_0x560226(_0x346080||{});return _0x19e088[_0x172f7c(0x140)]=_0x172f7c(0x135),_0x19e088[_0x172f7c(0x12b)]=_0x172f7c(0x131),_0x19e088;}function _0x29e057(){const _0x352944=_0x2645bf;if(!(!_0x12947e||!_0x12947e[_0x352944(0x18c)]||typeof _0x12947e[_0x352944(0x18c)][_0x352944(0x155)]!=_0x352944(0x15b)))try{_0x12947e[_0x352944(0x18c)]['onAuthStateChange'](function(_0x90fb49,_0x243ec5){const _0x578624=_0x352944,_0x650d52={};_0x650d52[_0x578624(0x18f)]=!!_0x243ec5,_0x2009cf(_0x578624(0x17b),_0x578624(0x184)+String(_0x90fb49||'unknown'),_0x650d52);});}catch(_0x4752c6){_0x2009cf(_0x352944(0x177),'Unable\x20to\x20attach\x20auth-state\x20diagnostics\x20listener.',_0x4752c6);}}async function _0x414a6a(_0x3abef7){const _0xec1936=_0x2645bf;if(!_0x3abef7||!_0x3abef7['id'])return _0x2b8960(_0x3abef7||{});const _0x222785=await _0x19fc20(_0x12947e['from'](_0xec1936(0x12d))['select']('*')['eq']('id',_0x3abef7['id'])['maybeSingle'](),_0xec1936(0x182));if(_0x222785[_0xec1936(0x163)])throw new Error(_0x222785['error'][_0xec1936(0x15e)]||'Unable\x20to\x20load\x20your\x20profile.');if(_0x222785[_0xec1936(0x183)])return _0x222785['data'];const _0x5ad913=await _0x19fc20(_0x12947e[_0xec1936(0x16f)](_0xec1936(0x12d))[_0xec1936(0x16e)](_0x560226(_0x3abef7))[_0xec1936(0x12e)]('*')[_0xec1936(0x178)](),_0xec1936(0x142));if(_0x5ad913[_0xec1936(0x163)])throw new Error(_0x5ad913[_0xec1936(0x163)]['message']||_0xec1936(0x17a));return _0x5ad913[_0xec1936(0x183)];}async function _0x41e23a(){const _0xcf3167=_0x2645bf;if(!_0x12947e)return{'error':_0x54e1fb()};let _0x3ecaf1=null;try{_0x3ecaf1=await _0x19fc20(_0x12947e[_0xcf3167(0x18c)][_0xcf3167(0x13d)](),_0xcf3167(0x165));}catch(_0x33fe57){return _0x2009cf(_0xcf3167(0x163),'Session\x20lookup\x20failed.',_0x33fe57),{'error':_0x33fe57&&_0x33fe57[_0xcf3167(0x15e)]?_0x33fe57[_0xcf3167(0x15e)]:_0xcf3167(0x150)};}if(_0x3ecaf1[_0xcf3167(0x163)])return{'error':_0x3ecaf1[_0xcf3167(0x163)]['message']||_0xcf3167(0x150)};const _0x27252b=_0x3ecaf1[_0xcf3167(0x183)][_0xcf3167(0x14d)],_0x5db065={};_0x5db065[_0xcf3167(0x14d)]=null,_0x5db065[_0xcf3167(0x135)]=null,_0x5db065[_0xcf3167(0x14a)]=null;if(!_0x27252b)return _0x5db065;let _0x185d37=null,_0x1246c9=null;try{_0x185d37=await _0x19fc20(_0x414a6a(_0x27252b[_0xcf3167(0x135)]),_0xcf3167(0x171));}catch(_0x520ed8){_0x185d37=_0x2b8960(_0x27252b[_0xcf3167(0x135)]),_0x1246c9=_0x520ed8&&_0x520ed8['message']?_0x520ed8['message']:_0xcf3167(0x172),_0x2009cf(_0xcf3167(0x177),_0xcf3167(0x194),_0x520ed8);}const _0x30090f={};return _0x30090f['session']=_0x27252b,_0x30090f[_0xcf3167(0x135)]=_0x27252b[_0xcf3167(0x135)],_0x30090f['profile']=_0x185d37,_0x30090f['profileWarning']=_0x1246c9,_0x30090f;}function _0x3f4a91(_0x2ba559){return _0x235cad;}async function _0x3ed32b(_0x4dcdec){const _0x15d76f=_0x2645bf,_0x33c995={};_0x33c995[_0x15d76f(0x18a)]=!0x1,_0x33c995[_0x15d76f(0x139)]=!0x1,_0x33c995[_0x15d76f(0x173)]='login.html',_0x33c995[_0x15d76f(0x186)]=null;const _0x22f402=Object[_0x15d76f(0x157)](_0x33c995,_0x4dcdec||{});if(!_0x12947e)return{'error':_0x54e1fb()};const _0x56473d=await _0x41e23a(),_0x4a7717={};_0x4a7717['replace']=!0x0;const _0x41b1c4={};_0x41b1c4[_0x15d76f(0x147)]=!0x0;const _0x34c626={};_0x34c626[_0x15d76f(0x147)]=!0x0;const _0xa4ef32={};return _0xa4ef32[_0x15d76f(0x147)]=!0x0,_0x56473d['error']?_0x56473d:_0x56473d[_0x15d76f(0x14d)]?_0x56473d[_0x15d76f(0x14a)]&&_0x56473d[_0x15d76f(0x14a)][_0x15d76f(0x12b)]===_0x15d76f(0x185)?(_0xe643f6[_0x15d76f(0x144)](_0x15d76f(0x14f),_0x15d76f(0x163)),await _0x12947e[_0x15d76f(0x18c)][_0x15d76f(0x161)](),_0xe643f6['navigateTo'](_0x15d76f(0x12f),_0x4a7717),null):_0x22f402['authPage']?(_0xe643f6[_0x15d76f(0x17c)](_0x22f402[_0x15d76f(0x186)]||_0x3f4a91(_0x56473d[_0x15d76f(0x14a)]),_0x41b1c4),null):_0x22f402[_0x15d76f(0x139)]&&_0x56473d['profile'][_0x15d76f(0x140)]!==_0x15d76f(0x16c)?(_0xe643f6[_0x15d76f(0x17c)](_0x15d76f(0x14e),_0x34c626),null):_0x56473d:_0x22f402[_0x15d76f(0x18a)]?_0x56473d:(_0xe643f6['navigateTo'](_0x22f402[_0x15d76f(0x173)],_0xa4ef32),null);}async function _0x2c3c06(_0x177883,_0x41380c){const _0x251f3e=_0x2645bf;if(!_0x12947e)throw new Error(_0x54e1fb());const _0x53503a={};_0x53503a[_0x251f3e(0x134)]=_0x177883,_0x53503a[_0x251f3e(0x13b)]=_0x41380c;const _0x9b6641=await _0x12947e['auth'][_0x251f3e(0x143)](_0x53503a);if(_0x9b6641[_0x251f3e(0x163)])throw new Error(_0x9b6641[_0x251f3e(0x163)][_0x251f3e(0x15e)]||_0x251f3e(0x136));try{await _0x19fc20(_0x414a6a(_0x9b6641['data'][_0x251f3e(0x135)]),_0x251f3e(0x138));}catch(_0x4b8aa8){_0x2009cf('warn',_0x251f3e(0x16a),_0x4b8aa8);}return _0x9b6641['data'];}async function _0x9d762(_0x445124,_0x37a73d,_0x552176){const _0xe7b111=_0x2645bf;if(!_0x12947e)throw new Error(_0x54e1fb());const _0x3069c8={};_0x3069c8[_0xe7b111(0x180)]=_0x445124;const _0x562724={};_0x562724['data']=_0x3069c8;const _0x2ddcd5={};_0x2ddcd5[_0xe7b111(0x134)]=_0x37a73d,_0x2ddcd5['password']=_0x552176,_0x2ddcd5[_0xe7b111(0x169)]=_0x562724;const _0x4e5d10=await _0x12947e[_0xe7b111(0x18c)]['signUp'](_0x2ddcd5);if(_0x4e5d10[_0xe7b111(0x163)])throw new Error(_0x4e5d10[_0xe7b111(0x163)][_0xe7b111(0x15e)]||_0xe7b111(0x192));if(_0x4e5d10[_0xe7b111(0x183)][_0xe7b111(0x135)]&&_0x4e5d10[_0xe7b111(0x183)][_0xe7b111(0x14d)])try{await _0x19fc20(_0x414a6a(_0x4e5d10[_0xe7b111(0x183)][_0xe7b111(0x135)]),_0xe7b111(0x17d));}catch(_0x29bc62){_0x2009cf(_0xe7b111(0x177),_0xe7b111(0x190),_0x29bc62);}return _0x4e5d10[_0xe7b111(0x183)];}async function _0x2fba19(_0x115b3e){const _0x21ba10=_0x2645bf;if(!_0x12947e)throw new Error(_0x54e1fb());const _0xe0c514={};_0xe0c514[_0x21ba10(0x12c)]=_0x21ba10(0x18d);const _0x4e7deb=Object[_0x21ba10(0x157)]({'redirectPath':_0x3f4a91(null)},_0x115b3e||{}),_0x54d982=String(_0x4e7deb['redirectPath']||_0x3f4a91(null))[_0x21ba10(0x145)]()||_0x3f4a91(null),_0x262a06=new URL(_0x54d982,window[_0x21ba10(0x15a)][_0x21ba10(0x167)])[_0x21ba10(0x188)](),_0x2f0414=await _0x12947e[_0x21ba10(0x18c)][_0x21ba10(0x130)]({'provider':_0x21ba10(0x179),'options':{'redirectTo':_0x262a06,'queryParams':_0xe0c514}});if(_0x2f0414['error'])throw new Error(_0x2f0414[_0x21ba10(0x163)][_0x21ba10(0x15e)]||_0x21ba10(0x15d));return _0x2f0414[_0x21ba10(0x183)];}async function _0x504c13(){const _0x1dde1b=_0x2645bf,_0x1de80e={};_0x1de80e[_0x1dde1b(0x147)]=!0x0,_0x12947e&&(await _0x12947e['auth'][_0x1dde1b(0x161)](),_0xe643f6[_0x1dde1b(0x17c)](_0x1dde1b(0x12f),_0x1de80e));}const _0x4e283e={};_0x4e283e[_0x2645bf(0x191)]=_0x12947e,_0x4e283e[_0x2645bf(0x13c)]=_0x2a51c7,_0x4e283e['getConfigError']=_0x54e1fb,_0x4e283e[_0x2645bf(0x193)]=_0x41e23a,_0x4e283e['guardPage']=_0x3ed32b,_0x4e283e[_0x2645bf(0x174)]=_0x2c3c06,_0x4e283e[_0x2645bf(0x164)]=_0x9d762,_0x4e283e[_0x2645bf(0x159)]=_0x2fba19,_0x4e283e[_0x2645bf(0x161)]=_0x504c13,_0x4e283e[_0x2645bf(0x13a)]=_0x414a6a,_0x4e283e[_0x2645bf(0x149)]=_0x3f4a91,(window[_0x2645bf(0x18b)]=_0x4e283e,_0x29e057());}()));
+(function () {
+    const utils = window.Lumora && window.Lumora.utils;
+    const config = window.LumoraConfig || {};
+    const hasSupabaseCredentials = Boolean(
+        config.supabaseUrl &&
+        config.supabaseAnonKey &&
+        !String(config.supabaseUrl).includes("YOUR-PROJECT") &&
+        !String(config.supabaseAnonKey).includes("YOUR_SUPABASE_ANON_KEY")
+    );
+    const hasSupabaseClient = Boolean(
+        window.supabase &&
+        typeof window.supabase.createClient === "function"
+    );
+    const hasConfig = hasSupabaseCredentials && hasSupabaseClient;
+
+    const client = hasConfig
+        ? window.supabase.createClient(config.supabaseUrl, config.supabaseAnonKey, {
+            auth: {
+                persistSession: true,
+                autoRefreshToken: true,
+                detectSessionInUrl: true
+            }
+        })
+        : null;
+    const CHAT_HOME_PATH = "chat.html?new=1";
+    const AUTH_TIMEOUT_MS = 12000;
+    const AUTH_LOG_PREFIX = "[LumoraAuth]";
+    const PUBLIC_UI_RPC_NAME = "get_public_workspace_ui_settings";
+    let publicUiSettingsCache = null;
+
+    function logAuth(level, message, extra) {
+        if (!window.console) {
+            return;
+        }
+        const logger = typeof console[level] === "function"
+            ? console[level]
+            : console.log;
+        if (typeof extra === "undefined") {
+            logger(AUTH_LOG_PREFIX + " " + message);
+            return;
+        }
+        logger(AUTH_LOG_PREFIX + " " + message, extra);
+    }
+
+    function timeoutError(label, timeoutMs) {
+        const duration = Number(timeoutMs) > 0 ? Number(timeoutMs) : AUTH_TIMEOUT_MS;
+        return new Promise(function (_resolve, reject) {
+            window.setTimeout(function () {
+                reject(new Error(label + " timed out after " + duration + "ms"));
+            }, duration);
+        });
+    }
+
+    function withTimeout(promise, label, timeoutMs) {
+        return Promise.race([
+            promise,
+            timeoutError(label, timeoutMs)
+        ]);
+    }
+
+    function getConfigError() {
+        if (!hasSupabaseCredentials) {
+            return "Open qwen_chatbot_scratch/scripts/config.js and fill in your Supabase URL and anon key.";
+        }
+        if (!hasSupabaseClient) {
+            return "Supabase SDK failed to load. Check your internet or CDN access, then refresh the page.";
+        }
+        return "Open qwen_chatbot_scratch/scripts/config.js and fill in your Supabase URL and anon key.";
+    }
+
+    function buildProfilePayload(user) {
+        const email = user && user.email ? user.email : "";
+        const displayName = user && user.user_metadata && typeof user.user_metadata.display_name === "string"
+            ? user.user_metadata.display_name.trim()
+            : email.split("@")[0] || "User";
+        return {
+            id: user.id,
+            email: email,
+            display_name: displayName || "User"
+        };
+    }
+
+    function buildFallbackProfile(user) {
+        const payload = buildProfilePayload(user || {});
+        payload.role = "user";
+        payload.status = "active";
+        return payload;
+    }
+
+    function attachAuthDiagnostics() {
+        if (!client || !client.auth || typeof client.auth.onAuthStateChange !== "function") {
+            return;
+        }
+        try {
+            client.auth.onAuthStateChange(function (eventName, session) {
+                logAuth("info", "Auth state changed: " + String(eventName || "unknown"), {
+                    hasSession: Boolean(session)
+                });
+            });
+        } catch (error) {
+            logAuth("warn", "Unable to attach auth-state diagnostics listener.", error);
+        }
+    }
+
+    function normalizePublicUiSettings(value) {
+        const row = value && typeof value === "object" ? value : {};
+        const themeDefault = String(row.theme_default || "").trim();
+        const normalized = {
+            brand_name: String(row.brand_name || "").trim(),
+            brand_tagline: String(row.brand_tagline || "").trim(),
+            theme_default: themeDefault || "obsidian"
+        };
+        return normalized;
+    }
+
+    async function loadPublicUiSettings(options) {
+        const settings = Object.assign({
+            force: false
+        }, options || {});
+
+        if (publicUiSettingsCache && !settings.force) {
+            return Object.assign({}, publicUiSettingsCache);
+        }
+
+        if (!client) {
+            return null;
+        }
+
+        let rpcResult = null;
+        try {
+            rpcResult = await withTimeout(
+                client.rpc(PUBLIC_UI_RPC_NAME),
+                "rpc." + PUBLIC_UI_RPC_NAME,
+                AUTH_TIMEOUT_MS
+            );
+        } catch (error) {
+            logAuth("warn", "Public UI settings RPC timed out or failed.", error);
+            return null;
+        }
+
+        if (rpcResult && rpcResult.error) {
+            const message = String(rpcResult.error.message || "");
+            if (/does not exist|schema cache|permission denied|not allowed/i.test(message)) {
+                logAuth("info", "Public UI settings RPC unavailable yet; falling back to local defaults.");
+                return null;
+            }
+            logAuth("warn", "Public UI settings RPC returned an error.", rpcResult.error);
+            return null;
+        }
+
+        const row = Array.isArray(rpcResult && rpcResult.data)
+            ? rpcResult.data[0]
+            : rpcResult && rpcResult.data;
+        if (!row || typeof row !== "object") {
+            return null;
+        }
+
+        publicUiSettingsCache = normalizePublicUiSettings(row);
+        return Object.assign({}, publicUiSettingsCache);
+    }
+
+    async function ensureOwnProfile(user) {
+        if (!user || !user.id) {
+            return buildFallbackProfile(user || {});
+        }
+
+        const selected = await withTimeout(
+            client
+                .from("profiles")
+                .select("*")
+                .eq("id", user.id)
+                .maybeSingle(),
+            "profiles.select"
+        );
+
+        if (selected.error) {
+            throw new Error(selected.error.message || "Unable to load your profile.");
+        }
+        if (selected.data) {
+            return selected.data;
+        }
+
+        const inserted = await withTimeout(
+            client
+                .from("profiles")
+                .insert(buildProfilePayload(user))
+                .select("*")
+                .single(),
+            "profiles.insert"
+        );
+
+        if (inserted.error) {
+            throw new Error(inserted.error.message || "Unable to create your profile.");
+        }
+
+        return inserted.data;
+    }
+
+    async function getCurrentContext() {
+        if (!client) {
+            return { error: getConfigError() };
+        }
+
+        let sessionResult = null;
+        try {
+            sessionResult = await withTimeout(
+                client.auth.getSession(),
+                "auth.getSession"
+            );
+        } catch (error) {
+            logAuth("error", "Session lookup failed.", error);
+            return {
+                error: error && error.message
+                    ? error.message
+                    : "Unable to read your session."
+            };
+        }
+
+        if (sessionResult.error) {
+            return { error: sessionResult.error.message || "Unable to read your session." };
+        }
+
+        const session = sessionResult.data.session;
+        if (!session) {
+            return { session: null, user: null, profile: null };
+        }
+
+        let profile = null;
+        let profileWarning = null;
+        try {
+            profile = await withTimeout(
+                ensureOwnProfile(session.user),
+                "profile.ensure"
+            );
+        } catch (error) {
+            profile = buildFallbackProfile(session.user);
+            profileWarning = error && error.message
+                ? error.message
+                : "Profile lookup failed.";
+            logAuth("warn", "Profile lookup failed; continuing with fallback profile.", error);
+        }
+
+        return {
+            session: session,
+            user: session.user,
+            profile: profile,
+            profileWarning: profileWarning
+        };
+    }
+
+    function roleHomePath(profile) {
+        return CHAT_HOME_PATH;
+    }
+
+    async function guardPage(options) {
+        const settings = Object.assign({
+            authPage: false,
+            requireAdmin: false,
+            redirectUnauthedTo: "login.html",
+            redirectAuthedTo: null
+        }, options || {});
+
+        if (!client) {
+            return { error: getConfigError() };
+        }
+
+        const context = await getCurrentContext();
+        if (context.error) {
+            return context;
+        }
+
+        if (!context.session) {
+            if (settings.authPage) {
+                return context;
+            }
+            utils.navigateTo(settings.redirectUnauthedTo, { replace: true });
+            return null;
+        }
+
+        if (context.profile && context.profile.status === "inactive") {
+            utils.setFlash("Your account is inactive. Contact an administrator.", "error");
+            await client.auth.signOut();
+            utils.navigateTo("login.html", { replace: true });
+            return null;
+        }
+
+        if (settings.authPage) {
+            utils.navigateTo(settings.redirectAuthedTo || roleHomePath(context.profile), { replace: true });
+            return null;
+        }
+
+        if (settings.requireAdmin && context.profile.role !== "admin") {
+            utils.navigateTo("chat.html", { replace: true });
+            return null;
+        }
+
+        return context;
+    }
+
+    async function signIn(email, password) {
+        if (!client) {
+            throw new Error(getConfigError());
+        }
+        const result = await client.auth.signInWithPassword({
+            email: email,
+            password: password
+        });
+        if (result.error) {
+            throw new Error(result.error.message || "Login failed.");
+        }
+        try {
+            await withTimeout(
+                ensureOwnProfile(result.data.user),
+                "profile.ensure-after-signin"
+            );
+        } catch (error) {
+            logAuth("warn", "Profile sync after sign-in failed.", error);
+        }
+        return result.data;
+    }
+
+    async function signUp(displayName, email, password) {
+        if (!client) {
+            throw new Error(getConfigError());
+        }
+        const result = await client.auth.signUp({
+            email: email,
+            password: password,
+            options: {
+                data: {
+                    display_name: displayName
+                }
+            }
+        });
+        if (result.error) {
+            throw new Error(result.error.message || "Signup failed.");
+        }
+        if (result.data.user && result.data.session) {
+            try {
+                await withTimeout(
+                    ensureOwnProfile(result.data.user),
+                    "profile.ensure-after-signup"
+                );
+            } catch (error) {
+                logAuth("warn", "Profile sync after signup failed.", error);
+            }
+        }
+        return result.data;
+    }
+
+    async function signInWithGoogle(options) {
+        if (!client) {
+            throw new Error(getConfigError());
+        }
+
+        const settings = Object.assign({
+            redirectPath: roleHomePath(null)
+        }, options || {});
+
+        const redirectPath = String(settings.redirectPath || roleHomePath(null)).trim() || roleHomePath(null);
+        const redirectTo = new URL(redirectPath, window.location.href).toString();
+
+        const result = await client.auth.signInWithOAuth({
+            provider: "google",
+            options: {
+                redirectTo: redirectTo,
+                queryParams: {
+                    prompt: "select_account"
+                }
+            }
+        });
+
+        if (result.error) {
+            throw new Error(result.error.message || "Google sign-in failed.");
+        }
+
+        return result.data;
+    }
+
+    async function signOut() {
+        if (!client) {
+            return;
+        }
+        await client.auth.signOut();
+        utils.navigateTo("login.html", { replace: true });
+    }
+
+    window.LumoraAuth = {
+        client: client,
+        hasConfig: hasConfig,
+        getConfigError: getConfigError,
+        getCurrentContext: getCurrentContext,
+        guardPage: guardPage,
+        signIn: signIn,
+        signUp: signUp,
+        signInWithGoogle: signInWithGoogle,
+        signOut: signOut,
+        ensureOwnProfile: ensureOwnProfile,
+        loadPublicUiSettings: loadPublicUiSettings,
+        roleHomePath: roleHomePath
+    };
+
+    attachAuthDiagnostics();
+}());

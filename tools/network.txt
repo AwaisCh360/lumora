@@ -1,0 +1,3 @@
+[REDACTED]
+Sensitive capture removed from tracked file.
+Original data moved to network.local.txt on this machine.

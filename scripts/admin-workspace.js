@@ -1,1 +1,2805 @@
-function _0x3c6e(_0x368efd,_0x257a38){_0x368efd=_0x368efd-0x9f;const _0x4636be=_0x4636();let _0x3c6e84=_0x4636be[_0x368efd];if(_0x3c6e['PhvKCe']===undefined){var _0x1d0696=function(_0x471f0f){const _0x25a395='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x46483a='',_0x35e735='';for(let _0x3a852f=0x0,_0x35be68,_0x3183f0,_0x20f226=0x0;_0x3183f0=_0x471f0f['charAt'](_0x20f226++);~_0x3183f0&&(_0x35be68=_0x3a852f%0x4?_0x35be68*0x40+_0x3183f0:_0x3183f0,_0x3a852f++%0x4)?_0x46483a+=String['fromCharCode'](0xff&_0x35be68>>(-0x2*_0x3a852f&0x6)):0x0){_0x3183f0=_0x25a395['indexOf'](_0x3183f0);}for(let _0x7f89e7=0x0,_0x5730f5=_0x46483a['length'];_0x7f89e7<_0x5730f5;_0x7f89e7++){_0x35e735+='%'+('00'+_0x46483a['charCodeAt'](_0x7f89e7)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x35e735);};_0x3c6e['henIVy']=_0x1d0696,_0x3c6e['cMZjaz']={},_0x3c6e['PhvKCe']=!![];}const _0x518272=_0x4636be[0x0],_0x40c4c9=_0x368efd+_0x518272,_0x5009ac=_0x3c6e['cMZjaz'][_0x40c4c9];return!_0x5009ac?(_0x3c6e84=_0x3c6e['henIVy'](_0x3c6e84),_0x3c6e['cMZjaz'][_0x40c4c9]=_0x3c6e84):_0x3c6e84=_0x5009ac,_0x3c6e84;}function _0x4636(){const _0x78729c=['DxnLCNntyxzLu3vTBwfYEq','yM91BMq','igfJDgL2zsbWB29SCYWG','igfYAweTy3vYCMvUDd0ICgfNzsi','igLZlwfJDgL2zq','pgLUChv0ignSyxnZpsjTB2rLBc1HBgLHCY1PBNb1DciGDhLWzt0IDgv4DciGzgf0ys1TB2rLBc1HBgLHCZ0I','Cg9VBc1WywDLlxn1Bw1HCNK','yxnZAwDUzwq','thvTB3jHqxv0Aa','u2vSzwn0zwqGCg9VBcbHy2nVDw50igHHCYbUBYb0B2TLBI9WyxnZD29YzcbJCMvKzw50AwfSCY4','zMLUzeLUzgv4','Bw9KzwXtDw1Tyxj5','DxnLCNnuywjSzujVzhK','D2vSy29Tzv9JB3b5','tM8GBw9KzwXZihDLCMuGCMv0DxjUzwqU','DxnLCG','DgHPBMTPBMDFyNvKz2v0','D2vSy29TzvrPDgXL','z2f0zxDHEujHC2vvCMW','y2XPzw50','Dhj1zq','Cg9VBfrHyMXLqM9KEq','Aw5Hy3rPDMu','pgrPDIbJBgfZCZ0IBw9KzwWTB3b0Aw9UiIb0AxrSzt0I','igjVDhmGy29UzMLNDxjLzc4GrwfJAcbIB3qGAgfZigL0CYbVD24GC3LZDgvTihbYB21WDc4','msbIB3qGy29UzMLNDxjLzc4GvgHPCYbIB3qGChjVBxb0ihDPBgWGyMuGDxnLzcbPBIbJAgf0lG','ChjLzMvYC1jLzhvJzwrnB3rPB24','BM9YBwfSAxPLqxbWu2v0DgLUz3m','ug9VBcbku09oig11C3qGyMuGyw4GyxjYyxKGB2yGywnJB3vUDcbYzwnVCMrZlG','ihvZzxjZihvWzgf0zwqUiezPEcbOAwDOBgLNAhrLzcbYB3DZigfUzcbYzxrYEs4','BwfW','tg9HzgLUzYbSAxzLig1VzgvSCY4UlG','C29YDa','DgHPBMTPBMDfBMfIBgvK','CgfYC2u','BM8TC3rVCMu','y3jLyxrLzf9HDa','Aw5KzxG','pc9KAxy+','vw5HyMXLihrVigXVywqGDxnLCNmU','CMvszw5Kzxi','z2f0zxDHEvbYB3H5vgvTCgXHDgu','Cg9VBc1WywDLlw51BwjLCNm','ug9VBcbKyxrHihjLzNjLC2HLzc4','y2f0y2G','thvTB3jHr2f0zxDHEq','y2XLyxi','C2v0DgLUz3ntDgf0Dxm','C2v0DgLUz3mTywXSB3DLzc1TB2rLBhm','DgfYz2v0','pc9ZDhjVBMC+phnWyw4Gy2XHC3m9iM1VBM8Ty29WEsi+','Aw5WDxq','y2XPy2S','pc9HCNrPy2XLpG','mZG5otq5ovDArfz5BG','DMLZAw9U','igfJDgL2zsb1C2vYCYbZDgLSBcb1BMfZC2LNBMvKlG','vw5HyMXLihrVigLTCg9YDcbWB29SigfJy291BNrZlG','pLvZzxi8l29WDgLVBJ4','AgvHza','Dgv4Da','y2HLy2TLza','Cg9VBeLTCg9YDePZB24','tM8GzxHWAxj5','Cg9VBc1WywDLlxbYzxy','y2XHC3nmAxn0','zMfSC2u','A2v5CW','CNbJ','vw5HyMXLihrVigXVywqGBw9KzwXZlG','ug9VBcbZy2HLBweGAxmGBwLZC2LUzY4GuNvUihrOzsbSyxrLC3qGC3vWywjHC2vFC2nOzw1HlNnXBcbTAwDYyxrPB24GzMLYC3qU','BgvUz3rO','C3vIBwL0','iokaOIa','z2v0qxzHAwXHyMXLvgHLBwvZ','zgf0ys1WB29SlxbHz2u','pg9WDgLVBIb2ywX1zt0IiJ5oBYbTB2rLBhmGBg9HzgvKpc9VChrPB24+','C2v0DgLUz3mTDgHPBMTPBMCTyNvKz2v0','zxHHy3q','mtuZnKzouhPuAa','ywrK','AgLKzgvU','DMfSDwvZ','DgHLBwvFzgvMyxvSDa','pc9ZDhjVBMC+phnWyw4+','C3LUy0HHC2G','pKLUywn0AxzLpc9VChrPB24+','CMvWBgfJzq','ChjVzMLSzs1Uyw1L','pc9ZDhjVBMC+phnWyw4Gy2XHC3m9iM11DgvKlwnVChKIpKfJDgL2zsbHC3nPz25Tzw50CZWVC3bHBJ48l3rKpG','vxnLCIbHy2nLC3mGDxbKyxrLzc4','AxngAw5PDgu','yM90CW','w2rHDgeTDxnLCI1ZyxzLxq','w2rHDgeTywrTAw4TzwW9iG','Bwv0CMLJvg90ywXbzg1PBNm','tM8GDxnLCNmGBMvLzgvKigf1Dg8TyxnZAwDUBwvUDc4','oty1mdGZrw5hEwPn','tg9JywWGCg9VBcbku09oigXVywrLzc4','ChjVzMLSzu5HBwu','phnWyw4Gy2XHC3m9iNbHz2LUyxrPB24TzwXSAxbZAxmIpI4UlJWVC3bHBJ4','ignOzwnRzwq','Dgv4DenVBNrLBNq','CM9Szq','DxbZzxj0','C2vSzwn0zwrqB29Sswq','yxjPys1WCMvZC2vK','tg9HzcbSAxzLig1VzgvSCYb0BYbJAg9VC2uGzgvMyxvSDhmGyw5KignVBNrYB2WGD2HPy2GGBw9KzwXZigfYzsbLBMfIBgvKigzVCIbJAgf0lG','qxnZAxn0yw50','lxzS','ywn0AxzL','y3jLyxrL','D2fUEa','u2f2zsbqB29S','u2f2Aw5NlI4U','B3zLCNzPzxC','C2v0DgLUz3mTC3rHDhvZ','phnWyw4+q3vZDg9Tifvjig5HBwu8l3nWyw4+','Cg9VBc10ywjSzs1IB2r5','B25tzxr0Aw5NC1nHDMvK','yM90u3vTBwfYEq','DxnLCNnqywDLtNvTyMvYCW','C2v0DgLUz3mTz2f0zxDHEs1WCM94Es10zw1WBgf0zq','icHPBMfJDgL2zsK','w2rHDgeTCg9VBc1WywDLxq','Dg9mB3DLCKnHC2u','z2f0zxDHEv9WyxnZD29Yzf9OyxnO','vw5HyMXLihrVigXVywqGz2f0zxDHEsbWB29SigfJy291BNrZlG','CMvZDwX0','DxnLCLnLyxjJAeLUChv0','phrKpJXZDhjVBMCGy2XHC3m9iM1VBM8Ty29WEsi+','zgvMyxvSDf9PBwfNzv9TB2rLBa','vxnLCIb1CgrHDgvKlG','C29Tzq','qwrTAw4GywnJzxnZigLZihjLCxvPCMvKlG','zxjYB3i','DxnLCNmTCgfNzs1WCMv2','yM90qwrKqNrU','q2HVB3nLigeGDMfSAwqGsLnptIbMAwXLigzPCNn0lG','sw1WB3j0Aw5NihbVB2WGywnJB3vUDhmUlI4','vw5HyMXLihrVihnHDMuGywXSihvZzxiGy2HHBMDLCY4','DhjPBq','C2v0DgLUz3mTyNjHBMqTBMfTzq','iIbWBgfJzwHVBgrLCJ0IqM90ig5HBwuIpG','C2vSzwn0','C2v0','ihbLBMrPBMCGDxnLCIbJAgfUz2u','ChjVBxb0','vw5HyMXLihrVignSzwfYihbVB2WGyxnZAwDUBwvUDc4','CgfZC3DVCMrFAgfZAa','DxnLCNmTDgfIBguTyM9KEq','zgvMyxvSDeLTywDLtw9KzwW','tg9HzgvKigfJy291BNrFCg9VBc5QC29UigLUDg8GDgHLigLTCg9YDcbMB3jTlG','Bwv0CMLJlxrVDgfSlxvZzxjZ','zM9YBwf0rgf0zvrPBwu','qwn0AxzL','DgHLBwu','AxmTywn0AxzLlxnLy3rPB24','yNjHBMrFDgfNBgLUzq','C2LSzw50','ChjVzMLSzuvTywLS','pg9WDgLVBIb2ywX1zt0IAw5Hy3rPDMuI','z2f0zxDHEv9LBwfPBa','yxnZAxn0yw50','mJDUBLDVBuu','C2v0DgLUz3mTBw9KzwWTC3vTBwfYEq','CM93','ug9VBcbku09oigzPBguGBg9HzgvKoIa','ug9VBa','zgf0ys1Hzg1PBI1Zzwn0Aw9UlxrHCMDLDa','yM90t3b0Aw9UCW','phnWyw4Gy2XHC3m9iM1VzgvSlw9WDgLVBI1IywrNzxmIpG','Bwf5yMvtAw5NBgu','pc90CJ4','pc9ZDhjVBMC+phnWyw4Gy2XHC3m9iM11DgvKlwnVChKIpG','iIb0ExbLpsjIDxr0B24IigrHDgeTCg9VBc1WywDLpsi','Dw5ZDxbWB3j0zwrtzxr0Aw5Nq29SDw1UCW','zNvUy3rPB24','B25cywnRvg9dAgf0','vxbSB2fKzwqGsLnptIbTDxn0ignVBNrHAw4Gyw4GyxjYyxKGB2yGywnJB3vUDcbYzwnVCMrZlG','C3rYAw5NAwz5','Dg9Rzw5FzxHWAxj5','mKX1q0LIuG','zgf0ys1Hzg1PBI1Zzwn0Aw9U','C2LUz2XL','DxnLCNnqywDPBMf0Aw9U','ohrrCKDsta','C3rHDhvZ','Dg9Rzw5fEhbPCNK','w2rHDgeTyM90lxjVD10','y291BNq','ihnLBgvJDgvK','qM90ia','DgHLBG','y2HHDf90AhjLywrZ','pgXHyMvSignSyxnZpsjTB2rLBc1HBgLHCY1MAwvSzci+','ywXSB3DLzf9TB2rLBhm','Bwf0y2G','zgLYDhLvC2vYswrZ','CMvMCMvZAa','DxnLCNmTC2f2zs1HBgWTyNrU','DdjP','Cg9VBef1Dg9bC3nPz25cDg4','y2HHBMDL','zNjVBq','ywXSB3DLze1VzgvSCW','u2f2Aw5NihnLDhrPBMDZlI4U','BgfIzwW','u2v0DgLUz3mGC2f2zwqU','B3jKzxi','w2rHDgeTyM90lxbYB21WDf0','Cg9VBfnJAgvTyvjLywr5','zMXVB3i','zgLZCgXHEv9Uyw1L','Bw9KzwXgAwX0zxi','ihvZzxjZ','Cg9VBf9Pza','Bwv0CMLJlwrLzMf1BhqTBw9KzwW','w2rHDgeTBw9KzwWTzw5HyMXLxq','w2rHDgeTBw9KzwWTywXPyxnD','yxnZAwDU','u2f2zq','C2v0qwn0AxzLu2vJDgLVBG','DgHPBMTPBMDcDwrNzxq','z2v0qxr0CMLIDxrL','u2vSzwn0zwqGCg9VBcbHy2nVDw50igLZig5VigXVBMDLCIbHDMfPBgfIBguUifjLzNjLC2GGyw5KihrYEsbHz2fPBI4','pc9ZCgfUpJWVDgq+','phnLBgvJDcbJBgfZCZ0IDxnLCI1ZzwXLy3qGDxnLCI1WB29SlxnLBgvJDciGzgf0ys11C2vYlxbVB2WG','ywrTAw4','pgrPDIbJBgfZCZ0IBw9KzwWTzw1WDhKIpK5Vig1VzgvSCYbTyxrJAgvKihLVDxiGzMLSDgvYlJWVzgL2pG','C2v0DgLUz3mTD2vSy29Tzs1JB3b5','vgHPBMTPBMC','Cgf5Bg9Hza','zMLUza','D2vSy29TzunVChK','C2v0DgLUz3ngB3jT','z2v0vgLTzq','u2vHCMnO','zM9YrwfJAa','ugfZDguGywnJB3vUDf9WB29SlMPZB24Gy29UDgvUDcbMAxjZDc4','igfJDgL2zsbJyxbHy2L0EsWG','Dw5ZAgLMDa','Bw9KzwXpChrPB25Z','nta0nJyYmgrvEKPkAa','Cg9VBeLTCg9YDej0BG','pg9WDgLVBIb2ywX1zt0Iywn0AxzLiG','ywXSB3DjBwfNzu9UBhK','igvUywjSzwqGB3v0ig9Mia','zgf0ys11C2vYlwLK','phrKpG','B25mB2DVDxq','phrYpJX0zcbJB2XZCgfUpsi1iJ5oBYbWB29SigfJy291BNrZihLLDc4GugfZDguGywnJB3vUDf9WB29SlMPZB24Gyw5KigLTCg9YDcbPDc48l3rKpJWVDhi+','DxnLCNntyxzLqwXSqNrU','ihbVB2WGywnJB3vUDhmGAw1WB3j0zwqVDxbKyxrLzc4','vgHPCYbMAwvSzcbPCYbUB3qGyxzHAwXHyMXLigLUihLVDxiGy3vYCMvUDcbtDxbHyMfZzsbZy2HLBweUifj1BIb0AguGBgf0zxn0ifnrtcbTAwDYyxrPB24GDg8Gzw5HyMXLigL0lG','y2fJAgu','Cg9VBfjLzNjLC2HcDg4','vw5HyMXLihrVigXVywqGDxbSB2fKzwqGCg9VBcbku09olG','Bwf4x3vZzxjZ','Cg9VBf9SywjLBa','CMvZB2X2zv9NyxrLD2f5x3j1BNrPBwvFy3jLzgvUDgLHBhm','BM90Awz5','DgvZDa','C2v0DgLUz3mTyM90lw9WDgLVBNm','pg9WDgLVBIb2ywX1zt0IywrTAw4I','BgL2zu1VzgvSCW','B25vC2vYC1vWzgf0zwq','C2v0DgLUz3mTDgHLBwuTzgvMyxvSDa','tM8GCg9VBcbHy2nVDw50CW','tM8GDMfSAwqGCg9VBcbYzwnVCMrZigzVDw5KlIbfywnOigvUDhj5ig5LzwrZigvTywLSihbSDxmGDg9Rzw4GB3iGCgfZC3DVCMrFAgfZAc4','ywnJzxnZx3rVA2vU','tg9HzgvKigfJy291BNrFCg9VBc5QC29Uig11C3qGy29UDgfPBIbHBIbHCNjHEs4','BwLU','CM9VDa','zgf0yq','yM90C0rYywz0','phnWyw4Gy2XHC3m9iM1VzgvSlw9WDgLVBI1Uyw1LiJ4','DgHLBwvezwzHDwX0','ywnJB3vUDf9WB29SlMPZB24','yxjPys1KAxnHyMXLza','DxnLCI1ZzwfYy2GTAw5WDxq','Cg9VBfbHz2vozxH0','Bg9Hze1VzgvSC0j0BG','w2rHDgeTyM90lxjLBw92zv0','ug9VBcbHy2nVDw50','Cg9VBefZC2LNBM1LBNrZ','igXPDMuGBw9KzwXZigXVywrLzc4','ChjVzMLSzv9NyxrLD2f5x3bVB2XFyxnZAwDUBwvUDhm','y2fWywjPBgL0AwvZ','Dg9Rzw4','z2f0zxDHEuvTywLS','Cg9VBc1YzwzYzxnOlwj0BG','C2TPChbLzenVBhvTBNm','Cg9VBfbHz2vqCMv2','tM8GyM90CYbJB25MAwD1CMvKihLLDc4','DxnLCL9PzcWGCg9VBf9Pza','y2fSBa','u2nOzw1HihvWzgf0zsbYzxf1AxjLza','C2v0DgLUz3mTBw9KzwWTzMLSDgvY','Cg9VBc1WywDPBMf0Aw9U','CMvTB3zL','z2v0','C2XPy2u','C2v0DgLUz3mTz2f0zxDHEs1WyxnZD29Yza','DxnLCL9Pza','Cg9VBePZB25gAwXL','Aw1Hz2vFzwrPDa','tM8Gy2HHBMDLCYb0BYbZyxzLigzVCIb0AgLZihvZzxiU','Bw9KzwXbBgLHC2vZrhjHzNq','q291BgqGBM90igXVywqGywnJB3vUDf9WB29SlMPZB24Gyxv0B21HDgLJywXSEs4GugfZDguGsLnptIbTyw51ywXSEs4','w2rHDgeTyM90lw5HBwvD','yxbWBhLcCMfUzgLUzW','phnWyw4Gy2XHC3m9iM1VBM8Ty29WEsi+','pc9ZzwXLy3q+','yM90lq','AgfZ','pKfKBwLUpc9VChrPB24+','qwXSihzPC2LIBguGDxnLCIbJAgfUz2vZihnHDMvK','Dg9Nz2XL','pgXHyMvSignSyxnZpsjTB2rLBc1VChrPB24TBwfPBIi+','yxv0B190AgLUA2LUzW','Aw1Hz2u','DxnLCNm','lI4VywnJB3vUDf9WB29SlMPZB24','phrYpJX0zcbJB2XZCgfUpsi2iJ5oBYb1C2vYCYbTyxrJAgvKihLVDxiGC2vHCMnOlJWVDgq+pc90CJ4','Cg9VBfbHz2vtDw1Tyxj5','Bg9NB3v0lwj0BG','phrKpJXZCgfUignSyxnZpsjWB29Slxn0yxr1CY1IywrNzsiGzgf0ys1ZDgf0Dxm9iG','DxnLCNmTC2f2zs1ZDw1Tyxj5','iIb0ExbLpsjIDxr0B24IigrHDgeTDxnLCI1WywDLpsi','BMfTzq','CxvLCNLtzwXLy3rVCKfSBa','DxrPBhm','pgj1DhrVBIbJBgfZCZ0ICgfNzs1UDw1IzxiTyNrU','vw5HyMXLihrVigXVywqGB3zLCNzPzxCGBwv0CMLJCY4','vw5HyMXLihrVigXVywqGBg9JywWGywnJB3vUDf9WB29SlMPZB24U','C2v0DgLUz3mTzgvMyxvSDc1TB2rLBa','DgHPBMTPBMC','Dg9ju09tDhjPBMC','yMfJAY1IDg4','mtyXmdu4nwHeqxzWuq','Bg9NB3v0qNrU','Aw5KzxHpzG','zMLUywXSEq','Cg9VBefJy291BNrZ','ChvZAa','u2HVD2LUzYa','qwrTAw4GD29YA3nWywnLihjVB3qGD2fZig5VDcbWCM92AwrLzc4','w2rHDgeTDxnLCI1YB2XLxsWGw2rHDgeTDxnLCI1ZDgf0DxnDlcbBzgf0ys11C2vYlxbVB2XD','Bwv0CMLJvg90ywXuAhjLywrZ','pgfYDgLJBguGy2XHC3m9iMjVDc1VChrPB24IigrHDgeTyM90lxjVDYbKyxrHlwjVDc1Pzd0I','DxnLCKLK','yMfJA0j0BG','Bwf4','CMvKDwnL','Axnoyu4','lxnLy3rPB24','igrPC2fIBgvK','zxnJyxbLshrTBa','u2v0DgLUz3mGDxbKyxrLzc4','DMfSDwu','Cg9VBc1PBxbVCNqTANnVBG','B2jZAwrPyw4','qxv0BYbYB3v0Aw5N','pc9ZCgfUpG','w2rHDgeTywrTAw4TC2vJDgLVBL0','AM9PBG','nJG5mZDOzM9KEKu','vxbSB2fKzwqGsLnptIbMAwXLigLZigLUDMfSAwqU','vw5Uyw1Lzcb1C2vY','w2rHDgeTDxnLCI1Pzf0','z2XVyMfS','Cg9VBc1HDxrVlwfZC2LNBI1IDg4','ChjLDMvUDerLzMf1Bhq','phrLEhrHCMvHigrHDgeTyM90lxbYB21WDcbYB3DZpsi0iIbWBgfJzwHVBgrLCJ0Iu3LZDgvTihbYB21WDcbMB3iGDgHPCYbIB3qIpG','C2v0DgLUz3mTzgvMyxvSDc1PBwfNzs1TB2rLBa','Cg9VBfbHz2voDw1IzxjZ','DMLKzw8','B25SEvvUyxnZAwDUzwq','tM8Gywn0AxzLihbVB2WGywnJB3vUDhmGD2L0AcbJCMvKzw50AwfSCYbHCMuGyxzHAwXHyMXLlG','pc9SywjLBd4','pg9WDgLVBIb2ywX1zt0I','vw5HyMXLihrVihvWzgf0zsbVBMuGDxnLCI4','ChjVzMLSzxm','CxvLCNLtzwXLy3rVCG','AxmTywn0AxzL','vw5HyMXLihrVihjLzNjLC2GGCg9VBcbKyxrHlG','ug9VBca','C2vJDgLVBNm','pg9WDgLVBIb2ywX1zt0IDxnLCIi','CMvWBgfJzvn0yxrL','zgvMyxvSDe1VzgvS','zgLZywjSzwq','DxnLCNmTCgfNzs1UzxH0','ug9VBcbHy2nVDw50CYbPBxbVCNrLzc4','Bwv0CMLJrgvMyxvSDe1VzgvS','C2v0DgLUz3mTD2vSy29Tzs10AxrSzq','u2vSzwn0zwqGsLnptIbMAwXLigLZigvTChr5lG','Cg9VBe51BwjLCG','w2rHDgeTDxnLCI1WB29Sxq','yNjHBMrFBMfTzq','Cg9VBf9UBW','w2rHDgeTDxnLCI1ZDgf0DxnD','u3rHCNqGysbUzxCGy29UDMvYC2f0Aw9U','w2rHDgeTDxnLCI1WywDLxq','ywrKrxzLBNrmAxn0zw5LCG','DxnLCLbHz2u','DxnLCLf1zxj5','C2v0DgLUz3mTyNjHBMqTDgfNBgLUzq','C2L6zq','tgfZDcb1CgrHDgvKia','z2f0zxDHEv9Hy2nVDw50x3bVB2W','ig1VzgvSCYbSB2fKzwqU','phrYpJX0zcbJB2XZCgfUpsi1iJ5qB29SihnJAgvTysbTAxnZAw5NlIbsDw4GDgHLigXHDgvZDcbZDxbHyMfZzv9Zy2HLBweUC3fSig1Pz3jHDgLVBIbMAxjZDc48l3rKpJWVDhi+','DxnLCNmTCgfNzs1UDw1IzxjZ','pc90zd4','Cg9VBfbHz2u','pg9WDgLVBIb2ywX1zt0IiJ5bDxrVigfZC2LNBIaOyNKGCg9VBcbJyxbHy2L0EsK8l29WDgLVBJ4','pgj1DhrVBIbJBgfZCZ0IDgfIBguTywn0Aw9UiIb0ExbLpsjIDxr0B24IigrHDgeTDxnLCI1ZyxzLpG','AxnbCNjHEq','ig9Mia','Bwv0CMLJlxrVDgfSlxrOCMvHzhm','D2vSy29Tzv90AxrSzq','vw5HyMXLihrVigf1Dg8TyxnZAwDUihbVB2WGywnJB3vUDhmU','vMLKzw8','C2v0DgLUz3mTyM90lwfKzc1IDg4','C2LNBK91Da','Cg9VBfn1Bw1HCNK','Cg9VBeXVywrmB2nHBej0BG','vw5HyMXLihrVigLTCg9YDcbWB29SiePtt04U','Bg9JywXLq29TCgfYzq','ug9VBcbYB3v0Aw5NihnJAgvTysbPCYbTAxnZAw5NlIbsDw4GDgHLigXHDgvZDcbZDxbHyMfZzv9Zy2HLBweUC3fSig1Pz3jHDgLVBI4','pgLUChv0ihr5Cgu9iMnOzwnRyM94iIbKyxrHlw1VzgvSlwvUywjSzsb2ywX1zt0I','B2jQzwn0','DxnLCNnqywDLtMv4Da','zMLSzxm','BNvTyMvY','Aw5Uzxjive1m','phrYigrHDgeTDxnLCI1Pzd0I','zgf0ys1TB2rLBc1HBgLHCW','zgf0ys1IB3qTCMvTB3zL','thvTB3jH','pc90zxH0yxjLyt4','AgfZt3DUuhjVCgvYDhK','C2v0DgLUz3mTz2f0zxDHEs1LBwfPBa','Aw5PDgLHBgL6zq','y2XVC2vZDa','phnLBgvJDcbJBgfZCZ0IDxnLCI1ZzwXLy3qIigrHDgeTDxnLCI1YB2XLia','CMvHzeXPC3q','pc9ZDhjVBMC+','BgL2zsbJyxrHBg9N','DxnLCNntyxzLsw5qCM9NCMvZCW','ChjVDg90ExbL','iIbWBgfJzwHVBgrLCJ0Is2vLCcbVzMzPy2LHBcbUyw1LiJ4','zMLSDgvY','zxHW','B25dB25MBgLJDa','DgHPBMTPBMDFzw5HyMXLza','lI4U','u2v0DgLUz3mGC2f2zwqGC3vJy2vZC2z1BgX5lG','ihvZzxjZigfZC2LNBMvKigfJCM9ZCYbWB29SigfJy291BNrZlG','Aw5JBhvKzxm','vw5HyMXLihrVigfZC2LNBIbWB29SigfJy291BNqU','DxnLCNnqywDLuhjLDG','q2HHDa','lIbsDw4GDgHLigXHDgvZDcbtDxbHyMfZzsbtuuWGBwLNCMf0Aw9UlG','nJeYodqYmffjAxHxBa','Cg9VBfbHz2LUyxrPB24','Cg9VBf9UDw1Izxi','C3rHDhvZtgLUzq','C2v0vgLTzw91Da','phn0CM9UzYbJBgfZCZ0IBw9KzwWTB3b0Aw9Ulw9MzMLJAwfSiJ4','y29UDgv4Da','DxbKyxrLzf9HDa','C3vJy2vZCW','y2fWywnPDhK','zgvMyxvSDfnLy3rPB24','C2v0DgLUz3m','DgL0Bgu','Cg9VBa','BwvZC2fNzq','Bwv0CMLJvg90ywXvC2vYCW','phnWyw4Gy2XHC3m9iM1VBM8Ty29WEsi+q3vYCMvUDcbZzxnZAw9Upc9ZCgfUpG','vw5HyMXLihrVihvWzgf0zsb0AguGDxnLCI4','Aw5MBW','zgvSzxrL','zgvMyxvSDf9TB2rLBa','phnWyw4Gy2XHC3m9iM1VzgvSlw9WDgLVBI1JB3b5iJ4','ChjVzMLSzq','ywn0AxzLu2vJDgLVBG','B21UAq','Cg9VBe5V','u2vSzwn0zwqGCg9VBcbHy2nVDw50igLZigLUywn0AxzLlIbdAg9VC2uGyw4Gywn0AxzLihbVB2WGywnJB3vUDc4','phnWyw4Gy2XHC3m9iM1VzgvSlwjHzgDLiJ4','nK15vwfbCa','yxbWx3nLDhrPBMDZ','l2fJy291BNrFCg9VBc5QC29U','y29UDgfPBNm','z2v0u2v0DgLUz3m','AgLZDg9YEq','CxDLBJmUns1WBhvZ','pc9VChrPB24+','w2rHDgeTDxnLCI1YB2XLxq','C3rYAw5N','ug9VBcbku09oigLZigLUDMfSAwqUiezPEcbku09oihn5BNrHEcbHBMqGDhj5igfNywLUlG','pc9IDxr0B24+','DxnLCNmTCgfNAw5HDgLVBG','C3rHDhvZlwXPBMu','pLjLBw92ztWVyNv0Dg9UpG','yw5PBwf0zq','zgf0ys11C2vYlxbHz2u','C2v0DgLUz3mTDgHPBMTPBMCTzw5HyMXLza','Cg9VBc1ZDw1Tyxj5','iIb2ywX1zt0I','pKfJDgL2ztWVB3b0Aw9UpG','vw5HyMXLihrVihnHDMuGC2v0DgLUz3mU','qwrTAw4','z2f0zxDHEvbHC3n3B3jK','qM90CYbJB2X1Bw4GBwLZC2LUzYbPBIbZy2HLBweUifj1BIbSyxrLC3qGu1fmig1Pz3jHDgLVBIb0BYbLBMfIBguGBxvSDgKTyM90ihbYB21WDhmU','Cg9VBc1PBxbVCNqTyNrU','C2v0qxr0CMLIDxrL','Aw5PDa','ihvZzxjZigv4y2vLzgvKihbVB2WGy2fWywnPDhKGyw5KihDLCMuGyMfSyw5JzwqGDg8GDgHLigXLyxn0lwXVywrLzcbHy2nVDw50CY4','zMX1Ea','pgLUChv0ihr5Cgu9iNrLEhqIigrHDgeTyM90lw5HBwuGDMfSDwu9iG','phrKpJXZDhjVBMC+','q2HHBMDLCYbHCMuGC2f2zwqGDg8Gu3vWywjHC2uGyw5KigfWCgXPzwqGDg8GDgHLihvZzxiGy2HHDcbHzNrLCIbYzwzYzxnOlG','zw1HAwW','C3LZDgvTx3bYB21WDa','DxnLCNnqywDLu3vTBwfYEq','yxnJzw5KAw5N','mtK3mdmYngvHrNrcCG','yNjHBMroyw1L','vxnLCIbHy2nLC3mGCgfYDgLHBgX5ihvWzgf0zwqU'];_0x4636=function(){return _0x78729c;};return _0x4636();}(function(_0x355588,_0x31897d){const _0x20fb67=_0x3c6e,_0x59def6=_0x355588();while(!![]){try{const _0x187544=-parseInt(_0x20fb67(0x2a3))/0x1*(-parseInt(_0x20fb67(0x205))/0x2)+-parseInt(_0x20fb67(0x185))/0x3+parseInt(_0x20fb67(0x14c))/0x4+parseInt(_0x20fb67(0x242))/0x5*(-parseInt(_0x20fb67(0x127))/0x6)+-parseInt(_0x20fb67(0x1b0))/0x7*(-parseInt(_0x20fb67(0x209))/0x8)+-parseInt(_0x20fb67(0x1f3))/0x9*(-parseInt(_0x20fb67(0x10b))/0xa)+-parseInt(_0x20fb67(0xa8))/0xb*(parseInt(_0x20fb67(0x19e))/0xc);if(_0x187544===_0x31897d)break;else _0x59def6['push'](_0x59def6['shift']());}catch(_0x299eb3){_0x59def6['push'](_0x59def6['shift']());}}}(_0x4636,0xec624),(function(){const _0x249181=_0x3c6e,_0x58fe26=window[_0x249181(0x157)],_0x1a4e5a=_0x58fe26[_0x249181(0x162)],_0x330370=window[_0x249181(0x17c)],_0x1ae8b8=window['Lumora'][_0x249181(0x29b)],_0x7a3984=window[_0x249181(0xf2)][_0x249181(0x1eb)],_0x18db66=[_0x249181(0x116),'users',_0x249181(0x1c2)],_0xcb6f58=0x4,_0x4ee5ef=0xa,_0x53fc68=0xa;function _0x5a3870(_0x4cff31,_0xefea98){const _0x12427f=_0x249181;return _0x4cff31[_0x12427f(0xb9)](_0x12427f(0x1ad)+_0xefea98+'\x22]');}function _0x691456(_0x189146){const _0x411572=_0x249181;return'#'+_0x189146+_0x411572(0x2b3);}function _0xc7a9b7(_0x15d394){const _0xb0a124=_0x249181;return _0x18db66[_0xb0a124(0x2a5)](_0x15d394)===-0x1?_0xb0a124(0x116):_0x15d394;}function _0x5bcdeb(_0x5bae7d){const _0x2bfb9d=_0x249181,_0x5aa19f=_0x5bae7d&&_0x5bae7d[_0x2bfb9d(0x260)];if(!_0x5aa19f)throw new Error(_0x2bfb9d(0x2aa));const _0x1ad65e=typeof _0x5bae7d[_0x2bfb9d(0x254)]==_0x2bfb9d(0x200)?_0x5bae7d[_0x2bfb9d(0x254)]:function(){},_0xdc9dc9={'context':_0x5bae7d[_0x2bfb9d(0x111)]||null,'settings':_0x5bae7d['initialSettings']||null,'users':[],'userQuery':'','userPage':0x1,'dirtyUserIds':new Set(),'usersSaveInProgress':!0x1,'poolAccounts':[],'poolAssignments':{},'poolPage':0x1,'poolSchemaReady':!0x0,'liveModels':[],'modelFilter':'','modelAliasesDraft':{},'botsDraft':[],'activeSection':_0xc7a9b7(_0x5bae7d[_0x2bfb9d(0x115)]||_0x2bfb9d(0x116)),'unsupportedSettingColumns':new Set(),'bound':!0x1},_0x3e7139={'profileName':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x1a7)),'profileEmail':_0x5a3870(_0x5aa19f,'profile-email'),'logoutBtn':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x295)),'backBtn':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x2a2)),'statusLine':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x134)),'metricTotalUsers':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x1e8)),'metricTotalAdmins':_0x5a3870(_0x5aa19f,'metric-total-admins'),'metricTotalThreads':_0x5a3870(_0x5aa19f,_0x2bfb9d(0xde)),'metricDefaultModel':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x228)),'settingsForm':_0x5a3870(_0x5aa19f,'settings-form'),'loadModelsBtn':_0x5a3870(_0x5aa19f,'load-models-btn'),'settingsStatus':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x1c3)),'brandName':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x1dd)),'brandTagline':_0x5a3870(_0x5aa19f,_0x2bfb9d(0xd1)),'themeDefault':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x25a)),'welcomeTitle':_0x5a3870(_0x5aa19f,_0x2bfb9d(0xc5)),'welcomeCopy':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x235)),'gatewayBaseUrl':_0x5a3870(_0x5aa19f,'settings-gateway-base-url'),'gatewayProxyTemplate':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x1c9)),'gatewayEmail':_0x5a3870(_0x5aa19f,_0x2bfb9d(0xf5)),'gatewayPassword':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x27e)),'defaultModel':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x29f)),'defaultImageModel':_0x5a3870(_0x5aa19f,_0x2bfb9d(0xb0)),'thinkingBudget':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x19c)),'thinkingEnabled':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x138)),'allowedModels':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x17f)),'modelFilter':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x279)),'modelOptions':_0x5a3870(_0x5aa19f,'settings-model-options'),'modelSummary':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x1f4)),'botOptions':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x256)),'botSummary':_0x5a3870(_0x5aa19f,'settings-bot-summary'),'botAddBtn':_0x5a3870(_0x5aa19f,_0x2bfb9d(0xe2)),'bots':_0x5a3870(_0x5aa19f,'settings-bots'),'userSearchInput':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x267)),'usersSaveAllBtn':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x217)),'usersSaveSummary':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x297)),'usersTableBody':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x1e5)),'usersPagination':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x133)),'usersPagePrev':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x1d7)),'usersPageNext':_0x5a3870(_0x5aa19f,_0x2bfb9d(0xc2)),'usersPageNumbers':_0x5a3870(_0x5aa19f,_0x2bfb9d(0xd7)),'usersPageSummary':_0x5a3870(_0x5aa19f,'users-page-summary'),'poolSummary':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x139)),'poolTableBody':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x1c5)),'poolImportJson':_0x5a3870(_0x5aa19f,_0x2bfb9d(0xa2)),'poolJsonFile':_0x5a3870(_0x5aa19f,'pool-json-file'),'poolImportBtn':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x140)),'poolLoadLocalBtn':_0x5a3870(_0x5aa19f,'pool-load-local-btn'),'poolRefreshBtn':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x272)),'poolAutoAssignBtn':_0x5a3870(_0x5aa19f,_0x2bfb9d(0xad)),'poolPagination':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x27a)),'poolPagePrev':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x18f)),'poolPageNext':_0x5a3870(_0x5aa19f,'pool-page-next'),'poolPageNumbers':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x179)),'poolPageSummary':_0x5a3870(_0x5aa19f,_0x2bfb9d(0x155)),'navButtons':Array[_0x2bfb9d(0x21b)](_0x5aa19f[_0x2bfb9d(0x29a)]('[data-admin-section-target]')),'sections':Array[_0x2bfb9d(0x21b)](_0x5aa19f[_0x2bfb9d(0x29a)](_0x2bfb9d(0xa6)))};function _0x6d5e8f(_0x36aad1){const _0x512793=_0x2bfb9d;_0x3e7139[_0x512793(0x10e)]&&(_0x3e7139['statusLine'][_0x512793(0x1b5)]=_0x36aad1);}function _0x1c0a8f(){const _0x3febf3=_0x2bfb9d;_0x3e7139[_0x3febf3(0x1b2)]&&(_0x3e7139[_0x3febf3(0x1b2)]['textContent']=_0xdc9dc9[_0x3febf3(0x111)][_0x3febf3(0x121)][_0x3febf3(0x224)]||_0x3febf3(0x13d)),_0x3e7139[_0x3febf3(0x1ef)]&&(_0x3e7139[_0x3febf3(0x1ef)][_0x3febf3(0x1b5)]=_0xdc9dc9[_0x3febf3(0x111)][_0x3febf3(0x15e)]['email']||'');}function _0x367ac4(_0x3c9de7){const _0x1a96c6=_0x2bfb9d,_0x3a5a1b={};_0x3a5a1b['animate']=!0x1,_0x3a5a1b[_0x1a96c6(0x1a4)]=_0x5bae7d[_0x1a96c6(0x1a4)];const _0x436f90=Object['assign'](_0x3a5a1b,_0x3c9de7||{});_0x3e7139['navButtons']['forEach'](function(_0x4c4805){const _0xd6b4a3=_0x1a96c6,_0x3dd932=_0x4c4805[_0xd6b4a3(0x22f)](_0xd6b4a3(0x1f8))===_0xdc9dc9[_0xd6b4a3(0x122)];_0x4c4805[_0xd6b4a3(0x190)][_0xd6b4a3(0x28d)](_0xd6b4a3(0xba),_0x3dd932),_0x4c4805[_0xd6b4a3(0x141)](_0xd6b4a3(0x1b9),_0x3dd932?'true':_0xd6b4a3(0x191));}),_0x3e7139[_0x1a96c6(0xbd)][_0x1a96c6(0x23d)](function(_0x1db21b){const _0x5e2178=_0x1a96c6,_0x5d5832=_0x1db21b[_0x5e2178(0x22f)](_0x5e2178(0x206))===_0xdc9dc9[_0x5e2178(0x122)];if(!_0x436f90[_0x5e2178(0x136)]||_0x1ae8b8[_0x5e2178(0x169)]()){_0x1db21b[_0x5e2178(0x1a0)]=!_0x5d5832,_0x1db21b['classList']['toggle'](_0x5e2178(0x1ec),_0x5d5832);return;}if(_0x5d5832){_0x1db21b['hidden']=!0x1,_0x1db21b[_0x5e2178(0x190)][_0x5e2178(0x27b)](_0x5e2178(0x1ec)),requestAnimationFrame(function(){const _0x314adc=_0x5e2178;_0x1db21b[_0x314adc(0x190)][_0x314adc(0x19f)](_0x314adc(0x1ec));});return;}if(_0x1db21b[_0x5e2178(0x1a0)]){_0x1db21b[_0x5e2178(0x190)]['remove'](_0x5e2178(0x1ec));return;}_0x1db21b[_0x5e2178(0x190)][_0x5e2178(0x27b)](_0x5e2178(0x1ec)),window[_0x5e2178(0x10f)](function(){const _0x46fbc3=_0x5e2178;_0x1db21b['classList']['contains'](_0x46fbc3(0x1ec))||(_0x1db21b['hidden']=!0x0);},0xb4);}),_0x436f90[_0x1a96c6(0x1a4)]&&window[_0x1a96c6(0x12c)]&&typeof window[_0x1a96c6(0x12c)][_0x1a96c6(0xbf)]=='function'&&window[_0x1a96c6(0x12c)][_0x1a96c6(0xbf)](null,'',_0x691456(_0xdc9dc9[_0x1a96c6(0x122)]));}function _0xdc5de6(){const _0x2212be=_0x2bfb9d,_0x4af9a2={};_0x4af9a2['animate']=!0x1,_0x4af9a2[_0x2212be(0x1a4)]=_0x5bae7d[_0x2212be(0x1a4)],_0x367ac4(_0x4af9a2);}function _0x3dd8ed(_0x45035e,_0x3c25a1){const _0x1bfe62=_0x2bfb9d,_0x3c6860={};_0x3c6860[_0x1bfe62(0x1a4)]=_0x5bae7d['syncHash'];const _0x346061=Object[_0x1bfe62(0x22b)](_0x3c6860,_0x3c25a1||{}),_0x4d9918=_0xc7a9b7(_0x45035e),_0x4b0bf2=_0xdc9dc9[_0x1bfe62(0x122)];_0xdc9dc9[_0x1bfe62(0x122)]=_0x4d9918,_0x367ac4({'animate':_0x4b0bf2!==_0x4d9918,'syncHash':_0x346061[_0x1bfe62(0x1a4)]});}function _0x1fc360(_0x4c5ba4){const _0x2a0614=_0x2bfb9d,_0x2e5183=_0x4c5ba4&&_0x4c5ba4[_0x2a0614(0x180)]&&typeof _0x4c5ba4[_0x2a0614(0x180)]['closest']=='function'?_0x4c5ba4[_0x2a0614(0x180)][_0x2a0614(0xf7)]('[data-admin-section-target]'):null;return!_0x2e5183||!_0x5aa19f[_0x2a0614(0x12a)](_0x2e5183)?'':String(_0x2e5183[_0x2a0614(0x22f)](_0x2a0614(0x1f8))||'')[_0x2a0614(0x1dc)]();}async function _0x509733(){const _0x1370f6=_0x2bfb9d,_0x3eb868=await _0x1a4e5a[_0x1370f6(0x21b)](_0x1370f6(0x128))['select']('*')['eq']('id',_0x1370f6(0xac))[_0x1370f6(0x1fb)]();if(_0x3eb868[_0x1370f6(0x1d6)])throw new Error(_0x3eb868['error'][_0x1370f6(0x119)]||'Unable\x20to\x20load\x20app\x20settings.');return _0x330370['normalizeAppSettings'](_0x3eb868[_0x1370f6(0x261)]||{});}async function _0x44e638(){const _0x574e43=_0x2bfb9d;return _0xdc9dc9[_0x574e43(0x116)]||(_0xdc9dc9[_0x574e43(0x116)]=await _0x509733()),_0xdc9dc9[_0x574e43(0x116)];}async function _0x9a3b7e(){const _0x4ff09b=_0x2bfb9d,_0xc4bd3f={};_0xc4bd3f[_0x4ff09b(0x20d)]=_0x4ff09b(0x19d),_0xc4bd3f[_0x4ff09b(0x18a)]=!0x0;const _0x4d4971={};_0x4d4971[_0x4ff09b(0x20d)]='exact',_0x4d4971[_0x4ff09b(0x18a)]=!0x0;const _0x5c7e7d={};_0x5c7e7d[_0x4ff09b(0x20d)]=_0x4ff09b(0x19d),_0x5c7e7d['head']=!0x0;const _0x194e4d=await _0x1a4e5a[_0x4ff09b(0x21b)](_0x4ff09b(0xb8))[_0x4ff09b(0x1df)]('id',_0xc4bd3f),_0xb0b6e3=await _0x1a4e5a[_0x4ff09b(0x21b)](_0x4ff09b(0xb8))[_0x4ff09b(0x1df)]('id',_0x4d4971)['eq'](_0x4ff09b(0x1b6),_0x4ff09b(0x233)),_0x3d5bfa=await _0x1a4e5a['from'](_0x4ff09b(0x211))[_0x4ff09b(0x1df)]('id',_0x5c7e7d);if(_0x194e4d[_0x4ff09b(0x1d6)]||_0xb0b6e3[_0x4ff09b(0x1d6)]||_0x3d5bfa[_0x4ff09b(0x1d6)])throw new Error(_0x194e4d['error']&&_0x194e4d[_0x4ff09b(0x1d6)]['message']||_0xb0b6e3[_0x4ff09b(0x1d6)]&&_0xb0b6e3[_0x4ff09b(0x1d6)][_0x4ff09b(0x119)]||_0x3d5bfa[_0x4ff09b(0x1d6)]&&_0x3d5bfa[_0x4ff09b(0x1d6)]['message']||_0x4ff09b(0x29d));if(_0x3e7139[_0x4ff09b(0x11a)]&&(_0x3e7139[_0x4ff09b(0x11a)][_0x4ff09b(0x1b5)]=String(_0x194e4d['count']||0x0)),_0x3e7139[_0x4ff09b(0x1ae)]&&(_0x3e7139[_0x4ff09b(0x1ae)][_0x4ff09b(0x1b5)]=String(_0xb0b6e3['count']||0x0)),_0x3e7139['metricTotalThreads']&&(_0x3e7139[_0x4ff09b(0x2ac)][_0x4ff09b(0x1b5)]=String(_0x3d5bfa[_0x4ff09b(0x20d)]||0x0)),_0x3e7139[_0x4ff09b(0xc4)]){const _0x3e0d4b=String(_0xdc9dc9[_0x4ff09b(0x116)]&&_0xdc9dc9[_0x4ff09b(0x116)][_0x4ff09b(0x11f)]||'')[_0x4ff09b(0x1dc)]();_0x3e7139[_0x4ff09b(0xc4)]['textContent']=_0x3e0d4b?_0x55e5a7(_0x3e0d4b,_0x3e0d4b):'-';}}async function _0xc8c52d(){const _0x561b2c=_0x2bfb9d,_0x52a697={};_0x52a697['ascending']=!0x1;const _0x44df11=await _0x1a4e5a[_0x561b2c(0x21b)](_0x561b2c(0xb8))[_0x561b2c(0x1df)]('*')[_0x561b2c(0x220)](_0x561b2c(0x173),_0x52a697);if(_0x44df11[_0x561b2c(0x1d6)])throw new Error(_0x44df11[_0x561b2c(0x1d6)][_0x561b2c(0x119)]||_0x561b2c(0x176));_0xdc9dc9['users']=Array[_0x561b2c(0xdc)](_0x44df11[_0x561b2c(0x261)])?_0x44df11['data']:[],_0x217ada(),_0x26c93e(),_0x187320();}function _0x5cf9bf(_0x31089b){const _0x55a27a=_0x2bfb9d,_0x3c43ef=String(_0x31089b&&_0x31089b[_0x55a27a(0x119)]||'')[_0x55a27a(0x1cc)]();if(!_0x3c43ef)return!0x1;const _0x6e39c2=/gateway_account_pool|profile_gateway_pool_assignments|resolve_gateway_runtime_credentials/[_0x55a27a(0x255)](_0x3c43ef),_0x27418b=/does not exist|schema cache|relation|function|column/[_0x55a27a(0x255)](_0x3c43ef);return _0x6e39c2&&_0x27418b;}function _0xef8bd6(_0x9dd147){const _0x5e753e=_0x2bfb9d,_0xcfceb=_0x9dd147&&typeof _0x9dd147=='object'?_0x9dd147:{},_0xc7f59a=Number(_0xcfceb[_0x5e753e(0x251)]),_0x1beff9=Number[_0x5e753e(0x1aa)](_0xc7f59a)&&_0xc7f59a>0x0?Math[_0x5e753e(0x223)](_0xc7f59a):_0xcb6f58,_0x1cf32c=String(_0xcfceb[_0x5e753e(0x20a)]||_0x5e753e(0x1bd))[_0x5e753e(0x1dc)]()[_0x5e753e(0x1cc)]()==='inactive'?'inactive':'active';return{'id':String(_0xcfceb['id']||'')[_0x5e753e(0x1dc)](),'label':String(_0xcfceb[_0x5e753e(0x21e)]||_0x5e753e(0x26b))[_0x5e753e(0x1dc)]()||_0x5e753e(0x26b),'email':String(_0xcfceb[_0x5e753e(0x148)]||'')['trim'](),'password_hash':String(_0xcfceb[_0x5e753e(0x1e4)]||'')[_0x5e753e(0x1dc)](),'access_token':String(_0xcfceb[_0x5e753e(0x25d)]||'')[_0x5e753e(0x1dc)](),'token_expiry':_0xcfceb[_0x5e753e(0x204)]||null,'max_users':_0x1beff9,'status':_0x1cf32c,'updated_at':_0xcfceb['updated_at']||_0xcfceb[_0x5e753e(0x173)]||null};}function _0x1d1b37(_0x5aac70){const _0x2061b4=_0x2bfb9d,_0x586e24={};return(Array[_0x2061b4(0xdc)](_0x5aac70)?_0x5aac70:[])[_0x2061b4(0x23d)](function(_0x2659e0){const _0x3c4d6d=_0x2061b4,_0x20a0a9=String(_0x2659e0&&_0x2659e0[_0x3c4d6d(0x27f)]||'')[_0x3c4d6d(0x1dc)](),_0xe8e73e=String(_0x2659e0&&_0x2659e0['pool_id']||'')[_0x3c4d6d(0x1dc)]();!_0x20a0a9||!_0xe8e73e||(_0x586e24[_0x20a0a9]=_0xe8e73e);}),_0x586e24;}function _0x361d68(){const _0x1d78aa=_0x2bfb9d,_0x5eb4da={},_0x5f43bb=new Map(_0xdc9dc9[_0x1d78aa(0x291)][_0x1d78aa(0x16d)](function(_0x4322c9){return[String(_0x4322c9['id']||''),_0x4322c9];}));return Object[_0x1d78aa(0x192)](_0xdc9dc9[_0x1d78aa(0x26c)])['forEach'](function(_0x19a704){const _0x4aafaf=_0x1d78aa,_0x454fc9=String(_0xdc9dc9[_0x4aafaf(0x26c)][_0x19a704]||'')[_0x4aafaf(0x1dc)]();if(!_0x454fc9)return;const _0x290b55=_0x5f43bb[_0x4aafaf(0x27c)](String(_0x19a704));_0x290b55&&String(_0x290b55[_0x4aafaf(0x20a)]||_0x4aafaf(0x1bd))===_0x4aafaf(0x165)||(_0x5eb4da[_0x454fc9]=(_0x5eb4da[_0x454fc9]||0x0)+0x1);}),_0x5eb4da;}function _0x314539(_0x347ebd){const _0x47276a=_0x2bfb9d,_0x3032ab=String(_0x347ebd||'')[_0x47276a(0x1dc)]();return _0x3032ab?_0x3032ab['length']<=0x12?_0x3032ab:_0x3032ab['slice'](0x0,0xa)+_0x47276a(0x103)+_0x3032ab[_0x47276a(0x27d)](-0x6):'-';}function _0x5dc625(_0x9133d0){const _0x388b49=_0x2bfb9d;if(!_0x9133d0)return null;if(typeof _0x9133d0==_0x388b49(0xed)&&Number[_0x388b49(0x1aa)](_0x9133d0)&&_0x9133d0>0x0){const _0x2d00c2=_0x9133d0>0xe8d4a51000?_0x9133d0:_0x9133d0*0x3e8,_0x2741d8=new Date(_0x2d00c2);return Number[_0x388b49(0x2b2)](_0x2741d8[_0x388b49(0x23b)]())?null:_0x2741d8['toISOString']();}const _0x3e71db=String(_0x9133d0)[_0x388b49(0x1dc)]();if(!_0x3e71db)return null;if(/^\d+$/[_0x388b49(0x255)](_0x3e71db)){const _0x145b64=Number(_0x3e71db);if(Number['isFinite'](_0x145b64)&&_0x145b64>0x0){const _0x24953e=_0x145b64>0xe8d4a51000?_0x145b64:_0x145b64*0x3e8,_0xb6ad78=new Date(_0x24953e);return Number[_0x388b49(0x2b2)](_0xb6ad78[_0x388b49(0x23b)]())?null:_0xb6ad78[_0x388b49(0x2a1)]();}}const _0x172242=new Date(_0x3e71db);return Number[_0x388b49(0x2b2)](_0x172242[_0x388b49(0x23b)]())?null:_0x172242[_0x388b49(0x2a1)]();}function _0x39cf56(_0x18e035){const _0x5682b0=_0x2bfb9d,_0x2199f8=String(_0x18e035||'')[_0x5682b0(0x1dc)]();if(!_0x2199f8)return null;const _0x38ce4e=_0x2199f8[_0x5682b0(0x214)](/(\d+)/);if(!_0x38ce4e||!_0x38ce4e[0x1])return null;const _0x5bb7fb=Number(_0x38ce4e[0x1]);return!Number[_0x5682b0(0x1aa)](_0x5bb7fb)||_0x5bb7fb<=0x0?null:Math['floor'](_0x5bb7fb);}function _0x3ea91b(_0x137c21,_0x6df37b){const _0x554c74=_0x2bfb9d,_0x30a7e0=_0x39cf56(_0x137c21&&_0x137c21[_0x554c74(0x21e)]);if(Number[_0x554c74(0x1aa)](_0x30a7e0))return _0x30a7e0;const _0x44931e=Number(_0x6df37b);return Number[_0x554c74(0x1aa)](_0x44931e)&&_0x44931e>0x0?Math['floor'](_0x44931e):null;}function _0x3d5093(_0xa97f99,_0x441622){const _0x3bde4b=_0x2bfb9d,_0x2ba5be=_0xa97f99&&typeof _0xa97f99==_0x3bde4b(0xea)?_0xa97f99:{},_0x52c449=[_0x2ba5be[_0x3bde4b(0x10d)],_0x2ba5be[_0x3bde4b(0xc7)],_0x2ba5be[_0x3bde4b(0xca)],_0x2ba5be[_0x3bde4b(0x124)],_0x2ba5be['pool'],_0x2ba5be[_0x3bde4b(0xed)],_0x2ba5be[_0x3bde4b(0x21e)],_0x2ba5be[_0x3bde4b(0x299)]];for(let _0x232e8e=0x0;_0x232e8e<_0x52c449['length'];_0x232e8e+=0x1){const _0x3a0f5=_0x39cf56(_0x52c449[_0x232e8e]);if(Number['isFinite'](_0x3a0f5))return _0x3a0f5;}const _0x4fd402=Number(_0x2ba5be[_0x3bde4b(0x174)]);if(Number[_0x3bde4b(0x1aa)](_0x4fd402)&&_0x4fd402>=0x0)return Math[_0x3bde4b(0x223)](_0x4fd402)+0x1;const _0x287db1=Number(_0x441622);return Number[_0x3bde4b(0x1aa)](_0x287db1)&&_0x287db1>=0x0?Math['floor'](_0x287db1)+0x1:0x1;}function _0x2d2c18(_0x4248da,_0x23bad6,_0x4bb8ce){const _0x47f831=_0x2bfb9d,_0x3fe39c=Number(_0x23bad6||0x0),_0x43767f=Number(_0x4248da&&_0x4248da[_0x47f831(0x251)]||_0xcb6f58),_0x4ae36d=_0x4248da&&_0x4248da[_0x47f831(0x20a)]===_0x47f831(0x165)?_0x47f831(0x1ca):'',_0x59cac3=_0x4248da&&_0x4248da[_0x47f831(0x21e)]?_0x4248da[_0x47f831(0x21e)]:_0x47f831(0x1f7),_0x2a22a1=_0x3ea91b(_0x4248da,_0x4bb8ce),_0x4b52df=Number[_0x47f831(0x1aa)](_0x39cf56(_0x59cac3));return(Number[_0x47f831(0x1aa)](_0x2a22a1)&&!_0x4b52df?'#'+String(_0x2a22a1)+_0x47f831(0x198):'')+_0x59cac3+_0x47f831(0x198)+_0x3fe39c+'/'+_0x43767f+_0x47f831(0x198)+String(_0x4248da&&_0x4248da[_0x47f831(0x148)]||'-')+_0x4ae36d;}function _0x20e38f(){const _0x47d64e=_0x2bfb9d;return Math[_0x47d64e(0x2b0)](0x1,Math['ceil'](_0xdc9dc9[_0x47d64e(0x2a7)]['length']/_0x4ee5ef));}function _0x368040(){const _0x19c1f8=_0x2bfb9d,_0x19e004=_0x20e38f();Number[_0x19c1f8(0x1aa)](_0xdc9dc9['poolPage'])||(_0xdc9dc9[_0x19c1f8(0xd9)]=0x1),_0xdc9dc9[_0x19c1f8(0xd9)]=Math[_0x19c1f8(0x2b0)](0x1,Math[_0x19c1f8(0x25f)](_0x19e004,Math[_0x19c1f8(0x223)](_0xdc9dc9[_0x19c1f8(0xd9)])));}function _0x700e74(_0x461d21,_0x577a65){const _0x1f471f=_0x2bfb9d;if(_0x577a65<=0x7)return Array['from']({'length':_0x577a65},function(_0x285b4d,_0x4fc4bc){return _0x4fc4bc+0x1;});const _0x376806=[0x1],_0x47b9fb=Math[_0x1f471f(0x2b0)](0x2,_0x461d21-0x1),_0x17848d=Math[_0x1f471f(0x25f)](_0x577a65-0x1,_0x461d21+0x1);_0x47b9fb>0x2&&_0x376806[_0x1f471f(0x2a8)](_0x1f471f(0x103));for(let _0x462afe=_0x47b9fb;_0x462afe<=_0x17848d;_0x462afe+=0x1)_0x376806[_0x1f471f(0x2a8)](_0x462afe);return _0x17848d<_0x577a65-0x1&&_0x376806['push']('...'),_0x376806[_0x1f471f(0x2a8)](_0x577a65),_0x376806;}function _0xdb8ade(_0x55eeae,_0x5e1c0d,_0x4356eb){const _0x16b7ae=_0x2bfb9d;if(!_0x3e7139[_0x16b7ae(0x10c)])return;if(!_0xdc9dc9[_0x16b7ae(0x222)]||!_0x55eeae){_0x3e7139[_0x16b7ae(0x10c)][_0x16b7ae(0x1a0)]=!0x0,_0x3e7139[_0x16b7ae(0x294)]&&(_0x3e7139[_0x16b7ae(0x294)][_0x16b7ae(0x1b5)]=''),_0x3e7139['poolPageNumbers']&&(_0x3e7139[_0x16b7ae(0xb1)]['innerHTML']='');return;}const _0x4d3be3=_0x20e38f();_0x368040();const _0x3fdfd4=_0x700e74(_0xdc9dc9['poolPage'],_0x4d3be3);_0x3e7139[_0x16b7ae(0x10c)][_0x16b7ae(0x1a0)]=!0x1,_0x3e7139[_0x16b7ae(0x274)]&&(_0x3e7139[_0x16b7ae(0x274)][_0x16b7ae(0xc1)]=_0xdc9dc9[_0x16b7ae(0xd9)]<=0x1),_0x3e7139[_0x16b7ae(0x268)]&&(_0x3e7139['poolPageNext']['disabled']=_0xdc9dc9[_0x16b7ae(0xd9)]>=_0x4d3be3),_0x3e7139[_0x16b7ae(0x294)]&&(_0x3e7139[_0x16b7ae(0x294)]['textContent']=_0x16b7ae(0x2a9)+String(_0x5e1c0d)+'-'+String(_0x4356eb)+_0x16b7ae(0xdd)+String(_0x55eeae)+'\x20accounts'),_0x3e7139['poolPageNumbers']&&(_0x3e7139[_0x16b7ae(0xb1)][_0x16b7ae(0xee)]=_0x3fdfd4[_0x16b7ae(0x16d)](function(_0x21dd12){const _0x2190d8=_0x16b7ae;if(_0x21dd12===_0x2190d8(0x103))return _0x2190d8(0x1b3);const _0x49f9f4=Number(_0x21dd12),_0x296e06=_0x49f9f4===_0xdc9dc9[_0x2190d8(0xd9)];return _0x2190d8(0x29c)+(_0x296e06?_0x2190d8(0x153):'')+_0x2190d8(0x1fe)+String(_0x49f9f4)+'\x22'+(_0x296e06?_0x2190d8(0x152):'')+'>'+String(_0x49f9f4)+_0x2190d8(0x132);})[_0x16b7ae(0xa7)](''));}function _0x1eec7f(_0x1875a2){const _0x1e388c=_0x2bfb9d,_0x515b2f=Number(_0x1875a2);Number[_0x1e388c(0x1aa)](_0x515b2f)&&(_0xdc9dc9[_0x1e388c(0xd9)]=Math[_0x1e388c(0x223)](_0x515b2f),_0x368040(),_0x187320());}function _0x32d149(_0x9d4c51){return Math['max'](0x1,Math['ceil'](_0x9d4c51/_0x53fc68));}function _0x2b1a65(_0x38a915){const _0x55c042=_0x2bfb9d,_0x13a6dd=_0x32d149(_0x38a915);Number[_0x55c042(0x1aa)](_0xdc9dc9[_0x55c042(0xcf)])||(_0xdc9dc9[_0x55c042(0xcf)]=0x1),_0xdc9dc9[_0x55c042(0xcf)]=Math['max'](0x1,Math[_0x55c042(0x25f)](_0x13a6dd,Math[_0x55c042(0x223)](_0xdc9dc9[_0x55c042(0xcf)])));}function _0x22e57b(_0x3c8c34,_0x2bf2e2,_0x18afcf){const _0x286b94=_0x2bfb9d;if(!_0x3e7139['usersPagination'])return;if(!_0x3c8c34){_0x3e7139[_0x286b94(0x208)]['hidden']=!0x0,_0x3e7139[_0x286b94(0x14a)]&&(_0x3e7139[_0x286b94(0x14a)][_0x286b94(0x1b5)]=''),_0x3e7139[_0x286b94(0x1c8)]&&(_0x3e7139[_0x286b94(0x1c8)][_0x286b94(0xee)]='');return;}const _0x5e4029=_0x32d149(_0x3c8c34);_0x2b1a65(_0x3c8c34);const _0x1efc82=_0x700e74(_0xdc9dc9[_0x286b94(0xcf)],_0x5e4029);_0x3e7139[_0x286b94(0x208)][_0x286b94(0x1a0)]=!0x1,_0x3e7139[_0x286b94(0x108)]&&(_0x3e7139[_0x286b94(0x108)][_0x286b94(0xc1)]=_0xdc9dc9[_0x286b94(0xcf)]<=0x1),_0x3e7139[_0x286b94(0xeb)]&&(_0x3e7139[_0x286b94(0xeb)][_0x286b94(0xc1)]=_0xdc9dc9[_0x286b94(0xcf)]>=_0x5e4029),_0x3e7139[_0x286b94(0x14a)]&&(_0x3e7139[_0x286b94(0x14a)][_0x286b94(0x1b5)]=_0x286b94(0x2a9)+String(_0x2bf2e2)+'-'+String(_0x18afcf)+_0x286b94(0xdd)+String(_0x3c8c34)+_0x286b94(0x226)),_0x3e7139[_0x286b94(0x1c8)]&&(_0x3e7139['usersPageNumbers'][_0x286b94(0xee)]=_0x1efc82[_0x286b94(0x16d)](function(_0x5e5cb9){const _0xbf91fd=_0x286b94;if(_0x5e5cb9===_0xbf91fd(0x103))return _0xbf91fd(0x1b3);const _0x33e50b=Number(_0x5e5cb9),_0x28abd2=_0x33e50b===_0xdc9dc9[_0xbf91fd(0xcf)];return _0xbf91fd(0x29c)+(_0x28abd2?_0xbf91fd(0x153):'')+_0xbf91fd(0x298)+String(_0x33e50b)+'\x22'+(_0x28abd2?'\x20aria-current=\x22page\x22':'')+'>'+String(_0x33e50b)+_0xbf91fd(0x132);})[_0x286b94(0xa7)](''));}function _0x380a3c(_0x17cc84){const _0x3f3871=_0x2bfb9d,_0x2dea5a=Number(_0x17cc84);Number[_0x3f3871(0x1aa)](_0x2dea5a)&&(_0xdc9dc9[_0x3f3871(0xcf)]=Math[_0x3f3871(0x223)](_0x2dea5a),_0x217ada());}function _0x4ed47f(_0x56a224){const _0x373e3c=_0x2bfb9d,_0xeb08dc=String(_0x56a224||'')[_0x373e3c(0x1dc)]();return _0xeb08dc&&_0xdc9dc9[_0x373e3c(0x291)]['find'](function(_0x3701db){return String(_0x3701db['id']||'')===_0xeb08dc;})||null;}function _0x2f8211(_0x3682d0){const _0x430463=_0x2bfb9d,_0x13e2ca=String(_0x3682d0||'')[_0x430463(0x1dc)]();if(!_0x13e2ca)return'';const _0x35b881=String(_0xdc9dc9[_0x430463(0x26c)][_0x13e2ca]||'')[_0x430463(0x1dc)]();if(!_0x35b881)return'';const _0x4e4800=_0xdc9dc9[_0x430463(0x2a7)][_0x430463(0x238)](function(_0x18e88f){return String(_0x18e88f&&_0x18e88f['id']||'')===_0x35b881;});return _0x4e4800&&_0x4e4800[_0x430463(0x20a)]===_0x430463(0x1bd)?_0x35b881:'';}function _0x3fa9cd(_0x14d856){const _0x3a7264=_0x2bfb9d;return String(_0x14d856||'')===String(_0xdc9dc9['context']&&_0xdc9dc9[_0x3a7264(0x111)][_0x3a7264(0x15e)]&&_0xdc9dc9[_0x3a7264(0x111)][_0x3a7264(0x15e)]['id']||'')?_0x3a7264(0x1c0):_0x3a7264(0x22c);}function _0x3eef74(_0x55f2e6){const _0x1d058e=_0x2bfb9d,_0x2d39d4=_0x55f2e6&&_0x55f2e6[_0x1d058e(0x22f)](_0x1d058e(0x247));if(!_0x2d39d4)return null;const _0x4d7f39=_0x55f2e6[_0x1d058e(0xb9)](_0x1d058e(0x12f)),_0x4eee57=_0x55f2e6[_0x1d058e(0xb9)](_0x1d058e(0xcb)),_0xae8589=_0x55f2e6[_0x1d058e(0xb9)](_0x1d058e(0xc8));return{'userId':String(_0x2d39d4||'')['trim'](),'role':String(_0x4d7f39&&_0x4d7f39[_0x1d058e(0xa1)]||_0x1d058e(0x15e))[_0x1d058e(0x1dc)]()||_0x1d058e(0x15e),'status':String(_0x4eee57&&_0x4eee57[_0x1d058e(0xa1)]||_0x1d058e(0x1bd))[_0x1d058e(0x1dc)]()||_0x1d058e(0x1bd),'selectedPoolId':String(_0xae8589&&_0xae8589['value']||'')[_0x1d058e(0x1dc)]()};}function _0x2835f5(_0x5e61ec){const _0x5b86df=_0x2bfb9d;if(!_0x5e61ec||!_0x5e61ec['userId'])return!0x1;const _0x54b3e4=_0x4ed47f(_0x5e61ec[_0x5b86df(0x2ae)]);if(!_0x54b3e4)return!0x1;const _0x27bc9c=String(_0x54b3e4[_0x5b86df(0x1b6)]||_0x5b86df(0x15e)),_0xc5759a=String(_0x54b3e4[_0x5b86df(0x20a)]||_0x5b86df(0x1bd))==='inactive'?_0x5b86df(0x165):_0x5b86df(0x1bd),_0x53b3c1=_0x2f8211(_0x5e61ec[_0x5b86df(0x2ae)]);return _0x5e61ec[_0x5b86df(0x1b6)]!==_0x27bc9c||_0x5e61ec[_0x5b86df(0x20a)]!==_0xc5759a||_0x5e61ec[_0x5b86df(0x1b8)]!==_0x53b3c1;}function _0x25c38a(_0x36f4be,_0x50bb33){const _0x1377da=_0x2bfb9d,_0x1a6b4a=String(_0x36f4be||'')['trim']();_0x1a6b4a&&(_0x50bb33?_0xdc9dc9[_0x1377da(0x215)][_0x1377da(0x19f)](_0x1a6b4a):_0xdc9dc9['dirtyUserIds'][_0x1377da(0x11e)](_0x1a6b4a));}function _0xe711a9(_0x13e867,_0x493f7f){const _0x145a47=_0x2bfb9d;_0x13e867&&_0x13e867[_0x145a47(0x190)][_0x145a47(0x28d)]('is-user-dirty',!!_0x493f7f);}function _0x5b530c(){const _0x169737=_0x2bfb9d,_0xc8c5f9=_0xdc9dc9[_0x169737(0x215)][_0x169737(0xd2)];if(_0x3e7139[_0x169737(0x14f)]&&(_0x3e7139['usersSaveSummary'][_0x169737(0x1b5)]=_0xc8c5f9?String(_0xc8c5f9)+_0x169737(0x1e1)+(_0xc8c5f9===0x1?'':'s'):_0x169737(0x28c)),_0x3e7139[_0x169737(0x24b)]){if(_0xdc9dc9[_0x169737(0xfc)]){_0x3e7139[_0x169737(0x24b)][_0x169737(0xc1)]=!0x0,_0x3e7139[_0x169737(0x24b)]['textContent']=_0x169737(0x1c1);return;}_0x3e7139[_0x169737(0x24b)][_0x169737(0xc1)]=_0xc8c5f9===0x0,_0x3e7139[_0x169737(0x24b)][_0x169737(0x1b5)]='Save\x20All\x20Changes';}}function _0x45eca9(){const _0x29ba5b=_0x2bfb9d;if(!_0x3e7139[_0x29ba5b(0x15b)]){_0x5b530c();return;}const _0x27e506=Array[_0x29ba5b(0x21b)](_0x3e7139[_0x29ba5b(0x15b)][_0x29ba5b(0x29a)](_0x29ba5b(0xab))),_0x2b7df0=new Set();_0x27e506['forEach'](function(_0x4c2da1){const _0x3079b2=_0x29ba5b,_0xd72b2f=_0x3eef74(_0x4c2da1);if(!_0xd72b2f||!_0xd72b2f[_0x3079b2(0x2ae)])return;_0x2b7df0[_0x3079b2(0x19f)](_0xd72b2f[_0x3079b2(0x2ae)]);const _0x5e3905=_0xdc9dc9[_0x3079b2(0x215)][_0x3079b2(0x28a)](_0xd72b2f[_0x3079b2(0x2ae)])&&_0x2835f5(_0xd72b2f);_0x25c38a(_0xd72b2f[_0x3079b2(0x2ae)],_0x5e3905),_0xe711a9(_0x4c2da1,_0x5e3905);const _0x3ae60c=_0x4c2da1[_0x3079b2(0xb9)](_0x3079b2(0x1ac));_0x3ae60c&&(_0x3ae60c[_0x3079b2(0x1b5)]=_0x3fa9cd(_0xd72b2f['userId']),_0x3ae60c[_0x3079b2(0xc1)]=!0x1);}),Array[_0x29ba5b(0x21b)](_0xdc9dc9[_0x29ba5b(0x215)])[_0x29ba5b(0x23d)](function(_0x2a9803){const _0x5365f5=_0x29ba5b;_0x2b7df0['has'](_0x2a9803)||_0xdc9dc9[_0x5365f5(0x215)][_0x5365f5(0x11e)](_0x2a9803);}),_0x5b530c();}function _0x26c93e(){const _0x2aa00d=_0x2bfb9d;if(!_0x3e7139[_0x2aa00d(0xe4)])return;if(!_0xdc9dc9[_0x2aa00d(0x222)]){_0x3e7139[_0x2aa00d(0xe4)][_0x2aa00d(0x1b5)]='Pool\x20schema\x20missing.\x20Run\x20the\x20latest\x20supabase_schema.sql\x20migration\x20to\x20enable\x20pooled\x20account\x20routing.';return;}const _0x2ed7dd=_0x361d68(),_0x2ccd4a=_0xdc9dc9['poolAccounts'][_0x2aa00d(0xff)](function(_0x3c852d){const _0x26f436=_0x2aa00d;return _0x3c852d['status']===_0x26f436(0x1bd);}),_0x324a37=_0x2ccd4a[_0x2aa00d(0x2b1)](function(_0x1616d4,_0x17625d){const _0x43da65=_0x2aa00d;return _0x1616d4+Number(_0x17625d[_0x43da65(0x251)]||_0xcb6f58);},0x0),_0x790cab=Object[_0x2aa00d(0x192)](_0xdc9dc9[_0x2aa00d(0x26c)])[_0x2aa00d(0xff)](function(_0x43cec0){return!!_0xdc9dc9['poolAssignments'][_0x43cec0];})[_0x2aa00d(0x196)],_0x5a3831=Object['keys'](_0x2ed7dd)[_0x2aa00d(0x2b1)](function(_0x46d2c3,_0x22f724){return _0x46d2c3+Number(_0x2ed7dd[_0x22f724]||0x0);},0x0),_0x4c9262=_0xdc9dc9['users']['filter'](function(_0x51c2d7){const _0x5ca046=_0x2aa00d;return String(_0x51c2d7[_0x5ca046(0x20a)]||_0x5ca046(0x1bd))===_0x5ca046(0x165)?!0x1:!_0xdc9dc9[_0x5ca046(0x26c)][String(_0x51c2d7['id']||'')];})[_0x2aa00d(0x196)];if(!_0xdc9dc9['poolAccounts'][_0x2aa00d(0x196)]){_0x3e7139[_0x2aa00d(0xe4)]['textContent']='No\x20pool\x20accounts\x20yet.\x20Import\x20account_pool.json\x20data\x20to\x20enable\x20capacity-based\x20routing.';return;}_0x3e7139[_0x2aa00d(0xe4)][_0x2aa00d(0x1b5)]=_0x2ccd4a[_0x2aa00d(0x196)]+_0x2aa00d(0x151)+_0x324a37+_0x2aa00d(0x23f)+_0x5a3831+'\x20active\x20users\x20assigned\x20('+_0x790cab+'\x20total\x20assignments).\x20'+(_0x4c9262?_0x4c9262+_0x2aa00d(0x187):'All\x20active\x20users\x20are\x20assigned.');}function _0x187320(){const _0xe97522=_0x2bfb9d;if(!_0x3e7139['poolTableBody'])return;if(!_0xdc9dc9[_0xe97522(0x222)]){_0x3e7139[_0xe97522(0x164)][_0xe97522(0xee)]=_0xe97522(0xd6),_0xdb8ade(0x0,0x0,0x0);return;}if(!_0xdc9dc9[_0xe97522(0x2a7)][_0xe97522(0x196)]){_0x3e7139[_0xe97522(0x164)][_0xe97522(0xee)]=_0xe97522(0x24a),_0xdb8ade(0x0,0x0,0x0);return;}const _0x556235=_0x361d68(),_0x5bd3d0=_0xdc9dc9[_0xe97522(0x2a7)][_0xe97522(0x196)];_0x368040();const _0x37b8c9=(_0xdc9dc9[_0xe97522(0xd9)]-0x1)*_0x4ee5ef,_0x584214=Math['min'](_0x37b8c9+_0x4ee5ef,_0x5bd3d0),_0x2fef77=_0xdc9dc9[_0xe97522(0x2a7)][_0xe97522(0x27d)](_0x37b8c9,_0x584214);_0x3e7139[_0xe97522(0x164)][_0xe97522(0xee)]=_0x2fef77[_0xe97522(0x16d)](function(_0x55bc80,_0x1402a7){const _0x660337=_0xe97522,_0x1e96e0=_0x1ae8b8[_0x660337(0x9f)](String(_0x55bc80['id']||'')),_0x2548d9=Number(_0x556235[_0x55bc80['id']]||0x0),_0x2c2d6d=Number(_0x55bc80[_0x660337(0x251)]||_0xcb6f58),_0x2c9738=_0x55bc80[_0x660337(0x20a)]===_0x660337(0x165)?'Inactive':_0x660337(0x1ea),_0x4925f2=_0x314539(_0x55bc80[_0x660337(0x25d)]),_0x3b93dd=_0x55bc80[_0x660337(0x204)]?'Expires\x20'+_0x1ae8b8['formatDateTime'](_0x55bc80[_0x660337(0x204)]):_0x660337(0x18e),_0xcc50ae=_0x3ea91b(_0x55bc80,_0x37b8c9+_0x1402a7+0x1);return['<tr\x20data-pool-id=\x22'+_0x1e96e0+'\x22>',_0x660337(0x146)+_0x1ae8b8[_0x660337(0x9f)](_0x55bc80[_0x660337(0x21e)]||'Pool\x20account')+_0x660337(0x181)+_0x1ae8b8[_0x660337(0x9f)](_0xcc50ae?'#'+String(_0xcc50ae):'-')+_0x660337(0x231),_0x660337(0x146)+_0x1ae8b8[_0x660337(0x9f)](_0x55bc80[_0x660337(0x148)]||'-')+'</strong><span\x20class=\x22mono-copy\x22>'+_0x1ae8b8[_0x660337(0x9f)](String(_0x55bc80['id']||'')[_0x660337(0x27d)](0x0,0x8))+_0x660337(0x231),_0x660337(0x146)+String(_0x2548d9)+'/'+String(_0x2c2d6d)+_0x660337(0x1a8),_0x660337(0x1d1)+_0x1ae8b8[_0x660337(0x9f)](_0x4925f2)+_0x660337(0x1fd)+_0x1ae8b8[_0x660337(0x9f)](_0x3b93dd)+_0x660337(0x231),_0x660337(0x296)+_0x1ae8b8[_0x660337(0x9f)](_0x55bc80['status'])+'\x22>'+_0x1ae8b8[_0x660337(0x9f)](_0x2c9738)+_0x660337(0x231),_0x660337(0x1fc)][_0x660337(0xa7)]('');})['join'](''),_0xdb8ade(_0x5bd3d0,_0x37b8c9+0x1,_0x584214);}async function _0xba02e9(){const _0x2ca479=_0x2bfb9d,_0x294a8b={};_0x294a8b[_0x2ca479(0x14b)]=!0x0;const _0xd5e674={};_0xd5e674[_0x2ca479(0x14b)]=!0x0;const _0x136c7d=await _0x1a4e5a['from'](_0x2ca479(0xd4))['select']('*')['order']('created_at',_0x294a8b)[_0x2ca479(0x220)](_0x2ca479(0x148),_0xd5e674);if(_0x136c7d['error']){if(_0x5cf9bf(_0x136c7d['error'])){_0xdc9dc9[_0x2ca479(0x222)]=!0x1,_0xdc9dc9[_0x2ca479(0x2a7)]=[];return;}throw new Error(_0x136c7d[_0x2ca479(0x1d6)][_0x2ca479(0x119)]||_0x2ca479(0x1ce));}_0xdc9dc9[_0x2ca479(0x222)]=!0x0,_0xdc9dc9[_0x2ca479(0x2a7)]=(Array['isArray'](_0x136c7d[_0x2ca479(0x261)])?_0x136c7d[_0x2ca479(0x261)]:[])[_0x2ca479(0x16d)](_0xef8bd6)[_0x2ca479(0xff)](function(_0x25603e){return _0x25603e['id'];})['sort'](function(_0x508c45,_0x3f8b77){const _0x11f598=_0x2ca479,_0x458b84=_0x39cf56(_0x508c45&&_0x508c45[_0x11f598(0x21e)]),_0x57570d=_0x39cf56(_0x3f8b77&&_0x3f8b77[_0x11f598(0x21e)]);if(Number[_0x11f598(0x1aa)](_0x458b84)&&Number['isFinite'](_0x57570d)&&_0x458b84!==_0x57570d)return _0x458b84-_0x57570d;if(Number[_0x11f598(0x1aa)](_0x458b84)&&!Number[_0x11f598(0x1aa)](_0x57570d))return-0x1;if(!Number[_0x11f598(0x1aa)](_0x458b84)&&Number[_0x11f598(0x1aa)](_0x57570d))return 0x1;const _0x3d41e7=String(_0x508c45&&_0x508c45[_0x11f598(0x21e)]||''),_0x34e885=String(_0x3f8b77&&_0x3f8b77[_0x11f598(0x21e)]||''),_0x2cf718=_0x3d41e7[_0x11f598(0xe7)](_0x34e885);return _0x2cf718!==0x0?_0x2cf718:String(_0x508c45&&_0x508c45[_0x11f598(0x148)]||'')[_0x11f598(0xe7)](String(_0x3f8b77&&_0x3f8b77[_0x11f598(0x148)]||''));});}async function _0x159401(){const _0xd5c5e2=_0x2bfb9d,_0x319e23=await _0x1a4e5a[_0xd5c5e2(0x21b)]('profile_gateway_pool_assignments')[_0xd5c5e2(0x1df)](_0xd5c5e2(0x276));if(_0x319e23[_0xd5c5e2(0x1d6)]){if(_0x5cf9bf(_0x319e23[_0xd5c5e2(0x1d6)])){_0xdc9dc9['poolSchemaReady']=!0x1,_0xdc9dc9[_0xd5c5e2(0x26c)]={};return;}throw new Error(_0x319e23['error'][_0xd5c5e2(0x119)]||'Unable\x20to\x20load\x20pool\x20assignments.');}_0xdc9dc9[_0xd5c5e2(0x222)]=!0x0,_0xdc9dc9[_0xd5c5e2(0x26c)]=_0x1d1b37(_0x319e23['data']);}async function _0x387623(){await Promise['all']([_0xba02e9(),_0x159401()]),_0x26c93e(),_0x187320(),_0x217ada();}function _0x217ada(){const _0x48870e=_0x2bfb9d;if(!_0x3e7139[_0x48870e(0x15b)])return;const _0x22a4eb=_0xdc9dc9[_0x48870e(0xd0)]?_0xdc9dc9[_0x48870e(0x291)][_0x48870e(0xff)](function(_0x2adc31){const _0x1cb713=_0x48870e;return[_0x2adc31[_0x1cb713(0x224)],_0x2adc31[_0x1cb713(0x148)]][_0x1cb713(0xa7)]('\x20')['toLowerCase']()[_0x1cb713(0x106)](_0xdc9dc9[_0x1cb713(0xd0)]);}):_0xdc9dc9[_0x48870e(0x291)],_0x13286f=_0x361d68(),_0x4d43f6=_0xdc9dc9[_0x48870e(0x222)]&&_0xdc9dc9['poolAccounts'][_0x48870e(0x196)],_0x2cfaff={};if(_0xdc9dc9[_0x48870e(0x2a7)]['forEach'](function(_0x173fc7,_0x7c9a12){const _0x15e4b4=_0x48870e,_0x185cba=String(_0x173fc7&&_0x173fc7['id']||'')[_0x15e4b4(0x1dc)]();_0x185cba&&(_0x2cfaff[_0x185cba]=_0x3ea91b(_0x173fc7,_0x7c9a12+0x1));}),!_0x22a4eb['length']){_0x3e7139['usersTableBody']['innerHTML']=_0x48870e(0x293),_0xdc9dc9[_0x48870e(0x215)][_0x48870e(0x17d)](),_0x22e57b(0x0,0x0,0x0),_0x5b530c();return;}const _0x1a7a10=_0x22a4eb[_0x48870e(0x196)];_0x2b1a65(_0x1a7a10);const _0x845d1e=(_0xdc9dc9['userPage']-0x1)*_0x53fc68,_0x477abf=Math[_0x48870e(0x25f)](_0x845d1e+_0x53fc68,_0x1a7a10),_0x3ab73c=_0x22a4eb[_0x48870e(0x27d)](_0x845d1e,_0x477abf);_0x3e7139[_0x48870e(0x15b)][_0x48870e(0xee)]=_0x3ab73c[_0x48870e(0x16d)](function(_0x2623fb){const _0x13779c=_0x48870e,_0x2e9feb=_0x2623fb['id']===_0xdc9dc9[_0x13779c(0x111)][_0x13779c(0x15e)]['id'],_0x3230b=String(_0x2623fb['id']||''),_0x116d07=String(_0xdc9dc9[_0x13779c(0x26c)][_0x3230b]||''),_0x19f7db=_0xdc9dc9[_0x13779c(0x2a7)][_0x13779c(0x238)](function(_0x14515e){return _0x14515e['id']===_0x116d07;}),_0x4bcbf9=_0x19f7db&&_0x19f7db[_0x13779c(0x20a)]===_0x13779c(0x1bd)?_0x116d07:'',_0x66587c=[_0x13779c(0xda)];return _0xdc9dc9['poolSchemaReady']?_0xdc9dc9[_0x13779c(0x2a7)]['forEach'](function(_0x1b28bb){const _0x17d569=_0x13779c,_0x3c3770=_0x2d2c18(_0x1b28bb,_0x13286f[_0x1b28bb['id']]||0x0,_0x2cfaff[_0x1b28bb['id']]),_0x5f0fae=_0x1b28bb['id']===_0x4bcbf9?_0x17d569(0x20e):'',_0x926e3f=_0x1b28bb[_0x17d569(0x20a)]!==_0x17d569(0x1bd)?_0x17d569(0x2b4):'';_0x66587c[_0x17d569(0x2a8)](_0x17d569(0xb6)+_0x1ae8b8['escapeHtml'](_0x1b28bb['id'])+'\x22'+_0x5f0fae+_0x926e3f+'>'+_0x1ae8b8[_0x17d569(0x9f)](_0x3c3770)+_0x17d569(0x12e));}):_0x66587c[_0x13779c(0x2a8)]('<option\x20value=\x22\x22\x20disabled>Schema\x20update\x20required</option>'),[_0x13779c(0xef)+_0x1ae8b8[_0x13779c(0x9f)](_0x2623fb['id'])+'\x22>',_0x13779c(0x146)+_0x1ae8b8['escapeHtml'](_0x2623fb['display_name']||_0x13779c(0xaa))+_0x13779c(0x1a3)+_0x1ae8b8[_0x13779c(0x9f)](_0x2623fb[_0x13779c(0x148)]||'-')+_0x13779c(0x231),_0x13779c(0x248),_0x13779c(0xf8)+(_0x2e9feb?_0x13779c(0xc1):'')+'>',_0x13779c(0xbe)+(_0x2623fb['role']===_0x13779c(0x15e)?_0x13779c(0x20e):'')+_0x13779c(0x189),_0x13779c(0x257)+(_0x2623fb[_0x13779c(0x1b6)]===_0x13779c(0x233)?_0x13779c(0x20e):'')+_0x13779c(0x28b),_0x13779c(0x288),_0x13779c(0xd8),_0x13779c(0x248),'<select\x20class=\x22user-select\x22\x20data-user-status\x20'+(_0x2e9feb?_0x13779c(0xc1):'')+'>',_0x13779c(0x244)+(_0x2623fb[_0x13779c(0x20a)]!==_0x13779c(0x165)?_0x13779c(0x20e):'')+_0x13779c(0x13b),_0x13779c(0x1f0)+(_0x2623fb[_0x13779c(0x20a)]===_0x13779c(0x165)?_0x13779c(0x20e):'')+_0x13779c(0x1a5),_0x13779c(0x288),_0x13779c(0xd8),_0x13779c(0x248),_0x13779c(0x232)+(_0xdc9dc9[_0x13779c(0x222)]?'':'disabled')+'>',_0x66587c['join'](''),_0x13779c(0x288),_0x4d43f6?_0x13779c(0x287)+_0x1ae8b8[_0x13779c(0x9f)](_0x4bcbf9?'Manual/auto\x20pool':_0x13779c(0xa4))+_0x13779c(0xa5):'<span\x20class=\x22mono-copy\x22>'+_0x1ae8b8['escapeHtml'](_0xdc9dc9[_0x13779c(0x222)]?_0x13779c(0x25b):_0x13779c(0x278))+'</span>',_0x13779c(0xd8),'<td>'+_0x1ae8b8[_0x13779c(0x9f)](_0x1ae8b8[_0x13779c(0x1e9)](_0x2623fb[_0x13779c(0x173)]))+_0x13779c(0xd8),_0x13779c(0x248),_0x13779c(0xdb)+(_0x2e9feb?_0x13779c(0x1c0):_0x13779c(0x22c))+_0x13779c(0x132),_0x2e9feb?_0x13779c(0x11b):'',_0x13779c(0xd8),'</tr>']['join']('');})[_0x48870e(0xa7)](''),_0x22e57b(_0x1a7a10,_0x845d1e+0x1,_0x477abf),_0x45eca9();}function _0x23a915(_0x372ed0){const _0x1c2a72=_0x2bfb9d,_0x483898=new Set();return(Array[_0x1c2a72(0xdc)](_0x372ed0)?_0x372ed0:[])[_0x1c2a72(0x16d)](function(_0x5cbfc7){const _0x10334b=_0x1c2a72;return String(_0x5cbfc7||'')[_0x10334b(0x1dc)]();})['filter'](function(_0x4e0d81){const _0x46c901=_0x1c2a72;return!_0x4e0d81||_0x483898[_0x46c901(0x28a)](_0x4e0d81)?!0x1:(_0x483898[_0x46c901(0x19f)](_0x4e0d81),!0x0);});}function _0x2fcfa3(_0x25b96e,_0x536ba2){const _0x10b045=_0x2bfb9d,_0x5a11bd=String(_0x25b96e||'')['trim']()['toLowerCase']()[_0x10b045(0x1a6)](/[^a-z0-9_-]+/g,'-')[_0x10b045(0x1a6)](/-{2,}/g,'-')[_0x10b045(0x1a6)](/^-+|-+$/g,'');return _0x5a11bd||(_0x536ba2===0x0?'assistant':_0x10b045(0x289)+String(_0x536ba2+0x1));}function _0x242e84(_0x1ecd9c){const _0x55b35d=_0x2bfb9d,_0x39f68f=Array['isArray'](_0x1ecd9c)?_0x1ecd9c:[],_0x5799fd=new Set(),_0x2efbe3=[],_0x4d84b7={};return _0x4d84b7['id']=_0x55b35d(0x1f2),_0x4d84b7['name']=_0x55b35d(0x1bb),_0x4d84b7[_0x55b35d(0x149)]='',(_0x39f68f[_0x55b35d(0x23d)](function(_0x10dc9b,_0x2672d4){const _0x340217=_0x55b35d,_0x2a0382=_0x10dc9b&&typeof _0x10dc9b==_0x340217(0xea)?_0x10dc9b:{},_0xa5d6a5=_0x2fcfa3(_0x2a0382['id'],_0x2672d4);let _0x56504b=_0xa5d6a5,_0x1170ae=0x2;for(;_0x5799fd[_0x340217(0x28a)](_0x56504b);)_0x56504b=_0xa5d6a5+'-'+String(_0x1170ae),_0x1170ae+=0x1;_0x5799fd[_0x340217(0x19f)](_0x56504b);const _0x56877a=_0x2672d4===0x0?_0x340217(0x1bb):_0x340217(0x20f)+String(_0x2672d4+0x1),_0x5402cf=String(_0x2a0382['name']||_0x2a0382[_0x340217(0x21e)]||'')[_0x340217(0x1dc)]()||_0x56877a,_0x696896=typeof _0x2a0382[_0x340217(0x149)]==_0x340217(0x130)?_0x2a0382[_0x340217(0x149)]:typeof _0x2a0382[_0x340217(0x1e2)]==_0x340217(0x130)?_0x2a0382[_0x340217(0x1e2)]:'',_0x1d9b7e={};_0x1d9b7e['id']=_0x56504b,_0x1d9b7e[_0x340217(0x299)]=_0x5402cf,_0x1d9b7e[_0x340217(0x149)]=_0x696896,_0x2efbe3[_0x340217(0x2a8)](_0x1d9b7e);}),_0x2efbe3[_0x55b35d(0x196)]||_0x2efbe3[_0x55b35d(0x2a8)](_0x4d84b7),_0x2efbe3);}function _0x443171(_0x4255bb){const _0x4bf20a=_0x2bfb9d,_0x38a8d6=_0x242e84(_0x4255bb||_0xdc9dc9[_0x4bf20a(0x262)]);if(!_0x3e7139['botOptions'])return _0x38a8d6;const _0x216920=Array['from'](_0x3e7139[_0x4bf20a(0x1f9)][_0x4bf20a(0x29a)](_0x4bf20a(0x20c)));if(!_0x216920['length'])return _0x38a8d6;const _0x3eb37a=_0x216920['map'](function(_0x5c7a9e,_0x1be4db){const _0x5df8a6=_0x4bf20a,_0x5287e4=String(_0x5c7a9e[_0x5df8a6(0x22f)]('data-bot-id')||'')[_0x5df8a6(0x1dc)](),_0x56fb88=_0x5c7a9e['querySelector'](_0x5df8a6(0x285)),_0xb3553c=_0x5c7a9e[_0x5df8a6(0xb9)](_0x5df8a6(0x221));return{'id':_0x5287e4||(_0x1be4db===0x0?_0x5df8a6(0x1f2):_0x5df8a6(0x289)+String(_0x1be4db+0x1)),'name':_0x56fb88?String(_0x56fb88[_0x5df8a6(0xa1)]||'')['trim']():'','system_prompt':_0xb3553c?String(_0xb3553c[_0x5df8a6(0xa1)]||''):''};});return _0x242e84(_0x3eb37a);}function _0x47e18c(_0x354eba){const _0xdc79ac=_0x2bfb9d;_0x3e7139['bots']&&(_0x3e7139['bots'][_0xdc79ac(0xa1)]=JSON['stringify'](_0x354eba,null,0x2));}function _0x4c856b(){const _0xeabaa3=_0x2bfb9d;if(!_0x3e7139[_0xeabaa3(0x1c7)])return;const _0x2f6297=Array['isArray'](_0xdc9dc9[_0xeabaa3(0x262)])?_0xdc9dc9[_0xeabaa3(0x262)][_0xeabaa3(0x196)]:0x0;if(!_0x2f6297){_0x3e7139[_0xeabaa3(0x1c7)]['textContent']=_0xeabaa3(0x275);return;}_0x3e7139[_0xeabaa3(0x1c7)][_0xeabaa3(0x1b5)]=_0x2f6297===0x1?_0xeabaa3(0x168):String(_0x2f6297)+_0xeabaa3(0x167);}function _0x5c5725(){const _0x144f3d=_0x2bfb9d;if(!_0x3e7139[_0x144f3d(0x1f9)])return;const _0x247489=Array[_0x144f3d(0xdc)](_0xdc9dc9['botsDraft'])?_0xdc9dc9[_0x144f3d(0x262)]:[];if(!_0x247489[_0x144f3d(0x196)]){_0x3e7139[_0x144f3d(0x1f9)]['innerHTML']='<div\x20class=\x22bot-option-empty\x22>No\x20bots\x20yet.\x20Add\x20one\x20to\x20continue.</div>',_0x47e18c([]),_0x4c856b();return;}_0x3e7139['botOptions']['innerHTML']=_0x247489[_0x144f3d(0x16d)](function(_0x6d99c9,_0x3107a4){const _0x2ff491=_0x144f3d,_0x1d9e1f=_0x247489[_0x2ff491(0x196)]>0x1;return[_0x2ff491(0x2ad)+_0x1ae8b8[_0x2ff491(0x9f)](_0x6d99c9['id'])+'\x22>','<div\x20class=\x22bot-option-head\x22>','<span\x20class=\x22bot-option-id\x22>'+_0x1ae8b8['escapeHtml'](_0x6d99c9['id'])+_0x2ff491(0xa5),'<button\x20class=\x22bot-option-remove\x22\x20type=\x22button\x22\x20data-bot-remove=\x22'+_0x1ae8b8[_0x2ff491(0x9f)](_0x6d99c9['id'])+'\x22'+(_0x1d9e1f?'':_0x2ff491(0x2b4))+_0x2ff491(0x135),'</div>','<div\x20class=\x22bot-option-controls\x22>',_0x2ff491(0x145)+_0x1ae8b8[_0x2ff491(0x9f)](_0x6d99c9[_0x2ff491(0x299)])+_0x2ff491(0x1de),_0x2ff491(0xaf)+_0x1ae8b8['escapeHtml'](_0x6d99c9[_0x2ff491(0x149)]||'')+_0x2ff491(0xf3),_0x2ff491(0x175),_0x2ff491(0x184)][_0x2ff491(0xa7)]('');})[_0x144f3d(0xa7)](''),_0x47e18c(_0x247489),_0x4c856b();}function _0x2f1e39(_0x35d8b3){const _0x118095=_0x2bfb9d,_0x1d6eea={};_0x1d6eea[_0x118095(0x177)]=!0x0;const _0x5b0c2c=Object[_0x118095(0x22b)](_0x1d6eea,_0x35d8b3||{});if(_0xdc9dc9['botsDraft']=_0x443171(_0xdc9dc9[_0x118095(0x262)]),_0x5b0c2c[_0x118095(0x177)]){_0x5c5725();return;}_0x47e18c(_0xdc9dc9[_0x118095(0x262)]),_0x4c856b();}function _0x14f0c3(){const _0x4cfa7b=_0x2bfb9d,_0x395469=_0x443171(_0xdc9dc9[_0x4cfa7b(0x262)]),_0x3453c6=_0x395469[_0x4cfa7b(0x196)]+0x1;_0x395469[_0x4cfa7b(0x2a8)]({'id':_0x4cfa7b(0x289)+String(_0x3453c6),'name':'Bot\x20'+String(_0x3453c6),'system_prompt':''}),_0xdc9dc9['botsDraft']=_0x242e84(_0x395469),_0x5c5725();}function _0x50c9f6(_0x373cb6){const _0x4ae441=_0x2bfb9d,_0x1561a7=_0x373cb6[_0x4ae441(0x180)][_0x4ae441(0xf7)](_0x4ae441(0x26a));if(!_0x1561a7)return!0x1;const _0x5a05e5=String(_0x1561a7['getAttribute'](_0x4ae441(0xf1))||'')[_0x4ae441(0x1dc)]();if(!_0x5a05e5)return!0x0;const _0x36bbe1=_0x443171(_0xdc9dc9['botsDraft'])[_0x4ae441(0xff)](function(_0x248d56){return _0x248d56['id']!==_0x5a05e5;});return _0xdc9dc9[_0x4ae441(0x262)]=_0x242e84(_0x36bbe1),_0x5c5725(),!0x0;}function _0x2f8c47(_0x373ca1){const _0x43ec86=_0x2bfb9d,_0x18aeb7=_0x373ca1&&typeof _0x373ca1=='object'&&!Array[_0x43ec86(0xdc)](_0x373ca1)?_0x373ca1:{},_0x1513e7={};return Object['keys'](_0x18aeb7)[_0x43ec86(0x23d)](function(_0x53af63){const _0xe75738=_0x43ec86,_0x5ba9ac=String(_0x53af63||'')['trim']();if(!_0x5ba9ac)return;const _0x584245=String(_0x18aeb7[_0x53af63]||'')[_0xe75738(0x1dc)]();_0x584245&&(_0x1513e7[_0x5ba9ac]=_0x584245);}),_0x1513e7;}function _0x29e968(_0x2f395d){const _0x470098=_0x2bfb9d,_0x1ae450=_0x2f8c47(_0x2f395d||_0xdc9dc9[_0x470098(0x283)]);return _0x3e7139['modelOptions']?(Array[_0x470098(0x21b)](_0x3e7139[_0x470098(0x241)]['querySelectorAll'](_0x470098(0x22a)))[_0x470098(0x23d)](function(_0xdf1f9f){const _0x29a575=_0x470098,_0x25dafa=String(_0xdf1f9f['getAttribute'](_0x29a575(0xf0))||'')[_0x29a575(0x1dc)]();if(!_0x25dafa)return;const _0x5d9c99=String(_0xdf1f9f['value']||'')['trim']();if(_0x5d9c99){_0x1ae450[_0x25dafa]=_0x5d9c99;return;}delete _0x1ae450[_0x25dafa];}),_0x2f8c47(_0x1ae450)):_0x1ae450;}function _0x55e5a7(_0x3b2b0d,_0x152c60){const _0x1aba32=_0x2bfb9d,_0x3e605b=String(_0x3b2b0d||'')['trim'](),_0x3ce076=_0x3e605b&&_0xdc9dc9[_0x1aba32(0x283)]?String(_0xdc9dc9[_0x1aba32(0x283)][_0x3e605b]||'')[_0x1aba32(0x1dc)]():'';return _0x3ce076||String(_0x152c60||'')[_0x1aba32(0x1dc)]()||_0x3e605b;}function _0x16f27e(_0x1dd088){const _0x1f74c3=_0x2bfb9d,_0x13bcd7=String(_0x1dd088||'')[_0x1f74c3(0x1cc)]();return _0x13bcd7[_0x1f74c3(0x2a5)](_0x1f74c3(0x123))!==-0x1||_0x13bcd7['indexOf'](_0x1f74c3(0x1bc))!==-0x1||_0x13bcd7[_0x1f74c3(0x2a5)](_0x1f74c3(0x186))!==-0x1||_0x13bcd7[_0x1f74c3(0x2a5)]('qvq')!==-0x1||_0x13bcd7[_0x1f74c3(0x2a5)](_0x1f74c3(0x1bf))!==-0x1||_0x13bcd7[_0x1f74c3(0x2a5)](_0x1f74c3(0x144))!==-0x1||_0x13bcd7[_0x1f74c3(0x2a5)](_0x1f74c3(0x218))!==-0x1;}function _0x3516be(_0xe1fb0b){const _0x4c6e34=_0x2bfb9d,_0x51db55=String(_0xe1fb0b&&_0xe1fb0b['id']||'')[_0x4c6e34(0x1dc)]();if(!_0x51db55)return null;const _0x2f1b17=_0xe1fb0b&&_0xe1fb0b[_0x4c6e34(0x26f)]&&typeof _0xe1fb0b[_0x4c6e34(0x26f)]==_0x4c6e34(0xea)?_0xe1fb0b['capabilities']:{},_0x400534={};return _0x400534[_0x4c6e34(0x2a0)]=!!_0x2f1b17[_0x4c6e34(0x2a0)],_0x400534[_0x4c6e34(0x28f)]=!!_0x2f1b17[_0x4c6e34(0x28f)],_0x400534['search']=!!_0x2f1b17['search'],_0x400534[_0x4c6e34(0x290)]=!!_0x2f1b17[_0x4c6e34(0x290)],_0x400534[_0x4c6e34(0xb2)]=!!_0x2f1b17[_0x4c6e34(0xb2)],_0x400534['image_edit']=!!_0x2f1b17[_0x4c6e34(0x281)],{'id':_0x51db55,'name':String(_0xe1fb0b&&_0xe1fb0b[_0x4c6e34(0x299)]||_0x51db55)[_0x4c6e34(0x1dc)]()||_0x51db55,'capabilities':_0x400534};}function _0x1a7cb8(){const _0x581bac=_0x2bfb9d;return _0x3e7139[_0x581bac(0x21c)]?_0x23a915(_0x1ae8b8[_0x581bac(0xf9)](_0x3e7139['allowedModels'][_0x581bac(0xa1)])):[];}function _0x40f13e(_0x1bd356){const _0x5af740=_0x2bfb9d;_0x3e7139[_0x5af740(0x21c)]&&(_0x3e7139[_0x5af740(0x21c)]['value']=_0x23a915(_0x1bd356)[_0x5af740(0xa7)]('\x0a'));}function _0x9336e5(){const _0x29944b=_0x2bfb9d,_0x50e8c4=new Map();return(Array[_0x29944b(0xdc)](_0xdc9dc9[_0x29944b(0x258)])?_0xdc9dc9['liveModels']:[])[_0x29944b(0x23d)](function(_0xf61c38){const _0x3ebede=_0x29944b,_0x2b5aa3=_0x3516be(_0xf61c38);_0x2b5aa3&&_0x50e8c4[_0x3ebede(0x1e0)](_0x2b5aa3['id'],_0x2b5aa3);}),_0x23a915([_0xdc9dc9[_0x29944b(0x116)]&&_0xdc9dc9[_0x29944b(0x116)][_0x29944b(0x11f)],_0xdc9dc9[_0x29944b(0x116)]&&_0xdc9dc9[_0x29944b(0x116)]['default_image_model'],_0x3e7139[_0x29944b(0xc0)]&&_0x3e7139[_0x29944b(0xc0)][_0x29944b(0xa1)],_0x3e7139[_0x29944b(0x1e6)]&&_0x3e7139[_0x29944b(0x1e6)][_0x29944b(0xa1)]]['concat'](_0x1a7cb8(),_0xdc9dc9[_0x29944b(0x116)]&&Array[_0x29944b(0xdc)](_0xdc9dc9[_0x29944b(0x116)][_0x29944b(0x213)])?_0xdc9dc9[_0x29944b(0x116)][_0x29944b(0x213)]:[]))[_0x29944b(0x23d)](function(_0x3b39c3){const _0x43f3f6=_0x29944b;_0x50e8c4['has'](_0x3b39c3)||_0x50e8c4[_0x43f3f6(0x1e0)](_0x3b39c3,{'id':_0x3b39c3,'name':_0x3b39c3,'capabilities':{'thinking':!0x1,'auto_thinking':!0x1,'search':!0x1,'image':_0x16f27e(_0x3b39c3),'video':!0x1,'image_edit':!0x1}});}),Array[_0x29944b(0x21b)](_0x50e8c4[_0x29944b(0x1a1)]())[_0x29944b(0x16f)](function(_0x2f3e9c,_0x2046da){const _0x4a7732=_0x29944b;return _0x2f3e9c['id'][_0x4a7732(0xe7)](_0x2046da['id']);});}function _0x2a823a(_0x427089){const _0x4fd039=_0x2bfb9d,_0x4a8159=_0x23a915(_0x427089),_0x5e22f4=_0x3e7139[_0x4fd039(0xc0)]?String(_0x3e7139['defaultModel']['value']||'')[_0x4fd039(0x1dc)]():'',_0x15e3b8=_0x3e7139[_0x4fd039(0x1e6)]?String(_0x3e7139[_0x4fd039(0x1e6)][_0x4fd039(0xa1)]||'')[_0x4fd039(0x1dc)]():'';return _0x5e22f4&&_0x4a8159[_0x4fd039(0x2a5)](_0x5e22f4)===-0x1&&_0x4a8159[_0x4fd039(0x240)](_0x5e22f4),_0x15e3b8&&_0x4a8159[_0x4fd039(0x2a5)](_0x15e3b8)===-0x1&&_0x4a8159[_0x4fd039(0x2a8)](_0x15e3b8),_0x23a915(_0x4a8159);}function _0x1c8dfd(_0x3c1173,_0x3a4d6a,_0x4864d3,_0xe2a51b){const _0x552484=_0x2bfb9d;if(!_0x3c1173)return;const _0x1b989c={};_0x1b989c['allowImageOnly']=!0x1;const _0x220af8=Object[_0x552484(0x22b)](_0x1b989c,_0xe2a51b||{})[_0x552484(0x245)]?_0x3a4d6a[_0x552484(0xff)](function(_0x57b37e){const _0x2da66c=_0x552484;return!!(_0x57b37e[_0x2da66c(0x26f)]&&_0x57b37e[_0x2da66c(0x26f)][_0x2da66c(0x290)]);}):_0x3a4d6a[_0x552484(0x27d)](),_0x227c4d=_0x220af8[_0x552484(0x196)]?_0x220af8:_0x3a4d6a[_0x552484(0x27d)]();if(!_0x227c4d[_0x552484(0x196)]){_0x3c1173[_0x552484(0xee)]=_0x552484(0x19b),_0x3c1173[_0x552484(0xa1)]='';return;}const _0x49685b=String(_0x4864d3||'')['trim'](),_0x3537f5=_0x49685b&&_0x227c4d[_0x552484(0x1d4)](function(_0x10b407){return _0x10b407['id']===_0x49685b;});_0x3c1173[_0x552484(0xee)]=_0x227c4d[_0x552484(0x16d)](function(_0x39670a){const _0xbbaf56=_0x552484,_0x957d9a=_0x55e5a7(_0x39670a['id'],_0x39670a[_0xbbaf56(0x299)]),_0x1a390b=_0x957d9a&&_0x957d9a!==_0x39670a['id']?_0x957d9a+'\x20('+_0x39670a['id']+')':_0x39670a['id'];return _0xbbaf56(0xb6)+_0x1ae8b8[_0xbbaf56(0x9f)](_0x39670a['id'])+'\x22>'+_0x1ae8b8[_0xbbaf56(0x9f)](_0x1a390b)+_0xbbaf56(0x12e);})[_0x552484(0xa7)](''),_0x3c1173['value']=_0x3537f5?_0x49685b:_0x227c4d[0x0]['id'];}function _0x2152c8(_0x52729d){const _0x4e0803=_0x2bfb9d,_0x54a794=[];return _0x52729d[_0x4e0803(0x26f)]&&_0x52729d[_0x4e0803(0x26f)]['image']&&_0x54a794['push']('Image'),_0x52729d[_0x4e0803(0x26f)]&&(_0x52729d[_0x4e0803(0x26f)][_0x4e0803(0x2a0)]||_0x52729d[_0x4e0803(0x26f)][_0x4e0803(0x28f)])&&_0x54a794[_0x4e0803(0x2a8)](_0x4e0803(0x236)),_0x52729d[_0x4e0803(0x26f)]&&_0x52729d[_0x4e0803(0x26f)]['search']&&_0x54a794[_0x4e0803(0x2a8)](_0x4e0803(0x23c)),_0x52729d['capabilities']&&_0x52729d[_0x4e0803(0x26f)][_0x4e0803(0xb2)]&&_0x54a794[_0x4e0803(0x2a8)](_0x4e0803(0xe1)),_0x54a794['length']||_0x54a794[_0x4e0803(0x2a8)](_0x4e0803(0x109)),_0x54a794;}function _0x61ad54(_0x279c7a,_0x32f478){const _0x2763ec=_0x2bfb9d;if(!_0x3e7139[_0x2763ec(0x241)])return;const _0x58111a=_0x2f8c47(_0xdc9dc9['modelAliasesDraft']),_0x36ffd0=String(_0xdc9dc9[_0x2763ec(0x225)]||'')[_0x2763ec(0x1dc)]()['toLowerCase'](),_0x349113=_0x36ffd0?_0x279c7a[_0x2763ec(0xff)](function(_0x45ad0a){const _0x57914f=_0x2763ec;return[_0x45ad0a['id'],_0x45ad0a[_0x57914f(0x299)],_0x58111a[_0x45ad0a['id']]||'']['join']('\x20')['toLowerCase']()[_0x57914f(0x106)](_0x36ffd0);}):_0x279c7a;if(!_0x349113[_0x2763ec(0x196)]){_0x3e7139['modelOptions'][_0x2763ec(0xee)]=_0x2763ec(0x234);return;}const _0x5c0642=new Set(_0x32f478);_0x3e7139[_0x2763ec(0x241)][_0x2763ec(0xee)]=_0x349113[_0x2763ec(0x16d)](function(_0x53cc4a){const _0x28f369=_0x2763ec,_0x5d592b=_0x2152c8(_0x53cc4a)[_0x28f369(0x16d)](function(_0x326878){const _0x185a24=_0x28f369;return _0x185a24(0x126)+_0x1ae8b8[_0x185a24(0x9f)](_0x326878)+_0x185a24(0xa5);})[_0x28f369(0xa7)](''),_0x294a77=_0x28f369(0xe9)+_0x1ae8b8[_0x28f369(0x9f)](_0x53cc4a['id'])+'\x22'+(_0x5c0642[_0x28f369(0x28a)](_0x53cc4a['id'])?_0x28f369(0x1b4):'')+'>',_0x37aa3c=_0x58111a[_0x53cc4a['id']]||'',_0xf1e453=_0x53cc4a[_0x28f369(0x299)]&&_0x53cc4a[_0x28f369(0x299)]!==_0x53cc4a['id']?_0x28f369(0x263)+_0x1ae8b8[_0x28f369(0x9f)](_0x53cc4a['name'])+'</span>':'';return[_0x28f369(0x166)+_0x1ae8b8['escapeHtml'](_0x53cc4a['id'])+'\x22>',_0x28f369(0x28e),_0x294a77,_0x28f369(0x120),_0x28f369(0x110)+_0x1ae8b8[_0x28f369(0x9f)](_0x53cc4a['id'])+_0x28f369(0xfa),_0xf1e453,_0x28f369(0x1fa)+_0x5d592b+_0x28f369(0xa5),_0x28f369(0xa5),'</label>',_0x28f369(0x212),_0x28f369(0x1c4),_0x28f369(0x154)+_0x1ae8b8[_0x28f369(0x9f)](_0x53cc4a['id'])+_0x28f369(0x13a)+_0x1ae8b8[_0x28f369(0x9f)](_0x37aa3c)+_0x28f369(0xfe),_0x28f369(0xb5),_0x28f369(0x175)]['join']('');})[_0x2763ec(0xa7)]('');}function _0x26a664(_0x2dc1c0,_0x554f37){const _0x2109d9=_0x2bfb9d;if(!_0x3e7139[_0x2109d9(0x15a)])return;if(!_0x2dc1c0){_0x3e7139[_0x2109d9(0x15a)][_0x2109d9(0x1b5)]=_0x2109d9(0x1ba);return;}const _0x36386e=_0xdc9dc9[_0x2109d9(0x258)][_0x2109d9(0x196)]?_0x2109d9(0xfb):'saved\x20configuration';_0x3e7139[_0x2109d9(0x15a)][_0x2109d9(0x1b5)]=_0x554f37+_0x2109d9(0x246)+_0x2dc1c0+'\x20models\x20('+_0x36386e+').';}function _0x4bb059(){const _0x4c45f8=_0x2bfb9d;_0xdc9dc9[_0x4c45f8(0x283)]=_0x29e968(_0xdc9dc9[_0x4c45f8(0x283)]);const _0x58ae8f=_0x9336e5(),_0x38a90c=_0x3e7139['defaultModel']?String(_0x3e7139[_0x4c45f8(0xc0)][_0x4c45f8(0xa1)]||_0xdc9dc9[_0x4c45f8(0x116)]&&_0xdc9dc9[_0x4c45f8(0x116)][_0x4c45f8(0x11f)]||'')[_0x4c45f8(0x1dc)]():'',_0x106b19=_0x3e7139[_0x4c45f8(0x1e6)]?String(_0x3e7139['defaultImageModel'][_0x4c45f8(0xa1)]||_0xdc9dc9['settings']&&_0xdc9dc9['settings'][_0x4c45f8(0x1d2)]||_0x38a90c||'')[_0x4c45f8(0x1dc)]():'',_0x4afda5={};_0x4afda5[_0x4c45f8(0x245)]=!0x1;const _0x44e935={};_0x44e935['allowImageOnly']=!0x0,(_0x1c8dfd(_0x3e7139[_0x4c45f8(0xc0)],_0x58ae8f,_0x38a90c,_0x4afda5),_0x1c8dfd(_0x3e7139[_0x4c45f8(0x1e6)],_0x58ae8f,_0x106b19,_0x44e935));let _0xfbe0ef=_0x1a7cb8();!_0xfbe0ef[_0x4c45f8(0x196)]&&_0xdc9dc9[_0x4c45f8(0x116)]&&Array[_0x4c45f8(0xdc)](_0xdc9dc9[_0x4c45f8(0x116)]['allowed_models'])&&(_0xfbe0ef=_0x23a915(_0xdc9dc9[_0x4c45f8(0x116)][_0x4c45f8(0x213)])),!_0xfbe0ef[_0x4c45f8(0x196)]&&_0x3e7139['defaultModel']&&_0x3e7139[_0x4c45f8(0xc0)][_0x4c45f8(0xa1)]&&(_0xfbe0ef=[_0x3e7139[_0x4c45f8(0xc0)]['value']]),_0xfbe0ef=_0x2a823a(_0xfbe0ef),_0x40f13e(_0xfbe0ef),_0x61ad54(_0x58ae8f,_0xfbe0ef),_0x26a664(_0x58ae8f[_0x4c45f8(0x196)],_0xfbe0ef[_0x4c45f8(0x196)]);}function _0x46b114(_0xebd0a4){const _0x33c35b=_0x2bfb9d,_0x173dd2=_0xebd0a4[_0x33c35b(0x180)]['closest'](_0x33c35b(0x229));if(!_0x173dd2)return;const _0x158734=String(_0x173dd2[_0x33c35b(0xa1)]||'')[_0x33c35b(0x1dc)]();if(!_0x158734)return;const _0x5f45db=new Set(_0x1a7cb8());_0x173dd2[_0x33c35b(0x18c)]?_0x5f45db['add'](_0x158734):_0x5f45db[_0x33c35b(0x11e)](_0x158734);let _0x160a63=_0x2a823a(Array['from'](_0x5f45db));_0x160a63[_0x33c35b(0x196)]||(_0x160a63=[_0x158734]),_0x40f13e(_0x160a63),_0x4bb059();}function _0x42da6a(_0x3039f4){const _0x5a6074=_0x2bfb9d,_0x5a6d04=_0x3039f4[_0x5a6074(0x180)][_0x5a6074(0xf7)](_0x5a6074(0x22a));if(!_0x5a6d04)return!0x1;const _0x1004a1=String(_0x5a6d04[_0x5a6074(0x22f)](_0x5a6074(0xf0))||'')[_0x5a6074(0x1dc)]();if(!_0x1004a1)return!0x1;const _0x170885=_0x2f8c47(_0xdc9dc9[_0x5a6074(0x283)]),_0x33a74a=String(_0x5a6d04['value']||'')[_0x5a6074(0x1dc)]();return _0x33a74a?_0x170885[_0x1004a1]=_0x33a74a:delete _0x170885[_0x1004a1],_0xdc9dc9[_0x5a6074(0x283)]=_0x170885,!0x0;}function _0x58fccf(){const _0x533b74=_0x2a823a(_0x1a7cb8());_0x40f13e(_0x533b74),_0x4bb059();}function _0x2936f9(){const _0x87908a=_0x2bfb9d;if(!_0xdc9dc9[_0x87908a(0x116)]||!_0x3e7139[_0x87908a(0x23a)])return;if(_0x3e7139[_0x87908a(0x14d)]['value']=_0xdc9dc9['settings'][_0x87908a(0xc9)],_0x3e7139['brandTagline'][_0x87908a(0xa1)]=_0xdc9dc9[_0x87908a(0x116)][_0x87908a(0x1ed)],_0x3e7139[_0x87908a(0x264)][_0x87908a(0xa1)]=_0xdc9dc9[_0x87908a(0x116)][_0x87908a(0x1a2)]||_0x87908a(0xa3),_0x3e7139[_0x87908a(0x264)]){const _0x206313=_0xdc9dc9[_0x87908a(0x1ff)][_0x87908a(0x28a)](_0x87908a(0x1a2));_0x3e7139[_0x87908a(0x264)]['disabled']=_0x206313,_0x3e7139[_0x87908a(0x264)][_0x87908a(0x117)]=_0x206313?_0x87908a(0x24d):'';}if(_0x3e7139[_0x87908a(0x160)][_0x87908a(0xa1)]=_0xdc9dc9[_0x87908a(0x116)][_0x87908a(0xdf)],_0x3e7139[_0x87908a(0x239)][_0x87908a(0xa1)]=_0xdc9dc9[_0x87908a(0x116)][_0x87908a(0x15c)],_0x3e7139[_0x87908a(0x161)]['value']=_0xdc9dc9['settings']['gateway_base_url'],_0x3e7139[_0x87908a(0x178)][_0x87908a(0xa1)]=_0xdc9dc9[_0x87908a(0x116)]['gateway_proxy_template'],_0x3e7139[_0x87908a(0x271)][_0x87908a(0xa1)]=_0xdc9dc9[_0x87908a(0x116)][_0x87908a(0x1f1)],_0x3e7139[_0x87908a(0x13e)]['value']='',_0x3e7139[_0x87908a(0xc0)]&&(_0x3e7139['defaultModel'][_0x87908a(0xa1)]=_0xdc9dc9['settings'][_0x87908a(0x11f)]),_0x3e7139['defaultImageModel']){_0x3e7139['defaultImageModel'][_0x87908a(0xa1)]=_0xdc9dc9[_0x87908a(0x116)][_0x87908a(0x1d2)]||_0xdc9dc9[_0x87908a(0x116)][_0x87908a(0x11f)];const _0x493f06=_0xdc9dc9[_0x87908a(0x1ff)][_0x87908a(0x28a)](_0x87908a(0x1d2));_0x3e7139[_0x87908a(0x1e6)][_0x87908a(0xc1)]=_0x493f06,_0x3e7139[_0x87908a(0x1e6)][_0x87908a(0x117)]=_0x493f06?'This\x20field\x20is\x20not\x20available\x20in\x20your\x20current\x20Supabase\x20schema.\x20Run\x20the\x20latest\x20SQL\x20migration\x20to\x20enable\x20it.':'';}_0x3e7139[_0x87908a(0x22e)][_0x87908a(0xa1)]=String(_0xdc9dc9[_0x87908a(0x116)][_0x87908a(0x15f)]),_0x3e7139[_0x87908a(0x170)][_0x87908a(0x18c)]=!!_0xdc9dc9[_0x87908a(0x116)][_0x87908a(0x102)],_0x40f13e(_0xdc9dc9[_0x87908a(0x116)][_0x87908a(0x213)]),_0xdc9dc9[_0x87908a(0x262)]=_0x242e84(_0xdc9dc9[_0x87908a(0x116)]['bots']),_0xdc9dc9[_0x87908a(0x283)]=_0x2f8c47(_0xdc9dc9[_0x87908a(0x116)]['model_aliases']),_0x3e7139['modelFilter']&&(_0x3e7139[_0x87908a(0x225)][_0x87908a(0xa1)]=_0xdc9dc9[_0x87908a(0x225)]),_0x4bb059(),_0x5c5725();const _0x41b5f9=_0xdc9dc9['unsupportedSettingColumns']['has'](_0x87908a(0x1ab));_0x3e7139[_0x87908a(0x1d8)]&&(_0x3e7139['botAddBtn'][_0x87908a(0xc1)]=_0x41b5f9,_0x3e7139['botAddBtn'][_0x87908a(0x117)]=_0x41b5f9?_0x87908a(0x24d):''),_0x3e7139[_0x87908a(0x1f9)]&&(_0x3e7139[_0x87908a(0x1f9)][_0x87908a(0x141)]('aria-disabled',_0x41b5f9?_0x87908a(0x163):_0x87908a(0x191)),_0x3e7139[_0x87908a(0x1f9)][_0x87908a(0x117)]=_0x41b5f9?_0x87908a(0x24d):''),_0x41b5f9&&_0x3e7139[_0x87908a(0x1c7)]&&(_0x3e7139[_0x87908a(0x1c7)][_0x87908a(0x1b5)]=_0x87908a(0x13f)),_0x3e7139[_0x87908a(0x17e)]&&(_0x3e7139[_0x87908a(0x17e)][_0x87908a(0x1b5)]=_0xdc9dc9[_0x87908a(0x116)][_0x87908a(0x112)]?_0x87908a(0xd3)+_0x1ae8b8[_0x87908a(0x1e9)](_0xdc9dc9[_0x87908a(0x116)]['updated_at']):_0x87908a(0x147));}async function _0x1de228(){const _0x3a6f88=_0x2bfb9d,_0x5bd60d=await _0x44e638(),_0x23c64e=_0x3e7139['gatewayPassword'][_0x3a6f88(0xa1)][_0x3a6f88(0x1dc)]();let _0x22552d=_0x1a7cb8();!_0x22552d['length']&&_0x5bd60d&&Array[_0x3a6f88(0xdc)](_0x5bd60d['allowed_models'])&&(_0x22552d=_0x23a915(_0x5bd60d[_0x3a6f88(0x213)]));const _0x5a7798=_0x3e7139[_0x3a6f88(0xc0)]?String(_0x3e7139[_0x3a6f88(0xc0)]['value']||'')[_0x3a6f88(0x1dc)]():'',_0x383fbf=_0x3e7139['defaultImageModel']?String(_0x3e7139[_0x3a6f88(0x1e6)][_0x3a6f88(0xa1)]||'')[_0x3a6f88(0x1dc)]():'',_0x1911b1=_0x5a7798||_0x5bd60d[_0x3a6f88(0x11f)]||_0x3a6f88(0x12d),_0x132566=_0x383fbf||_0x5bd60d[_0x3a6f88(0x1d2)]||_0x1911b1;_0x22552d=_0x2a823a(_0x22552d['concat']([_0x1911b1,_0x132566])),_0x40f13e(_0x22552d);const _0x5dd667=_0x29e968(_0xdc9dc9[_0x3a6f88(0x283)]),_0xe6fcbd=new Set(_0x22552d),_0x59e11f={};Object[_0x3a6f88(0x192)](_0x5dd667)[_0x3a6f88(0x23d)](function(_0x30f5a9){const _0x4fffc0=_0x3a6f88;_0xe6fcbd[_0x4fffc0(0x28a)](_0x30f5a9)&&_0x5dd667[_0x30f5a9]&&(_0x59e11f[_0x30f5a9]=_0x5dd667[_0x30f5a9]);}),_0xdc9dc9[_0x3a6f88(0x283)]=_0x59e11f;const _0x2e83eb=_0x242e84(_0x443171(_0xdc9dc9['botsDraft']));_0xdc9dc9[_0x3a6f88(0x262)]=_0x2e83eb,_0x47e18c(_0x2e83eb);const _0x23e63c={'id':_0x3a6f88(0xac),'brand_name':_0x3e7139['brandName'][_0x3a6f88(0xa1)][_0x3a6f88(0x1dc)]()||_0x3a6f88(0xf2),'brand_tagline':_0x3e7139['brandTagline'][_0x3a6f88(0xa1)][_0x3a6f88(0x1dc)](),'theme_default':_0x3e7139['themeDefault'][_0x3a6f88(0xa1)]||_0x3a6f88(0xa3),'welcome_title':_0x3e7139[_0x3a6f88(0x160)]['value']['trim']()||_0x3a6f88(0xcc),'welcome_copy':_0x3e7139[_0x3a6f88(0x239)][_0x3a6f88(0xa1)][_0x3a6f88(0x1dc)](),'gateway_base_url':_0x3e7139[_0x3a6f88(0x161)][_0x3a6f88(0xa1)]['trim']()||'https://chat.qwen.ai','gateway_proxy_template':_0x3e7139[_0x3a6f88(0x178)][_0x3a6f88(0xa1)][_0x3a6f88(0x1dc)](),'gateway_email':_0x3e7139[_0x3a6f88(0x271)][_0x3a6f88(0xa1)][_0x3a6f88(0x1dc)](),'gateway_password_hash':_0x23c64e?await _0x1ae8b8['sha256Hex'](_0x23c64e):_0x5bd60d[_0x3a6f88(0x1cd)],'default_model':_0x1911b1,'default_image_model':_0x132566,'allowed_models':_0x22552d,'model_aliases':_0x59e11f,'bots':_0x2e83eb,'thinking_enabled':_0x3e7139[_0x3a6f88(0x170)][_0x3a6f88(0x18c)],'thinking_budget':Number(_0x3e7139[_0x3a6f88(0x22e)][_0x3a6f88(0xa1)])||0x14000,'updated_by':_0xdc9dc9[_0x3a6f88(0x111)][_0x3a6f88(0x15e)]['id']};return _0xdc9dc9['unsupportedSettingColumns'][_0x3a6f88(0x23d)](function(_0x16700b){const _0x3ca092=_0x3a6f88;Object[_0x3ca092(0xfd)][_0x3ca092(0xf4)]['call'](_0x23e63c,_0x16700b)&&delete _0x23e63c[_0x16700b];}),_0x23e63c;}function _0x1bb88e(_0x511314){const _0x5c5fd0=_0x2bfb9d,_0x9169e3=_0x511314&&_0x511314[_0x5c5fd0(0x119)]?_0x511314[_0x5c5fd0(0x119)]:String(_0x511314||'');let _0x5711c4=_0x9169e3[_0x5c5fd0(0x214)](/Could not find the '([^']+)' column of 'app_settings' in the schema cache/i);return _0x5711c4&&_0x5711c4[0x1]||(_0x5711c4=_0x9169e3[_0x5c5fd0(0x214)](/column\s+"?([a-zA-Z0-9_]+)"?\s+of\s+relation\s+"?app_settings"?\s+does\s+not\s+exist/i),_0x5711c4&&_0x5711c4[0x1])?_0x5711c4[0x1]:null;}function _0x5ed44c(_0xb3dd38){const _0x513f9f=_0x2bfb9d,_0x3d9abf=String(_0xb3dd38||'')[_0x513f9f(0x1dc)]();if(!_0x3d9abf)return;_0xdc9dc9[_0x513f9f(0x1ff)][_0x513f9f(0x19f)](_0x3d9abf);const _0xd7d9fa=_0x513f9f(0x24d);_0x3d9abf===_0x513f9f(0x1a2)&&_0x3e7139['themeDefault']&&(_0x3e7139[_0x513f9f(0x264)]['disabled']=!0x0,_0x3e7139[_0x513f9f(0x264)][_0x513f9f(0x117)]=_0xd7d9fa),_0x3d9abf==='default_image_model'&&_0x3e7139[_0x513f9f(0x1e6)]&&(_0x3e7139['defaultImageModel'][_0x513f9f(0xc1)]=!0x0,_0x3e7139['defaultImageModel'][_0x513f9f(0x117)]=_0xd7d9fa),_0x3d9abf===_0x513f9f(0x1ab)&&(_0x3e7139['botAddBtn']&&(_0x3e7139[_0x513f9f(0x1d8)][_0x513f9f(0xc1)]=!0x0,_0x3e7139[_0x513f9f(0x1d8)][_0x513f9f(0x117)]=_0xd7d9fa),_0x3e7139[_0x513f9f(0x1f9)]&&(_0x3e7139[_0x513f9f(0x1f9)][_0x513f9f(0x141)](_0x513f9f(0x266),'true'),_0x3e7139[_0x513f9f(0x1f9)][_0x513f9f(0x117)]=_0xd7d9fa),_0x3e7139[_0x513f9f(0x1c7)]&&(_0x3e7139[_0x513f9f(0x1c7)][_0x513f9f(0x1b5)]=_0x513f9f(0x13f)));}async function _0x220b03(_0x8070a6){const _0x33249a=_0x2bfb9d;let _0x333285=Object[_0x33249a(0x22b)]({},_0x8070a6);const _0x752e06=[],_0x5234a9=new Set();let _0x53d87d=null;for(;;){if(_0x53d87d=await _0x1a4e5a[_0x33249a(0x21b)](_0x33249a(0x128))['upsert'](_0x333285)[_0x33249a(0x1df)]('*')[_0x33249a(0x207)](),!_0x53d87d[_0x33249a(0x1d6)])return{'result':_0x53d87d,'persistedPayload':_0x333285,'skippedColumns':_0x752e06};const _0x4f7703=_0x1bb88e(_0x53d87d[_0x33249a(0x1d6)]);if(!_0x4f7703||_0x5234a9['has'](_0x4f7703)||!Object['prototype'][_0x33249a(0xf4)][_0x33249a(0x277)](_0x333285,_0x4f7703))return{'result':_0x53d87d,'persistedPayload':_0x333285,'skippedColumns':_0x752e06};_0x5234a9['add'](_0x4f7703),_0x752e06[_0x33249a(0x2a8)](_0x4f7703),delete _0x333285[_0x4f7703],_0x5ed44c(_0x4f7703);}}async function _0x5630a7(_0x5e4b4f){const _0x5d5322=_0x2bfb9d;_0x5e4b4f&&_0x5e4b4f[_0x5d5322(0xae)](),_0x3e7139[_0x5d5322(0x17e)]&&(_0x3e7139[_0x5d5322(0x17e)][_0x5d5322(0x1b5)]=_0x5d5322(0x21d));try{const _0xb356be=await _0x1de228(),_0x379f35=await _0x220b03(_0xb356be),_0x5b9ffd=_0x379f35[_0x5d5322(0x1cf)];if(_0x5b9ffd[_0x5d5322(0x1d6)])throw new Error(_0x5b9ffd[_0x5d5322(0x1d6)][_0x5d5322(0x119)]||_0x5d5322(0x13c));_0xdc9dc9[_0x5d5322(0x116)]=_0x330370[_0x5d5322(0x16a)](_0x5b9ffd[_0x5d5322(0x261)]||_0x379f35['persistedPayload']),_0x1ae8b8[_0x5d5322(0x286)](_0xdc9dc9[_0x5d5322(0x116)]),_0x7a3984['initialize']({'settings':_0xdc9dc9[_0x5d5322(0x116)],'allowWorkspaceDefault':!0x0,'authPage':!0x1}),_0x2936f9(),await _0x9a3b7e(),_0x379f35['skippedColumns'][_0x5d5322(0x196)]&&_0x1ad65e('Settings\x20saved,\x20but\x20your\x20schema\x20is\x20missing:\x20'+_0x379f35[_0x5d5322(0x273)]['join'](',\x20')+_0x5d5322(0x10a),_0x5d5322(0x11d)),_0x3e7139['settingsStatus']&&(_0x3e7139[_0x5d5322(0x17e)][_0x5d5322(0x1b5)]=_0x5d5322(0x104)),_0x6d5e8f(_0x5d5322(0xa0)),typeof _0x5bae7d[_0x5d5322(0x1c6)]==_0x5d5322(0x200)&&_0x5bae7d['onSettingsSaved'](_0xdc9dc9[_0x5d5322(0x116)]),_0x1ad65e(_0x5d5322(0x21f),_0x5d5322(0x113));}catch(_0x3c27b3){_0x3e7139[_0x5d5322(0x17e)]&&(_0x3e7139['settingsStatus'][_0x5d5322(0x1b5)]=_0x3c27b3[_0x5d5322(0x119)]||_0x5d5322(0x13c)),_0x1ad65e(_0x3c27b3[_0x5d5322(0x119)]||_0x5d5322(0x13c),_0x5d5322(0x1d6));}}async function _0x616a2d(){const _0x14d0c8=_0x2bfb9d;_0x3e7139[_0x14d0c8(0x269)]&&(_0x3e7139[_0x14d0c8(0x269)][_0x14d0c8(0xc1)]=!0x0),_0x3e7139[_0x14d0c8(0x17e)]&&(_0x3e7139['settingsStatus']['textContent']=_0x14d0c8(0x16e));try{await _0x44e638();const _0xbfbed8=await _0x1de228(),_0x14d1bb=await _0x330370['loadModels'](_0xbfbed8);if(_0xdc9dc9[_0x14d0c8(0x258)]=_0x14d1bb[_0x14d0c8(0x16d)](_0x3516be)['filter'](Boolean),!_0x14d1bb[_0x14d0c8(0x196)])throw new Error(_0x14d0c8(0x15d));_0x4bb059(),_0x3e7139[_0x14d0c8(0x17e)]&&(_0x3e7139['settingsStatus']['textContent']=_0x14d1bb[_0x14d0c8(0x196)]+_0x14d0c8(0xd5)),_0x1ad65e(_0x14d1bb[_0x14d0c8(0x196)]+_0x14d0c8(0x26d),_0x14d0c8(0x113));}catch(_0xcb8d6d){_0x3e7139[_0x14d0c8(0x17e)]&&(_0x3e7139['settingsStatus'][_0x14d0c8(0x1b5)]=_0xcb8d6d['message']||_0x14d0c8(0x194)),_0x1ad65e(_0xcb8d6d[_0x14d0c8(0x119)]||_0x14d0c8(0x194),_0x14d0c8(0x1d6));}finally{_0x3e7139['loadModelsBtn']&&(_0x3e7139[_0x14d0c8(0x269)][_0x14d0c8(0xc1)]=!0x1);}}async function _0x3db352(_0x47af3c,_0x2e7b39){const _0xb60a03=_0x2bfb9d;if(!_0xdc9dc9[_0xb60a03(0x222)])return;const _0x443cd9=String(_0x47af3c||'')[_0xb60a03(0x1dc)](),_0x834ec3=String(_0x2e7b39||'')['trim']();if(!_0x443cd9)return;if(_0x834ec3){const _0x15c3e8=_0xdc9dc9[_0xb60a03(0x2a7)][_0xb60a03(0x238)](function(_0x29a5e3){return _0x29a5e3['id']===_0x834ec3;});if(!_0x15c3e8)throw new Error(_0xb60a03(0x230));if(_0x15c3e8[_0xb60a03(0x20a)]!=='active')throw new Error(_0xb60a03(0x125));if(!_0x15c3e8[_0xb60a03(0x25d)]&&!_0x15c3e8[_0xb60a03(0x1e4)])throw new Error(_0xb60a03(0x158));const _0x2a0b70={};_0x2a0b70[_0xb60a03(0x101)]=_0xb60a03(0x27f);const _0x2c44a7=await _0x1a4e5a['from'](_0xb60a03(0x26e))['upsert']({'user_id':_0x443cd9,'pool_id':_0x834ec3,'assigned_by':_0xdc9dc9[_0xb60a03(0x111)][_0xb60a03(0x15e)]['id'],'assigned_at':new Date()[_0xb60a03(0x2a1)]()},_0x2a0b70)[_0xb60a03(0x1df)](_0xb60a03(0x276))[_0xb60a03(0x207)]();if(_0x2c44a7[_0xb60a03(0x1d6)]){if(_0x5cf9bf(_0x2c44a7['error'])){_0xdc9dc9[_0xb60a03(0x222)]=!0x1;return;}throw new Error(_0x2c44a7[_0xb60a03(0x1d6)][_0xb60a03(0x119)]||_0xb60a03(0x107));}_0xdc9dc9['poolAssignments'][_0x443cd9]=_0x834ec3;return;}const _0x3736e7=await _0x1a4e5a[_0xb60a03(0x21b)](_0xb60a03(0x26e))[_0xb60a03(0x11e)]()['eq'](_0xb60a03(0x27f),_0x443cd9);if(_0x3736e7[_0xb60a03(0x1d6)]&&!_0x5cf9bf(_0x3736e7[_0xb60a03(0x1d6)]))throw new Error(_0x3736e7[_0xb60a03(0x1d6)][_0xb60a03(0x119)]||_0xb60a03(0x1e3));delete _0xdc9dc9[_0xb60a03(0x26c)][_0x443cd9];const _0x11ab49={};_0x11ab49['target_user_id']=_0x443cd9;const _0x1c24bb=await _0x1a4e5a[_0xb60a03(0x193)](_0xb60a03(0x253),_0x11ab49);if(!_0x1c24bb[_0xb60a03(0x1d6)]){const _0xd68eba=Array[_0xb60a03(0xdc)](_0x1c24bb[_0xb60a03(0x261)])?_0x1c24bb['data'][0x0]:_0x1c24bb[_0xb60a03(0x261)],_0x17e166=String(_0xd68eba&&_0xd68eba[_0xb60a03(0x227)]||'')[_0xb60a03(0x1dc)]();_0x17e166&&(_0xdc9dc9['poolAssignments'][_0x443cd9]=_0x17e166);}}async function _0x59c6a0(){const _0x28776c=_0x2bfb9d;if(!_0x3e7139['poolImportJson'])return;const _0xf57e4f=[_0x28776c(0x292),_0x28776c(0x265),_0x28776c(0x129)];let _0xd2900a='',_0x170f71=null;for(let _0x22524d=0x0;_0x22524d<_0xf57e4f[_0x28776c(0x196)];_0x22524d+=0x1){const _0x1eec38=_0xf57e4f[_0x22524d];try{const _0x1912d6={};_0x1912d6[_0x28776c(0x24e)]=_0x28776c(0x172);const _0x3a125c=await fetch(_0x1eec38,_0x1912d6);if(!_0x3a125c['ok']){_0x170f71=new Error('HTTP\x20'+_0x3a125c[_0x28776c(0x20a)]);continue;}if(_0xd2900a=await _0x3a125c[_0x28776c(0x18b)](),_0xd2900a[_0x28776c(0x1dc)]())break;}catch(_0x1ba52f){_0x170f71=_0x1ba52f;}}if(!_0xd2900a[_0x28776c(0x1dc)]())throw new Error(_0x28776c(0x284)+(_0x170f71&&_0x170f71[_0x28776c(0x119)]?'\x20('+_0x170f71['message']+')':''));let _0x5a988b;try{_0x5a988b=JSON[_0x28776c(0x171)](_0xd2900a);}catch{throw new Error('Loaded\x20account_pool.json\x20is\x20not\x20valid\x20JSON.');}if(!Array[_0x28776c(0xdc)](_0x5a988b))throw new Error(_0x28776c(0x25e));_0x3e7139['poolImportJson'][_0x28776c(0xa1)]=JSON['stringify'](_0x5a988b,null,0x2),_0x6d5e8f(_0x28776c(0x1b1)),_0x1ad65e(_0x28776c(0x1e7),_0x28776c(0x113));}async function _0x27c91f(_0x48e8a1){const _0x400337=_0x2bfb9d;if(!_0x3e7139[_0x400337(0x18d)])return;const _0x52eb89=_0x48e8a1;if(!_0x52eb89||typeof _0x52eb89[_0x400337(0x18b)]!=_0x400337(0x200))throw new Error(_0x400337(0x1d9));const _0xcf3fe9=String(_0x52eb89[_0x400337(0x299)]||'pool.json'),_0x5d0f10=await _0x52eb89[_0x400337(0x18b)]();if(!String(_0x5d0f10||'')[_0x400337(0x1dc)]())throw new Error(_0x400337(0xc6));let _0x1abbdf;try{_0x1abbdf=JSON[_0x400337(0x171)](_0x5d0f10);}catch{throw new Error(_0x400337(0xa9));}if(!Array['isArray'](_0x1abbdf))throw new Error(_0x400337(0x202));_0x3e7139[_0x400337(0x18d)][_0x400337(0xa1)]=JSON[_0x400337(0x203)](_0x1abbdf,null,0x2),_0x6d5e8f(_0x400337(0x1f6)+_0xcf3fe9),_0x1ad65e('JSON\x20uploaded.\x20Click\x20Import\x20/\x20Update\x20Pool\x20to\x20save\x20changes.',_0x400337(0x113));}function _0x27a359(_0x1eaaee,_0x3f2290){const _0x10c838=_0x2bfb9d,_0x16ad47=_0x1eaaee&&typeof _0x1eaaee==_0x10c838(0xea)?_0x1eaaee:{},_0x1dca32=String(_0x16ad47[_0x10c838(0x148)]||'')[_0x10c838(0x1dc)]()[_0x10c838(0x1cc)]();if(!_0x1dca32)return null;const _0x4915de=String(_0x16ad47[_0x10c838(0x270)]||_0x16ad47[_0x10c838(0x25d)]||'')[_0x10c838(0x1dc)](),_0x3722a7=String(_0x16ad47[_0x10c838(0x1e4)]||_0x16ad47[_0x10c838(0x1cd)]||'')[_0x10c838(0x1dc)]();if(!_0x4915de&&!_0x3722a7)return null;const _0x5bbf09=Number(_0x16ad47[_0x10c838(0x251)]),_0x5b7c33=Number[_0x10c838(0x1aa)](_0x5bbf09)&&_0x5bbf09>0x0?Math[_0x10c838(0x223)](_0x5bbf09):_0xcb6f58,_0x2780e8=String(_0x16ad47[_0x10c838(0x20a)]||'active')[_0x10c838(0x1dc)]()[_0x10c838(0x1cc)]()===_0x10c838(0x165)?_0x10c838(0x165):_0x10c838(0x1bd),_0x455a7a=_0x5dc625(_0x16ad47[_0x10c838(0x100)]||_0x16ad47['token_expiry']||_0x16ad47[_0x10c838(0x20b)]),_0x48e7d9=_0x3d5093(_0x16ad47,_0x3f2290);return{'label':String(_0x16ad47[_0x10c838(0x21e)]||_0x16ad47[_0x10c838(0x299)]||_0x16ad47[_0x10c838(0x252)]||_0x10c838(0xbc)+String(_0x48e7d9))['trim']()||_0x10c838(0xbc)+String(_0x48e7d9),'email':_0x1dca32,'password_hash':_0x3722a7,'access_token':_0x4915de,'token_expiry':_0x455a7a,'max_users':_0x5b7c33,'status':_0x2780e8,'created_by':_0xdc9dc9['context'][_0x10c838(0x15e)]['id']};}async function _0x57af0d(){const _0x1fab79=_0x2bfb9d;if(!_0xdc9dc9['poolSchemaReady'])throw new Error(_0x1fab79(0x195));if(!_0x3e7139[_0x1fab79(0x18d)])return;const _0x5e533a=String(_0x3e7139['poolImportJson'][_0x1fab79(0xa1)]||'')[_0x1fab79(0x1dc)]();if(!_0x5e533a)throw new Error(_0x1fab79(0x23e));let _0xf029d;try{_0xf029d=JSON['parse'](_0x5e533a);}catch{throw new Error(_0x1fab79(0x131));}if(!Array[_0x1fab79(0xdc)](_0xf029d))throw new Error(_0x1fab79(0x16b));const _0x428769=_0xf029d[_0x1fab79(0x16d)](function(_0x534809,_0x4292fe){return _0x27a359(_0x534809,_0x4292fe);})[_0x1fab79(0xff)](Boolean);if(!_0x428769[_0x1fab79(0x196)])throw new Error(_0x1fab79(0x25c));_0x3e7139['poolImportBtn']&&(_0x3e7139[_0x1fab79(0x243)]['disabled']=!0x0),_0x6d5e8f(_0x1fab79(0x1da));try{const _0x35c912={};_0x35c912[_0x1fab79(0x101)]=_0x1fab79(0x148);const _0x34c2c9=await _0x1a4e5a[_0x1fab79(0x21b)](_0x1fab79(0xd4))[_0x1fab79(0x1b7)](_0x428769,_0x35c912)[_0x1fab79(0x1df)]('*');if(_0x34c2c9['error'])throw _0x5cf9bf(_0x34c2c9[_0x1fab79(0x1d6)])?(_0xdc9dc9[_0x1fab79(0x222)]=!0x1,new Error(_0x1fab79(0x195))):new Error(_0x34c2c9[_0x1fab79(0x1d6)][_0x1fab79(0x119)]||_0x1fab79(0x188));const _0x436f6f={};_0x436f6f[_0x1fab79(0xb3)]=!0x0,_0x436f6f[_0x1fab79(0x1ee)]=!0x0,(await _0x387623(),await _0x192e1a(_0x436f6f),_0x26c93e(),_0x187320(),_0x217ada(),_0x6d5e8f(_0x1fab79(0xc3)),_0x1ad65e(_0x428769['length']+_0x1fab79(0x24c),_0x1fab79(0x113)));}finally{_0x3e7139['poolImportBtn']&&(_0x3e7139['poolImportBtn'][_0x1fab79(0xc1)]=!0x1);}}async function _0x192e1a(_0x2e041a){const _0x1b212e=_0x2bfb9d,_0x35cd37={};_0x35cd37[_0x1b212e(0xb3)]=!0x1,_0x35cd37[_0x1b212e(0x1ee)]=!0x1;const _0x35c3aa=Object[_0x1b212e(0x22b)](_0x35cd37,_0x2e041a||{});if(!_0xdc9dc9[_0x1b212e(0x222)])throw new Error(_0x1b212e(0x195));const _0x46fea5=_0xdc9dc9['poolAccounts'][_0x1b212e(0xff)](function(_0xf8bbfc){const _0x249f0f=_0x1b212e,_0x411c9e=!!(_0xf8bbfc['access_token']||_0xf8bbfc[_0x249f0f(0x1e4)]);return _0xf8bbfc[_0x249f0f(0x20a)]===_0x249f0f(0x1bd)&&_0x411c9e;});if(!_0x46fea5['length'])throw new Error(_0x1b212e(0xb4));const _0x22a209=_0xdc9dc9[_0x1b212e(0x291)][_0x1b212e(0xff)](function(_0x5d127c){const _0x1ef3ca=_0x1b212e;return String(_0x5d127c[_0x1ef3ca(0x20a)]||'active')!=='inactive';})[_0x1b212e(0x16f)](function(_0x5a0837,_0x1362e7){const _0x53a5f9=_0x1b212e,_0x4d75d9=new Date(_0x5a0837['created_at']||0x0)['getTime'](),_0x4a4f87=new Date(_0x1362e7[_0x53a5f9(0x173)]||0x0)['getTime']();return _0x4d75d9!==_0x4a4f87?_0x4d75d9-_0x4a4f87:String(_0x5a0837[_0x53a5f9(0x148)]||_0x5a0837['id']||'')[_0x53a5f9(0xe7)](String(_0x1362e7[_0x53a5f9(0x148)]||_0x1362e7['id']||''));}),_0x130d14=_0x35c3aa[_0x1b212e(0xb3)]?_0x361d68():{},_0x21d11c=_0x46fea5[_0x1b212e(0x16d)](function(_0x46ec5f){return{'pool':_0x46ec5f,'assigned':Number(_0x130d14[_0x46ec5f['id']]||0x0),'capacity':Number(_0x46ec5f['max_users']||_0xcb6f58)};}),_0x55c046=[];let _0x5c10e4=0x0;if(_0x22a209[_0x1b212e(0x23d)](function(_0x41b9a1){const _0x25e652=_0x1b212e,_0x3b1ec7=String(_0x41b9a1['id']||'')[_0x25e652(0x1dc)]();if(!_0x3b1ec7)return;const _0x48ec54=String(_0xdc9dc9[_0x25e652(0x26c)][_0x3b1ec7]||'')[_0x25e652(0x1dc)](),_0x18df16=_0x48ec54&&_0x46fea5[_0x25e652(0x1d4)](function(_0x51d971){return _0x51d971['id']===_0x48ec54;});if(_0x35c3aa[_0x25e652(0xb3)]&&_0x18df16)return;let _0x163f61=_0x21d11c[_0x25e652(0x238)](function(_0x246004){const _0x3317ef=_0x25e652;return _0x246004[_0x3317ef(0x156)]<_0x246004[_0x3317ef(0x114)];});_0x163f61||(_0x163f61=_0x21d11c[_0x25e652(0x2b1)](function(_0x4f5478,_0x3d5bce){const _0x383590=_0x25e652;return _0x3d5bce[_0x383590(0x156)]<_0x4f5478['assigned']?_0x3d5bce:_0x4f5478;},_0x21d11c[0x0]),_0x5c10e4+=0x1),_0x163f61[_0x25e652(0x156)]+=0x1,_0x55c046[_0x25e652(0x2a8)]({'user_id':_0x3b1ec7,'pool_id':_0x163f61[_0x25e652(0x118)]['id'],'assigned_by':_0xdc9dc9[_0x25e652(0x111)][_0x25e652(0x15e)]['id'],'assigned_at':new Date()[_0x25e652(0x2a1)]()});}),!_0x55c046[_0x1b212e(0x196)]){_0x26c93e(),_0x187320(),_0x217ada(),_0x35c3aa[_0x1b212e(0x1ee)]||_0x1ad65e(_0x1b212e(0x1af),_0x1b212e(0x11d));return;}const _0x5e1899={};_0x5e1899[_0x1b212e(0x101)]=_0x1b212e(0x27f);const _0x41f77a=await _0x1a4e5a[_0x1b212e(0x21b)](_0x1b212e(0x26e))[_0x1b212e(0x1b7)](_0x55c046,_0x5e1899)[_0x1b212e(0x1df)](_0x1b212e(0x276));if(_0x41f77a[_0x1b212e(0x1d6)])throw _0x5cf9bf(_0x41f77a[_0x1b212e(0x1d6)])?(_0xdc9dc9['poolSchemaReady']=!0x1,new Error('Pool\x20schema\x20is\x20missing.\x20Run\x20the\x20latest\x20supabase_schema.sql\x20migration\x20first.')):new Error(_0x41f77a['error'][_0x1b212e(0x119)]||_0x1b212e(0xe0));if(_0xdc9dc9[_0x1b212e(0x26c)]=Object[_0x1b212e(0x22b)]({},_0xdc9dc9[_0x1b212e(0x26c)],_0x1d1b37(_0x41f77a['data'])),_0x26c93e(),_0x187320(),_0x217ada(),!_0x35c3aa['silent']){const _0x5ab789=_0x5c10e4?'\x20'+_0x5c10e4+_0x1b212e(0x143):'';_0x1ad65e(_0x55c046[_0x1b212e(0x196)]+_0x1b212e(0x105)+_0x5ab789,_0x5c10e4?_0x1b212e(0x11d):_0x1b212e(0x113));}}function _0x22a8f6(){const _0x45bcb2=_0x2bfb9d;return _0x3e7139[_0x45bcb2(0x15b)]?Array[_0x45bcb2(0x21b)](_0x3e7139['usersTableBody'][_0x45bcb2(0x29a)](_0x45bcb2(0xab)))[_0x45bcb2(0x16d)](function(_0x416eaf){return{'row':_0x416eaf,'payload':_0x3eef74(_0x416eaf)};})['filter'](function(_0x18727a){const _0x2b9684=_0x45bcb2;return!!(_0x18727a[_0x2b9684(0x237)]&&_0x18727a['payload'][_0x2b9684(0x2ae)]&&_0x2835f5(_0x18727a['payload']));}):[];}async function _0x2f22e0(_0x1209ee){const _0x4aafb8=_0x2bfb9d;if(!_0x1209ee||!_0x1209ee[_0x4aafb8(0x2ae)])return;const _0x5ed001={};_0x5ed001[_0x4aafb8(0x1b6)]=_0x1209ee[_0x4aafb8(0x1b6)],_0x5ed001[_0x4aafb8(0x20a)]=_0x1209ee[_0x4aafb8(0x20a)];const _0x455618=await _0x1a4e5a[_0x4aafb8(0x21b)]('profiles')['update'](_0x5ed001)['eq']('id',_0x1209ee[_0x4aafb8(0x2ae)])[_0x4aafb8(0x1df)]('*')[_0x4aafb8(0x207)]();if(_0x455618[_0x4aafb8(0x1d6)])throw new Error(_0x455618[_0x4aafb8(0x1d6)][_0x4aafb8(0x119)]||'Unable\x20to\x20update\x20the\x20user.');const _0x41bd34=_0xdc9dc9[_0x4aafb8(0x291)][_0x4aafb8(0x159)](function(_0x18d872){return _0x18d872['id']===_0x1209ee['userId'];});_0x41bd34!==-0x1&&(_0xdc9dc9[_0x4aafb8(0x291)][_0x41bd34]=_0x455618[_0x4aafb8(0x261)]),await _0x3db352(_0x1209ee[_0x4aafb8(0x2ae)],_0x1209ee[_0x4aafb8(0x1b8)]),_0x25c38a(_0x1209ee['userId'],!0x1);}async function _0x11f09b(){const _0x3e2472=_0x2bfb9d;_0x217ada(),_0x26c93e(),_0x187320(),await _0x9a3b7e(),_0x6d5e8f(_0x3e2472(0x1a9)),typeof _0x5bae7d[_0x3e2472(0x259)]==_0x3e2472(0x200)&&_0x5bae7d[_0x3e2472(0x259)](_0xdc9dc9[_0x3e2472(0x291)][_0x3e2472(0x27d)]());}function _0x2dd080(_0x5f56d8){const _0x20438e=_0x2bfb9d,_0x1867f2=_0x5f56d8[_0x20438e(0x180)]['closest'](_0x20438e(0x2ab));if(!_0x1867f2)return;const _0x305b02=_0x1867f2[_0x20438e(0xf7)]('[data-user-id]');if(!_0x305b02)return;const _0x21b3e1=_0x3eef74(_0x305b02);if(!_0x21b3e1||!_0x21b3e1[_0x20438e(0x2ae)])return;const _0x12098b=_0x2835f5(_0x21b3e1);_0x25c38a(_0x21b3e1[_0x20438e(0x2ae)],_0x12098b),_0xe711a9(_0x305b02,_0x12098b),_0x5b530c();}async function _0x5a9b47(_0xba4b98){const _0x3a10d4=_0x2bfb9d,_0x166de3=_0xba4b98[_0x3a10d4(0x180)]['closest'](_0x3a10d4(0x1ac));if(!_0x166de3)return;const _0x3caafe=_0x166de3[_0x3a10d4(0xf7)]('[data-user-id]'),_0x4cdbd4=_0x3eef74(_0x3caafe);if(!(!_0x4cdbd4||!_0x4cdbd4[_0x3a10d4(0x2ae)])){if(!_0x2835f5(_0x4cdbd4)){_0x25c38a(_0x4cdbd4[_0x3a10d4(0x2ae)],!0x1),_0xe711a9(_0x3caafe,!0x1),_0x5b530c(),_0x1ad65e(_0x3a10d4(0x282),_0x3a10d4(0x11d));return;}_0x166de3[_0x3a10d4(0xc1)]=!0x0,_0x166de3[_0x3a10d4(0x1b5)]=_0x3a10d4(0x1c1);try{await _0x2f22e0(_0x4cdbd4),await _0x11f09b(),_0x1ad65e(_0x3a10d4(0x1d3),'success');}catch(_0x2c5212){_0x166de3[_0x3a10d4(0xc1)]=!0x1,_0x166de3['textContent']=_0x3fa9cd(_0x4cdbd4[_0x3a10d4(0x2ae)]),_0x1ad65e(_0x2c5212[_0x3a10d4(0x119)]||'Unable\x20to\x20update\x20the\x20user.',_0x3a10d4(0x1d6));}finally{_0x5b530c();}}}async function _0x581589(){const _0xd35147=_0x2bfb9d,_0x555218=_0x22a8f6();if(!_0x555218[_0xd35147(0x196)]){_0xdc9dc9['dirtyUserIds'][_0xd35147(0x17d)](),_0x5b530c(),_0x1ad65e('No\x20pending\x20user\x20changes\x20on\x20this\x20page.',_0xd35147(0x11d));return;}_0xdc9dc9[_0xd35147(0xfc)]=!0x0,_0x5b530c(),_0x6d5e8f('Saving\x20user\x20access\x20changes...');let _0x899baf=0x0;const _0x46b9f1=[];for(let _0x1a6b48=0x0;_0x1a6b48<_0x555218[_0xd35147(0x196)];_0x1a6b48+=0x1){const _0x2b8cdb=_0x555218[_0x1a6b48],_0x24284d=_0x2b8cdb[_0xd35147(0x1f5)],_0x2cb900=_0x2b8cdb[_0xd35147(0x237)],_0x192469=_0x24284d['querySelector'](_0xd35147(0x1ac));_0x192469&&(_0x192469[_0xd35147(0xc1)]=!0x0,_0x192469[_0xd35147(0x1b5)]=_0xd35147(0x1c1));try{await _0x2f22e0(_0x2cb900),_0x899baf+=0x1,_0xe711a9(_0x24284d,!0x1);}catch(_0x27ffba){_0x46b9f1[_0xd35147(0x2a8)](_0x27ffba&&_0x27ffba[_0xd35147(0x119)]?_0x27ffba[_0xd35147(0x119)]:_0xd35147(0xb7)),_0x25c38a(_0x2cb900[_0xd35147(0x2ae)],!0x0),_0xe711a9(_0x24284d,!0x0);}finally{_0x192469&&(_0x192469[_0xd35147(0xc1)]=!0x1,_0x192469[_0xd35147(0x1b5)]=_0x3fa9cd(_0x2cb900['userId']));}}if(_0xdc9dc9[_0xd35147(0xfc)]=!0x1,_0x899baf>0x0&&!_0x46b9f1[_0xd35147(0x196)]){await _0x11f09b(),_0x1ad65e(String(_0x899baf)+'\x20users\x20updated.','success'),_0x5b530c();return;}_0x899baf>0x0&&(_0x26c93e(),_0x187320(),await _0x9a3b7e(),_0x6d5e8f(_0xd35147(0x14e)),typeof _0x5bae7d[_0xd35147(0x259)]==_0xd35147(0x200)&&_0x5bae7d[_0xd35147(0x259)](_0xdc9dc9['users']['slice']()),_0x1ad65e(String(_0x899baf)+_0xd35147(0x16c),_0xd35147(0x11d))),_0x46b9f1[_0xd35147(0x196)]&&_0x1ad65e('Some\x20users\x20failed\x20to\x20save:\x20'+_0x46b9f1[0x0],_0xd35147(0x1d6)),_0x5b530c();}function _0x3b652d(){const _0x2d6b24=_0x2bfb9d;_0xdc9dc9[_0x2d6b24(0x150)]||(_0xdc9dc9[_0x2d6b24(0x150)]=!0x0,_0x5aa19f[_0x2d6b24(0xce)](_0x2d6b24(0x183),function(_0x400754){const _0x48ef19=_0x1fc360(_0x400754);_0x48ef19&&(_0x400754['preventDefault'](),_0x3dd8ed(_0x48ef19));}),_0x3e7139[_0x2d6b24(0x23a)]&&_0x3e7139[_0x2d6b24(0x23a)][_0x2d6b24(0xce)](_0x2d6b24(0x197),function(_0x643d39){const _0x4d51f6=_0x2d6b24;_0x5630a7(_0x643d39)[_0x4d51f6(0x17b)](function(_0x5d8b68){const _0x211ed1=_0x4d51f6;_0x1ad65e(_0x5d8b68[_0x211ed1(0x119)]||_0x211ed1(0x13c),_0x211ed1(0x1d6));});}),_0x3e7139[_0x2d6b24(0x269)]&&_0x3e7139['loadModelsBtn'][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(){_0x616a2d()['catch'](function(_0x2d5a2d){const _0x3929e8=_0x3c6e;_0x1ad65e(_0x2d5a2d[_0x3929e8(0x119)]||'Unable\x20to\x20load\x20live\x20models.',_0x3929e8(0x1d6));});}),_0x3e7139['defaultModel']&&_0x3e7139[_0x2d6b24(0xc0)][_0x2d6b24(0xce)]('change',function(){_0x58fccf();}),_0x3e7139['defaultImageModel']&&_0x3e7139[_0x2d6b24(0x1e6)][_0x2d6b24(0xce)](_0x2d6b24(0x21a),function(){_0x58fccf();}),_0x3e7139['modelFilter']&&_0x3e7139[_0x2d6b24(0x225)][_0x2d6b24(0xce)](_0x2d6b24(0x182),function(){const _0x1ea23c=_0x2d6b24;_0xdc9dc9[_0x1ea23c(0x225)]=(_0x3e7139[_0x1ea23c(0x225)][_0x1ea23c(0xa1)]||'')[_0x1ea23c(0x1dc)]()[_0x1ea23c(0x1cc)](),_0x4bb059();}),_0x3e7139[_0x2d6b24(0x241)]&&(_0x3e7139[_0x2d6b24(0x241)]['addEventListener']('input',function(_0x139df7){_0x42da6a(_0x139df7);}),_0x3e7139[_0x2d6b24(0x241)][_0x2d6b24(0xce)](_0x2d6b24(0x21a),function(_0x5927d1){_0x46b114(_0x5927d1),_0x42da6a(_0x5927d1)&&_0x4bb059();})),_0x3e7139[_0x2d6b24(0x1d8)]&&_0x3e7139[_0x2d6b24(0x1d8)][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(){_0x14f0c3();}),_0x3e7139[_0x2d6b24(0x1f9)]&&(_0x3e7139[_0x2d6b24(0x1f9)][_0x2d6b24(0xce)](_0x2d6b24(0x182),function(){const _0x2caad1=_0x2d6b24,_0x2eeba9={};_0x2eeba9[_0x2caad1(0x177)]=!0x1,_0x2f1e39(_0x2eeba9);}),_0x3e7139[_0x2d6b24(0x1f9)][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(_0xdca0f4){_0x50c9f6(_0xdca0f4);})),_0x3e7139[_0x2d6b24(0x1d0)]&&_0x3e7139[_0x2d6b24(0x1d0)][_0x2d6b24(0xce)](_0x2d6b24(0x182),function(){const _0x150d4e=_0x2d6b24;_0xdc9dc9[_0x150d4e(0xd0)]=(_0x3e7139[_0x150d4e(0x1d0)][_0x150d4e(0xa1)]||'')[_0x150d4e(0x1dc)]()[_0x150d4e(0x1cc)](),_0xdc9dc9[_0x150d4e(0xcf)]=0x1,_0x217ada();}),_0x3e7139[_0x2d6b24(0x24f)]&&_0x3e7139[_0x2d6b24(0x24f)][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(){const _0x13ab0f=_0x2d6b24;_0x387623()[_0x13ab0f(0x210)](function(){const _0x16b698=_0x13ab0f;_0x6d5e8f(_0x16b698(0x17a)),_0x1ad65e(_0x16b698(0x17a),_0x16b698(0x113));})[_0x13ab0f(0x17b)](function(_0x33c50b){const _0x3a7176=_0x13ab0f;_0x1ad65e(_0x33c50b['message']||_0x3a7176(0xbb),_0x3a7176(0x1d6));});}),_0x3e7139[_0x2d6b24(0x243)]&&_0x3e7139[_0x2d6b24(0x243)][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(){const _0x32c6f8=_0x2d6b24;_0x57af0d()[_0x32c6f8(0x17b)](function(_0x537052){const _0x440064=_0x32c6f8;_0x1ad65e(_0x537052[_0x440064(0x119)]||_0x440064(0xe6),'error');});}),_0x3e7139[_0x2d6b24(0xe5)]&&_0x3e7139[_0x2d6b24(0xe5)][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(){const _0x520f00=_0x2d6b24;_0x59c6a0()[_0x520f00(0x17b)](function(_0x5e629a){const _0x458cef=_0x520f00;_0x1ad65e(_0x5e629a[_0x458cef(0x119)]||_0x458cef(0x29e),_0x458cef(0x1d6));});}),_0x3e7139[_0x2d6b24(0x280)]&&_0x3e7139[_0x2d6b24(0x280)][_0x2d6b24(0xce)](_0x2d6b24(0x21a),function(){const _0x2e851d=_0x2d6b24,_0x401846=_0x3e7139[_0x2e851d(0x280)][_0x2e851d(0xec)]&&_0x3e7139[_0x2e851d(0x280)][_0x2e851d(0xec)][0x0];_0x401846&&_0x27c91f(_0x401846)[_0x2e851d(0x17b)](function(_0x259f41){const _0x2cb42d=_0x2e851d;_0x1ad65e(_0x259f41[_0x2cb42d(0x119)]||_0x2cb42d(0x250),_0x2cb42d(0x1d6));})[_0x2e851d(0x2a6)](function(){const _0x343cc1=_0x2e851d;_0x3e7139['poolJsonFile'][_0x343cc1(0xa1)]='';});}),_0x3e7139[_0x2d6b24(0x219)]&&_0x3e7139['poolAutoAssignBtn'][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(){const _0x2caed7=_0x2d6b24,_0x3164f3={};_0x3164f3[_0x2caed7(0xb3)]=!0x1,_0x3164f3[_0x2caed7(0x1ee)]=!0x1,_0x192e1a(_0x3164f3)['catch'](function(_0x519e6f){const _0x50c355=_0x2caed7;_0x1ad65e(_0x519e6f[_0x50c355(0x119)]||'Unable\x20to\x20auto-assign\x20pools.',_0x50c355(0x1d6));});}),_0x3e7139['poolPagePrev']&&_0x3e7139[_0x2d6b24(0x274)][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(){const _0x2d4fc7=_0x2d6b24;_0x1eec7f(_0xdc9dc9[_0x2d4fc7(0xd9)]-0x1);}),_0x3e7139['poolPageNext']&&_0x3e7139[_0x2d6b24(0x268)][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(){_0x1eec7f(_0xdc9dc9['poolPage']+0x1);}),_0x3e7139[_0x2d6b24(0xb1)]&&_0x3e7139[_0x2d6b24(0xb1)][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(_0x2c6e3f){const _0x4f6e73=_0x2d6b24,_0xf18d3a=_0x2c6e3f[_0x4f6e73(0x180)][_0x4f6e73(0xf7)](_0x4f6e73(0x1cb));if(!_0xf18d3a)return;const _0x584086=Number(_0xf18d3a[_0x4f6e73(0x22f)](_0x4f6e73(0x19a)));_0x1eec7f(_0x584086);}),_0x3e7139[_0x2d6b24(0x108)]&&_0x3e7139['usersPagePrev'][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(){_0x380a3c(_0xdc9dc9['userPage']-0x1);}),_0x3e7139[_0x2d6b24(0xeb)]&&_0x3e7139[_0x2d6b24(0xeb)][_0x2d6b24(0xce)]('click',function(){_0x380a3c(_0xdc9dc9['userPage']+0x1);}),_0x3e7139['usersPageNumbers']&&_0x3e7139[_0x2d6b24(0x1c8)][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(_0x1aaa99){const _0x3671be=_0x2d6b24,_0x36ac4c=_0x1aaa99[_0x3671be(0x180)]['closest'](_0x3671be(0xcd));if(!_0x36ac4c)return;const _0x5c5490=Number(_0x36ac4c[_0x3671be(0x22f)](_0x3671be(0x137)));_0x380a3c(_0x5c5490);}),_0x3e7139[_0x2d6b24(0x15b)]&&(_0x3e7139[_0x2d6b24(0x15b)][_0x2d6b24(0xce)](_0x2d6b24(0x21a),function(_0x5a89d1){_0x2dd080(_0x5a89d1);}),_0x3e7139['usersTableBody'][_0x2d6b24(0xce)]('click',function(_0x10a5d){const _0x65516d=_0x2d6b24;_0x5a9b47(_0x10a5d)[_0x65516d(0x17b)](function(_0x5a4326){const _0x4f02c2=_0x65516d;_0x1ad65e(_0x5a4326[_0x4f02c2(0x119)]||_0x4f02c2(0x11c),'error');});})),_0x3e7139['usersSaveAllBtn']&&_0x3e7139[_0x2d6b24(0x24b)][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(){const _0x3746f5=_0x2d6b24;_0x581589()[_0x3746f5(0x17b)](function(_0x503a88){const _0x2cd0c1=_0x3746f5;_0xdc9dc9[_0x2cd0c1(0xfc)]=!0x1,_0x5b530c(),_0x1ad65e(_0x503a88[_0x2cd0c1(0x119)]||_0x2cd0c1(0x1db),_0x2cd0c1(0x1d6));});}),_0x3e7139['backBtn']&&typeof _0x5bae7d[_0x2d6b24(0x201)]=='function'&&_0x3e7139[_0x2d6b24(0x2af)][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(){const _0x306948=_0x2d6b24;_0x5bae7d[_0x306948(0x201)]();}),_0x3e7139['logoutBtn']&&_0x3e7139[_0x2d6b24(0x2a4)][_0x2d6b24(0xce)](_0x2d6b24(0x183),function(){const _0x8fabde=_0x2d6b24;if(typeof _0x5bae7d['onLogout']==_0x8fabde(0x200)){_0x5bae7d[_0x8fabde(0x249)]();return;}_0x58fe26[_0x8fabde(0xe3)]();}));}async function _0x1a258d(){const _0x4b50a6=_0x2bfb9d;if(!_0xdc9dc9['context']||_0xdc9dc9[_0x4b50a6(0x111)][_0x4b50a6(0x121)][_0x4b50a6(0x1b6)]!==_0x4b50a6(0x233))throw new Error(_0x4b50a6(0x1d5));const _0x4e4e18={};return _0x4e4e18[_0x4b50a6(0x1a4)]=!!_0x5bae7d[_0x4b50a6(0x1a4)],(_0x3e7139['themeDefault']&&(_0x3e7139['themeDefault']['innerHTML']=_0x7a3984[_0x4b50a6(0x199)]()['map'](function(_0x1742f5){const _0x482c91=_0x4b50a6;return _0x482c91(0xb6)+_0x1ae8b8[_0x482c91(0x9f)](_0x1742f5['id'])+'\x22>'+_0x1ae8b8[_0x482c91(0x9f)](_0x1742f5[_0x482c91(0x21e)])+'</option>';})[_0x4b50a6(0xa7)]('')),_0x1c0a8f(),_0x3b652d(),_0xdc9dc9[_0x4b50a6(0x116)]||(_0xdc9dc9[_0x4b50a6(0x116)]=await _0x509733()),_0x1ae8b8[_0x4b50a6(0x286)](_0xdc9dc9[_0x4b50a6(0x116)]),_0x7a3984[_0x4b50a6(0xf6)]({'settings':_0xdc9dc9[_0x4b50a6(0x116)],'authPage':!0x1,'allowWorkspaceDefault':!0x0}),_0x2936f9(),_0x3dd8ed(_0xdc9dc9[_0x4b50a6(0x122)],_0x4e4e18),await _0x9a3b7e(),await _0xc8c52d(),await _0x387623(),_0xdc9dc9[_0x4b50a6(0x222)]||_0x1ad65e(_0x4b50a6(0xe8),'info'),_0x6d5e8f('Admin\x20workspace\x20ready.'),_0xdc9dc9[_0x4b50a6(0x116)]);}async function _0x423795(){await _0x9a3b7e(),await _0xc8c52d(),await _0x387623();}function _0x2db56d(){const _0x19cd65=_0x2bfb9d;return _0xdc9dc9[_0x19cd65(0x116)];}const _0x480add={};return _0x480add[_0x2bfb9d(0x142)]=_0x1a258d,_0x480add[_0x2bfb9d(0x216)]=_0x423795,_0x480add[_0x2bfb9d(0x12b)]=_0x2db56d,_0x480add[_0x2bfb9d(0x22d)]=_0x3dd8ed,_0x480add;}const _0x319d9d={};_0x319d9d[_0x249181(0x1be)]=_0x5bcdeb,window['LumoraAdminWorkspace']=_0x319d9d;}()));
+(function () {
+    const auth = window.LumoraAuth;
+    const client = auth.client;
+    const gateway = window.LumoraGateway;
+    const utils = window.Lumora.utils;
+    const theme = window.Lumora.theme;
+    const VALID_SECTIONS = ["settings", "users", "overview"];
+    const DEFAULT_POOL_CAPACITY = 4;
+    const POOL_PAGE_SIZE = 10;
+    const USER_PAGE_SIZE = 10;
+
+    function getNode(root, key) {
+        return root.querySelector('[data-admin-el="' + key + '"]');
+    }
+
+    function getSectionId(section) {
+        return "#" + section + "-section";
+    }
+
+    function normalizeSection(value) {
+        return VALID_SECTIONS.indexOf(value) === -1 ? "settings" : value;
+    }
+
+    function createWorkspace(options) {
+        const root = options && options.root;
+        if (!root) {
+            throw new Error("Admin workspace root was not provided.");
+        }
+
+        const notify = typeof options.notify === "function"
+            ? options.notify
+            : function () {};
+        const state = {
+            context: options.context || null,
+            settings: options.initialSettings || null,
+            users: [],
+            userQuery: "",
+            userPage: 1,
+            dirtyUserIds: new Set(),
+            usersSaveInProgress: false,
+            poolAccounts: [],
+            poolAssignments: {},
+            poolPage: 1,
+            poolSchemaReady: true,
+            liveModels: [],
+            modelFilter: "",
+            modelAliasesDraft: {},
+            botsDraft: [],
+            activeSection: normalizeSection(options.defaultSection || "settings"),
+            unsupportedSettingColumns: new Set(),
+            bound: false
+        };
+
+        const dom = {
+            profileName: getNode(root, "profile-name"),
+            profileEmail: getNode(root, "profile-email"),
+            logoutBtn: getNode(root, "logout-btn"),
+            backBtn: getNode(root, "back-btn"),
+            statusLine: getNode(root, "status-line"),
+            metricTotalUsers: getNode(root, "metric-total-users"),
+            metricTotalAdmins: getNode(root, "metric-total-admins"),
+            metricTotalThreads: getNode(root, "metric-total-threads"),
+            metricDefaultModel: getNode(root, "metric-default-model"),
+            settingsForm: getNode(root, "settings-form"),
+            loadModelsBtn: getNode(root, "load-models-btn"),
+            settingsStatus: getNode(root, "settings-status"),
+            brandName: getNode(root, "settings-brand-name"),
+            brandTagline: getNode(root, "settings-brand-tagline"),
+            themeDefault: getNode(root, "settings-theme-default"),
+            welcomeTitle: getNode(root, "settings-welcome-title"),
+            welcomeCopy: getNode(root, "settings-welcome-copy"),
+            gatewayBaseUrl: getNode(root, "settings-gateway-base-url"),
+            gatewayProxyTemplate: getNode(root, "settings-gateway-proxy-template"),
+            gatewayEmail: getNode(root, "settings-gateway-email"),
+            gatewayPassword: getNode(root, "settings-gateway-password"),
+            defaultModel: getNode(root, "settings-default-model"),
+            defaultImageModel: getNode(root, "settings-default-image-model"),
+            thinkingBudget: getNode(root, "settings-thinking-budget"),
+            thinkingEnabled: getNode(root, "settings-thinking-enabled"),
+            allowedModels: getNode(root, "settings-allowed-models"),
+            modelFilter: getNode(root, "settings-model-filter"),
+            modelOptions: getNode(root, "settings-model-options"),
+            modelSummary: getNode(root, "settings-model-summary"),
+            botOptions: getNode(root, "settings-bot-options"),
+            botSummary: getNode(root, "settings-bot-summary"),
+            botAddBtn: getNode(root, "settings-bot-add-btn"),
+            bots: getNode(root, "settings-bots"),
+            userSearchInput: getNode(root, "user-search-input"),
+            usersSaveAllBtn: getNode(root, "users-save-all-btn"),
+            usersSaveSummary: getNode(root, "users-save-summary"),
+            usersTableBody: getNode(root, "users-table-body"),
+            usersPagination: getNode(root, "users-pagination"),
+            usersPagePrev: getNode(root, "users-page-prev"),
+            usersPageNext: getNode(root, "users-page-next"),
+            usersPageNumbers: getNode(root, "users-page-numbers"),
+            usersPageSummary: getNode(root, "users-page-summary"),
+            poolSummary: getNode(root, "pool-summary"),
+            poolTableBody: getNode(root, "pool-table-body"),
+            poolImportJson: getNode(root, "pool-import-json"),
+            poolJsonFile: getNode(root, "pool-json-file"),
+            poolImportBtn: getNode(root, "pool-import-btn"),
+            poolLoadLocalBtn: getNode(root, "pool-load-local-btn"),
+            poolRefreshBtn: getNode(root, "pool-refresh-btn"),
+            poolAutoAssignBtn: getNode(root, "pool-auto-assign-btn"),
+            poolPagination: getNode(root, "pool-pagination"),
+            poolPagePrev: getNode(root, "pool-page-prev"),
+            poolPageNext: getNode(root, "pool-page-next"),
+            poolPageNumbers: getNode(root, "pool-page-numbers"),
+            poolPageSummary: getNode(root, "pool-page-summary"),
+            navButtons: Array.from(root.querySelectorAll("[data-admin-section-target]")),
+            sections: Array.from(root.querySelectorAll("[data-admin-section]"))
+        };
+
+        function setStatusLine(message) {
+            if (dom.statusLine) {
+                dom.statusLine.textContent = message;
+            }
+        }
+
+        function renderProfile() {
+            if (dom.profileName) {
+                dom.profileName.textContent = state.context.profile.display_name || "Admin";
+            }
+            if (dom.profileEmail) {
+                dom.profileEmail.textContent = state.context.user.email || "";
+            }
+        }
+
+        function commitSectionState(optionsOverride) {
+            const mergedOptions = Object.assign({ animate: false, syncHash: options.syncHash }, optionsOverride || {});
+            dom.navButtons.forEach(function (button) {
+                const isActive = button.getAttribute("data-admin-section-target") === state.activeSection;
+                button.classList.toggle("is-active", isActive);
+                button.setAttribute("aria-pressed", isActive ? "true" : "false");
+            });
+            dom.sections.forEach(function (section) {
+                const shouldShow = section.getAttribute("data-admin-section") === state.activeSection;
+                if (!mergedOptions.animate || utils.prefersReducedMotion()) {
+                    section.hidden = !shouldShow;
+                    section.classList.toggle("is-active-section", shouldShow);
+                    return;
+                }
+
+                if (shouldShow) {
+                    section.hidden = false;
+                    section.classList.remove("is-active-section");
+                    requestAnimationFrame(function () {
+                        section.classList.add("is-active-section");
+                    });
+                    return;
+                }
+
+                if (section.hidden) {
+                    section.classList.remove("is-active-section");
+                    return;
+                }
+
+                section.classList.remove("is-active-section");
+                window.setTimeout(function () {
+                    if (!section.classList.contains("is-active-section")) {
+                        section.hidden = true;
+                    }
+                }, 180);
+            });
+            if (mergedOptions.syncHash && window.history && typeof window.history.replaceState === "function") {
+                window.history.replaceState(null, "", getSectionId(state.activeSection));
+            }
+        }
+
+        function renderSectionState() {
+            commitSectionState({ animate: false, syncHash: options.syncHash });
+        }
+
+        function setActiveSection(section, extraOptions) {
+            const mergedOptions = Object.assign({ syncHash: options.syncHash }, extraOptions || {});
+            const nextSection = normalizeSection(section);
+            const previousSection = state.activeSection;
+            state.activeSection = nextSection;
+
+            commitSectionState({
+                animate: previousSection !== nextSection,
+                syncHash: mergedOptions.syncHash
+            });
+        }
+
+        function readSectionTargetFromEvent(event) {
+            const trigger = event && event.target && typeof event.target.closest === "function"
+                ? event.target.closest("[data-admin-section-target]")
+                : null;
+            if (!trigger || !root.contains(trigger)) {
+                return "";
+            }
+            return String(trigger.getAttribute("data-admin-section-target") || "").trim();
+        }
+
+        async function fetchAppSettings() {
+            const result = await client
+                .from("app_settings")
+                .select("*")
+                .eq("id", "global")
+                .maybeSingle();
+
+            if (result.error) {
+                throw new Error(result.error.message || "Unable to load app settings.");
+            }
+
+            return gateway.normalizeAppSettings(result.data || {});
+        }
+
+        async function ensureSettingsLoaded() {
+            if (state.settings) {
+                return state.settings;
+            }
+            state.settings = await fetchAppSettings();
+            return state.settings;
+        }
+
+        async function loadOverview() {
+            const usersCount = await client
+                .from("profiles")
+                .select("id", { count: "exact", head: true });
+            const adminsCount = await client
+                .from("profiles")
+                .select("id", { count: "exact", head: true })
+                .eq("role", "admin");
+            const threadsCount = await client
+                .from("chat_threads")
+                .select("id", { count: "exact", head: true });
+
+            if (usersCount.error || adminsCount.error || threadsCount.error) {
+                throw new Error(
+                    usersCount.error && usersCount.error.message ||
+                    adminsCount.error && adminsCount.error.message ||
+                    threadsCount.error && threadsCount.error.message ||
+                    "Unable to load overview metrics."
+                );
+            }
+
+            if (dom.metricTotalUsers) {
+                dom.metricTotalUsers.textContent = String(usersCount.count || 0);
+            }
+            if (dom.metricTotalAdmins) {
+                dom.metricTotalAdmins.textContent = String(adminsCount.count || 0);
+            }
+            if (dom.metricTotalThreads) {
+                dom.metricTotalThreads.textContent = String(threadsCount.count || 0);
+            }
+            if (dom.metricDefaultModel) {
+                const defaultModelId = String(state.settings && state.settings.default_model || "").trim();
+                dom.metricDefaultModel.textContent = defaultModelId
+                    ? getModelUiName(defaultModelId, defaultModelId)
+                    : "-";
+            }
+        }
+
+        async function loadUsers() {
+            const result = await client
+                .from("profiles")
+                .select("*")
+                .order("created_at", { ascending: false });
+
+            if (result.error) {
+                throw new Error(result.error.message || "Unable to load users.");
+            }
+
+            state.users = Array.isArray(result.data) ? result.data : [];
+            renderUsers();
+            renderPoolSummary();
+            renderPoolTable();
+        }
+
+        function isPoolSchemaMissingError(error) {
+            const message = String(error && error.message || "").toLowerCase();
+            if (!message) {
+                return false;
+            }
+            const mentionsPoolObject = /gateway_account_pool|profile_gateway_pool_assignments|resolve_gateway_runtime_credentials/.test(message);
+            const mentionsMissingObject = /does not exist|schema cache|relation|function|column/.test(message);
+            return mentionsPoolObject && mentionsMissingObject;
+        }
+
+        function normalizePoolAccount(record) {
+            const item = record && typeof record === "object" ? record : {};
+            const maxUsersRaw = Number(item.max_users);
+            const maxUsers = Number.isFinite(maxUsersRaw) && maxUsersRaw > 0
+                ? Math.floor(maxUsersRaw)
+                : DEFAULT_POOL_CAPACITY;
+            const status = String(item.status || "active").trim().toLowerCase() === "inactive"
+                ? "inactive"
+                : "active";
+            return {
+                id: String(item.id || "").trim(),
+                label: String(item.label || "Pool account").trim() || "Pool account",
+                email: String(item.email || "").trim(),
+                password_hash: String(item.password_hash || "").trim(),
+                access_token: String(item.access_token || "").trim(),
+                token_expiry: item.token_expiry || null,
+                max_users: maxUsers,
+                status: status,
+                updated_at: item.updated_at || item.created_at || null
+            };
+        }
+
+        function normalizePoolAssignments(rows) {
+            const next = {};
+            (Array.isArray(rows) ? rows : []).forEach(function (row) {
+                const userId = String(row && row.user_id || "").trim();
+                const poolId = String(row && row.pool_id || "").trim();
+                if (!userId || !poolId) {
+                    return;
+                }
+                next[userId] = poolId;
+            });
+            return next;
+        }
+
+        function buildPoolUsageMap() {
+            const usage = {};
+            const userById = new Map(state.users.map(function (entry) {
+                return [String(entry.id || ""), entry];
+            }));
+
+            Object.keys(state.poolAssignments).forEach(function (userId) {
+                const poolId = String(state.poolAssignments[userId] || "").trim();
+                if (!poolId) {
+                    return;
+                }
+                const user = userById.get(String(userId));
+                if (user && String(user.status || "active") === "inactive") {
+                    return;
+                }
+                usage[poolId] = (usage[poolId] || 0) + 1;
+            });
+
+            return usage;
+        }
+
+        function poolTokenPreview(value) {
+            const token = String(value || "").trim();
+            if (!token) {
+                return "-";
+            }
+            if (token.length <= 18) {
+                return token;
+            }
+            return token.slice(0, 10) + "..." + token.slice(-6);
+        }
+
+        function resolvePoolTokenExpiry(value) {
+            if (!value) {
+                return null;
+            }
+
+            if (typeof value === "number" && Number.isFinite(value) && value > 0) {
+                const ms = value > 1000000000000 ? value : value * 1000;
+                const date = new Date(ms);
+                return Number.isNaN(date.getTime()) ? null : date.toISOString();
+            }
+
+            const text = String(value).trim();
+            if (!text) {
+                return null;
+            }
+
+            if (/^\d+$/.test(text)) {
+                const numeric = Number(text);
+                if (Number.isFinite(numeric) && numeric > 0) {
+                    const ms = numeric > 1000000000000 ? numeric : numeric * 1000;
+                    const date = new Date(ms);
+                    return Number.isNaN(date.getTime()) ? null : date.toISOString();
+                }
+            }
+
+            const parsed = new Date(text);
+            return Number.isNaN(parsed.getTime()) ? null : parsed.toISOString();
+        }
+
+        function extractPoolNumberFromText(value) {
+            const text = String(value || "").trim();
+            if (!text) {
+                return null;
+            }
+
+            const match = text.match(/(\d+)/);
+            if (!match || !match[1]) {
+                return null;
+            }
+
+            const numeric = Number(match[1]);
+            if (!Number.isFinite(numeric) || numeric <= 0) {
+                return null;
+            }
+
+            return Math.floor(numeric);
+        }
+
+        function resolvePoolDisplayNumber(pool, fallbackNumber) {
+            const fromLabel = extractPoolNumberFromText(pool && pool.label);
+            if (Number.isFinite(fromLabel)) {
+                return fromLabel;
+            }
+
+            const fallback = Number(fallbackNumber);
+            if (Number.isFinite(fallback) && fallback > 0) {
+                return Math.floor(fallback);
+            }
+
+            return null;
+        }
+
+        function resolvePoolNumberFromImportRecord(item, fallbackIndex) {
+            const source = item && typeof item === "object" ? item : {};
+            const directCandidates = [
+                source.pool_number,
+                source.poolNumber,
+                source.pool_no,
+                source.poolNo,
+                source.pool,
+                source.number,
+                source.label,
+                source.name
+            ];
+
+            for (let idx = 0; idx < directCandidates.length; idx += 1) {
+                const parsed = extractPoolNumberFromText(directCandidates[idx]);
+                if (Number.isFinite(parsed)) {
+                    return parsed;
+                }
+            }
+
+            const rawIndex = Number(source.index);
+            if (Number.isFinite(rawIndex) && rawIndex >= 0) {
+                return Math.floor(rawIndex) + 1;
+            }
+
+            const fallback = Number(fallbackIndex);
+            if (Number.isFinite(fallback) && fallback >= 0) {
+                return Math.floor(fallback) + 1;
+            }
+
+            return 1;
+        }
+
+        function formatPoolOptionLabel(pool, usageCount, poolNumber) {
+            const usage = Number(usageCount || 0);
+            const cap = Number(pool && pool.max_users || DEFAULT_POOL_CAPACITY);
+            const statusSuffix = pool && pool.status === "inactive" ? " (inactive)" : "";
+            const baseLabel = pool && pool.label
+                ? pool.label
+                : "Pool";
+            const resolvedNumber = resolvePoolDisplayNumber(pool, poolNumber);
+            const labelAlreadyHasNumber = Number.isFinite(extractPoolNumberFromText(baseLabel));
+            const numberPrefix = Number.isFinite(resolvedNumber) && !labelAlreadyHasNumber
+                ? "#" + String(resolvedNumber) + " • "
+                : "";
+            return numberPrefix + baseLabel + " • " + usage + "/" + cap + " • " + String(pool && pool.email || "-") + statusSuffix;
+        }
+
+        function getPoolPageCount() {
+            return Math.max(1, Math.ceil(state.poolAccounts.length / POOL_PAGE_SIZE));
+        }
+
+        function clampPoolPage() {
+            const pageCount = getPoolPageCount();
+            if (!Number.isFinite(state.poolPage)) {
+                state.poolPage = 1;
+            }
+            state.poolPage = Math.max(1, Math.min(pageCount, Math.floor(state.poolPage)));
+        }
+
+        function getPaginationTokens(currentPage, totalPages) {
+            if (totalPages <= 7) {
+                return Array.from({ length: totalPages }, function (_entry, index) {
+                    return index + 1;
+                });
+            }
+
+            const tokens = [1];
+            const start = Math.max(2, currentPage - 1);
+            const end = Math.min(totalPages - 1, currentPage + 1);
+
+            if (start > 2) {
+                tokens.push("...");
+            }
+
+            for (let page = start; page <= end; page += 1) {
+                tokens.push(page);
+            }
+
+            if (end < totalPages - 1) {
+                tokens.push("...");
+            }
+
+            tokens.push(totalPages);
+            return tokens;
+        }
+
+        function renderPoolPagination(totalCount, shownStart, shownEnd) {
+            if (!dom.poolPagination) {
+                return;
+            }
+
+            if (!state.poolSchemaReady || !totalCount) {
+                dom.poolPagination.hidden = true;
+                if (dom.poolPageSummary) {
+                    dom.poolPageSummary.textContent = "";
+                }
+                if (dom.poolPageNumbers) {
+                    dom.poolPageNumbers.innerHTML = "";
+                }
+                return;
+            }
+
+            const pageCount = getPoolPageCount();
+            clampPoolPage();
+            const tokens = getPaginationTokens(state.poolPage, pageCount);
+
+            dom.poolPagination.hidden = false;
+
+            if (dom.poolPagePrev) {
+                dom.poolPagePrev.disabled = state.poolPage <= 1;
+            }
+            if (dom.poolPageNext) {
+                dom.poolPageNext.disabled = state.poolPage >= pageCount;
+            }
+
+            if (dom.poolPageSummary) {
+                dom.poolPageSummary.textContent = "Showing "
+                    + String(shownStart)
+                    + "-"
+                    + String(shownEnd)
+                    + " of "
+                    + String(totalCount)
+                    + " accounts";
+            }
+
+            if (dom.poolPageNumbers) {
+                dom.poolPageNumbers.innerHTML = tokens.map(function (token) {
+                    if (token === "...") {
+                        return '<span class="pagination-ellipsis">...</span>';
+                    }
+
+                    const pageValue = Number(token);
+                    const isActive = pageValue === state.poolPage;
+                    return '<button class="page-number-btn'
+                        + (isActive ? ' is-active' : '')
+                        + '" type="button" data-pool-page="'
+                        + String(pageValue)
+                        + '"'
+                        + (isActive ? ' aria-current="page"' : '')
+                        + '>'
+                        + String(pageValue)
+                        + '</button>';
+                }).join("");
+            }
+        }
+
+        function goToPoolPage(nextPage) {
+            const parsed = Number(nextPage);
+            if (!Number.isFinite(parsed)) {
+                return;
+            }
+            state.poolPage = Math.floor(parsed);
+            clampPoolPage();
+            renderPoolTable();
+        }
+
+        function getUserPageCount(totalCount) {
+            return Math.max(1, Math.ceil(totalCount / USER_PAGE_SIZE));
+        }
+
+        function clampUserPage(totalCount) {
+            const pageCount = getUserPageCount(totalCount);
+            if (!Number.isFinite(state.userPage)) {
+                state.userPage = 1;
+            }
+            state.userPage = Math.max(1, Math.min(pageCount, Math.floor(state.userPage)));
+        }
+
+        function renderUserPagination(totalCount, shownStart, shownEnd) {
+            if (!dom.usersPagination) {
+                return;
+            }
+
+            if (!totalCount) {
+                dom.usersPagination.hidden = true;
+                if (dom.usersPageSummary) {
+                    dom.usersPageSummary.textContent = "";
+                }
+                if (dom.usersPageNumbers) {
+                    dom.usersPageNumbers.innerHTML = "";
+                }
+                return;
+            }
+
+            const pageCount = getUserPageCount(totalCount);
+            clampUserPage(totalCount);
+            const tokens = getPaginationTokens(state.userPage, pageCount);
+
+            dom.usersPagination.hidden = false;
+
+            if (dom.usersPagePrev) {
+                dom.usersPagePrev.disabled = state.userPage <= 1;
+            }
+            if (dom.usersPageNext) {
+                dom.usersPageNext.disabled = state.userPage >= pageCount;
+            }
+
+            if (dom.usersPageSummary) {
+                dom.usersPageSummary.textContent = "Showing "
+                    + String(shownStart)
+                    + "-"
+                    + String(shownEnd)
+                    + " of "
+                    + String(totalCount)
+                    + " users";
+            }
+
+            if (dom.usersPageNumbers) {
+                dom.usersPageNumbers.innerHTML = tokens.map(function (token) {
+                    if (token === "...") {
+                        return '<span class="pagination-ellipsis">...</span>';
+                    }
+
+                    const pageValue = Number(token);
+                    const isActive = pageValue === state.userPage;
+                    return '<button class="page-number-btn'
+                        + (isActive ? ' is-active' : '')
+                        + '" type="button" data-user-page="'
+                        + String(pageValue)
+                        + '"'
+                        + (isActive ? ' aria-current="page"' : '')
+                        + '>'
+                        + String(pageValue)
+                        + '</button>';
+                }).join("");
+            }
+        }
+
+        function goToUserPage(nextPage) {
+            const parsed = Number(nextPage);
+            if (!Number.isFinite(parsed)) {
+                return;
+            }
+            state.userPage = Math.floor(parsed);
+            renderUsers();
+        }
+
+        function getUserById(userId) {
+            const normalized = String(userId || "").trim();
+            if (!normalized) {
+                return null;
+            }
+            const match = state.users.find(function (entry) {
+                return String(entry.id || "") === normalized;
+            });
+            return match || null;
+        }
+
+        function getEffectiveAssignedPoolId(userId) {
+            const normalized = String(userId || "").trim();
+            if (!normalized) {
+                return "";
+            }
+
+            const assignedPoolId = String(state.poolAssignments[normalized] || "").trim();
+            if (!assignedPoolId) {
+                return "";
+            }
+
+            const assignedPool = state.poolAccounts.find(function (pool) {
+                return String(pool && pool.id || "") === assignedPoolId;
+            });
+
+            return assignedPool && assignedPool.status === "active"
+                ? assignedPoolId
+                : "";
+        }
+
+        function getRowSaveButtonLabel(userId) {
+            return String(userId || "") === String(state.context && state.context.user && state.context.user.id || "")
+                ? "Save Pool"
+                : "Save";
+        }
+
+        function getUserRowPayload(row) {
+            const userId = row && row.getAttribute("data-user-id");
+            if (!userId) {
+                return null;
+            }
+
+            const roleField = row.querySelector("[data-user-role]");
+            const statusField = row.querySelector("[data-user-status]");
+            const poolField = row.querySelector("[data-user-pool]");
+
+            return {
+                userId: String(userId || "").trim(),
+                role: String(roleField && roleField.value || "user").trim() || "user",
+                status: String(statusField && statusField.value || "active").trim() || "active",
+                selectedPoolId: String(poolField && poolField.value || "").trim()
+            };
+        }
+
+        function isUserPayloadDirty(payload) {
+            if (!payload || !payload.userId) {
+                return false;
+            }
+
+            const user = getUserById(payload.userId);
+            if (!user) {
+                return false;
+            }
+
+            const currentRole = String(user.role || "user");
+            const currentStatus = String(user.status || "active") === "inactive"
+                ? "inactive"
+                : "active";
+            const currentPoolId = getEffectiveAssignedPoolId(payload.userId);
+
+            return payload.role !== currentRole
+                || payload.status !== currentStatus
+                || payload.selectedPoolId !== currentPoolId;
+        }
+
+        function markUserDirty(userId, isDirty) {
+            const normalized = String(userId || "").trim();
+            if (!normalized) {
+                return;
+            }
+
+            if (isDirty) {
+                state.dirtyUserIds.add(normalized);
+            } else {
+                state.dirtyUserIds.delete(normalized);
+            }
+        }
+
+        function setRowDirtyState(row, isDirty) {
+            if (!row) {
+                return;
+            }
+
+            row.classList.toggle("is-user-dirty", Boolean(isDirty));
+        }
+
+        function updateUsersSaveAllState() {
+            const pendingCount = state.dirtyUserIds.size;
+
+            if (dom.usersSaveSummary) {
+                dom.usersSaveSummary.textContent = pendingCount
+                    ? String(pendingCount) + " pending user change" + (pendingCount === 1 ? "" : "s")
+                    : "All visible user changes saved";
+            }
+
+            if (dom.usersSaveAllBtn) {
+                if (state.usersSaveInProgress) {
+                    dom.usersSaveAllBtn.disabled = true;
+                    dom.usersSaveAllBtn.textContent = "Saving...";
+                    return;
+                }
+
+                dom.usersSaveAllBtn.disabled = pendingCount === 0;
+                dom.usersSaveAllBtn.textContent = "Save All Changes";
+            }
+        }
+
+        function syncDirtyUsersWithRenderedRows() {
+            if (!dom.usersTableBody) {
+                updateUsersSaveAllState();
+                return;
+            }
+
+            const rows = Array.from(dom.usersTableBody.querySelectorAll("[data-user-id]"));
+            const visibleUserIds = new Set();
+
+            rows.forEach(function (row) {
+                const payload = getUserRowPayload(row);
+                if (!payload || !payload.userId) {
+                    return;
+                }
+
+                visibleUserIds.add(payload.userId);
+                const isDirty = state.dirtyUserIds.has(payload.userId) && isUserPayloadDirty(payload);
+                markUserDirty(payload.userId, isDirty);
+                setRowDirtyState(row, isDirty);
+
+                const rowSaveButton = row.querySelector("[data-user-save]");
+                if (rowSaveButton) {
+                    rowSaveButton.textContent = getRowSaveButtonLabel(payload.userId);
+                    rowSaveButton.disabled = false;
+                }
+            });
+
+            Array.from(state.dirtyUserIds).forEach(function (userId) {
+                if (!visibleUserIds.has(userId)) {
+                    state.dirtyUserIds.delete(userId);
+                }
+            });
+
+            updateUsersSaveAllState();
+        }
+
+        function renderPoolSummary() {
+            if (!dom.poolSummary) {
+                return;
+            }
+
+            if (!state.poolSchemaReady) {
+                dom.poolSummary.textContent = "Pool schema missing. Run the latest supabase_schema.sql migration to enable pooled account routing.";
+                return;
+            }
+
+            const usage = buildPoolUsageMap();
+            const activePools = state.poolAccounts.filter(function (pool) {
+                return pool.status === "active";
+            });
+            const activeCapacity = activePools.reduce(function (total, pool) {
+                return total + Number(pool.max_users || DEFAULT_POOL_CAPACITY);
+            }, 0);
+            const assignedUsers = Object.keys(state.poolAssignments).filter(function (userId) {
+                return Boolean(state.poolAssignments[userId]);
+            }).length;
+            const activeAssignedUsers = Object.keys(usage).reduce(function (total, poolId) {
+                return total + Number(usage[poolId] || 0);
+            }, 0);
+            const unassignedActiveUsers = state.users.filter(function (user) {
+                if (String(user.status || "active") === "inactive") {
+                    return false;
+                }
+                return !state.poolAssignments[String(user.id || "")];
+            }).length;
+
+            if (!state.poolAccounts.length) {
+                dom.poolSummary.textContent = "No pool accounts yet. Import account_pool.json data to enable capacity-based routing.";
+                return;
+            }
+
+            dom.poolSummary.textContent = activePools.length
+                + " active pools, "
+                + activeCapacity
+                + " active capacity, "
+                + activeAssignedUsers
+                + " active users assigned ("
+                + assignedUsers
+                + " total assignments). "
+                + (unassignedActiveUsers
+                    ? unassignedActiveUsers + " active users still unassigned."
+                    : "All active users are assigned.");
+        }
+
+        function renderPoolTable() {
+            if (!dom.poolTableBody) {
+                return;
+            }
+
+            if (!state.poolSchemaReady) {
+                dom.poolTableBody.innerHTML = '<tr><td colspan="5">Pool schema missing. Run the latest supabase_schema.sql migration first.</td></tr>';
+                renderPoolPagination(0, 0, 0);
+                return;
+            }
+
+            if (!state.poolAccounts.length) {
+                dom.poolTableBody.innerHTML = '<tr><td colspan="5">No pool accounts yet. Paste account_pool.json and import it.</td></tr>';
+                renderPoolPagination(0, 0, 0);
+                return;
+            }
+
+            const usage = buildPoolUsageMap();
+            const totalCount = state.poolAccounts.length;
+            clampPoolPage();
+            const startIndex = (state.poolPage - 1) * POOL_PAGE_SIZE;
+            const endIndex = Math.min(startIndex + POOL_PAGE_SIZE, totalCount);
+            const visiblePools = state.poolAccounts.slice(startIndex, endIndex);
+
+            dom.poolTableBody.innerHTML = visiblePools.map(function (pool, index) {
+                const poolId = utils.escapeHtml(String(pool.id || ""));
+                const usageCount = Number(usage[pool.id] || 0);
+                const maxUsers = Number(pool.max_users || DEFAULT_POOL_CAPACITY);
+                const statusLabel = pool.status === "inactive" ? "Inactive" : "Active";
+                const tokenPreview = poolTokenPreview(pool.access_token);
+                const expiryCopy = pool.token_expiry
+                    ? "Expires " + utils.formatDateTime(pool.token_expiry)
+                    : "No expiry";
+                const poolNumber = resolvePoolDisplayNumber(pool, startIndex + index + 1);
+
+                return [
+                    '<tr data-pool-id="' + poolId + '">',
+                    '<td><strong>' + utils.escapeHtml(pool.label || "Pool account") + '</strong><span class="mono-copy">' + utils.escapeHtml(poolNumber ? ("#" + String(poolNumber)) : "-") + '</span></td>',
+                    '<td><strong>' + utils.escapeHtml(pool.email || "-") + '</strong><span class="mono-copy">' + utils.escapeHtml(String(pool.id || "").slice(0, 8)) + '</span></td>',
+                    '<td><strong>' + String(usageCount) + '/' + String(maxUsers) + '</strong><span class="muted-copy">Active assignments</span></td>',
+                    '<td><strong class="mono-copy">' + utils.escapeHtml(tokenPreview) + '</strong><span class="muted-copy">' + utils.escapeHtml(expiryCopy) + '</span></td>',
+                    '<td><span class="pool-status-badge" data-status="' + utils.escapeHtml(pool.status) + '">' + utils.escapeHtml(statusLabel) + '</span></td>',
+                    '</tr>'
+                ].join("");
+            }).join("");
+
+            renderPoolPagination(totalCount, startIndex + 1, endIndex);
+        }
+
+        async function loadPoolAccounts() {
+            const result = await client
+                .from("gateway_account_pool")
+                .select("*")
+                .order("created_at", { ascending: true })
+                .order("email", { ascending: true });
+
+            if (result.error) {
+                if (isPoolSchemaMissingError(result.error)) {
+                    state.poolSchemaReady = false;
+                    state.poolAccounts = [];
+                    return;
+                }
+                throw new Error(result.error.message || "Unable to load gateway pool accounts.");
+            }
+
+            state.poolSchemaReady = true;
+            state.poolAccounts = (Array.isArray(result.data) ? result.data : [])
+                .map(normalizePoolAccount)
+                .filter(function (pool) {
+                    return pool.id;
+                })
+                .sort(function (left, right) {
+                    const leftPoolNumber = extractPoolNumberFromText(left && left.label);
+                    const rightPoolNumber = extractPoolNumberFromText(right && right.label);
+
+                    if (Number.isFinite(leftPoolNumber) && Number.isFinite(rightPoolNumber) && leftPoolNumber !== rightPoolNumber) {
+                        return leftPoolNumber - rightPoolNumber;
+                    }
+                    if (Number.isFinite(leftPoolNumber) && !Number.isFinite(rightPoolNumber)) {
+                        return -1;
+                    }
+                    if (!Number.isFinite(leftPoolNumber) && Number.isFinite(rightPoolNumber)) {
+                        return 1;
+                    }
+
+                    const leftLabel = String(left && left.label || "");
+                    const rightLabel = String(right && right.label || "");
+                    const labelCompare = leftLabel.localeCompare(rightLabel);
+                    if (labelCompare !== 0) {
+                        return labelCompare;
+                    }
+
+                    return String(left && left.email || "").localeCompare(String(right && right.email || ""));
+                });
+        }
+
+        async function loadPoolAssignments() {
+            const result = await client
+                .from("profile_gateway_pool_assignments")
+                .select("user_id, pool_id");
+
+            if (result.error) {
+                if (isPoolSchemaMissingError(result.error)) {
+                    state.poolSchemaReady = false;
+                    state.poolAssignments = {};
+                    return;
+                }
+                throw new Error(result.error.message || "Unable to load pool assignments.");
+            }
+
+            state.poolSchemaReady = true;
+            state.poolAssignments = normalizePoolAssignments(result.data);
+        }
+
+        async function loadPoolData() {
+            await Promise.all([loadPoolAccounts(), loadPoolAssignments()]);
+            renderPoolSummary();
+            renderPoolTable();
+            renderUsers();
+        }
+
+        function renderUsers() {
+            if (!dom.usersTableBody) {
+                return;
+            }
+
+            const filtered = state.userQuery
+                ? state.users.filter(function (user) {
+                    const haystack = [user.display_name, user.email].join(" ").toLowerCase();
+                    return haystack.includes(state.userQuery);
+                })
+                : state.users;
+
+            const usage = buildPoolUsageMap();
+            const hasPoolOptions = state.poolSchemaReady && state.poolAccounts.length;
+            const poolNumberById = {};
+            state.poolAccounts.forEach(function (pool, index) {
+                const poolId = String(pool && pool.id || "").trim();
+                if (!poolId) {
+                    return;
+                }
+                poolNumberById[poolId] = resolvePoolDisplayNumber(pool, index + 1);
+            });
+
+            if (!filtered.length) {
+                dom.usersTableBody.innerHTML = '<tr><td colspan="6">No users matched your search.</td></tr>';
+                state.dirtyUserIds.clear();
+                renderUserPagination(0, 0, 0);
+                updateUsersSaveAllState();
+                return;
+            }
+
+            const totalFiltered = filtered.length;
+            clampUserPage(totalFiltered);
+            const startIndex = (state.userPage - 1) * USER_PAGE_SIZE;
+            const endIndex = Math.min(startIndex + USER_PAGE_SIZE, totalFiltered);
+            const visibleUsers = filtered.slice(startIndex, endIndex);
+
+            dom.usersTableBody.innerHTML = visibleUsers.map(function (user) {
+                const isCurrent = user.id === state.context.user.id;
+                const userId = String(user.id || "");
+                const assignedPoolId = String(state.poolAssignments[userId] || "");
+                const assignedPool = state.poolAccounts.find(function (pool) {
+                    return pool.id === assignedPoolId;
+                });
+                const effectiveAssignedPoolId = assignedPool && assignedPool.status === "active"
+                    ? assignedPoolId
+                    : "";
+                const poolOptions = ['<option value="">Auto assign (by pool capacity)</option>'];
+
+                if (!state.poolSchemaReady) {
+                    poolOptions.push('<option value="" disabled>Schema update required</option>');
+                } else {
+                    state.poolAccounts.forEach(function (pool) {
+                        const label = formatPoolOptionLabel(pool, usage[pool.id] || 0, poolNumberById[pool.id]);
+                        const selected = pool.id === effectiveAssignedPoolId ? " selected" : "";
+                        const disabled = pool.status !== "active" ? " disabled" : "";
+                        poolOptions.push('<option value="' + utils.escapeHtml(pool.id) + '"' + selected + disabled + '>' + utils.escapeHtml(label) + '</option>');
+                    });
+                }
+
+                return [
+                    '<tr data-user-id="' + utils.escapeHtml(user.id) + '">',
+                    "<td><strong>" + utils.escapeHtml(user.display_name || "Unnamed user") + "</strong><span>" + utils.escapeHtml(user.email || "-") + "</span></td>",
+                    "<td>",
+                    '<select class="user-select" data-user-role ' + (isCurrent ? "disabled" : "") + ">",
+                    '<option value="user"' + (user.role === "user" ? " selected" : "") + ">User</option>",
+                    '<option value="admin"' + (user.role === "admin" ? " selected" : "") + ">Admin</option>",
+                    "</select>",
+                    "</td>",
+                    "<td>",
+                    '<select class="user-select" data-user-status ' + (isCurrent ? "disabled" : "") + ">",
+                    '<option value="active"' + (user.status !== "inactive" ? " selected" : "") + ">Active</option>",
+                    '<option value="inactive"' + (user.status === "inactive" ? " selected" : "") + ">Inactive</option>",
+                    "</select>",
+                    "</td>",
+                    "<td>",
+                    '<select class="user-select user-pool-select" data-user-pool ' + (state.poolSchemaReady ? "" : "disabled") + ">",
+                    poolOptions.join(""),
+                    "</select>",
+                    hasPoolOptions
+                        ? '<span class="mono-copy">' + utils.escapeHtml(effectiveAssignedPoolId ? "Manual/auto pool" : "Auto routing") + "</span>"
+                        : '<span class="mono-copy">' + utils.escapeHtml(state.poolSchemaReady ? "No pool accounts" : "Schema update required") + "</span>",
+                    "</td>",
+                    "<td>" + utils.escapeHtml(utils.formatDateTime(user.created_at)) + "</td>",
+                    "<td>",
+                    '<button class="table-action" type="button" data-user-save>' + (isCurrent ? "Save Pool" : "Save") + "</button>",
+                    isCurrent
+                        ? '<span class="mono-copy">Current session</span>'
+                        : "",
+                    "</td>",
+                    "</tr>"
+                ].join("");
+            }).join("");
+
+            renderUserPagination(totalFiltered, startIndex + 1, endIndex);
+            syncDirtyUsersWithRenderedRows();
+        }
+
+        function dedupeModelIds(list) {
+            const seen = new Set();
+            return (Array.isArray(list) ? list : [])
+                .map(function (entry) {
+                    return String(entry || "").trim();
+                })
+                .filter(function (modelId) {
+                    if (!modelId || seen.has(modelId)) {
+                        return false;
+                    }
+                    seen.add(modelId);
+                    return true;
+                });
+        }
+
+        function normalizeBotId(rawId, fallbackIndex) {
+            const source = String(rawId || "").trim().toLowerCase();
+            const normalized = source
+                .replace(/[^a-z0-9_-]+/g, "-")
+                .replace(/-{2,}/g, "-")
+                .replace(/^-+|-+$/g, "");
+            if (normalized) {
+                return normalized;
+            }
+            return fallbackIndex === 0
+                ? "assistant"
+                : "bot-" + String(fallbackIndex + 1);
+        }
+
+        function normalizeBots(rawBots) {
+            const source = Array.isArray(rawBots)
+                ? rawBots
+                : [];
+            const seen = new Set();
+            const normalized = [];
+
+            source.forEach(function (entry, index) {
+                const value = entry && typeof entry === "object"
+                    ? entry
+                    : {};
+                const baseId = normalizeBotId(value.id, index);
+                let nextId = baseId;
+                let suffix = 2;
+                while (seen.has(nextId)) {
+                    nextId = baseId + "-" + String(suffix);
+                    suffix += 1;
+                }
+                seen.add(nextId);
+
+                const defaultName = index === 0
+                    ? "Assistant"
+                    : "Bot " + String(index + 1);
+                const nextName = String(value.name || value.label || "").trim() || defaultName;
+                const nextPrompt = typeof value.system_prompt === "string"
+                    ? value.system_prompt
+                    : typeof value.prompt === "string"
+                        ? value.prompt
+                        : "";
+
+                normalized.push({
+                    id: nextId,
+                    name: nextName,
+                    system_prompt: nextPrompt
+                });
+            });
+
+            if (!normalized.length) {
+                normalized.push({
+                    id: "assistant",
+                    name: "Assistant",
+                    system_prompt: ""
+                });
+            }
+
+            return normalized;
+        }
+
+        function readBotsFromOptions(seedBots) {
+            const next = normalizeBots(seedBots || state.botsDraft);
+            if (!dom.botOptions) {
+                return next;
+            }
+
+            const rows = Array.from(dom.botOptions.querySelectorAll("[data-bot-row]"));
+            if (!rows.length) {
+                return next;
+            }
+
+            const fromDom = rows.map(function (row, index) {
+                const botId = String(row.getAttribute("data-bot-id") || "").trim();
+                const nameInput = row.querySelector("[data-bot-name]");
+                const promptInput = row.querySelector("[data-bot-prompt]");
+                return {
+                    id: botId || (index === 0 ? "assistant" : ("bot-" + String(index + 1))),
+                    name: nameInput ? String(nameInput.value || "").trim() : "",
+                    system_prompt: promptInput ? String(promptInput.value || "") : ""
+                };
+            });
+
+            return normalizeBots(fromDom);
+        }
+
+        function writeBotsToField(bots) {
+            if (!dom.bots) {
+                return;
+            }
+            dom.bots.value = JSON.stringify(bots, null, 2);
+        }
+
+        function renderBotSummary() {
+            if (!dom.botSummary) {
+                return;
+            }
+            const count = Array.isArray(state.botsDraft) ? state.botsDraft.length : 0;
+            if (!count) {
+                dom.botSummary.textContent = "No bots configured yet.";
+                return;
+            }
+            dom.botSummary.textContent = count === 1
+                ? "1 bot configured. This bot prompt will be used in chat."
+                : String(count) + " bots configured. Each bot has its own system prompt.";
+        }
+
+        function renderBotOptions() {
+            if (!dom.botOptions) {
+                return;
+            }
+
+            const bots = Array.isArray(state.botsDraft)
+                ? state.botsDraft
+                : [];
+            if (!bots.length) {
+                dom.botOptions.innerHTML = '<div class="bot-option-empty">No bots yet. Add one to continue.</div>';
+                writeBotsToField([]);
+                renderBotSummary();
+                return;
+            }
+
+            dom.botOptions.innerHTML = bots.map(function (bot, index) {
+                const canRemove = bots.length > 1;
+                return [
+                    '<article class="bot-option" data-bot-row data-bot-id="' + utils.escapeHtml(bot.id) + '">',
+                    '<div class="bot-option-head">',
+                    '<span class="bot-option-id">' + utils.escapeHtml(bot.id) + '</span>',
+                    '<button class="bot-option-remove" type="button" data-bot-remove="' + utils.escapeHtml(bot.id) + '"' + (canRemove ? "" : " disabled") + '>Remove</button>',
+                    '</div>',
+                    '<div class="bot-option-controls">',
+                    '<input type="text" data-bot-name value="' + utils.escapeHtml(bot.name) + '" placeholder="Bot name">',
+                    '<textarea data-bot-prompt rows="4" placeholder="System prompt for this bot">' + utils.escapeHtml(bot.system_prompt || "") + '</textarea>',
+                    '</div>',
+                    '</article>'
+                ].join("");
+            }).join("");
+
+            writeBotsToField(bots);
+            renderBotSummary();
+        }
+
+        function syncBotControls(optionsOverride) {
+            const options = Object.assign({ reRender: true }, optionsOverride || {});
+            state.botsDraft = readBotsFromOptions(state.botsDraft);
+            if (options.reRender) {
+                renderBotOptions();
+                return;
+            }
+            writeBotsToField(state.botsDraft);
+            renderBotSummary();
+        }
+
+        function addBotDraft() {
+            const currentBots = readBotsFromOptions(state.botsDraft);
+            const nextIndex = currentBots.length + 1;
+            currentBots.push({
+                id: "bot-" + String(nextIndex),
+                name: "Bot " + String(nextIndex),
+                system_prompt: ""
+            });
+            state.botsDraft = normalizeBots(currentBots);
+            renderBotOptions();
+        }
+
+        function handleBotOptionRemove(event) {
+            const removeButton = event.target.closest("[data-bot-remove]");
+            if (!removeButton) {
+                return false;
+            }
+            const botId = String(removeButton.getAttribute("data-bot-remove") || "").trim();
+            if (!botId) {
+                return true;
+            }
+            const nextBots = readBotsFromOptions(state.botsDraft).filter(function (bot) {
+                return bot.id !== botId;
+            });
+            state.botsDraft = normalizeBots(nextBots);
+            renderBotOptions();
+            return true;
+        }
+
+        function normalizeModelAliasesMap(value) {
+            const source = value && typeof value === "object" && !Array.isArray(value)
+                ? value
+                : {};
+            const normalized = {};
+            Object.keys(source).forEach(function (modelId) {
+                const normalizedId = String(modelId || "").trim();
+                if (!normalizedId) {
+                    return;
+                }
+                const alias = String(source[modelId] || "").trim();
+                if (!alias) {
+                    return;
+                }
+                normalized[normalizedId] = alias;
+            });
+            return normalized;
+        }
+
+        function readModelAliasesFromOptions(seedAliases) {
+            const next = normalizeModelAliasesMap(seedAliases || state.modelAliasesDraft);
+            if (!dom.modelOptions) {
+                return next;
+            }
+
+            Array.from(dom.modelOptions.querySelectorAll("[data-model-alias]")).forEach(function (input) {
+                const modelId = String(input.getAttribute("data-model-alias") || "").trim();
+                if (!modelId) {
+                    return;
+                }
+                const alias = String(input.value || "").trim();
+                if (alias) {
+                    next[modelId] = alias;
+                    return;
+                }
+                delete next[modelId];
+            });
+
+            return normalizeModelAliasesMap(next);
+        }
+
+        function getModelUiName(modelId, fallbackName) {
+            const normalizedId = String(modelId || "").trim();
+            const alias = normalizedId && state.modelAliasesDraft
+                ? String(state.modelAliasesDraft[normalizedId] || "").trim()
+                : "";
+            if (alias) {
+                return alias;
+            }
+            const fallback = String(fallbackName || "").trim();
+            return fallback || normalizedId;
+        }
+
+        function modelLooksImageCapable(modelId) {
+            const value = String(modelId || "").toLowerCase();
+            return value.indexOf("omni") !== -1
+                || value.indexOf("-vl") !== -1
+                || value.indexOf("vision") !== -1
+                || value.indexOf("qvq") !== -1
+                || value.indexOf("wanx") !== -1
+                || value.indexOf("flux") !== -1
+                || value.indexOf("t2i") !== -1;
+        }
+
+        function normalizeLiveModel(model) {
+            const modelId = String(model && model.id || "").trim();
+            if (!modelId) {
+                return null;
+            }
+            const capabilities = model && model.capabilities && typeof model.capabilities === "object"
+                ? model.capabilities
+                : {};
+            return {
+                id: modelId,
+                name: String(model && model.name || modelId).trim() || modelId,
+                capabilities: {
+                    thinking: Boolean(capabilities.thinking),
+                    auto_thinking: Boolean(capabilities.auto_thinking),
+                    search: Boolean(capabilities.search),
+                    image: Boolean(capabilities.image),
+                    video: Boolean(capabilities.video),
+                    image_edit: Boolean(capabilities.image_edit)
+                }
+            };
+        }
+
+        function readAllowedModelIdsFromField() {
+            if (!dom.allowedModels) {
+                return [];
+            }
+            return dedupeModelIds(utils.readList(dom.allowedModels.value));
+        }
+
+        function writeAllowedModelIdsToField(modelIds) {
+            if (!dom.allowedModels) {
+                return;
+            }
+            dom.allowedModels.value = dedupeModelIds(modelIds).join("\n");
+        }
+
+        function buildModelCatalog() {
+            const byId = new Map();
+
+            (Array.isArray(state.liveModels) ? state.liveModels : []).forEach(function (entry) {
+                const normalized = normalizeLiveModel(entry);
+                if (normalized) {
+                    byId.set(normalized.id, normalized);
+                }
+            });
+
+            const seedIds = dedupeModelIds([
+                state.settings && state.settings.default_model,
+                state.settings && state.settings.default_image_model,
+                dom.defaultModel && dom.defaultModel.value,
+                dom.defaultImageModel && dom.defaultImageModel.value
+            ].concat(
+                readAllowedModelIdsFromField(),
+                state.settings && Array.isArray(state.settings.allowed_models)
+                    ? state.settings.allowed_models
+                    : []
+            ));
+
+            seedIds.forEach(function (modelId) {
+                if (byId.has(modelId)) {
+                    return;
+                }
+                byId.set(modelId, {
+                    id: modelId,
+                    name: modelId,
+                    capabilities: {
+                        thinking: false,
+                        auto_thinking: false,
+                        search: false,
+                        image: modelLooksImageCapable(modelId),
+                        video: false,
+                        image_edit: false
+                    }
+                });
+            });
+
+            return Array.from(byId.values()).sort(function (left, right) {
+                return left.id.localeCompare(right.id);
+            });
+        }
+
+        function ensureDefaultModelsAreEnabled(modelIds) {
+            const next = dedupeModelIds(modelIds);
+            const defaultModelId = dom.defaultModel
+                ? String(dom.defaultModel.value || "").trim()
+                : "";
+            const defaultImageModelId = dom.defaultImageModel
+                ? String(dom.defaultImageModel.value || "").trim()
+                : "";
+
+            if (defaultModelId && next.indexOf(defaultModelId) === -1) {
+                next.unshift(defaultModelId);
+            }
+            if (defaultImageModelId && next.indexOf(defaultImageModelId) === -1) {
+                next.push(defaultImageModelId);
+            }
+
+            return dedupeModelIds(next);
+        }
+
+        function setModelSelectOptions(select, models, preferredId, optionsOverride) {
+            if (!select) {
+                return;
+            }
+
+            const options = Object.assign({ allowImageOnly: false }, optionsOverride || {});
+            const scoped = options.allowImageOnly
+                ? models.filter(function (model) {
+                    return Boolean(model.capabilities && model.capabilities.image);
+                })
+                : models.slice();
+            const source = scoped.length ? scoped : models.slice();
+
+            if (!source.length) {
+                select.innerHTML = '<option value="">No models loaded</option>';
+                select.value = "";
+                return;
+            }
+
+            const wantedId = String(preferredId || "").trim();
+            const hasWanted = wantedId && source.some(function (model) {
+                return model.id === wantedId;
+            });
+
+            select.innerHTML = source.map(function (model) {
+                const uiName = getModelUiName(model.id, model.name);
+                const label = uiName && uiName !== model.id
+                    ? uiName + " (" + model.id + ")"
+                    : model.id;
+                return '<option value="' + utils.escapeHtml(model.id) + '">' + utils.escapeHtml(label) + "</option>";
+            }).join("");
+
+            select.value = hasWanted
+                ? wantedId
+                : source[0].id;
+        }
+
+        function getModelBadges(model) {
+            const badges = [];
+            if (model.capabilities && model.capabilities.image) {
+                badges.push("Image");
+            }
+            if (model.capabilities && (model.capabilities.thinking || model.capabilities.auto_thinking)) {
+                badges.push("Thinking");
+            }
+            if (model.capabilities && model.capabilities.search) {
+                badges.push("Search");
+            }
+            if (model.capabilities && model.capabilities.video) {
+                badges.push("Video");
+            }
+            if (!badges.length) {
+                badges.push("Chat");
+            }
+            return badges;
+        }
+
+        function renderModelOptions(models, enabledModelIds) {
+            if (!dom.modelOptions) {
+                return;
+            }
+
+            const aliases = normalizeModelAliasesMap(state.modelAliasesDraft);
+            const query = String(state.modelFilter || "").trim().toLowerCase();
+            const visibleModels = query
+                ? models.filter(function (model) {
+                    return [model.id, model.name, aliases[model.id] || ""].join(" ").toLowerCase().includes(query);
+                })
+                : models;
+
+            if (!visibleModels.length) {
+                dom.modelOptions.innerHTML = '<div class="model-empty">No models matched your filter.</div>';
+                return;
+            }
+
+            const enabledSet = new Set(enabledModelIds);
+            dom.modelOptions.innerHTML = visibleModels.map(function (model) {
+                const badges = getModelBadges(model).map(function (badge) {
+                    return '<span class="model-badge">' + utils.escapeHtml(badge) + "</span>";
+                }).join("");
+                const inputHtml = '<input type="checkbox" data-model-enable value="'
+                    + utils.escapeHtml(model.id)
+                    + '"'
+                    + (enabledSet.has(model.id) ? ' checked' : '')
+                    + '>';
+                const aliasValue = aliases[model.id] || "";
+                const secondaryName = model.name && model.name !== model.id
+                    ? '<span class="model-option-name">' + utils.escapeHtml(model.name) + '</span>'
+                    : "";
+
+                return [
+                    '<div class="model-option" title="' + utils.escapeHtml(model.id) + '">',
+                    '<label class="model-option-main">',
+                    inputHtml,
+                    '<span class="model-option-copy">',
+                    '<strong class="model-option-official">' + utils.escapeHtml(model.id) + '</strong>',
+                    secondaryName,
+                    '<span class="model-option-badges">' + badges + '</span>',
+                    '</span>',
+                    '</label>',
+                    '<label class="model-alias-field">',
+                    '<span>Custom UI name</span>',
+                    '<input class="model-alias-input" type="text" data-model-alias="' + utils.escapeHtml(model.id) + '" value="' + utils.escapeHtml(aliasValue) + '" placeholder="Keep official name">',
+                    '</label>',
+                    '</div>'
+                ].join('');
+            }).join("");
+        }
+
+        function renderModelSummary(totalCount, enabledCount) {
+            if (!dom.modelSummary) {
+                return;
+            }
+            if (!totalCount) {
+                dom.modelSummary.textContent = "Load live models to choose defaults and control which models are enabled for chat.";
+                return;
+            }
+            const sourceLabel = state.liveModels.length
+                ? "live catalog"
+                : "saved configuration";
+            dom.modelSummary.textContent = enabledCount + " enabled out of " + totalCount + " models (" + sourceLabel + ").";
+        }
+
+        function syncModelControls() {
+            state.modelAliasesDraft = readModelAliasesFromOptions(state.modelAliasesDraft);
+            const models = buildModelCatalog();
+            const preferredDefaultModel = dom.defaultModel
+                ? String(dom.defaultModel.value || state.settings && state.settings.default_model || "").trim()
+                : "";
+            const preferredDefaultImageModel = dom.defaultImageModel
+                ? String(dom.defaultImageModel.value || state.settings && state.settings.default_image_model || preferredDefaultModel || "").trim()
+                : "";
+
+            setModelSelectOptions(dom.defaultModel, models, preferredDefaultModel, {
+                allowImageOnly: false
+            });
+            setModelSelectOptions(dom.defaultImageModel, models, preferredDefaultImageModel, {
+                allowImageOnly: true
+            });
+
+            let enabledModelIds = readAllowedModelIdsFromField();
+            if (!enabledModelIds.length && state.settings && Array.isArray(state.settings.allowed_models)) {
+                enabledModelIds = dedupeModelIds(state.settings.allowed_models);
+            }
+            if (!enabledModelIds.length && dom.defaultModel && dom.defaultModel.value) {
+                enabledModelIds = [dom.defaultModel.value];
+            }
+            enabledModelIds = ensureDefaultModelsAreEnabled(enabledModelIds);
+
+            writeAllowedModelIdsToField(enabledModelIds);
+            renderModelOptions(models, enabledModelIds);
+            renderModelSummary(models.length, enabledModelIds.length);
+        }
+
+        function handleModelOptionToggle(event) {
+            const toggle = event.target.closest("[data-model-enable]");
+            if (!toggle) {
+                return;
+            }
+            const modelId = String(toggle.value || "").trim();
+            if (!modelId) {
+                return;
+            }
+
+            const enabledSet = new Set(readAllowedModelIdsFromField());
+            if (toggle.checked) {
+                enabledSet.add(modelId);
+            } else {
+                enabledSet.delete(modelId);
+            }
+
+            let enabledModelIds = ensureDefaultModelsAreEnabled(Array.from(enabledSet));
+            if (!enabledModelIds.length) {
+                enabledModelIds = [modelId];
+            }
+            writeAllowedModelIdsToField(enabledModelIds);
+            syncModelControls();
+        }
+
+        function handleModelAliasInput(event) {
+            const aliasInput = event.target.closest("[data-model-alias]");
+            if (!aliasInput) {
+                return false;
+            }
+
+            const modelId = String(aliasInput.getAttribute("data-model-alias") || "").trim();
+            if (!modelId) {
+                return false;
+            }
+
+            const aliases = normalizeModelAliasesMap(state.modelAliasesDraft);
+            const alias = String(aliasInput.value || "").trim();
+            if (alias) {
+                aliases[modelId] = alias;
+            } else {
+                delete aliases[modelId];
+            }
+            state.modelAliasesDraft = aliases;
+            return true;
+        }
+
+        function handleDefaultModelSelectionChange() {
+            const enabledModelIds = ensureDefaultModelsAreEnabled(readAllowedModelIdsFromField());
+            writeAllowedModelIdsToField(enabledModelIds);
+            syncModelControls();
+        }
+
+        function renderSettingsForm() {
+            if (!state.settings || !dom.settingsForm) {
+                return;
+            }
+            dom.brandName.value = state.settings.brand_name;
+            dom.brandTagline.value = state.settings.brand_tagline;
+            dom.themeDefault.value = state.settings.theme_default || "obsidian";
+            if (dom.themeDefault) {
+                const unsupportedThemeDefault = state.unsupportedSettingColumns.has("theme_default");
+                dom.themeDefault.disabled = unsupportedThemeDefault;
+                dom.themeDefault.title = unsupportedThemeDefault
+                    ? "This field is not available in your current Supabase schema. Run the latest SQL migration to enable it."
+                    : "";
+            }
+            dom.welcomeTitle.value = state.settings.welcome_title;
+            dom.welcomeCopy.value = state.settings.welcome_copy;
+            dom.gatewayBaseUrl.value = state.settings.gateway_base_url;
+            dom.gatewayProxyTemplate.value = state.settings.gateway_proxy_template;
+            dom.gatewayEmail.value = state.settings.gateway_email;
+            dom.gatewayPassword.value = "";
+            if (dom.defaultModel) {
+                dom.defaultModel.value = state.settings.default_model;
+            }
+            if (dom.defaultImageModel) {
+                dom.defaultImageModel.value = state.settings.default_image_model || state.settings.default_model;
+                const unsupportedDefaultImageModel = state.unsupportedSettingColumns.has("default_image_model");
+                dom.defaultImageModel.disabled = unsupportedDefaultImageModel;
+                dom.defaultImageModel.title = unsupportedDefaultImageModel
+                    ? "This field is not available in your current Supabase schema. Run the latest SQL migration to enable it."
+                    : "";
+            }
+            dom.thinkingBudget.value = String(state.settings.thinking_budget);
+            dom.thinkingEnabled.checked = Boolean(state.settings.thinking_enabled);
+            writeAllowedModelIdsToField(state.settings.allowed_models);
+            state.botsDraft = normalizeBots(state.settings.bots);
+            state.modelAliasesDraft = normalizeModelAliasesMap(state.settings.model_aliases);
+            if (dom.modelFilter) {
+                dom.modelFilter.value = state.modelFilter;
+            }
+            syncModelControls();
+            renderBotOptions();
+            const unsupportedBots = state.unsupportedSettingColumns.has("bots");
+            if (dom.botAddBtn) {
+                dom.botAddBtn.disabled = unsupportedBots;
+                dom.botAddBtn.title = unsupportedBots
+                    ? "This field is not available in your current Supabase schema. Run the latest SQL migration to enable it."
+                    : "";
+            }
+            if (dom.botOptions) {
+                dom.botOptions.setAttribute("aria-disabled", unsupportedBots ? "true" : "false");
+                dom.botOptions.title = unsupportedBots
+                    ? "This field is not available in your current Supabase schema. Run the latest SQL migration to enable it."
+                    : "";
+            }
+            if (unsupportedBots && dom.botSummary) {
+                dom.botSummary.textContent = "Bots column missing in schema. Run latest SQL migration to enable multi-bot prompts.";
+            }
+            if (dom.settingsStatus) {
+                dom.settingsStatus.textContent = state.settings.updated_at
+                    ? "Last updated " + utils.formatDateTime(state.settings.updated_at)
+                    : "Changes are saved to Supabase and applied to the user chat after refresh.";
+            }
+        }
+
+        async function buildSettingsPayload() {
+            const currentSettings = await ensureSettingsLoaded();
+            const passwordValue = dom.gatewayPassword.value.trim();
+            let enabledModelIds = readAllowedModelIdsFromField();
+            if (!enabledModelIds.length && currentSettings && Array.isArray(currentSettings.allowed_models)) {
+                enabledModelIds = dedupeModelIds(currentSettings.allowed_models);
+            }
+
+            const selectedDefaultModel = dom.defaultModel
+                ? String(dom.defaultModel.value || "").trim()
+                : "";
+            const selectedDefaultImageModel = dom.defaultImageModel
+                ? String(dom.defaultImageModel.value || "").trim()
+                : "";
+
+            const resolvedDefaultModel = selectedDefaultModel
+                || currentSettings.default_model
+                || "qwen3.5-plus";
+            const resolvedDefaultImageModel = selectedDefaultImageModel
+                || currentSettings.default_image_model
+                || resolvedDefaultModel;
+
+            enabledModelIds = ensureDefaultModelsAreEnabled(enabledModelIds.concat([
+                resolvedDefaultModel,
+                resolvedDefaultImageModel
+            ]));
+
+            writeAllowedModelIdsToField(enabledModelIds);
+
+            const modelAliases = readModelAliasesFromOptions(state.modelAliasesDraft);
+            const enabledSet = new Set(enabledModelIds);
+            const filteredModelAliases = {};
+            Object.keys(modelAliases).forEach(function (modelId) {
+                if (enabledSet.has(modelId) && modelAliases[modelId]) {
+                    filteredModelAliases[modelId] = modelAliases[modelId];
+                }
+            });
+            state.modelAliasesDraft = filteredModelAliases;
+
+            const bots = normalizeBots(readBotsFromOptions(state.botsDraft));
+            state.botsDraft = bots;
+            writeBotsToField(bots);
+
+            const payload = {
+                id: "global",
+                brand_name: dom.brandName.value.trim() || "Lumora",
+                brand_tagline: dom.brandTagline.value.trim(),
+                theme_default: dom.themeDefault.value || "obsidian",
+                welcome_title: dom.welcomeTitle.value.trim() || "Start a new conversation",
+                welcome_copy: dom.welcomeCopy.value.trim(),
+                gateway_base_url: dom.gatewayBaseUrl.value.trim() || "https://chat.qwen.ai",
+                gateway_proxy_template: dom.gatewayProxyTemplate.value.trim(),
+                gateway_email: dom.gatewayEmail.value.trim(),
+                gateway_password_hash: passwordValue
+                    ? await utils.sha256Hex(passwordValue)
+                    : currentSettings.gateway_password_hash,
+                default_model: resolvedDefaultModel,
+                default_image_model: resolvedDefaultImageModel,
+                allowed_models: enabledModelIds,
+                model_aliases: filteredModelAliases,
+                bots: bots,
+                thinking_enabled: dom.thinkingEnabled.checked,
+                thinking_budget: Number(dom.thinkingBudget.value) || 81920,
+                updated_by: state.context.user.id
+            };
+
+            state.unsupportedSettingColumns.forEach(function (columnName) {
+                if (Object.prototype.hasOwnProperty.call(payload, columnName)) {
+                    delete payload[columnName];
+                }
+            });
+
+            return payload;
+        }
+
+        function extractMissingAppSettingsColumn(error) {
+            const message = error && error.message ? error.message : String(error || "");
+
+            let match = message.match(/Could not find the '([^']+)' column of 'app_settings' in the schema cache/i);
+            if (match && match[1]) {
+                return match[1];
+            }
+
+            match = message.match(/column\s+"?([a-zA-Z0-9_]+)"?\s+of\s+relation\s+"?app_settings"?\s+does\s+not\s+exist/i);
+            if (match && match[1]) {
+                return match[1];
+            }
+
+            return null;
+        }
+
+        function markUnsupportedSettingColumn(columnName) {
+            const normalized = String(columnName || "").trim();
+            if (!normalized) {
+                return;
+            }
+
+            state.unsupportedSettingColumns.add(normalized);
+
+            const hint = "This field is not available in your current Supabase schema. Run the latest SQL migration to enable it.";
+            if (normalized === "theme_default" && dom.themeDefault) {
+                dom.themeDefault.disabled = true;
+                dom.themeDefault.title = hint;
+            }
+            if (normalized === "default_image_model" && dom.defaultImageModel) {
+                dom.defaultImageModel.disabled = true;
+                dom.defaultImageModel.title = hint;
+            }
+            if (normalized === "bots") {
+                if (dom.botAddBtn) {
+                    dom.botAddBtn.disabled = true;
+                    dom.botAddBtn.title = hint;
+                }
+                if (dom.botOptions) {
+                    dom.botOptions.setAttribute("aria-disabled", "true");
+                    dom.botOptions.title = hint;
+                }
+                if (dom.botSummary) {
+                    dom.botSummary.textContent = "Bots column missing in schema. Run latest SQL migration to enable multi-bot prompts.";
+                }
+            }
+        }
+
+        async function upsertSettingsWithSchemaFallback(payload) {
+            let workingPayload = Object.assign({}, payload);
+            const skippedColumns = [];
+            const seenColumns = new Set();
+            let result = null;
+
+            while (true) {
+                result = await client
+                    .from("app_settings")
+                    .upsert(workingPayload)
+                    .select("*")
+                    .single();
+
+                if (!result.error) {
+                    return {
+                        result: result,
+                        persistedPayload: workingPayload,
+                        skippedColumns: skippedColumns
+                    };
+                }
+
+                const missingColumn = extractMissingAppSettingsColumn(result.error);
+                if (!missingColumn || seenColumns.has(missingColumn) || !Object.prototype.hasOwnProperty.call(workingPayload, missingColumn)) {
+                    return {
+                        result: result,
+                        persistedPayload: workingPayload,
+                        skippedColumns: skippedColumns
+                    };
+                }
+
+                seenColumns.add(missingColumn);
+                skippedColumns.push(missingColumn);
+                delete workingPayload[missingColumn];
+                markUnsupportedSettingColumn(missingColumn);
+            }
+        }
+
+        async function saveSettings(event) {
+            if (event) {
+                event.preventDefault();
+            }
+            if (dom.settingsStatus) {
+                dom.settingsStatus.textContent = "Saving settings...";
+            }
+
+            try {
+                const payload = await buildSettingsPayload();
+                const saveAttempt = await upsertSettingsWithSchemaFallback(payload);
+                const result = saveAttempt.result;
+
+                if (result.error) {
+                    throw new Error(result.error.message || "Unable to save settings.");
+                }
+
+                state.settings = gateway.normalizeAppSettings(result.data || saveAttempt.persistedPayload);
+                utils.applyBranding(state.settings);
+                theme.initialize({
+                    settings: state.settings,
+                    allowWorkspaceDefault: true,
+                    authPage: false
+                });
+                renderSettingsForm();
+                await loadOverview();
+                if (saveAttempt.skippedColumns.length) {
+                    notify(
+                        "Settings saved, but your schema is missing: " + saveAttempt.skippedColumns.join(", ") + ". Run the latest Supabase SQL migration.",
+                        "info"
+                    );
+                }
+                if (dom.settingsStatus) {
+                    dom.settingsStatus.textContent = "Settings saved successfully.";
+                }
+                setStatusLine("Settings updated.");
+                if (typeof options.onSettingsSaved === "function") {
+                    options.onSettingsSaved(state.settings);
+                }
+                notify("Settings saved.", "success");
+            } catch (error) {
+                if (dom.settingsStatus) {
+                    dom.settingsStatus.textContent = error.message || "Unable to save settings.";
+                }
+                notify(error.message || "Unable to save settings.", "error");
+            }
+        }
+
+        async function loadLiveModels() {
+            if (dom.loadModelsBtn) {
+                dom.loadModelsBtn.disabled = true;
+            }
+            if (dom.settingsStatus) {
+                dom.settingsStatus.textContent = "Loading live models...";
+            }
+            try {
+                await ensureSettingsLoaded();
+                const payload = await buildSettingsPayload();
+                const models = await gateway.loadModels(payload);
+                state.liveModels = models.map(normalizeLiveModel).filter(Boolean);
+                if (!models.length) {
+                    throw new Error("No models were returned.");
+                }
+
+                syncModelControls();
+                if (dom.settingsStatus) {
+                    dom.settingsStatus.textContent = models.length + " models loaded.";
+                }
+                notify(models.length + " live models loaded.", "success");
+            } catch (error) {
+                if (dom.settingsStatus) {
+                    dom.settingsStatus.textContent = error.message || "Unable to load models.";
+                }
+                notify(error.message || "Unable to load models.", "error");
+            } finally {
+                if (dom.loadModelsBtn) {
+                    dom.loadModelsBtn.disabled = false;
+                }
+            }
+        }
+
+        async function saveUserPoolAssignment(userId, selectedPoolId) {
+            if (!state.poolSchemaReady) {
+                return;
+            }
+
+            const normalizedUserId = String(userId || "").trim();
+            const normalizedPoolId = String(selectedPoolId || "").trim();
+            if (!normalizedUserId) {
+                return;
+            }
+
+            if (normalizedPoolId) {
+                const selectedPool = state.poolAccounts.find(function (pool) {
+                    return pool.id === normalizedPoolId;
+                });
+                if (!selectedPool) {
+                    throw new Error("Selected pool account is no longer available. Refresh and try again.");
+                }
+                if (selectedPool.status !== "active") {
+                    throw new Error("Selected pool account is inactive. Choose an active pool account.");
+                }
+                if (!selectedPool.access_token && !selectedPool.password_hash) {
+                    throw new Error("Selected pool account has no token/password credentials.");
+                }
+
+                const upsertResult = await client
+                    .from("profile_gateway_pool_assignments")
+                    .upsert({
+                        user_id: normalizedUserId,
+                        pool_id: normalizedPoolId,
+                        assigned_by: state.context.user.id,
+                        assigned_at: new Date().toISOString()
+                    }, {
+                        onConflict: "user_id"
+                    })
+                    .select("user_id, pool_id")
+                    .single();
+
+                if (upsertResult.error) {
+                    if (isPoolSchemaMissingError(upsertResult.error)) {
+                        state.poolSchemaReady = false;
+                        return;
+                    }
+                    throw new Error(upsertResult.error.message || "Unable to assign pool account.");
+                }
+
+                state.poolAssignments[normalizedUserId] = normalizedPoolId;
+                return;
+            }
+
+            const deleteResult = await client
+                .from("profile_gateway_pool_assignments")
+                .delete()
+                .eq("user_id", normalizedUserId);
+
+            if (deleteResult.error && !isPoolSchemaMissingError(deleteResult.error)) {
+                throw new Error(deleteResult.error.message || "Unable to clear pool assignment.");
+            }
+
+            delete state.poolAssignments[normalizedUserId];
+
+            const rpcResult = await client.rpc("resolve_gateway_runtime_credentials", {
+                target_user_id: normalizedUserId
+            });
+            if (!rpcResult.error) {
+                const row = Array.isArray(rpcResult.data)
+                    ? rpcResult.data[0]
+                    : rpcResult.data;
+                const resolvedPoolId = String(row && row.pool_id || "").trim();
+                if (resolvedPoolId) {
+                    state.poolAssignments[normalizedUserId] = resolvedPoolId;
+                }
+            }
+        }
+
+        async function loadLocalPoolJsonIntoForm() {
+            if (!dom.poolImportJson) {
+                return;
+            }
+
+            const candidates = [
+                "../account_pool.json",
+                "account_pool.json",
+                "/account_pool.json"
+            ];
+
+            let loadedText = "";
+            let lastError = null;
+
+            for (let index = 0; index < candidates.length; index += 1) {
+                const url = candidates[index];
+                try {
+                    const response = await fetch(url, {
+                        cache: "no-store"
+                    });
+                    if (!response.ok) {
+                        lastError = new Error("HTTP " + response.status);
+                        continue;
+                    }
+                    loadedText = await response.text();
+                    if (loadedText.trim()) {
+                        break;
+                    }
+                } catch (error) {
+                    lastError = error;
+                }
+            }
+
+            if (!loadedText.trim()) {
+                throw new Error(
+                    "Could not load account_pool.json automatically. Paste JSON manually."
+                        + (lastError && lastError.message ? " (" + lastError.message + ")" : "")
+                );
+            }
+
+            let parsed;
+            try {
+                parsed = JSON.parse(loadedText);
+            } catch (_error) {
+                throw new Error("Loaded account_pool.json is not valid JSON.");
+            }
+
+            if (!Array.isArray(parsed)) {
+                throw new Error("Loaded account_pool.json must contain an array.");
+            }
+
+            dom.poolImportJson.value = JSON.stringify(parsed, null, 2);
+            setStatusLine("Local pool JSON loaded.");
+            notify("Loaded account_pool.json into the import form.", "success");
+        }
+
+        async function loadUploadedPoolJsonIntoForm(file) {
+            if (!dom.poolImportJson) {
+                return;
+            }
+
+            const selectedFile = file;
+            if (!selectedFile || typeof selectedFile.text !== "function") {
+                throw new Error("Choose a valid JSON file first.");
+            }
+
+            const fileName = String(selectedFile.name || "pool.json");
+            const rawText = await selectedFile.text();
+            if (!String(rawText || "").trim()) {
+                throw new Error("Selected JSON file is empty.");
+            }
+
+            let parsed;
+            try {
+                parsed = JSON.parse(rawText);
+            } catch (_error) {
+                throw new Error("Uploaded JSON file is invalid.");
+            }
+
+            if (!Array.isArray(parsed)) {
+                throw new Error("Uploaded JSON must contain an array of account records.");
+            }
+
+            dom.poolImportJson.value = JSON.stringify(parsed, null, 2);
+            setStatusLine("Pool JSON file loaded: " + fileName);
+            notify("JSON uploaded. Click Import / Update Pool to save changes.", "success");
+        }
+
+        function normalizePoolImportRecord(entry, index) {
+            const item = entry && typeof entry === "object" ? entry : {};
+            const email = String(item.email || "").trim().toLowerCase();
+            if (!email) {
+                return null;
+            }
+
+            const accessToken = String(item.token || item.access_token || "").trim();
+            const passwordHash = String(item.password_hash || item.gateway_password_hash || "").trim();
+            if (!accessToken && !passwordHash) {
+                return null;
+            }
+
+            const maxUsersRaw = Number(item.max_users);
+            const maxUsers = Number.isFinite(maxUsersRaw) && maxUsersRaw > 0
+                ? Math.floor(maxUsersRaw)
+                : DEFAULT_POOL_CAPACITY;
+            const status = String(item.status || "active").trim().toLowerCase() === "inactive"
+                ? "inactive"
+                : "active";
+            const tokenExpiry = resolvePoolTokenExpiry(item.exp || item.token_expiry || item.tokenExpiry);
+            const poolNumber = resolvePoolNumberFromImportRecord(item, index);
+            const label = String(item.label || item.name || item.pool_label || ("Pool " + String(poolNumber))).trim() || ("Pool " + String(poolNumber));
+
+            return {
+                label: label,
+                email: email,
+                password_hash: passwordHash,
+                access_token: accessToken,
+                token_expiry: tokenExpiry,
+                max_users: maxUsers,
+                status: status,
+                created_by: state.context.user.id
+            };
+        }
+
+        async function importPoolJson() {
+            if (!state.poolSchemaReady) {
+                throw new Error("Pool schema is missing. Run the latest supabase_schema.sql migration first.");
+            }
+            if (!dom.poolImportJson) {
+                return;
+            }
+
+            const raw = String(dom.poolImportJson.value || "").trim();
+            if (!raw) {
+                throw new Error("Paste account_pool.json content first.");
+            }
+
+            let parsed;
+            try {
+                parsed = JSON.parse(raw);
+            } catch (_error) {
+                throw new Error("Pool JSON is invalid. Fix JSON syntax and try again.");
+            }
+
+            if (!Array.isArray(parsed)) {
+                throw new Error("Pool JSON must be an array of account records.");
+            }
+
+            const payload = parsed.map(function (entry, index) {
+                return normalizePoolImportRecord(entry, index);
+            }).filter(Boolean);
+
+            if (!payload.length) {
+                throw new Error("No valid pool records found. Each entry needs email plus token or password_hash.");
+            }
+
+            if (dom.poolImportBtn) {
+                dom.poolImportBtn.disabled = true;
+            }
+            setStatusLine("Importing pool accounts...");
+
+            try {
+                const result = await client
+                    .from("gateway_account_pool")
+                    .upsert(payload, {
+                        onConflict: "email"
+                    })
+                    .select("*");
+
+                if (result.error) {
+                    if (isPoolSchemaMissingError(result.error)) {
+                        state.poolSchemaReady = false;
+                        throw new Error("Pool schema is missing. Run the latest supabase_schema.sql migration first.");
+                    }
+                    throw new Error(result.error.message || "Unable to import pool accounts.");
+                }
+
+                await loadPoolData();
+                await autoAssignPoolsByCapacity({
+                    onlyUnassigned: true,
+                    silent: true
+                });
+                renderPoolSummary();
+                renderPoolTable();
+                renderUsers();
+                setStatusLine("Pool accounts imported.");
+                notify(payload.length + " pool accounts imported/updated.", "success");
+            } finally {
+                if (dom.poolImportBtn) {
+                    dom.poolImportBtn.disabled = false;
+                }
+            }
+        }
+
+        async function autoAssignPoolsByCapacity(optionsOverride) {
+            const options = Object.assign({
+                onlyUnassigned: false,
+                silent: false
+            }, optionsOverride || {});
+
+            if (!state.poolSchemaReady) {
+                throw new Error("Pool schema is missing. Run the latest supabase_schema.sql migration first.");
+            }
+
+            const activePools = state.poolAccounts.filter(function (pool) {
+                const hasCredential = Boolean(pool.access_token || pool.password_hash);
+                return pool.status === "active" && hasCredential;
+            });
+
+            if (!activePools.length) {
+                throw new Error("No active pool accounts with credentials are available.");
+            }
+
+            const activeUsers = state.users
+                .filter(function (user) {
+                    return String(user.status || "active") !== "inactive";
+                })
+                .sort(function (left, right) {
+                    const leftTime = new Date(left.created_at || 0).getTime();
+                    const rightTime = new Date(right.created_at || 0).getTime();
+                    if (leftTime !== rightTime) {
+                        return leftTime - rightTime;
+                    }
+                    return String(left.email || left.id || "").localeCompare(String(right.email || right.id || ""));
+                });
+
+            const initialUsage = options.onlyUnassigned
+                ? buildPoolUsageMap()
+                : {};
+
+            const buckets = activePools.map(function (pool) {
+                return {
+                    pool: pool,
+                    assigned: Number(initialUsage[pool.id] || 0),
+                    capacity: Number(pool.max_users || DEFAULT_POOL_CAPACITY)
+                };
+            });
+
+            const upserts = [];
+            let overflowAssignments = 0;
+
+            activeUsers.forEach(function (user) {
+                const userId = String(user.id || "").trim();
+                if (!userId) {
+                    return;
+                }
+
+                const existingPoolId = String(state.poolAssignments[userId] || "").trim();
+                const hasValidExistingPool = existingPoolId && activePools.some(function (pool) {
+                    return pool.id === existingPoolId;
+                });
+                if (options.onlyUnassigned && hasValidExistingPool) {
+                    return;
+                }
+
+                let selectedBucket = buckets.find(function (bucket) {
+                    return bucket.assigned < bucket.capacity;
+                });
+                if (!selectedBucket) {
+                    selectedBucket = buckets.reduce(function (best, current) {
+                        return current.assigned < best.assigned ? current : best;
+                    }, buckets[0]);
+                    overflowAssignments += 1;
+                }
+
+                selectedBucket.assigned += 1;
+                upserts.push({
+                    user_id: userId,
+                    pool_id: selectedBucket.pool.id,
+                    assigned_by: state.context.user.id,
+                    assigned_at: new Date().toISOString()
+                });
+            });
+
+            if (!upserts.length) {
+                renderPoolSummary();
+                renderPoolTable();
+                renderUsers();
+                if (!options.silent) {
+                    notify("No users needed auto-assignment.", "info");
+                }
+                return;
+            }
+
+            const result = await client
+                .from("profile_gateway_pool_assignments")
+                .upsert(upserts, {
+                    onConflict: "user_id"
+                })
+                .select("user_id, pool_id");
+
+            if (result.error) {
+                if (isPoolSchemaMissingError(result.error)) {
+                    state.poolSchemaReady = false;
+                    throw new Error("Pool schema is missing. Run the latest supabase_schema.sql migration first.");
+                }
+                throw new Error(result.error.message || "Unable to auto-assign pool accounts.");
+            }
+
+            state.poolAssignments = Object.assign({}, state.poolAssignments, normalizePoolAssignments(result.data));
+            renderPoolSummary();
+            renderPoolTable();
+            renderUsers();
+
+            if (!options.silent) {
+                const overflowCopy = overflowAssignments
+                    ? " " + overflowAssignments + " users exceeded pool capacity and were balanced to the least-loaded accounts."
+                    : "";
+                notify(upserts.length + " users assigned across pool accounts." + overflowCopy, overflowAssignments ? "info" : "success");
+            }
+        }
+
+        function collectDirtyUserRowsFromDom() {
+            if (!dom.usersTableBody) {
+                return [];
+            }
+
+            return Array.from(dom.usersTableBody.querySelectorAll("[data-user-id]"))
+                .map(function (row) {
+                    return {
+                        row: row,
+                        payload: getUserRowPayload(row)
+                    };
+                })
+                .filter(function (entry) {
+                    return Boolean(entry.payload && entry.payload.userId && isUserPayloadDirty(entry.payload));
+                });
+        }
+
+        async function persistUserPayload(payload) {
+            if (!payload || !payload.userId) {
+                return;
+            }
+
+            const result = await client
+                .from("profiles")
+                .update({
+                    role: payload.role,
+                    status: payload.status
+                })
+                .eq("id", payload.userId)
+                .select("*")
+                .single();
+
+            if (result.error) {
+                throw new Error(result.error.message || "Unable to update the user.");
+            }
+
+            const index = state.users.findIndex(function (entry) {
+                return entry.id === payload.userId;
+            });
+            if (index !== -1) {
+                state.users[index] = result.data;
+            }
+
+            await saveUserPoolAssignment(payload.userId, payload.selectedPoolId);
+            markUserDirty(payload.userId, false);
+        }
+
+        async function finalizeUserAccessUpdates() {
+            renderUsers();
+            renderPoolSummary();
+            renderPoolTable();
+            await loadOverview();
+            setStatusLine("User access updated.");
+            if (typeof options.onUsersUpdated === "function") {
+                options.onUsersUpdated(state.users.slice());
+            }
+        }
+
+        function handleUserRowFieldChange(event) {
+            const changedField = event.target.closest("[data-user-role], [data-user-status], [data-user-pool]");
+            if (!changedField) {
+                return;
+            }
+
+            const row = changedField.closest("[data-user-id]");
+            if (!row) {
+                return;
+            }
+
+            const payload = getUserRowPayload(row);
+            if (!payload || !payload.userId) {
+                return;
+            }
+
+            const isDirty = isUserPayloadDirty(payload);
+            markUserDirty(payload.userId, isDirty);
+            setRowDirtyState(row, isDirty);
+            updateUsersSaveAllState();
+        }
+
+        async function handleUserTableClick(event) {
+            const button = event.target.closest("[data-user-save]");
+            if (!button) {
+                return;
+            }
+
+            const row = button.closest("[data-user-id]");
+            const payload = getUserRowPayload(row);
+            if (!payload || !payload.userId) {
+                return;
+            }
+
+            if (!isUserPayloadDirty(payload)) {
+                markUserDirty(payload.userId, false);
+                setRowDirtyState(row, false);
+                updateUsersSaveAllState();
+                notify("No changes to save for this user.", "info");
+                return;
+            }
+
+            button.disabled = true;
+            button.textContent = "Saving...";
+
+            try {
+                await persistUserPayload(payload);
+                await finalizeUserAccessUpdates();
+                notify("User updated.", "success");
+            } catch (error) {
+                button.disabled = false;
+                button.textContent = getRowSaveButtonLabel(payload.userId);
+                notify(error.message || "Unable to update the user.", "error");
+            } finally {
+                updateUsersSaveAllState();
+            }
+        }
+
+        async function saveAllVisibleUserChanges() {
+            const dirtyEntries = collectDirtyUserRowsFromDom();
+            if (!dirtyEntries.length) {
+                state.dirtyUserIds.clear();
+                updateUsersSaveAllState();
+                notify("No pending user changes on this page.", "info");
+                return;
+            }
+
+            state.usersSaveInProgress = true;
+            updateUsersSaveAllState();
+            setStatusLine("Saving user access changes...");
+
+            let successCount = 0;
+            const failedMessages = [];
+
+            for (let index = 0; index < dirtyEntries.length; index += 1) {
+                const entry = dirtyEntries[index];
+                const row = entry.row;
+                const payload = entry.payload;
+                const rowButton = row.querySelector("[data-user-save]");
+
+                if (rowButton) {
+                    rowButton.disabled = true;
+                    rowButton.textContent = "Saving...";
+                }
+
+                try {
+                    await persistUserPayload(payload);
+                    successCount += 1;
+                    setRowDirtyState(row, false);
+                } catch (error) {
+                    failedMessages.push(error && error.message ? error.message : "Unable to update one user.");
+                    markUserDirty(payload.userId, true);
+                    setRowDirtyState(row, true);
+                } finally {
+                    if (rowButton) {
+                        rowButton.disabled = false;
+                        rowButton.textContent = getRowSaveButtonLabel(payload.userId);
+                    }
+                }
+            }
+
+            state.usersSaveInProgress = false;
+
+            if (successCount > 0 && !failedMessages.length) {
+                await finalizeUserAccessUpdates();
+                notify(String(successCount) + " users updated.", "success");
+                updateUsersSaveAllState();
+                return;
+            }
+
+            if (successCount > 0) {
+                renderPoolSummary();
+                renderPoolTable();
+                await loadOverview();
+                setStatusLine("User access partially updated.");
+                if (typeof options.onUsersUpdated === "function") {
+                    options.onUsersUpdated(state.users.slice());
+                }
+                notify(String(successCount) + " users updated. Fix highlighted rows and retry.", "info");
+            }
+
+            if (failedMessages.length) {
+                notify("Some users failed to save: " + failedMessages[0], "error");
+            }
+
+            updateUsersSaveAllState();
+        }
+
+        function bindEvents() {
+            if (state.bound) {
+                return;
+            }
+            state.bound = true;
+
+            root.addEventListener("click", function (event) {
+                const targetSection = readSectionTargetFromEvent(event);
+                if (!targetSection) {
+                    return;
+                }
+                event.preventDefault();
+                setActiveSection(targetSection);
+            });
+
+            if (dom.settingsForm) {
+                dom.settingsForm.addEventListener("submit", function (event) {
+                    saveSettings(event).catch(function (error) {
+                        notify(error.message || "Unable to save settings.", "error");
+                    });
+                });
+            }
+
+            if (dom.loadModelsBtn) {
+                dom.loadModelsBtn.addEventListener("click", function () {
+                    loadLiveModels().catch(function (error) {
+                        notify(error.message || "Unable to load live models.", "error");
+                    });
+                });
+            }
+
+            if (dom.defaultModel) {
+                dom.defaultModel.addEventListener("change", function () {
+                    handleDefaultModelSelectionChange();
+                });
+            }
+
+            if (dom.defaultImageModel) {
+                dom.defaultImageModel.addEventListener("change", function () {
+                    handleDefaultModelSelectionChange();
+                });
+            }
+
+            if (dom.modelFilter) {
+                dom.modelFilter.addEventListener("input", function () {
+                    state.modelFilter = (dom.modelFilter.value || "").trim().toLowerCase();
+                    syncModelControls();
+                });
+            }
+
+            if (dom.modelOptions) {
+                dom.modelOptions.addEventListener("input", function (event) {
+                    handleModelAliasInput(event);
+                });
+                dom.modelOptions.addEventListener("change", function (event) {
+                    handleModelOptionToggle(event);
+                    if (handleModelAliasInput(event)) {
+                        syncModelControls();
+                    }
+                });
+            }
+
+            if (dom.botAddBtn) {
+                dom.botAddBtn.addEventListener("click", function () {
+                    addBotDraft();
+                });
+            }
+
+            if (dom.botOptions) {
+                dom.botOptions.addEventListener("input", function () {
+                    syncBotControls({ reRender: false });
+                });
+                dom.botOptions.addEventListener("click", function (event) {
+                    if (handleBotOptionRemove(event)) {
+                        return;
+                    }
+                });
+            }
+
+            if (dom.userSearchInput) {
+                dom.userSearchInput.addEventListener("input", function () {
+                    state.userQuery = (dom.userSearchInput.value || "").trim().toLowerCase();
+                    state.userPage = 1;
+                    renderUsers();
+                });
+            }
+
+            if (dom.poolRefreshBtn) {
+                dom.poolRefreshBtn.addEventListener("click", function () {
+                    loadPoolData()
+                        .then(function () {
+                            setStatusLine("Pool data refreshed.");
+                            notify("Pool data refreshed.", "success");
+                        })
+                        .catch(function (error) {
+                            notify(error.message || "Unable to refresh pool data.", "error");
+                        });
+                });
+            }
+
+            if (dom.poolImportBtn) {
+                dom.poolImportBtn.addEventListener("click", function () {
+                    importPoolJson().catch(function (error) {
+                        notify(error.message || "Unable to import pool JSON.", "error");
+                    });
+                });
+            }
+
+            if (dom.poolLoadLocalBtn) {
+                dom.poolLoadLocalBtn.addEventListener("click", function () {
+                    loadLocalPoolJsonIntoForm().catch(function (error) {
+                        notify(error.message || "Unable to load local account_pool.json.", "error");
+                    });
+                });
+            }
+
+            if (dom.poolJsonFile) {
+                dom.poolJsonFile.addEventListener("change", function () {
+                    const selectedFile = dom.poolJsonFile.files && dom.poolJsonFile.files[0];
+                    if (!selectedFile) {
+                        return;
+                    }
+
+                    loadUploadedPoolJsonIntoForm(selectedFile)
+                        .catch(function (error) {
+                            notify(error.message || "Unable to load uploaded pool JSON.", "error");
+                        })
+                        .finally(function () {
+                            dom.poolJsonFile.value = "";
+                        });
+                });
+            }
+
+            if (dom.poolAutoAssignBtn) {
+                dom.poolAutoAssignBtn.addEventListener("click", function () {
+                    autoAssignPoolsByCapacity({
+                        onlyUnassigned: false,
+                        silent: false
+                    }).catch(function (error) {
+                        notify(error.message || "Unable to auto-assign pools.", "error");
+                    });
+                });
+            }
+
+            if (dom.poolPagePrev) {
+                dom.poolPagePrev.addEventListener("click", function () {
+                    goToPoolPage(state.poolPage - 1);
+                });
+            }
+
+            if (dom.poolPageNext) {
+                dom.poolPageNext.addEventListener("click", function () {
+                    goToPoolPage(state.poolPage + 1);
+                });
+            }
+
+            if (dom.poolPageNumbers) {
+                dom.poolPageNumbers.addEventListener("click", function (event) {
+                    const pageTrigger = event.target.closest("[data-pool-page]");
+                    if (!pageTrigger) {
+                        return;
+                    }
+
+                    const selectedPage = Number(pageTrigger.getAttribute("data-pool-page"));
+                    goToPoolPage(selectedPage);
+                });
+            }
+
+            if (dom.usersPagePrev) {
+                dom.usersPagePrev.addEventListener("click", function () {
+                    goToUserPage(state.userPage - 1);
+                });
+            }
+
+            if (dom.usersPageNext) {
+                dom.usersPageNext.addEventListener("click", function () {
+                    goToUserPage(state.userPage + 1);
+                });
+            }
+
+            if (dom.usersPageNumbers) {
+                dom.usersPageNumbers.addEventListener("click", function (event) {
+                    const pageTrigger = event.target.closest("[data-user-page]");
+                    if (!pageTrigger) {
+                        return;
+                    }
+
+                    const selectedPage = Number(pageTrigger.getAttribute("data-user-page"));
+                    goToUserPage(selectedPage);
+                });
+            }
+
+            if (dom.usersTableBody) {
+                dom.usersTableBody.addEventListener("change", function (event) {
+                    handleUserRowFieldChange(event);
+                });
+
+                dom.usersTableBody.addEventListener("click", function (event) {
+                    handleUserTableClick(event).catch(function (error) {
+                        notify(error.message || "Unable to update the user.", "error");
+                    });
+                });
+            }
+
+            if (dom.usersSaveAllBtn) {
+                dom.usersSaveAllBtn.addEventListener("click", function () {
+                    saveAllVisibleUserChanges().catch(function (error) {
+                        state.usersSaveInProgress = false;
+                        updateUsersSaveAllState();
+                        notify(error.message || "Unable to save all user changes.", "error");
+                    });
+                });
+            }
+
+            if (dom.backBtn && typeof options.onBackToChat === "function") {
+                dom.backBtn.addEventListener("click", function () {
+                    options.onBackToChat();
+                });
+            }
+
+            if (dom.logoutBtn) {
+                dom.logoutBtn.addEventListener("click", function () {
+                    if (typeof options.onLogout === "function") {
+                        options.onLogout();
+                        return;
+                    }
+                    auth.signOut();
+                });
+            }
+        }
+
+        async function init() {
+            if (!state.context || state.context.profile.role !== "admin") {
+                throw new Error("Admin access is required.");
+            }
+
+            if (dom.themeDefault) {
+                dom.themeDefault.innerHTML = theme.getAvailableThemes().map(function (entry) {
+                    return '<option value="' + utils.escapeHtml(entry.id) + '">' + utils.escapeHtml(entry.label) + "</option>";
+                }).join("");
+            }
+
+            renderProfile();
+            bindEvents();
+
+            if (!state.settings) {
+                state.settings = await fetchAppSettings();
+            }
+
+            utils.applyBranding(state.settings);
+            theme.initialize({
+                settings: state.settings,
+                authPage: false,
+                allowWorkspaceDefault: true
+            });
+            renderSettingsForm();
+            setActiveSection(state.activeSection, { syncHash: Boolean(options.syncHash) });
+            await loadOverview();
+            await loadUsers();
+            await loadPoolData();
+            if (!state.poolSchemaReady) {
+                notify("Pool routing schema is missing. Run the latest supabase_schema.sql migration.", "info");
+            }
+            setStatusLine("Admin workspace ready.");
+            return state.settings;
+        }
+
+        async function refresh() {
+            await loadOverview();
+            await loadUsers();
+            await loadPoolData();
+        }
+
+        function getSettings() {
+            return state.settings;
+        }
+
+        return {
+            init: init,
+            refresh: refresh,
+            getSettings: getSettings,
+            setActiveSection: setActiveSection
+        };
+    }
+
+    window.LumoraAdminWorkspace = {
+        create: createWorkspace
+    };
+}());

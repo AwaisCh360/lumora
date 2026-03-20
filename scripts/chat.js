@@ -1,1 +1,5369 @@
-function _0x28a8(_0x1c6673,_0x49dfae){_0x1c6673=_0x1c6673-0x1ba;const _0x46b34c=_0x46b3();let _0x28a88c=_0x46b34c[_0x1c6673];if(_0x28a8['OUgLUx']===undefined){var _0x432415=function(_0x462e37){const _0x1bf355='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x31ddab='',_0x2b3c1b='';for(let _0x1dd752=0x0,_0x38074a,_0xbc811a,_0xfd3fd4=0x0;_0xbc811a=_0x462e37['charAt'](_0xfd3fd4++);~_0xbc811a&&(_0x38074a=_0x1dd752%0x4?_0x38074a*0x40+_0xbc811a:_0xbc811a,_0x1dd752++%0x4)?_0x31ddab+=String['fromCharCode'](0xff&_0x38074a>>(-0x2*_0x1dd752&0x6)):0x0){_0xbc811a=_0x1bf355['indexOf'](_0xbc811a);}for(let _0x2c13e7=0x0,_0x533253=_0x31ddab['length'];_0x2c13e7<_0x533253;_0x2c13e7++){_0x2b3c1b+='%'+('00'+_0x31ddab['charCodeAt'](_0x2c13e7)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2b3c1b);};_0x28a8['xkVeBJ']=_0x432415,_0x28a8['oKWWuw']={},_0x28a8['OUgLUx']=!![];}const _0x5bbd47=_0x46b34c[0x0],_0x8410bc=_0x1c6673+_0x5bbd47,_0x1121e5=_0x28a8['oKWWuw'][_0x8410bc];return!_0x1121e5?(_0x28a88c=_0x28a8['xkVeBJ'](_0x28a88c),_0x28a8['oKWWuw'][_0x8410bc]=_0x28a88c):_0x28a88c=_0x1121e5,_0x28a88c;}(function(_0x49d7c1,_0x76084e){const _0x9afcb6=_0x28a8,_0x546944=_0x49d7c1();while(!![]){try{const _0x29254d=parseInt(_0x9afcb6(0x3e9))/0x1*(-parseInt(_0x9afcb6(0x4bb))/0x2)+parseInt(_0x9afcb6(0x471))/0x3*(-parseInt(_0x9afcb6(0x4a6))/0x4)+parseInt(_0x9afcb6(0x30d))/0x5*(-parseInt(_0x9afcb6(0x44f))/0x6)+parseInt(_0x9afcb6(0x46e))/0x7+parseInt(_0x9afcb6(0x2a8))/0x8*(-parseInt(_0x9afcb6(0x458))/0x9)+parseInt(_0x9afcb6(0x4b0))/0xa*(-parseInt(_0x9afcb6(0x36d))/0xb)+parseInt(_0x9afcb6(0x39a))/0xc;if(_0x29254d===_0x76084e)break;else _0x546944['push'](_0x546944['shift']());}catch(_0x538168){_0x546944['push'](_0x546944['shift']());}}}(_0x46b3,0x699e3),(function(){const _0x49dfbd=_0x28a8,_0x570595=window[_0x49dfbd(0x2a3)],_0x1f9d0d=_0x570595[_0x49dfbd(0x285)],_0x3742f7=window[_0x49dfbd(0x1d6)],_0x25f1ab=window[_0x49dfbd(0x525)]['utils'],_0x2cbadb=window[_0x49dfbd(0x525)][_0x49dfbd(0x4c0)];let _0x1a0523=window[_0x49dfbd(0x1d1)];const _0x44d0df={};_0x44d0df[_0x49dfbd(0x3fb)]=!0x1,_0x44d0df[_0x49dfbd(0x3ea)]=_0x49dfbd(0x449),_0x44d0df[_0x49dfbd(0x4e9)]='bot',_0x44d0df[_0x49dfbd(0x38f)]=_0x49dfbd(0x449),_0x44d0df[_0x49dfbd(0x4d1)]='',_0x44d0df[_0x49dfbd(0x30a)]=null,_0x44d0df[_0x49dfbd(0x524)]=!0x0,_0x44d0df['showTimestamps']=!0x0,_0x44d0df[_0x49dfbd(0x357)]='',_0x44d0df[_0x49dfbd(0x399)]='';const _0x57e3fb={};_0x57e3fb[_0x49dfbd(0x496)]=null,_0x57e3fb[_0x49dfbd(0x1ba)]=null;const _0x4b69c9=window[_0x49dfbd(0x1f7)],_0x3b7f85=window[_0x49dfbd(0x203)],_0x53b4e2=_0x49dfbd(0x4a0),_0x5a25d6=0x50,_0x3843fc='thread',_0x16c447=_0x49dfbd(0x24c),_0x8f71=_0x49dfbd(0x359),_0x35f65c='token',_0x523852=_0x44d0df,_0x1e5b32=0x12c,_0x116f69=0x7,_0x1b8bcf={'chatSidebar':document['getElementById'](_0x49dfbd(0x286)),'sidebarToggleBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x2d9)),'sidebarRailNewBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x293)),'sidebarRailBotsBtn':document[_0x49dfbd(0x1f3)]('sidebar-rail-bots-btn'),'sidebarRailChatsBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x347)),'sidebarRailSettingsBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x4e0)),'sidebarRailAdminLink':document[_0x49dfbd(0x1f3)]('sidebar-rail-admin-link'),'sidebarProfileBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x406)),'sidebarProfileAvatar':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x434)),'railProfileMenu':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x43e)),'railProfileName':document[_0x49dfbd(0x1f3)]('rail-profile-name'),'railProfileEmail':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x3e3)),'railProfileSettingsBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x3ce)),'railProfileLogoutBtn':document[_0x49dfbd(0x1f3)]('rail-profile-logout-btn'),'botSection':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x447)),'threadList':document['getElementById'](_0x49dfbd(0x52e)),'threadCount':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x421)),'botList':document[_0x49dfbd(0x1f3)]('bot-list'),'botCount':document[_0x49dfbd(0x1f3)]('bot-count'),'threadScopeCopy':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x456)),'threadSearchInput':document['getElementById']('thread-search-input'),'newThreadBtn':document['getElementById'](_0x49dfbd(0x288)),'threadMetaBadge':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x48f)),'threadTitle':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x268)),'shareThreadBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x2cb)),'chatStatusLine':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x3f5)),'renameThreadBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x1bf)),'pinThreadBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x515)),'resetSessionBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x4ce)),'regenerateReplyBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x379)),'exportThreadBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x3c2)),'deleteThreadBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x271)),'profileName':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x31d)),'profileRole':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x352)),'adminLink':document[_0x49dfbd(0x1f3)]('admin-link'),'logoutBtn':document[_0x49dfbd(0x1f3)]('logout-btn'),'welcomePanel':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x28f)),'welcomeTitle':document['getElementById'](_0x49dfbd(0x4b2)),'welcomeCopy':document[_0x49dfbd(0x1f3)]('welcome-copy'),'messages':document['getElementById'](_0x49dfbd(0x38b)),'jumpLatestBtn':document[_0x49dfbd(0x1f3)]('jump-latest-btn'),'chatView':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x531)),'settingsView':document['getElementById']('settings-view'),'adminView':document[_0x49dfbd(0x1f3)]('admin-view'),'embeddedAdminWorkspace':document['querySelector'](_0x49dfbd(0x47a)),'settingsBackBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x33c)),'profileSettingsForm':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x438)),'profileSettingsStatus':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x37e)),'settingsDisplayName':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x2db)),'settingsEmail':document['getElementById'](_0x49dfbd(0x1ee)),'settingsSidebarStatus':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x2b2)),'settingsSidebarToggleBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x528)),'chatPreferencesForm':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x26f)),'preferencesSettingsStatus':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x544)),'settingsEnterToSend':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x53e)),'settingsShowTimestamps':document['getElementById'](_0x49dfbd(0x31c)),'clearChatsBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x2b0)),'chatMaintenanceStatus':document['getElementById'](_0x49dfbd(0x314)),'resetPreferencesBtn':document[_0x49dfbd(0x1f3)]('reset-preferences-btn'),'settingsLogoutBtn':document['getElementById'](_0x49dfbd(0x23d)),'settingsAdminLink':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x221)),'accountSettingsStatus':document['getElementById'](_0x49dfbd(0x4d2)),'composerForm':document['getElementById'](_0x49dfbd(0x4f8)),'composerStatus':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x3f8)),'connectionBadge':document['getElementById']('connection-badge'),'composerAttachments':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x303)),'composerAttachBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x2ac)),'composerFileInput':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x4e8)),'composerIntentToggle':document['getElementById'](_0x49dfbd(0x4dd)),'composerChatModeBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x4b1)),'composerImageModeBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x3fe)),'composerModelSelect':document[_0x49dfbd(0x1f3)]('composer-model-select'),'composerModePicker':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x236)),'composerModeTrigger':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x25c)),'composerModeLabel':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x214)),'composerModeMenu':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x34e)),'composerMicBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x22e)),'promptInput':document[_0x49dfbd(0x1f3)]('prompt-input'),'promptCount':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x3b0)),'stopBtn':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x2ae)),'sendBtn':document[_0x49dfbd(0x1f3)]('send-btn'),'toast':document[_0x49dfbd(0x1f3)](_0x49dfbd(0x1ef))},_0xc0a02c=_0x25f1ab['createNotifier'](_0x1b8bcf['toast']),_0xcaeace={'context':null,'settings':null,'runtimeGateway':null,'threads':[],'activeThreadId':null,'openThreadMenuId':null,'messages':[],'threadQuery':'','busy':!0x1,'abortController':null,'isAutoFollow':!0x0,'showJumpToLatest':!0x1,'lastMessagesScrollTop':0x0,'titleSourceSupported':!0x0,'threadBotIdSupported':!0x0,'preferences':Object[_0x49dfbd(0x30c)]({},_0x523852),'titleSyncing':{},'adminWorkspace':null,'composerModeMenuOpen':!0x1,'profileMenuOpen':!0x1,'reasoningExpanded':{},'pendingAttachments':[],'uploadingAttachments':[],'latestRegeneratableAssistantId':'','visibleMessages':[],'messageVariantMeta':{},'messageTurnKeyById':{},'turnVariantMembers':{},'variantSelectionByTurn':{},'sendInFlight':!0x1,'lastSendSignature':'','lastSendAt':0x0,'touchScrollStartTop':0x0,'remoteStopRetryTimerId':null,'streamReveal':_0x57e3fb};let _0x19d7b5=null;function _0x598b3a(_0x4d55e2){return new Promise(function(_0x329df6,_0x1c3114){const _0x171382=_0x28a8,_0x106d2b=String(_0x4d55e2||'')[_0x171382(0x2b7)]();if(!_0x106d2b){_0x1c3114(new Error(_0x171382(0x2fc)));return;}const _0x5c19f4=_0x106d2b+(_0x106d2b[_0x171382(0x389)]('?')===-0x1?'?':'&')+'reload='+Date['now'](),_0xf5f904=document[_0x171382(0x484)](_0x171382(0x495));_0xf5f904[_0x171382(0x2e0)]=_0x5c19f4,_0xf5f904[_0x171382(0x453)]=!0x1,_0xf5f904[_0x171382(0x334)]=function(){_0x329df6();},_0xf5f904[_0x171382(0x4b9)]=function(){_0x1c3114(new Error('Failed\x20to\x20load\x20'+_0x106d2b));},(document[_0x171382(0x209)]||document[_0x171382(0x230)]||document[_0x171382(0x4fd)])[_0x171382(0x219)](_0xf5f904);});}async function _0x37ca7d(){const _0x5be666=_0x49dfbd;return _0x1a0523=window[_0x5be666(0x1d1)],_0x1a0523&&typeof _0x1a0523[_0x5be666(0x225)]==_0x5be666(0x2da)?_0x1a0523:(_0x19d7b5||(_0x19d7b5=_0x598b3a(_0x53b4e2)[_0x5be666(0x3bb)](function(){const _0x415e3d=_0x5be666;if(_0x1a0523=window[_0x415e3d(0x1d1)],!_0x1a0523||typeof _0x1a0523[_0x415e3d(0x225)]!=_0x415e3d(0x2da))throw new Error(_0x415e3d(0x4b5));return _0x1a0523;})[_0x5be666(0x29c)](function(){_0x19d7b5=null;})),_0x19d7b5);}function _0x13a59b(){const _0x3a8179=_0x49dfbd,_0xffc3e9={};_0xffc3e9[_0x3a8179(0x523)]=!0x0,_0xffc3e9[_0x3a8179(0x256)]=!0x0,_0xffc3e9[_0x3a8179(0x2d6)]=!0x1,_0xffc3e9[_0x3a8179(0x32a)]=!0x1,!_0x4b69c9||typeof _0x4b69c9[_0x3a8179(0x475)]!=_0x3a8179(0x2da)||_0x4b69c9['setOptions'](_0xffc3e9);}function _0x3590f6(){const _0x2be872=_0x49dfbd,_0x70bee7=_0xcaeace[_0x2be872(0x1f4)]&&_0xcaeace['context'][_0x2be872(0x2b6)]&&_0xcaeace[_0x2be872(0x1f4)][_0x2be872(0x2b6)]['id']?_0xcaeace[_0x2be872(0x1f4)]['user']['id']:_0x2be872(0x22f),_0x4a121f=_0x4bbbc6()||_0x2be872(0x3c8);return _0x2be872(0x47c)+_0x70bee7+':'+_0x4a121f;}function _0x3afab3(){const _0x37af74=_0x49dfbd;return _0x37af74(0x454)+_0xcaeace[_0x37af74(0x1f4)]['user']['id'];}function _0x3e23ba(){const _0x14e66e=_0x49dfbd,_0x50ae4a=_0x25f1ab[_0x14e66e(0x552)](_0x3afab3(),null)||{};_0xcaeace['preferences']=Object[_0x14e66e(0x30c)]({},_0x523852,_0x50ae4a),[_0x14e66e(0x449),_0x14e66e(0x46c),_0x14e66e(0x494)][_0x14e66e(0x389)](_0xcaeace[_0x14e66e(0x3f2)][_0x14e66e(0x3ea)])===-0x1&&(_0xcaeace[_0x14e66e(0x3f2)][_0x14e66e(0x3ea)]=_0x523852[_0x14e66e(0x3ea)]),['normal','bot'][_0x14e66e(0x389)](_0xcaeace[_0x14e66e(0x3f2)][_0x14e66e(0x4e9)])===-0x1&&(_0xcaeace['preferences'][_0x14e66e(0x4e9)]=_0x523852[_0x14e66e(0x4e9)]),_0x27cf35(_0xcaeace[_0x14e66e(0x3f2)][_0x14e66e(0x30a)])||(_0xcaeace[_0x14e66e(0x3f2)][_0x14e66e(0x30a)]=null),_0x15cbe0(_0xcaeace[_0x14e66e(0x3f2)][_0x14e66e(0x38f)])||(_0xcaeace[_0x14e66e(0x3f2)][_0x14e66e(0x38f)]=_0x523852['interactionMode']),typeof _0xcaeace[_0x14e66e(0x3f2)][_0x14e66e(0x357)]!=_0x14e66e(0x46f)&&(_0xcaeace[_0x14e66e(0x3f2)][_0x14e66e(0x357)]=''),typeof _0xcaeace[_0x14e66e(0x3f2)][_0x14e66e(0x399)]!=_0x14e66e(0x46f)&&(_0xcaeace['preferences'][_0x14e66e(0x399)]=''),typeof _0xcaeace[_0x14e66e(0x3f2)][_0x14e66e(0x4d1)]!=_0x14e66e(0x46f)&&(_0xcaeace[_0x14e66e(0x3f2)]['activeBotId']='');}function _0x2d765b(){const _0x33b0a9=_0x49dfbd;_0x25f1ab[_0x33b0a9(0x31f)](_0x3afab3(),_0xcaeace['preferences']);}function _0x3c522f(){const _0x392852=_0x49dfbd,_0x797953=new URLSearchParams(window[_0x392852(0x2f6)][_0x392852(0x44a)]||'');return{'threadId':String(_0x797953[_0x392852(0x4e2)](_0x3843fc)||'')[_0x392852(0x2b7)](),'forceNew':_0x797953[_0x392852(0x4e2)](_0x16c447)==='1','shareMode':_0x797953[_0x392852(0x4e2)](_0x8f71)==='1','shareToken':String(_0x797953[_0x392852(0x4e2)](_0x35f65c)||'')[_0x392852(0x2b7)]()};}function _0x47e1a6(_0x4c3e26){const _0x584c95=_0x49dfbd;!window[_0x584c95(0x200)]||typeof window['history'][_0x584c95(0x3bc)]!=_0x584c95(0x2da)||window[_0x584c95(0x200)][_0x584c95(0x3bc)]({},'',_0x4c3e26[_0x584c95(0x419)]());}function _0x59dc9a(_0x2a2f5a,_0x26f8bb){const _0xdf7f9e=_0x49dfbd,_0x5036ac={};_0x5036ac[_0xdf7f9e(0x48b)]=!0x1,_0x5036ac[_0xdf7f9e(0x3ec)]='';const _0x460c7f=Object[_0xdf7f9e(0x30c)](_0x5036ac,_0x26f8bb||{}),_0x12f0e3=new URL(window['location'][_0xdf7f9e(0x384)]);_0x2a2f5a?_0x12f0e3['searchParams'][_0xdf7f9e(0x326)](_0x3843fc,String(_0x2a2f5a)):_0x12f0e3[_0xdf7f9e(0x29b)][_0xdf7f9e(0x32f)](_0x3843fc),_0x12f0e3[_0xdf7f9e(0x29b)][_0xdf7f9e(0x32f)](_0x16c447),_0x460c7f[_0xdf7f9e(0x48b)]&&_0x2a2f5a?(_0x12f0e3[_0xdf7f9e(0x29b)][_0xdf7f9e(0x326)](_0x8f71,'1'),_0x460c7f[_0xdf7f9e(0x3ec)]?_0x12f0e3[_0xdf7f9e(0x29b)]['set'](_0x35f65c,String(_0x460c7f[_0xdf7f9e(0x3ec)])):_0x12f0e3[_0xdf7f9e(0x29b)]['delete'](_0x35f65c)):(_0x12f0e3['searchParams'][_0xdf7f9e(0x32f)](_0x8f71),_0x12f0e3[_0xdf7f9e(0x29b)][_0xdf7f9e(0x32f)](_0x35f65c)),_0x47e1a6(_0x12f0e3);}function _0x33e6bd(_0x3e1a34){const _0x335d5d=_0x49dfbd,_0x2c2252=_0x3e1a34&&_0x3e1a34[_0x335d5d(0x3e8)];return _0x2c2252&&typeof _0x2c2252==_0x335d5d(0x1e1)?_0x2c2252:{};}function _0x17d690(_0x261fb5){const _0x4c8053=_0x49dfbd,_0x546899=_0x33e6bd(_0x261fb5)[_0x4c8053(0x336)];return!_0x546899||typeof _0x546899!='object'?null:Object[_0x4c8053(0x30c)]({},_0x546899);}function _0x2aba9b(_0xc4a3fd,_0x500fa7){const _0x3e3665=_0x49dfbd,_0xacf4db=_0x500fa7&&typeof _0x500fa7==_0x3e3665(0x1e1)?Object[_0x3e3665(0x30c)]({},_0x500fa7):{},_0x19ba46=_0x17d690(_0xc4a3fd);return _0x19ba46&&_0x19ba46[_0x3e3665(0x3a9)]&&(_0xacf4db[_0x3e3665(0x336)]=_0x19ba46),_0xacf4db;}function _0x16c56c(_0x5f020,_0x4e2cf8){const _0x16a7a8=_0x49dfbd,_0x51d52d=new Date()['toISOString'](),_0x48b393=_0x33e6bd(_0x5f020),_0x49ef31=_0x17d690(_0x5f020)||{},_0x484603=Object[_0x16a7a8(0x30c)]({},_0x49ef31,{'token_hash':_0x4e2cf8,'updated_at':_0x51d52d,'created_at':_0x49ef31[_0x16a7a8(0x392)]||_0x51d52d,'created_by':_0xcaeace[_0x16a7a8(0x1f4)]&&_0xcaeace[_0x16a7a8(0x1f4)][_0x16a7a8(0x2b6)]?_0xcaeace[_0x16a7a8(0x1f4)][_0x16a7a8(0x2b6)]['id']:null,'version':0x1}),_0x10ae43={};return _0x10ae43['_share']=_0x484603,Object[_0x16a7a8(0x30c)]({},_0x48b393,_0x10ae43);}function _0x52ee04(){const _0x5f1dc6=_0x49dfbd,_0x37069c=new Uint8Array(0x12);return window[_0x5f1dc6(0x27d)][_0x5f1dc6(0x338)](_0x37069c),Array[_0x5f1dc6(0x205)](_0x37069c)[_0x5f1dc6(0x3c7)](function(_0x42d6b2){const _0x53de65=_0x5f1dc6;return _0x42d6b2[_0x53de65(0x419)](0x10)[_0x53de65(0x260)](0x2,'0');})[_0x5f1dc6(0x356)]('');}function _0x46d83d(_0x54aa33,_0x4694df){const _0x8cc0c9=_0x49dfbd,_0x50cd20=new URL(window[_0x8cc0c9(0x2f6)][_0x8cc0c9(0x384)]);return _0x50cd20[_0x8cc0c9(0x29b)][_0x8cc0c9(0x326)](_0x3843fc,String(_0x54aa33||'')[_0x8cc0c9(0x2b7)]()),_0x50cd20[_0x8cc0c9(0x29b)]['set'](_0x8f71,'1'),_0x50cd20[_0x8cc0c9(0x29b)][_0x8cc0c9(0x326)](_0x35f65c,String(_0x4694df||'')[_0x8cc0c9(0x2b7)]()),_0x50cd20[_0x8cc0c9(0x29b)][_0x8cc0c9(0x32f)](_0x16c447),_0x50cd20[_0x8cc0c9(0x419)]();}async function _0x3a0eb5(_0x5d5203,_0x53cc19){const _0x7d6cbb=_0x49dfbd,_0x16af88=_0x17d690(_0x5d5203),_0x2dcb7c=String(_0x16af88&&_0x16af88[_0x7d6cbb(0x3a9)]||'')[_0x7d6cbb(0x2b7)](),_0x4b2d95=String(_0x53cc19||'')[_0x7d6cbb(0x2b7)]();return!_0x2dcb7c||!_0x4b2d95?!0x1:await _0x25f1ab[_0x7d6cbb(0x1da)](_0x4b2d95)===_0x2dcb7c;}function _0x5e72d9(){const _0x15675e=_0x49dfbd;return(_0xcaeace[_0x15675e(0x1f4)]&&_0xcaeace['context'][_0x15675e(0x23a)]&&_0xcaeace[_0x15675e(0x1f4)][_0x15675e(0x23a)][_0x15675e(0x2f2)]?_0xcaeace[_0x15675e(0x1f4)][_0x15675e(0x23a)][_0x15675e(0x2f2)]:_0xcaeace[_0x15675e(0x1f4)]&&_0xcaeace[_0x15675e(0x1f4)]['user']&&_0xcaeace[_0x15675e(0x1f4)][_0x15675e(0x2b6)]['email']?_0xcaeace['context'][_0x15675e(0x2b6)][_0x15675e(0x53c)]:_0x15675e(0x39f))[_0x15675e(0x2b7)]()['split'](/\s+/)[_0x15675e(0x29d)](0x0,0x2)[_0x15675e(0x3c7)](function(_0x409a98){const _0x328213=_0x15675e;return _0x409a98[_0x328213(0x297)](0x0)[_0x328213(0x4fa)]();})['join']('')||'U';}function _0x3cacfb(_0x141a8b){const _0x5db8ee=_0x49dfbd;document['body']&&document[_0x5db8ee(0x230)][_0x5db8ee(0x282)][_0x5db8ee(0x278)](_0x5db8ee(0x527),!!_0x141a8b);}function _0x27cf35(_0x4ed2b7){const _0x3fb9b5=_0x49dfbd;return _0x4ed2b7===_0x3fb9b5(0x21e)||_0x4ed2b7===_0x3fb9b5(0x315)||_0x4ed2b7===_0x3fb9b5(0x243);}function _0x15cbe0(_0x5aa4a6){const _0x6972=_0x49dfbd;return _0x5aa4a6===_0x6972(0x449)||_0x5aa4a6===_0x6972(0x1d3);}function _0x1f65ea(){const _0x5a5107=_0x49dfbd;return _0x15cbe0(_0xcaeace[_0x5a5107(0x3f2)][_0x5a5107(0x38f)])?_0xcaeace[_0x5a5107(0x3f2)][_0x5a5107(0x38f)]:_0x523852[_0x5a5107(0x38f)];}function _0x408f16(_0x2033e8){const _0x16b479=_0x49dfbd,_0x4fd590=String(_0x2033e8||'')[_0x16b479(0x202)]();return _0x4fd590[_0x16b479(0x389)](_0x16b479(0x2c3))!==-0x1||_0x4fd590[_0x16b479(0x389)](_0x16b479(0x3cc))!==-0x1||_0x4fd590[_0x16b479(0x389)]('qvq')!==-0x1||_0x4fd590[_0x16b479(0x389)](_0x16b479(0x2a9))!==-0x1;}function _0x5931b8(_0x215bcf){const _0xaec9a1=_0x49dfbd,_0x3add42=_0x215bcf&&typeof _0x215bcf=='object'&&!Array[_0xaec9a1(0x4ee)](_0x215bcf)?_0x215bcf:{},_0x213036={};return Object[_0xaec9a1(0x2ef)](_0x3add42)[_0xaec9a1(0x417)](function(_0x24f021){const _0x2a48ba=_0xaec9a1,_0x3f17cc=String(_0x24f021||'')[_0x2a48ba(0x2b7)]();if(!_0x3f17cc)return;const _0x452d32=String(_0x3add42[_0x24f021]||'')[_0x2a48ba(0x2b7)]();_0x452d32&&(_0x213036[_0x3f17cc]=_0x452d32);}),_0x213036;}function _0x3bd35c(_0x1fdbf2){const _0x18ba00=_0x49dfbd,_0xddd762=String(_0x1fdbf2||'')['trim']();if(!_0xddd762)return'';const _0x418f79=_0x5931b8(_0xcaeace[_0x18ba00(0x46c)]&&_0xcaeace[_0x18ba00(0x46c)][_0x18ba00(0x2de)]);return String(_0x418f79[_0xddd762]||'')[_0x18ba00(0x2b7)]()||_0xddd762;}function _0x31b3ee(_0x18692b,_0x49d7c0){const _0x83061d=_0x49dfbd,_0x2e1c48=String(_0x18692b||'')['trim']()[_0x83061d(0x202)]()[_0x83061d(0x267)](/[^a-z0-9_-]+/g,'-')[_0x83061d(0x267)](/-{2,}/g,'-')[_0x83061d(0x267)](/^-+|-+$/g,'');return _0x2e1c48||(_0x49d7c0===0x0?_0x83061d(0x3c8):_0x83061d(0x2a1)+String(_0x49d7c0+0x1));}function _0x58ede1(){const _0x4b3d8a=_0x49dfbd,_0x306058=_0xcaeace[_0x4b3d8a(0x46c)]||{},_0x41ed93=Array[_0x4b3d8a(0x4ee)](_0x306058[_0x4b3d8a(0x322)])?_0x306058[_0x4b3d8a(0x322)]:[],_0x4096c2=new Set(),_0x3b6404=[],_0x1dcefe={};return _0x1dcefe['id']=_0x4b3d8a(0x3c8),_0x1dcefe[_0x4b3d8a(0x51c)]=_0x4b3d8a(0x50f),_0x1dcefe[_0x4b3d8a(0x2ca)]='',(_0x41ed93[_0x4b3d8a(0x417)](function(_0x5c9e17,_0x440e99){const _0x28881d=_0x4b3d8a,_0x2075f9=_0x5c9e17&&typeof _0x5c9e17==_0x28881d(0x1e1)?_0x5c9e17:{},_0x390dc3=_0x31b3ee(_0x2075f9['id'],_0x440e99);let _0x33f0fd=_0x390dc3,_0x146ddf=0x2;for(;_0x4096c2[_0x28881d(0x489)](_0x33f0fd);)_0x33f0fd=_0x390dc3+'-'+String(_0x146ddf),_0x146ddf+=0x1;_0x4096c2[_0x28881d(0x2b3)](_0x33f0fd),_0x3b6404[_0x28881d(0x474)]({'id':_0x33f0fd,'name':String(_0x2075f9[_0x28881d(0x51c)]||_0x2075f9[_0x28881d(0x1c2)]||'')[_0x28881d(0x2b7)]()||(_0x440e99===0x0?_0x28881d(0x50f):'Bot\x20'+String(_0x440e99+0x1)),'system_prompt':typeof _0x2075f9[_0x28881d(0x2ca)]==_0x28881d(0x46f)?_0x2075f9[_0x28881d(0x2ca)]:typeof _0x2075f9[_0x28881d(0x311)]==_0x28881d(0x46f)?_0x2075f9[_0x28881d(0x311)]:''});}),_0x3b6404[_0x4b3d8a(0x2fa)](function(_0x14a1dc){const _0x4a9167=_0x4b3d8a;return _0x14a1dc['id']===_0x4a9167(0x3c8);})||_0x3b6404[_0x4b3d8a(0x37c)](_0x1dcefe),_0x3b6404);}function _0x5d782f(){const _0x5aa76c=_0x49dfbd,_0x433cfa=_0xcaeace[_0x5aa76c(0x46c)]||{},_0xf95df3=Array['isArray'](_0x433cfa[_0x5aa76c(0x322)])?_0x433cfa[_0x5aa76c(0x322)]:[],_0x3a5005=new Set(),_0x5d9d73=[];return _0xf95df3[_0x5aa76c(0x417)](function(_0x1500bd,_0x4e64de){const _0x557754=_0x5aa76c,_0x52a11b=_0x1500bd&&typeof _0x1500bd==_0x557754(0x1e1)?_0x1500bd:{},_0x1b02eb=_0x31b3ee(_0x52a11b['id'],_0x4e64de);let _0x24774b=_0x1b02eb,_0x20d1ec=0x2;for(;_0x3a5005[_0x557754(0x489)](_0x24774b);)_0x24774b=_0x1b02eb+'-'+String(_0x20d1ec),_0x20d1ec+=0x1;_0x3a5005[_0x557754(0x2b3)](_0x24774b),_0x5d9d73[_0x557754(0x474)]({'id':_0x24774b,'name':String(_0x52a11b[_0x557754(0x51c)]||_0x52a11b[_0x557754(0x1c2)]||'')[_0x557754(0x2b7)]()||(_0x4e64de===0x0?_0x557754(0x50f):'Bot\x20'+String(_0x4e64de+0x1)),'system_prompt':typeof _0x52a11b[_0x557754(0x2ca)]==_0x557754(0x46f)?_0x52a11b[_0x557754(0x2ca)]:typeof _0x52a11b[_0x557754(0x311)]==_0x557754(0x46f)?_0x52a11b[_0x557754(0x311)]:''});}),_0x5d9d73;}function _0x1a6828(){const _0x347238=_0x49dfbd;return String(_0xcaeace[_0x347238(0x3f2)][_0x347238(0x4e9)]||'')[_0x347238(0x2b7)]()['toLowerCase']()==='bot'&&_0x5d782f()[_0x347238(0x403)]?_0x347238(0x365):'normal';}function _0xaf7a8d(_0x3831cb){const _0xe65c68=_0x49dfbd,_0x3ab205={};_0x3ab205['persist']=!0x0;const _0xe8a39a=Object[_0xe65c68(0x30c)](_0x3ab205,_0x3831cb||{}),_0x33a438=_0x1a6828();return _0xcaeace[_0xe65c68(0x3f2)]['threadMode']===_0x33a438||(_0xcaeace[_0xe65c68(0x3f2)][_0xe65c68(0x4e9)]=_0x33a438,_0xe8a39a[_0xe65c68(0x223)]&&_0x2d765b()),_0x33a438;}function _0xadee60(){const _0x2ac352=_0x49dfbd,_0x55c0f9=_0x5d782f();if(!_0x55c0f9[_0x2ac352(0x403)])return'';const _0x460e2=String(_0xcaeace[_0x2ac352(0x3f2)][_0x2ac352(0x4d1)]||'')[_0x2ac352(0x2b7)]();return _0x460e2&&_0x55c0f9[_0x2ac352(0x2fa)](function(_0x2897ca){return _0x2897ca['id']===_0x460e2;})?_0x460e2:_0x55c0f9[0x0]['id'];}function _0x4bbbc6(){const _0x37dd09=_0x49dfbd;return _0x1a6828()===_0x37dd09(0x316)?_0x37dd09(0x3c8):_0xadee60()||_0x37dd09(0x3c8);}function _0x446ddd(){const _0x5cb9f0=_0x49dfbd,_0x3df77f=_0x58ede1();if(!_0x3df77f[_0x5cb9f0(0x403)])return null;const _0x1bea0c=_0x4bbbc6();return _0x3df77f[_0x5cb9f0(0x546)](function(_0x47c4d5){return _0x47c4d5['id']===_0x1bea0c;})||_0x3df77f[0x0];}function _0x431f88(_0x1a1bac){const _0x40398c=_0x49dfbd,_0xd97ea7={};_0xd97ea7[_0x40398c(0x223)]=!0x0;const _0x32e331=Object[_0x40398c(0x30c)](_0xd97ea7,_0x1a1bac||{}),_0xfa5bec=_0xadee60();return _0xfa5bec?(_0xfa5bec===_0xcaeace[_0x40398c(0x3f2)][_0x40398c(0x4d1)]||(_0xcaeace['preferences'][_0x40398c(0x4d1)]=_0xfa5bec,_0x32e331[_0x40398c(0x223)]&&_0x2d765b()),_0xfa5bec):(_0xcaeace['preferences'][_0x40398c(0x4d1)]&&(_0xcaeace[_0x40398c(0x3f2)][_0x40398c(0x4d1)]='',_0x32e331[_0x40398c(0x223)]&&_0x2d765b()),'');}function _0x37e0de(_0x107750,_0x588cfc){const _0x51739f=_0x49dfbd,_0x1fc6e2={};_0x1fc6e2[_0x51739f(0x223)]=!0x0;const _0x13ed73=Object['assign'](_0x1fc6e2,_0x588cfc||{}),_0x3bcccc=String(_0x107750||'')[_0x51739f(0x2b7)](),_0x7727e1=_0x5d782f();if(!_0x7727e1[_0x51739f(0x403)])return!0x1;const _0x17f577=_0x7727e1[_0x51739f(0x546)](function(_0x12437d){return _0x12437d['id']===_0x3bcccc;})||_0x7727e1[0x0];return!_0x17f577||_0xcaeace[_0x51739f(0x3f2)][_0x51739f(0x4d1)]===_0x17f577['id']?!0x1:(_0xcaeace['preferences'][_0x51739f(0x4d1)]=_0x17f577['id'],_0x13ed73[_0x51739f(0x223)]&&_0x2d765b(),_0x4f640a(),_0x541fda(),!0x0);}function _0x2825f8(_0x369024,_0x183f03){const _0x18115e=_0x49dfbd,_0x5d258b={};_0x5d258b[_0x18115e(0x223)]=!0x0;const _0xf1e7c7=Object[_0x18115e(0x30c)](_0x5d258b,_0x183f03||{}),_0x52564f=String(_0x369024||'')['trim']()['toLowerCase']()===_0x18115e(0x365)&&_0x5d782f()[_0x18115e(0x403)]?_0x18115e(0x365):_0x18115e(0x316);return _0xcaeace['preferences']['threadMode']===_0x52564f?!0x1:(_0xcaeace['preferences']['threadMode']=_0x52564f,_0xf1e7c7[_0x18115e(0x223)]&&_0x2d765b(),_0x48e7c5(),!0x0);}async function _0x9bf6b9(_0x495a10){const _0x3c1e05=_0x49dfbd,_0x34e87d={};_0x34e87d['focusComposer']=!0x0;const _0xac1cf0=Object[_0x3c1e05(0x30c)](_0x34e87d,_0x495a10||{});if(_0xcaeace['busy']){_0xc0a02c(_0x3c1e05(0x37b),_0x3c1e05(0x4d8));return;}const _0xffcf8={};_0xffcf8[_0x3c1e05(0x208)]=_0xac1cf0[_0x3c1e05(0x208)],(_0x36ba8b(_0x3c1e05(0x449),_0xffcf8),!(!_0x2825f8(_0x3c1e05(0x316))&&_0xcaeace[_0x3c1e05(0x3f2)]['activeView']===_0x3c1e05(0x449))&&(_0xcaeace[_0x3c1e05(0x281)]='',_0x1b8bcf[_0x3c1e05(0x20c)]&&(_0x1b8bcf[_0x3c1e05(0x20c)][_0x3c1e05(0x1c6)]=''),_0x59dc9a(null),await _0x47cf46(),await _0x1d0327(),_0x336caa()));}async function _0x4486c5(_0x4d1d1b){const _0x37fcd9=_0x49dfbd;if(_0xcaeace[_0x37fcd9(0x2d2)]){_0xc0a02c(_0x37fcd9(0x343),_0x37fcd9(0x4d8));return;}if(!(_0x5d782f()[_0x37fcd9(0x403)]>0x0)){_0xc0a02c('No\x20custom\x20bots\x20yet.\x20Create\x20one\x20in\x20admin\x20settings.',_0x37fcd9(0x4d8));return;}const _0x85b9d7=_0x1a6828(),_0x42876a=_0xadee60(),_0x5c4045=_0x37e0de(_0x4d1d1b),_0x517641=_0x2825f8(_0x37fcd9(0x365));if(!(!_0x5c4045&&!_0x517641)){const _0x17584e={};_0x17584e[_0x37fcd9(0x208)]=!0x1,(_0x36ba8b(_0x37fcd9(0x449),_0x17584e),_0xcaeace[_0x37fcd9(0x281)]='',_0x1b8bcf[_0x37fcd9(0x20c)]&&(_0x1b8bcf[_0x37fcd9(0x20c)][_0x37fcd9(0x1c6)]=''));try{_0x59dc9a(null),await _0x47cf46(),await _0x1d0327(),_0x336caa();}catch(_0x4cabf2){throw _0x2825f8(_0x85b9d7),_0x37e0de(_0x42876a),_0x4cabf2;}}}function _0x4f640a(){const _0x3aeb24=_0x49dfbd,_0x4e3dfd={};_0x4e3dfd[_0x3aeb24(0x223)]=!0x1;const _0x5c0b59=_0x1a6828(),_0x2cc62b=_0x5d782f(),_0x40c7a7=_0x431f88(_0x4e3dfd);if(_0x1b8bcf[_0x3aeb24(0x480)]&&(_0x1b8bcf[_0x3aeb24(0x480)][_0x3aeb24(0x3d1)]=!0x1),_0x1b8bcf[_0x3aeb24(0x50b)]&&(_0x1b8bcf['botCount']['textContent']=String(_0x2cc62b[_0x3aeb24(0x403)])),!!_0x1b8bcf['botList']){if(!_0x2cc62b[_0x3aeb24(0x403)]){_0x1b8bcf[_0x3aeb24(0x410)]['innerHTML']=_0x3aeb24(0x2c6);return;}_0x1b8bcf[_0x3aeb24(0x410)][_0x3aeb24(0x4ea)]=_0x2cc62b['map'](function(_0x300e6a){const _0x3b8749=_0x3aeb24,_0x1cbd72=_0x300e6a['id']===_0x40c7a7?_0x3b8749(0x368):'',_0x1d0ccb=_0x300e6a['id']===_0x40c7a7?_0x3b8749(0x34a):_0x3b8749(0x2fd);return[_0x3b8749(0x277)+_0x1cbd72+_0x3b8749(0x2ee)+_0x25f1ab[_0x3b8749(0x43d)](_0x300e6a['id'])+'\x22>',_0x3b8749(0x21c),_0x3b8749(0x465)+_0x25f1ab[_0x3b8749(0x43d)](_0x300e6a['name'])+_0x3b8749(0x4cf),_0x3b8749(0x3dc)+_0x25f1ab['escapeHtml'](_0x1d0ccb)+_0x3b8749(0x431),_0x3b8749(0x431),'</button>'][_0x3b8749(0x356)]('');})['join']('');}}function _0x2d5298(){const _0x828e6b=_0x49dfbd;if(!_0x1b8bcf[_0x828e6b(0x349)])return;if(_0x1a6828()===_0x828e6b(0x316)){_0x1b8bcf[_0x828e6b(0x349)][_0x828e6b(0x381)]=_0x828e6b(0x45b);return;}const _0x46ffbe=_0x446ddd(),_0x3e1503=_0x46ffbe&&_0x46ffbe[_0x828e6b(0x51c)]?_0x46ffbe[_0x828e6b(0x51c)]:_0x828e6b(0x50f);_0x1b8bcf['threadScopeCopy'][_0x828e6b(0x381)]=_0x828e6b(0x429)+_0x3e1503+'.';}function _0x3cbb9e(_0x410db8){const _0x961c1=_0x49dfbd,_0x118410=_0x410db8['target'][_0x961c1(0x4ff)]('[data-bot-id]');if(!_0x118410)return;const _0x469d18=String(_0x118410[_0x961c1(0x1c7)]('data-bot-id')||'')[_0x961c1(0x2b7)]();_0x469d18&&_0x4486c5(_0x469d18)[_0x961c1(0x3bb)](function(){_0x1773e1();})[_0x961c1(0x24b)](function(_0x3d0436){const _0x3b4606=_0x961c1;_0xc0a02c(_0x3d0436&&_0x3d0436['message']?_0x3d0436[_0x3b4606(0x42f)]:_0x3b4606(0x4ed),_0x3b4606(0x414));});}function _0x37b567(){const _0x36b227=_0x49dfbd;if(_0xcaeace[_0x36b227(0x2d2)])return;const _0x2d3596={};_0x2d3596[_0x36b227(0x208)]=!0x1,_0x36ba8b(_0x36b227(0x449),_0x2d3596);const _0x4eafee=_0x5d782f();if(!_0x4eafee[_0x36b227(0x403)]){_0xc0a02c(_0x36b227(0x23b),_0x36b227(0x4d8));return;}const _0x4a1fb9={};_0x4a1fb9[_0x36b227(0x223)]=!0x0;const _0x408157=_0x431f88(_0x4a1fb9)||_0x4eafee[0x0]['id'];_0x4486c5(_0x408157)[_0x36b227(0x24b)](function(_0x217623){const _0x36ed28=_0x36b227;_0xc0a02c(_0x217623&&_0x217623[_0x36ed28(0x42f)]?_0x217623[_0x36ed28(0x42f)]:_0x36ed28(0x432),_0x36ed28(0x414));});}function _0x51b7a5(){const _0x474286=_0x49dfbd,_0x43b11a=_0xcaeace['settings']||{},_0x2599af=Array[_0x474286(0x4ee)](_0x43b11a[_0x474286(0x445)])&&_0x43b11a[_0x474286(0x445)][_0x474286(0x403)]?_0x43b11a[_0x474286(0x445)]:[_0x43b11a[_0x474286(0x27c)]||'',_0x43b11a['default_image_model']||''],_0x342cdc=new Set();return _0x2599af['map'](function(_0x3af938){const _0x3c6e7b=_0x474286;return String(_0x3af938||'')[_0x3c6e7b(0x2b7)]();})[_0x474286(0x481)](function(_0x2e078b){const _0x2589f1=_0x474286;return!_0x2e078b||_0x342cdc[_0x2589f1(0x489)](_0x2e078b)?!0x1:(_0x342cdc[_0x2589f1(0x2b3)](_0x2e078b),!0x0);});}function _0x283697(_0x331f47){const _0x4ad9ee=_0x49dfbd,_0x458a60=_0xcaeace[_0x4ad9ee(0x46c)]||{};return _0x331f47===_0x4ad9ee(0x1d3)?String(_0x458a60[_0x4ad9ee(0x2aa)]||_0x458a60[_0x4ad9ee(0x27c)]||'')[_0x4ad9ee(0x2b7)]():String(_0x458a60[_0x4ad9ee(0x27c)]||'')[_0x4ad9ee(0x2b7)]();}function _0x31aade(_0x2f6ad0){const _0x2d9d8c=_0x49dfbd;return _0x2f6ad0===_0x2d9d8c(0x1d3)?String(_0xcaeace['preferences'][_0x2d9d8c(0x399)]||'')[_0x2d9d8c(0x2b7)]():String(_0xcaeace[_0x2d9d8c(0x3f2)][_0x2d9d8c(0x357)]||'')[_0x2d9d8c(0x2b7)]();}function _0x54159c(_0x3954fd,_0x4d7fb6){const _0x46accb=_0x49dfbd,_0x5da413=String(_0x4d7fb6||'')[_0x46accb(0x2b7)]();_0x3954fd===_0x46accb(0x1d3)?_0xcaeace[_0x46accb(0x3f2)][_0x46accb(0x399)]=_0x5da413:_0xcaeace[_0x46accb(0x3f2)][_0x46accb(0x357)]=_0x5da413,_0x2d765b();}function _0x5d1844(_0x630698){const _0x21d258=_0x49dfbd,_0x182c3e=_0x51b7a5();if(_0x630698!=='image')return _0x182c3e;const _0x5b5419=_0x182c3e['filter'](_0x408f16);return _0x5b5419[_0x21d258(0x403)]?_0x5b5419:_0x182c3e;}function _0x96089c(_0x3dbe65){const _0xd186f2=_0x49dfbd,_0x3ff4d0=_0x15cbe0(_0x3dbe65)?_0x3dbe65:_0x1f65ea(),_0x43f7dc=_0x5d1844(_0x3ff4d0),_0x1edb24=_0x31aade(_0x3ff4d0);if(_0x1edb24&&_0x43f7dc[_0xd186f2(0x389)](_0x1edb24)!==-0x1)return _0x1edb24;const _0x4c2b32=_0x283697(_0x3ff4d0);return _0x4c2b32&&_0x43f7dc['indexOf'](_0x4c2b32)!==-0x1?_0x4c2b32:_0x43f7dc[_0xd186f2(0x403)]?_0x43f7dc[0x0]:_0x4c2b32;}function _0x2fef89(_0x19585d){const _0x584d7d=_0x49dfbd;if(!_0x1b8bcf[_0x584d7d(0x40e)])return;const _0x41a42d=_0x15cbe0(_0x19585d)?_0x19585d:_0x1f65ea(),_0x4a0a39=_0x5d1844(_0x41a42d),_0x52c6db=_0x96089c(_0x41a42d);if(!_0x4a0a39[_0x584d7d(0x403)]){_0x1b8bcf[_0x584d7d(0x40e)][_0x584d7d(0x4ea)]='<option\x20value=\x22\x22>No\x20enabled\x20models</option>',_0x1b8bcf['composerModelSelect'][_0x584d7d(0x1c6)]='',_0x1b8bcf['composerModelSelect'][_0x584d7d(0x309)]=!0x0,_0x1b8bcf['composerModelSelect']['title']=_0x584d7d(0x2e1);return;}_0x1b8bcf[_0x584d7d(0x40e)][_0x584d7d(0x4ea)]=_0x4a0a39[_0x584d7d(0x3c7)](function(_0x56b1f7){const _0x144d3d=_0x584d7d,_0x5583d9=_0x3bd35c(_0x56b1f7);return _0x144d3d(0x21b)+_0x25f1ab[_0x144d3d(0x43d)](_0x56b1f7)+'\x22>'+_0x25f1ab['escapeHtml'](_0x5583d9||_0x56b1f7)+_0x144d3d(0x1fa);})[_0x584d7d(0x356)](''),_0x1b8bcf[_0x584d7d(0x40e)][_0x584d7d(0x1c6)]=_0x4a0a39[_0x584d7d(0x389)](_0x52c6db)!==-0x1?_0x52c6db:_0x4a0a39[0x0],_0x1b8bcf[_0x584d7d(0x40e)][_0x584d7d(0x309)]=_0xcaeace[_0x584d7d(0x2d2)],_0x1b8bcf[_0x584d7d(0x40e)][_0x584d7d(0x276)]=_0x41a42d==='image'?_0x584d7d(0x345):'Select\x20enabled\x20chat\x20model';}function _0x1b8330(_0xdce322){const _0x11ba46=_0x49dfbd,_0xc17a08=_0x15cbe0(_0xdce322)?_0xdce322:_0x1f65ea(),_0x1af0b4=_0x5d1844(_0xc17a08),_0x9365c2=_0xc17a08===_0x1f65ea()&&_0x1b8bcf[_0x11ba46(0x40e)]?String(_0x1b8bcf[_0x11ba46(0x40e)][_0x11ba46(0x1c6)]||'')[_0x11ba46(0x2b7)]():'';return _0x9365c2&&_0x1af0b4[_0x11ba46(0x389)](_0x9365c2)!==-0x1?_0x9365c2:_0x96089c(_0xc17a08);}function _0x30aece(_0x45b2d5){const _0x4887d6=_0x49dfbd;return String(_0x45b2d5||'')['toLowerCase']()[_0x4887d6(0x389)]('qwen3.5-plus')!==-0x1;}function _0x441735(_0x24bbb5,_0x129de0){const _0x294ac3=_0x49dfbd,_0x39f35e=_0x15cbe0(_0x24bbb5)?_0x24bbb5:_0x1f65ea(),_0x527957=['fast',_0x294ac3(0x315)];return _0x39f35e==='chat'&&_0x30aece(_0x129de0)&&_0x527957[_0x294ac3(0x474)](_0x294ac3(0x243)),_0x527957;}function _0x5d2c66(_0x494d6a,_0x225319,_0x1947c9){const _0x38d170=_0x49dfbd,_0x518107=_0x15cbe0(_0x494d6a)?_0x494d6a:_0x1f65ea(),_0x2ef067=String(_0x225319||_0x1b8330(_0x518107)||'')[_0x38d170(0x2b7)](),_0x1524d2=_0x441735(_0x518107,_0x2ef067),_0x1d4701=_0x27cf35(_0x1947c9)?_0x1947c9:_0xcaeace[_0x38d170(0x3f2)][_0x38d170(0x30a)];if(_0x27cf35(_0x1d4701)&&_0x1524d2[_0x38d170(0x389)](_0x1d4701)!==-0x1)return _0x1d4701;const _0x3f515e=_0xcaeace[_0x38d170(0x46c)]&&_0xcaeace[_0x38d170(0x46c)]['thinking_enabled']?'thinking':_0x38d170(0x21e);return _0x1524d2['indexOf'](_0x3f515e)!==-0x1?_0x3f515e:_0x1524d2[_0x38d170(0x403)]?_0x1524d2[0x0]:_0x38d170(0x21e);}function _0x2af22b(_0x11dd82){const _0x20784c=_0x49dfbd;return _0x11dd82===_0x20784c(0x243)?_0x20784c(0x4fe):_0x11dd82===_0x20784c(0x315)?_0x20784c(0x254):_0x20784c(0x44c);}function _0x4f783e(){const _0x14818a=_0x49dfbd;return _0xcaeace[_0x14818a(0x49c)][_0x14818a(0x403)]+_0xcaeace['uploadingAttachments'][_0x14818a(0x403)];}function _0x47c44a(_0x4cc922){const _0x360bbf=_0x49dfbd,_0x12fb55=_0x4cc922&&typeof _0x4cc922==_0x360bbf(0x1e1)?_0x4cc922:{},_0x5715ea=String(_0x12fb55[_0x360bbf(0x51c)]||_0x12fb55[_0x360bbf(0x284)]||'Attachment')[_0x360bbf(0x2b7)]()||_0x360bbf(0x3cb),_0x4ed75f=String(_0x12fb55['type']||_0x12fb55[_0x360bbf(0x3cd)]||'')[_0x360bbf(0x2b7)]()[_0x360bbf(0x202)](),_0x276451=_0x4ed75f[_0x360bbf(0x389)](_0x360bbf(0x264))===0x0?_0x360bbf(0x1d3):_0x4ed75f;return{'localId':String(_0x12fb55[_0x360bbf(0x2e5)]||_0x360bbf(0x245)+_0x25f1ab['uid']()),'id':String(_0x12fb55['id']||_0x12fb55[_0x360bbf(0x3d4)]||'')[_0x360bbf(0x2b7)](),'name':_0x5715ea,'size':Number(_0x12fb55[_0x360bbf(0x217)])||0x0,'type':_0x276451||_0x360bbf(0x259),'url':String(_0x12fb55['url']||_0x12fb55['file_url']||'')[_0x360bbf(0x2b7)](),'status':String(_0x12fb55[_0x360bbf(0x372)]||_0x360bbf(0x20e))[_0x360bbf(0x2b7)]()||_0x360bbf(0x20e),'error':String(_0x12fb55[_0x360bbf(0x414)]||'')[_0x360bbf(0x2b7)]()};}function _0x2ca0a5(_0x50f2f4){const _0x120338=_0x49dfbd;return(_0x50f2f4&&Array[_0x120338(0x4ee)](_0x50f2f4[_0x120338(0x4a9)])?_0x50f2f4[_0x120338(0x4a9)]:[])[_0x120338(0x3c7)](_0x47c44a)[_0x120338(0x481)](function(_0x278dd4){return _0x278dd4['name'];});}function _0x3b07ae(){const _0x9b08c4=_0x49dfbd;return _0xcaeace[_0x9b08c4(0x331)][_0x9b08c4(0x2fa)](function(_0x4c4761){const _0x5cb4f2=_0x9b08c4;return _0x4c4761[_0x5cb4f2(0x372)]==='uploading';});}function _0x384971(){const _0x292406=_0x49dfbd;return _0xcaeace[_0x292406(0x49c)]['filter'](function(_0x57ff11){const _0x48bcc4=_0x292406;return _0x57ff11[_0x48bcc4(0x372)]===_0x48bcc4(0x20e)&&(_0x57ff11['id']||_0x57ff11[_0x48bcc4(0x26d)]);})[_0x292406(0x3c7)](function(_0x43ea71){const _0x6760cf=_0x292406,_0x44ab2d={};return _0x44ab2d[_0x6760cf(0x2e5)]=_0x43ea71[_0x6760cf(0x2e5)],_0x44ab2d['id']=_0x43ea71['id'],_0x44ab2d[_0x6760cf(0x3d4)]=_0x43ea71['id'],_0x44ab2d[_0x6760cf(0x51c)]=_0x43ea71[_0x6760cf(0x51c)],_0x44ab2d[_0x6760cf(0x217)]=_0x43ea71[_0x6760cf(0x217)],_0x44ab2d[_0x6760cf(0x3e7)]=_0x43ea71[_0x6760cf(0x3e7)],_0x44ab2d[_0x6760cf(0x26d)]=_0x43ea71[_0x6760cf(0x26d)],_0x44ab2d['file_url']=_0x43ea71[_0x6760cf(0x26d)],_0x44ab2d[_0x6760cf(0x372)]=_0x6760cf(0x20e),_0x44ab2d;});}function _0x3cb185(_0xc332e0){const _0x317200=_0x49dfbd;return(Array[_0x317200(0x4ee)](_0xc332e0)?_0xc332e0:[])[_0x317200(0x2fa)](function(_0xe28a84){const _0x97ab5=_0x317200;return String(_0xe28a84['type']||'')[_0x97ab5(0x202)]()==='image';})?_0x317200(0x500):_0x317200(0x433);}function _0x7999c(_0x2468e8){const _0x160966=_0x49dfbd,_0x2749be=String(_0x2468e8||'');_0xcaeace[_0x160966(0x49c)]=_0xcaeace[_0x160966(0x49c)][_0x160966(0x481)](function(_0xc64505){const _0x133148=_0x160966;return _0xc64505[_0x133148(0x2e5)]!==_0x2749be;}),_0xcaeace[_0x160966(0x331)]=_0xcaeace[_0x160966(0x331)]['filter'](function(_0x59b3fc){const _0x59f300=_0x160966;return _0x59b3fc[_0x59f300(0x2e5)]!==_0x2749be;});}function _0x4833e9(_0x536084){const _0x36e105=_0x49dfbd;_0xcaeace['composerModeMenuOpen']=!!_0x536084,!(!_0x1b8bcf[_0x36e105(0x360)]||!_0x1b8bcf[_0x36e105(0x333)]||!_0x1b8bcf[_0x36e105(0x405)])&&(_0x1b8bcf[_0x36e105(0x360)]['dataset'][_0x36e105(0x4c9)]=_0xcaeace[_0x36e105(0x1c0)]?_0x36e105(0x46b):'false',_0x1b8bcf['composerModeTrigger']['setAttribute']('aria-expanded',_0xcaeace[_0x36e105(0x1c0)]?_0x36e105(0x46b):_0x36e105(0x215)),_0x1b8bcf[_0x36e105(0x405)][_0x36e105(0x3d1)]=!_0xcaeace[_0x36e105(0x1c0)]);}function _0x541fda(){const _0x156370=_0x49dfbd,_0x140f86=_0x1f65ea();_0x2fef89(_0x140f86);const _0x2426d5=_0x1b8330(_0x140f86),_0x39ee52=_0x441735(_0x140f86,_0x2426d5),_0x1126b0=_0x5d2c66(_0x140f86,_0x2426d5);_0xcaeace[_0x156370(0x3f2)][_0x156370(0x30a)]!==_0x1126b0&&(_0xcaeace['preferences'][_0x156370(0x30a)]=_0x1126b0,_0x2d765b());const _0x2a8bc1=!!(_0x1b8bcf[_0x156370(0x237)]&&_0x1b8bcf[_0x156370(0x237)][_0x156370(0x1c6)]||'')['trim'](),_0x20a837=!!_0x384971()[_0x156370(0x403)],_0x393e6b=_0x3b07ae(),_0x1766c5=_0x140f86===_0x156370(0x1d3)&&_0x4f783e()>0x0,_0x6a6498=_0x140f86===_0x156370(0x1d3)?_0x2a8bc1&&!_0x1766c5:_0x2a8bc1||_0x20a837;if(_0x1b8bcf[_0x156370(0x2c4)]&&_0x1b8bcf[_0x156370(0x2dc)]){const _0x1a5ea0=_0x140f86===_0x156370(0x449);_0x1b8bcf[_0x156370(0x2c4)][_0x156370(0x282)][_0x156370(0x278)]('is-active',_0x1a5ea0),_0x1b8bcf['composerChatModeBtn']['setAttribute']('aria-selected',_0x1a5ea0?_0x156370(0x46b):_0x156370(0x215)),_0x1b8bcf[_0x156370(0x2dc)][_0x156370(0x282)][_0x156370(0x278)](_0x156370(0x3fa),!_0x1a5ea0),_0x1b8bcf['composerImageModeBtn'][_0x156370(0x28a)]('aria-selected',_0x1a5ea0?_0x156370(0x215):_0x156370(0x46b));}_0x1b8bcf[_0x156370(0x529)]&&(_0x1b8bcf[_0x156370(0x529)][_0x156370(0x381)]=_0x2af22b(_0x1126b0)),_0x1b8bcf[_0x156370(0x405)]&&_0x1b8bcf['composerModeMenu'][_0x156370(0x21d)](_0x156370(0x3aa))[_0x156370(0x417)](function(_0x388c9f){const _0x1421f4=_0x156370,_0x192e8d=_0x388c9f[_0x1421f4(0x1c7)](_0x1421f4(0x35f)),_0x2a52b6=_0x39ee52[_0x1421f4(0x389)](_0x192e8d)!==-0x1;if(_0x388c9f[_0x1421f4(0x3d1)]=!_0x2a52b6,_0x388c9f[_0x1421f4(0x309)]=!_0x2a52b6,!_0x2a52b6){_0x388c9f['classList'][_0x1421f4(0x3b3)](_0x1421f4(0x3fa)),_0x388c9f[_0x1421f4(0x28a)]('aria-checked',_0x1421f4(0x215));return;}const _0x18eef6=_0x192e8d===_0x1126b0;_0x388c9f[_0x1421f4(0x282)][_0x1421f4(0x278)]('is-active',_0x18eef6),_0x388c9f[_0x1421f4(0x28a)](_0x1421f4(0x41f),_0x18eef6?_0x1421f4(0x46b):_0x1421f4(0x215));}),_0x1b8bcf[_0x156370(0x333)]&&(_0x1b8bcf[_0x156370(0x333)][_0x156370(0x309)]=_0xcaeace[_0x156370(0x2d2)]||_0x140f86!==_0x156370(0x449),_0x1b8bcf[_0x156370(0x333)]['setAttribute'](_0x156370(0x276),_0x156370(0x50a)+_0x2af22b(_0x1126b0))),_0x1b8bcf[_0x156370(0x360)]&&(_0x1b8bcf[_0x156370(0x360)][_0x156370(0x3d1)]=_0x140f86!==_0x156370(0x449)),_0x1b8bcf[_0x156370(0x3a6)]&&(_0x1b8bcf[_0x156370(0x3a6)][_0x156370(0x309)]=_0xcaeace[_0x156370(0x2d2)]||_0x393e6b||_0x140f86===_0x156370(0x1d3),_0x1b8bcf[_0x156370(0x3a6)]['setAttribute'](_0x156370(0x276),_0x140f86===_0x156370(0x1d3)?_0x156370(0x25d):_0x156370(0x553))),_0x1b8bcf['composerMicBtn']&&(_0x1b8bcf[_0x156370(0x35b)][_0x156370(0x309)]=!0x0),_0x1b8bcf[_0x156370(0x397)]&&(_0x1b8bcf[_0x156370(0x397)][_0x156370(0x3d1)]=_0xcaeace[_0x156370(0x2d2)],_0x1b8bcf['sendBtn'][_0x156370(0x309)]=_0xcaeace[_0x156370(0x2d2)]||_0x393e6b||!_0x6a6498,_0x1b8bcf[_0x156370(0x397)][_0x156370(0x28a)](_0x156370(0x276),_0x140f86==='image'?_0x156370(0x464):_0x156370(0x4e1))),_0x1b8bcf[_0x156370(0x390)]&&(_0x1b8bcf[_0x156370(0x390)][_0x156370(0x3d1)]=!_0xcaeace['busy'],_0x1b8bcf[_0x156370(0x390)]['disabled']=!_0xcaeace['busy']);}function _0x1c6351(_0x3b047d,_0x19c193){const _0xacd3a8=_0x49dfbd,_0x78f27a={};_0x78f27a[_0xacd3a8(0x223)]=!0x0;const _0x44121d=Object[_0xacd3a8(0x30c)](_0x78f27a,_0x19c193||{}),_0x3e77aa=_0x1f65ea(),_0x5910c0=_0x1b8330(_0x3e77aa),_0x4ffa19=_0x441735(_0x3e77aa,_0x5910c0);!_0x27cf35(_0x3b047d)||_0x4ffa19['indexOf'](_0x3b047d)===-0x1||(_0xcaeace[_0xacd3a8(0x3f2)][_0xacd3a8(0x30a)]=_0x3b047d,_0x44121d[_0xacd3a8(0x223)]&&_0x2d765b(),_0x4833e9(!0x1),_0x541fda());}function _0x3cf166(_0x2402b4,_0x3a11fd){const _0xe4c1d=_0x49dfbd,_0x3e3eb5={};_0x3e3eb5['persist']=!0x0;const _0x22f54a=Object[_0xe4c1d(0x30c)](_0x3e3eb5,_0x3a11fd||{});_0x15cbe0(_0x2402b4)&&(_0xcaeace[_0xe4c1d(0x3f2)]['interactionMode']=_0x2402b4,_0x2402b4===_0xe4c1d(0x1d3)&&_0x4833e9(!0x1),_0x22f54a[_0xe4c1d(0x223)]&&_0x2d765b(),_0x541fda());}function _0x53fb39(_0x31ccf5){const _0x4035b8=_0x49dfbd;_0xcaeace['profileMenuOpen']=!!_0x31ccf5,!(!_0x1b8bcf[_0x4035b8(0x448)]||!_0x1b8bcf['sidebarProfileBtn'])&&(_0x1b8bcf[_0x4035b8(0x448)][_0x4035b8(0x3d1)]=!_0xcaeace['profileMenuOpen'],_0x1b8bcf['railProfileMenu']['dataset'][_0x4035b8(0x4c9)]=_0xcaeace[_0x4035b8(0x1c3)]?'true':_0x4035b8(0x215),_0x1b8bcf['sidebarProfileBtn'][_0x4035b8(0x282)][_0x4035b8(0x278)](_0x4035b8(0x3fa),_0xcaeace[_0x4035b8(0x1c3)]),_0x1b8bcf['sidebarProfileBtn']['setAttribute']('aria-expanded',_0xcaeace[_0x4035b8(0x1c3)]?_0x4035b8(0x46b):'false'));}function _0x4c70a2(_0x29118c){const _0x1ebaca=_0x49dfbd;_0xcaeace[_0x1ebaca(0x44e)]=_0x29118c?String(_0x29118c):null,_0x347924(),_0xcaeace['openThreadMenuId']&&requestAnimationFrame(_0x580cb0);}function _0x580cb0(){const _0x23354d=_0x49dfbd;if(!_0xcaeace[_0x23354d(0x44e)]||!_0x1b8bcf[_0x23354d(0x263)])return;const _0x13f02e=_0x1b8bcf['threadList']['querySelector'](_0x23354d(0x54a));if(!_0x13f02e)return;const _0x15631c=_0x13f02e[_0x23354d(0x455)](_0x23354d(0x54d)),_0x418303=_0x13f02e[_0x23354d(0x455)](_0x23354d(0x204));if(!_0x15631c||!_0x418303||_0x15631c[_0x23354d(0x3d1)])return;_0x15631c[_0x23354d(0x252)][_0x23354d(0x244)]=_0x23354d(0x270);const _0x1569e1=_0x1b8bcf['threadList']['getBoundingClientRect'](),_0x26e14b=_0x418303[_0x23354d(0x317)](),_0x48478c=_0x15631c[_0x23354d(0x317)](),_0x325bc1=_0x1569e1[_0x23354d(0x383)]-_0x26e14b[_0x23354d(0x383)],_0x3ff033=_0x26e14b[_0x23354d(0x29f)]-_0x1569e1[_0x23354d(0x29f)],_0x15125d=(_0x48478c[_0x23354d(0x250)]||0x0)+0xa;_0x325bc1<_0x15125d&&_0x3ff033>_0x325bc1&&(_0x15631c[_0x23354d(0x252)][_0x23354d(0x244)]='up');}function _0x598f8a(){_0xcaeace['openThreadMenuId']&&_0x580cb0();}function _0x2a8bcc(){const _0x16fafe=_0x49dfbd;_0xcaeace[_0x16fafe(0x44e)]&&_0x580cb0();}function _0x385ddf(_0x3d9f44){const _0x4b6598=_0x49dfbd,_0x3cba5d={};_0x3cba5d[_0x4b6598(0x2c8)]=_0x4b6598(0x449),_0x3cba5d['node']=_0x1b8bcf[_0x4b6598(0x482)];const _0x1edfe4={};_0x1edfe4[_0x4b6598(0x2c8)]=_0x4b6598(0x46c),_0x1edfe4[_0x4b6598(0x35d)]=_0x1b8bcf[_0x4b6598(0x4bc)];const _0x10703d={};_0x10703d['key']=_0x4b6598(0x494),_0x10703d['node']=_0x1b8bcf[_0x4b6598(0x28d)],[_0x3cba5d,_0x1edfe4,_0x10703d][_0x4b6598(0x481)](function(_0x20037a){const _0x3def09=_0x4b6598;return _0x20037a[_0x3def09(0x35d)];})[_0x4b6598(0x417)](function(_0x4c9fc4){const _0x3a6d1e=_0x4b6598,_0x1eec52=_0x4c9fc4[_0x3a6d1e(0x35d)],_0x18f645=_0x4c9fc4[_0x3a6d1e(0x2c8)]===_0x3d9f44;_0x1eec52['hidden']=!_0x18f645,_0x1eec52['classList']['toggle'](_0x3a6d1e(0x26e),_0x18f645);});}function _0x48e7c5(){const _0xa72111=_0x49dfbd;document[_0xa72111(0x230)]['dataset'][_0xa72111(0x3fb)]=_0xcaeace[_0xa72111(0x3f2)][_0xa72111(0x3fb)]?_0xa72111(0x46b):_0xa72111(0x215);const _0x4aa1df={};_0x4aa1df[_0xa72111(0x223)]=!0x1;const _0x5ba76f=_0xcaeace[_0xa72111(0x3f2)][_0xa72111(0x3ea)]===_0xa72111(0x46c),_0xc1b57d=_0xcaeace[_0xa72111(0x3f2)][_0xa72111(0x3ea)]===_0xa72111(0x494),_0x5eb18d=_0xcaeace[_0xa72111(0x3f2)][_0xa72111(0x3ea)]===_0xa72111(0x449),_0x3eba0e=_0xaf7a8d(_0x4aa1df);_0x385ddf(_0x5ba76f?_0xa72111(0x46c):_0xc1b57d?_0xa72111(0x494):_0xa72111(0x449)),_0x1b8bcf['sidebarRailChatsBtn']&&_0x1b8bcf[_0xa72111(0x3d7)][_0xa72111(0x282)][_0xa72111(0x278)](_0xa72111(0x3fa),_0x5eb18d&&_0x3eba0e==='normal'),_0x1b8bcf[_0xa72111(0x23f)]&&_0x1b8bcf['sidebarRailBotsBtn']['classList'][_0xa72111(0x278)](_0xa72111(0x3fa),_0x5eb18d&&_0x3eba0e===_0xa72111(0x365)),_0x1b8bcf['botSection']&&(_0x1b8bcf['botSection'][_0xa72111(0x3d1)]=_0x3eba0e!==_0xa72111(0x365)),_0x1b8bcf[_0xa72111(0x224)]['classList'][_0xa72111(0x278)]('is-active',_0x5ba76f),_0x1b8bcf['sidebarRailAdminLink'][_0xa72111(0x282)][_0xa72111(0x278)]('is-active',_0xc1b57d),_0x1b8bcf['chatSidebar'][_0xa72111(0x28a)](_0xa72111(0x3d0),_0xcaeace[_0xa72111(0x3f2)]['sidebarCollapsed']?_0xa72111(0x46b):_0xa72111(0x215)),_0x1b8bcf[_0xa72111(0x25a)][_0xa72111(0x28a)](_0xa72111(0x4b7),_0xcaeace[_0xa72111(0x3f2)]['sidebarCollapsed']?'false':_0xa72111(0x46b)),_0x1b8bcf[_0xa72111(0x25a)][_0xa72111(0x28a)](_0xa72111(0x276),_0xcaeace['preferences']['sidebarCollapsed']?_0xa72111(0x4ec):_0xa72111(0x22a)),_0x1b8bcf[_0xa72111(0x25a)][_0xa72111(0x28a)](_0xa72111(0x42b),_0xcaeace['preferences'][_0xa72111(0x3fb)]?'Expand\x20sidebar':'Collapse\x20sidebar'),_0x1b8bcf[_0xa72111(0x25a)][_0xa72111(0x455)](_0xa72111(0x510))[_0xa72111(0x381)]=_0xcaeace[_0xa72111(0x3f2)][_0xa72111(0x3fb)]?'>':'<',_0x1b8bcf['settingsSidebarStatus'][_0xa72111(0x381)]=_0xcaeace[_0xa72111(0x3f2)][_0xa72111(0x3fb)]?_0xa72111(0x1e8):_0xa72111(0x4eb),_0x1b8bcf[_0xa72111(0x34b)]['textContent']=_0xcaeace[_0xa72111(0x3f2)][_0xa72111(0x3fb)]?'Expand\x20sidebar':'Collapse\x20sidebar',_0x4ef466(),_0x541fda();}function _0x76803d(_0x143ad4){const _0x42933b=_0x49dfbd,_0x33ffba=(typeof _0x2cbadb[_0x42933b(0x49f)]==_0x42933b(0x2da)?_0x2cbadb['getAvailableThemes']():[])['find'](function(_0x2f7734){return _0x2f7734['id']===_0x143ad4;});return _0x33ffba?_0x33ffba[_0x42933b(0x1c2)]:String(_0x143ad4||'-');}function _0x1e74e3(_0x16c10f,_0x13f89e){const _0x2f6382=_0x49dfbd,_0x139cd0={};_0x139cd0['ready']='Ready',_0x139cd0[_0x2f6382(0x398)]=_0x2f6382(0x2c2),_0x139cd0['idle']=_0x2f6382(0x308),_0x139cd0[_0x2f6382(0x3cf)]=_0x2f6382(0x27e),_0x139cd0['complete']=_0x2f6382(0x302),_0x139cd0[_0x2f6382(0x358)]=_0x2f6382(0x3e0),_0x139cd0[_0x2f6382(0x414)]=_0x2f6382(0x52d),_0x139cd0[_0x2f6382(0x4c5)]=_0x2f6382(0x1ed);const _0x243290=_0x16c10f||(_0x3742f7[_0x2f6382(0x412)](_0x107056())?_0x2f6382(0x516):_0x2f6382(0x398)),_0x2634fd=_0x139cd0;_0x1b8bcf[_0x2f6382(0x4f7)][_0x2f6382(0x252)][_0x2f6382(0x21f)]=_0x243290,_0x1b8bcf[_0x2f6382(0x4f7)][_0x2f6382(0x381)]=_0x2634fd[_0x243290]||_0x2f6382(0x2fd),_0x1b8bcf['composerStatus'][_0x2f6382(0x381)]=_0x13f89e||'Enter\x20sends.\x20Shift+Enter\x20adds\x20a\x20new\x20line.';}function _0x36ba8b(_0x2c80fc,_0x3e9dbd){const _0x469ee4=_0x49dfbd;let _0x1b0a4e=_0x469ee4(0x449);_0x2c80fc===_0x469ee4(0x46c)?_0x1b0a4e=_0x469ee4(0x46c):_0x2c80fc===_0x469ee4(0x494)&&_0xcaeace[_0x469ee4(0x1f4)]&&_0xcaeace[_0x469ee4(0x1f4)]['profile'][_0x469ee4(0x1f5)]===_0x469ee4(0x494)&&(_0x1b0a4e=_0x469ee4(0x494));const _0x16c41d={};_0x16c41d[_0x469ee4(0x223)]=!0x0,_0x16c41d[_0x469ee4(0x208)]=!0x1;const _0x741be0=Object['assign'](_0x16c41d,_0x3e9dbd||{});_0xcaeace[_0x469ee4(0x3f2)][_0x469ee4(0x3ea)]=_0x1b0a4e,_0x53fb39(!0x1),_0x741be0[_0x469ee4(0x223)]&&_0x2d765b(),_0x48e7c5(),_0x741be0['focusComposer']&&_0x1b0a4e===_0x469ee4(0x449)&&requestAnimationFrame(function(){const _0x54a90e=_0x469ee4;_0x1b8bcf[_0x54a90e(0x237)][_0x54a90e(0x229)]();});}function _0x2977fd(_0x25faa1,_0x14f4e4){const _0x15ea14=_0x49dfbd,_0x3de9c8={};_0x3de9c8['persist']=!0x0;const _0x4e8add=Object[_0x15ea14(0x30c)](_0x3de9c8,_0x14f4e4||{});_0xcaeace[_0x15ea14(0x3f2)][_0x15ea14(0x3fb)]=!!_0x25faa1,_0x4e8add[_0x15ea14(0x223)]&&_0x2d765b(),_0x48e7c5();}function _0x1ace65(){const _0x377dd2=_0x49dfbd;return _0xcaeace[_0x377dd2(0x36a)]['find'](function(_0x3a74d3){const _0x18bfcd=_0x377dd2;return _0x3a74d3['id']===_0xcaeace[_0x18bfcd(0x376)];})||null;}function _0x2c02b0(){const _0x3a7d79=_0x49dfbd;if(_0xcaeace[_0x3a7d79(0x46c)]&&_0xcaeace['settings']['brand_name'])return _0xcaeace[_0x3a7d79(0x46c)][_0x3a7d79(0x4f2)];const _0x3ac98b=window[_0x3a7d79(0x502)]||{};return _0x3ac98b['defaults']&&_0x3ac98b[_0x3a7d79(0x2b5)][_0x3a7d79(0x385)]?_0x3ac98b[_0x3a7d79(0x2b5)][_0x3a7d79(0x385)]:'Lumora';}function _0x4ef466(){const _0xeceec6=_0x49dfbd;if(_0xcaeace[_0xeceec6(0x3f2)]['activeView']===_0xeceec6(0x46c)){document[_0xeceec6(0x276)]=_0xeceec6(0x48e)+_0x2c02b0();return;}if(_0xcaeace[_0xeceec6(0x3f2)]['activeView']==='admin'){document['title']=_0xeceec6(0x2a5)+_0x2c02b0();return;}const _0x44d33e=_0x1ace65(),_0xd36a0a=_0x44d33e&&_0x44d33e[_0xeceec6(0x276)]?_0x44d33e[_0xeceec6(0x276)]:_0xeceec6(0x3db);document[_0xeceec6(0x276)]=_0xd36a0a+'\x20|\x20'+_0x2c02b0();}function _0x4b681e(){const _0x286746=_0x49dfbd;return _0x1b8bcf[_0x286746(0x38b)]?_0x1b8bcf[_0x286746(0x38b)][_0x286746(0x4d9)]-_0x1b8bcf[_0x286746(0x38b)]['clientHeight']-_0x1b8bcf[_0x286746(0x38b)][_0x286746(0x1fb)]<=_0x5a25d6:!0x0;}function _0xdda558(){const _0x5c4ee9=_0x49dfbd;_0x1b8bcf[_0x5c4ee9(0x424)]&&(_0x1b8bcf[_0x5c4ee9(0x424)][_0x5c4ee9(0x3d1)]=!_0xcaeace[_0x5c4ee9(0x3a5)]);}function _0x281838(_0x47f437){const _0x11db1a=_0x49dfbd;if(_0x1b8bcf[_0x11db1a(0x38b)]){if(_0x47f437===_0x11db1a(0x486)&&typeof _0x1b8bcf[_0x11db1a(0x38b)]['scrollTo']==_0x11db1a(0x2da)){_0x1b8bcf[_0x11db1a(0x38b)]['scrollTo']({'top':_0x1b8bcf[_0x11db1a(0x38b)][_0x11db1a(0x4d9)],'behavior':_0x11db1a(0x486)}),_0xcaeace[_0x11db1a(0x4d0)]=_0x1b8bcf[_0x11db1a(0x38b)][_0x11db1a(0x4d9)];return;}_0x1b8bcf[_0x11db1a(0x38b)][_0x11db1a(0x1fb)]=_0x1b8bcf[_0x11db1a(0x38b)][_0x11db1a(0x4d9)],_0xcaeace[_0x11db1a(0x4d0)]=_0x1b8bcf[_0x11db1a(0x38b)][_0x11db1a(0x1fb)];}}function _0x3e9519(){const _0x466a69=_0x49dfbd;_0xcaeace[_0x466a69(0x50c)]=!0x1,_0xcaeace['showJumpToLatest']=_0xcaeace[_0x466a69(0x2d2)],_0xdda558();}function _0x43a1e2(){const _0x39fd2d=_0x49dfbd;_0xcaeace['streamReveal'][_0x39fd2d(0x496)]&&(window[_0x39fd2d(0x324)](_0xcaeace['streamReveal'][_0x39fd2d(0x496)]),_0xcaeace[_0x39fd2d(0x350)][_0x39fd2d(0x496)]=null);}function _0xb49b52(){return 0x14;}function _0x49a0c2(_0x2972c2){return _0x2972c2>0x1e0?0x1c:_0x2972c2>0x140?0x16:_0x2972c2>0xb4?0xe:_0x2972c2>0x50?0x8:_0x2972c2>0x18?0x4:0x2;}function _0x59ae4b(_0x131031,_0x2ba469,_0x9e4972){const _0x937005=_0x49dfbd;let _0x433983=Math[_0x937005(0x40c)](_0x131031['length'],_0x2ba469+_0x9e4972);const _0x2f63b2=Math['min'](_0x131031[_0x937005(0x403)],_0x2ba469+_0x9e4972+0xc);for(;_0x433983<_0x2f63b2&&_0x433983<_0x131031[_0x937005(0x403)]&&/\S/[_0x937005(0x541)](_0x131031[_0x937005(0x297)](_0x433983-0x1))&&/\S/[_0x937005(0x541)](_0x131031['charAt'](_0x433983));)_0x433983+=0x1;return _0x433983;}function _0x56f5d9(_0x54cef1){const _0x3cb726=_0x49dfbd;if(!_0x54cef1||_0xcaeace[_0x3cb726(0x350)][_0x3cb726(0x1ba)]!==_0x54cef1['id']){_0x43a1e2();return;}const _0x34e36d=String(_0x54cef1['targetContent']||''),_0x53b1c0=String(_0x54cef1[_0x3cb726(0x4a7)]||'');if(_0x53b1c0===_0x34e36d){_0x43a1e2();return;}const _0xac8571=_0x34e36d[_0x3cb726(0x403)]-_0x53b1c0[_0x3cb726(0x403)],_0x72632a=_0x59ae4b(_0x34e36d,_0x53b1c0[_0x3cb726(0x403)],_0x49a0c2(_0xac8571));_0x54cef1[_0x3cb726(0x4a7)]=_0x34e36d[_0x3cb726(0x29d)](0x0,_0x72632a),_0x57b637(_0x54cef1);const _0x348660=_0xcaeace[_0x3cb726(0x50c)],_0x1dbe5d={};_0x1dbe5d[_0x3cb726(0x3ab)]=_0x348660,_0x1dbe5d[_0x3cb726(0x227)]=!_0x348660,(_0xb86f9e(_0x1dbe5d),_0xcaeace[_0x3cb726(0x350)]['timerId']=window[_0x3cb726(0x4a8)](function(){const _0xc972a6=_0x3cb726;_0xcaeace[_0xc972a6(0x350)][_0xc972a6(0x496)]=null,_0x56f5d9(_0x54cef1);},_0xb49b52()));}function _0x536699(_0x57a67e,_0x3df322){const _0x1c0c95=_0x49dfbd;if(!_0x57a67e)return;const _0x11c238=_0x3df322&&typeof _0x3df322==_0x1c0c95(0x1e1)?_0x3df322:{},_0x3b2437=_0x57a67e['meta']&&typeof _0x57a67e[_0x1c0c95(0x512)]==_0x1c0c95(0x1e1)?_0x57a67e[_0x1c0c95(0x512)]:{},_0x5085b2=String(_0x11c238[_0x1c0c95(0x364)]||''),_0x151b4e=String(_0x11c238[_0x1c0c95(0x315)]||''),_0x3b1960=Array[_0x1c0c95(0x4ee)](_0x11c238[_0x1c0c95(0x30f)])?_0x11c238['generatedImages']:[],_0x85d9b4=Array[_0x1c0c95(0x4ee)](_0x11c238[_0x1c0c95(0x408)])?_0x11c238[_0x1c0c95(0x408)]:Array[_0x1c0c95(0x4ee)](_0x3b2437[_0x1c0c95(0x258)])?_0x3b2437[_0x1c0c95(0x258)]:[],_0x4fa075=String(_0x11c238[_0x1c0c95(0x3eb)]||_0x3b2437[_0x1c0c95(0x361)]||'')[_0x1c0c95(0x2b7)](),_0xb1cb2f=String(_0x11c238['parentUserId']||_0x3b2437['parent_user_id']||'')[_0x1c0c95(0x2b7)](),_0x424c16=String(_0x11c238['sessionId']||_0x3b2437[_0x1c0c95(0x3f0)]||'')['trim'](),_0x4e6117=String(_0x57a67e[_0x1c0c95(0x3b8)]||_0x57a67e[_0x1c0c95(0x4a7)]||''),_0x145063=String(_0x3b2437[_0x1c0c95(0x2cd)]||''),_0x42af53=JSON[_0x1c0c95(0x411)](_0x3b2437[_0x1c0c95(0x518)]||[]),_0x57bd02=JSON[_0x1c0c95(0x411)](_0x3b2437[_0x1c0c95(0x258)]||[]);_0x57a67e[_0x1c0c95(0x3b8)]=_0x5085b2,_0x57a67e[_0x1c0c95(0x512)]=Object[_0x1c0c95(0x30c)]({},_0x3b2437,{'state':_0x1c0c95(0x3c6),'parser':_0x11c238[_0x1c0c95(0x2eb)]||_0x3b2437[_0x1c0c95(0x2eb)]||'','phase':_0x11c238[_0x1c0c95(0x1f9)]||(_0x3b1960[_0x1c0c95(0x403)]?'image_gen':_0x5085b2?_0x1c0c95(0x469):_0x151b4e?_0x1c0c95(0x315):''),'mode':_0x11c238['mode']||_0x3b2437['mode']||_0x5d2c66(),'interaction_mode':_0x11c238[_0x1c0c95(0x38f)]||_0x3b2437['interaction_mode']||_0x1f65ea(),'generated_images':_0x3b1960,'reasoning_text':_0x151b4e,'search_sources':_0x85d9b4,'response_id':_0x4fa075,'parent_user_id':_0xb1cb2f,'session_id':_0x424c16}),_0xcaeace[_0x1c0c95(0x350)]['messageId']!==_0x57a67e['id']&&(_0x43a1e2(),_0xcaeace[_0x1c0c95(0x350)]['messageId']=_0x57a67e['id']),(_0x151b4e!==_0x145063||_0x5085b2===_0x4e6117||JSON[_0x1c0c95(0x411)](_0x3b1960)!==_0x42af53||JSON[_0x1c0c95(0x411)](_0x85d9b4)!==_0x57bd02)&&(_0x57b637(_0x57a67e),_0xb86f9e({'forceFollow':_0xcaeace['isAutoFollow'],'fromStream':!_0xcaeace[_0x1c0c95(0x50c)]})),_0x5085b2!==_0x4e6117&&!_0xcaeace[_0x1c0c95(0x350)][_0x1c0c95(0x496)]&&_0x56f5d9(_0x57a67e);}function _0x246998(_0x13ba56,_0x46368d){const _0x23b69f=_0x49dfbd,_0x18276c={};_0x18276c[_0x23b69f(0x355)]=!0x1;const _0x123572=Object[_0x23b69f(0x30c)](_0x18276c,_0x46368d||{});_0x13ba56&&(_0xcaeace[_0x23b69f(0x350)][_0x23b69f(0x1ba)]===_0x13ba56['id']&&(_0x43a1e2(),_0xcaeace[_0x23b69f(0x350)]['messageId']=null),_0x123572[_0x23b69f(0x355)]&&typeof _0x13ba56['targetContent']==_0x23b69f(0x46f)&&(_0x13ba56[_0x23b69f(0x4a7)]=_0x13ba56[_0x23b69f(0x3b8)]),delete _0x13ba56[_0x23b69f(0x3b8)]);}function _0x2c95ff(_0x127320){const _0xecb46e=_0x49dfbd,_0x5991be={};_0x5991be[_0xecb46e(0x37d)]=!0x1,_0x5991be[_0xecb46e(0x3e2)]=_0xecb46e(0x243);const _0x132066=Object[_0xecb46e(0x30c)](_0x5991be,_0x127320||{});_0xcaeace[_0xecb46e(0x50c)]=!0x0,_0xcaeace[_0xecb46e(0x3a5)]=!0x1,_0xdda558(),_0x132066[_0xecb46e(0x37d)]&&requestAnimationFrame(function(){_0x281838(_0x132066['behavior']);});}function _0xb86f9e(_0x27efb1){const _0x32f5b5=_0x49dfbd,_0x5eadbe={};_0x5eadbe[_0x32f5b5(0x3ab)]=!0x1,_0x5eadbe['fromStream']=!0x1;const _0x190e77=Object[_0x32f5b5(0x30c)](_0x5eadbe,_0x27efb1||{});requestAnimationFrame(function(){const _0x4492ab=_0x32f5b5;if(_0x190e77['forceFollow']||_0xcaeace[_0x4492ab(0x50c)]){_0x281838(),_0xcaeace[_0x4492ab(0x50c)]=!0x0,_0xcaeace[_0x4492ab(0x3a5)]=!0x1,_0xdda558();return;}_0x190e77[_0x4492ab(0x227)]&&(_0xcaeace['showJumpToLatest']=!0x0,_0xdda558());});}function _0x2e2a53(_0x52f4b8){const _0x272193=_0x49dfbd;return _0x52f4b8[_0x272193(0x29d)]()[_0x272193(0x2e8)](function(_0x5b75e7,_0x37457e){const _0x28e922=_0x272193;return!!_0x5b75e7[_0x28e922(0x40b)]!=!!_0x37457e[_0x28e922(0x40b)]?_0x5b75e7[_0x28e922(0x40b)]?-0x1:0x1:new Date(_0x37457e['updated_at'])['getTime']()-new Date(_0x5b75e7[_0x28e922(0x2a6)])[_0x28e922(0x1ec)]();});}function _0x371544(_0x51126d){const _0x5e52d9=_0x49dfbd,_0x5aec43=_0x2a779b(_0x51126d),_0x371b35=_0xcaeace[_0x5e52d9(0x36a)][_0x5e52d9(0x1c4)](function(_0x64e833){return _0x64e833['id']===_0x5aec43['id'];});_0x371b35===-0x1?_0xcaeace['threads']['unshift'](_0x5aec43):_0xcaeace[_0x5e52d9(0x36a)][_0x371b35]=_0x5aec43,_0xcaeace[_0x5e52d9(0x36a)]=_0x2e2a53(_0xcaeace[_0x5e52d9(0x36a)]);}function _0xa79de9(_0x4e77c1){const _0xee81b3=_0x49dfbd;_0xcaeace[_0xee81b3(0x36a)]=_0xcaeace[_0xee81b3(0x36a)][_0xee81b3(0x481)](function(_0x571d41){return _0x571d41['id']!==_0x4e77c1;});}function _0x2ff9dd(_0x1b68b5){const _0x262163=_0x49dfbd,_0x3e0eef=_0x1b68b5&&_0x1b68b5[_0x262163(0x42f)]?_0x1b68b5['message']:String(_0x1b68b5||'');return/title_source/i[_0x262163(0x541)](_0x3e0eef)&&/schema cache|column|could not find/i[_0x262163(0x541)](_0x3e0eef);}function _0x45df93(_0x161cd2){const _0x1ff80b=_0x49dfbd,_0x571956=_0x161cd2&&_0x161cd2['message']?_0x161cd2['message']:String(_0x161cd2||'');return/bot_id/i['test'](_0x571956)&&/schema cache|column|could not find/i[_0x1ff80b(0x541)](_0x571956);}function _0x3b0c05(_0x160d31){const _0x13931d=_0x49dfbd,_0x29004a=_0x160d31&&typeof _0x160d31==_0x13931d(0x1e1)?_0x160d31:{},_0x4f052e=String(_0x29004a[_0x13931d(0x52c)]||'')['trim']();if(_0x4f052e)return _0x31b3ee(_0x4f052e,0x0);const _0x31db68=_0x33e6bd(_0x29004a),_0x52d379=String(_0x31db68[_0x13931d(0x52c)]||_0x31db68[_0x13931d(0x1c5)]||'')[_0x13931d(0x2b7)]();return _0x52d379?_0x31b3ee(_0x52d379,0x0):_0x13931d(0x3c8);}function _0x2a779b(_0x40211b,_0x4479f4){const _0x3068a0=_0x49dfbd,_0x473e61=_0x40211b&&typeof _0x40211b==_0x3068a0(0x1e1)?Object['assign']({},_0x40211b):{};return _0x473e61[_0x3068a0(0x52c)]=_0x3b0c05(_0x473e61),_0x473e61[_0x3068a0(0x3fd)]||(_0x473e61['title_source']=_0x4479f4||_0x3068a0(0x34d)),_0x473e61;}function _0x1dcc3b(_0x12cea0){const _0x2617ee=_0x49dfbd;return(Array[_0x2617ee(0x4ee)](_0x12cea0)?_0x12cea0:[])['map'](function(_0x593cfe){return _0x2a779b(_0x593cfe);});}function _0x150353(_0x5d4bd0){const _0x49a621=_0x49dfbd,_0x4f9637=_0x5d4bd0&&_0x5d4bd0['message']?_0x5d4bd0['message']:String(_0x5d4bd0);return/configured|gateway settings|runtime is not configured/i[_0x49a621(0x541)](_0x4f9637)?_0x49a621(0x2d1):/401|403|token|login|access token|bearer/i[_0x49a621(0x541)](_0x4f9637)?_0x49a621(0x4e6):_0x4f9637['replace'](/qwen/ig,_0x49a621(0x3c8))['replace'](/proxy/ig,_0x49a621(0x2e3));}function _0x11fe02(_0x4a0d3c){const _0x7ab5a6=_0x49dfbd;return _0x4a0d3c===_0x7ab5a6(0x2b6)?'You':_0x4a0d3c===_0x7ab5a6(0x2fb)?_0x7ab5a6(0x3f7):_0x4a0d3c==='error'?'Error':_0x7ab5a6(0x50f);}function _0x7f297a(_0x1a2d7a){const _0x5f0fe8=_0x49dfbd,_0x422a9e=String(_0x1a2d7a||'')[_0x5f0fe8(0x2b7)]();if(!_0x422a9e)return!0x1;if(_0x422a9e[_0x5f0fe8(0x246)]('#')||_0x422a9e[_0x5f0fe8(0x246)]('/')||_0x422a9e[_0x5f0fe8(0x246)]('./')||_0x422a9e[_0x5f0fe8(0x246)](_0x5f0fe8(0x511))||_0x422a9e['startsWith']('?'))return!0x0;try{const _0x5a23cb=new URL(_0x422a9e,window['location'][_0x5f0fe8(0x384)]);return/^https?:$/i[_0x5f0fe8(0x541)](_0x5a23cb[_0x5f0fe8(0x226)])||/^mailto:$/i[_0x5f0fe8(0x541)](_0x5a23cb['protocol'])||/^tel:$/i[_0x5f0fe8(0x541)](_0x5a23cb['protocol']);}catch{return!0x1;}}function _0x1a8df3(_0x5717d0){const _0x1d6a06=_0x49dfbd,_0x5205ac=document['createElement'](_0x1d6a06(0x441));return _0x5205ac[_0x1d6a06(0x4ea)]=_0x5717d0,_0x5205ac[_0x1d6a06(0x4a7)][_0x1d6a06(0x21d)]('a')['forEach'](function(_0x24310a){const _0x6671a2=_0x1d6a06,_0x3a7e0d=String(_0x24310a['getAttribute']('href')||'')[_0x6671a2(0x2b7)]();if(_0x3a7e0d&&!_0x7f297a(_0x3a7e0d)&&_0x24310a[_0x6671a2(0x435)](_0x6671a2(0x384)),!_0x24310a[_0x6671a2(0x1c7)]('href')){_0x24310a[_0x6671a2(0x435)](_0x6671a2(0x319)),_0x24310a[_0x6671a2(0x435)](_0x6671a2(0x450));return;}_0x24310a[_0x6671a2(0x28a)](_0x6671a2(0x319),_0x6671a2(0x401)),_0x24310a[_0x6671a2(0x28a)]('rel',_0x6671a2(0x2d3));}),_0x5205ac['content'][_0x1d6a06(0x21d)](_0x1d6a06(0x3b4))[_0x1d6a06(0x417)](function(_0x3f8260){const _0x3b5441=_0x1d6a06;if(_0x3f8260[_0x3b5441(0x522)]&&_0x3f8260[_0x3b5441(0x522)][_0x3b5441(0x282)]['contains'](_0x3b5441(0x51d)))return;const _0x35c038=document[_0x3b5441(0x484)](_0x3b5441(0x45a));_0x35c038[_0x3b5441(0x2ea)]='markdown-table-wrap',_0x3f8260[_0x3b5441(0x310)]['insertBefore'](_0x35c038,_0x3f8260),_0x35c038['appendChild'](_0x3f8260);}),_0x5205ac[_0x1d6a06(0x4a7)][_0x1d6a06(0x21d)](_0x1d6a06(0x2ab))[_0x1d6a06(0x417)](function(_0x112fb1){const _0x52d500=_0x1d6a06;if(_0x112fb1[_0x52d500(0x522)]&&_0x112fb1[_0x52d500(0x522)][_0x52d500(0x282)][_0x52d500(0x233)](_0x52d500(0x44d)))return;const _0x3c01f9=document[_0x52d500(0x484)](_0x52d500(0x45a));_0x3c01f9['className']=_0x52d500(0x44d);const _0x376467=document[_0x52d500(0x484)]('button');_0x376467[_0x52d500(0x3e7)]='button',_0x376467[_0x52d500(0x2ea)]=_0x52d500(0x371),_0x376467[_0x52d500(0x28a)](_0x52d500(0x499),_0x52d500(0x46b)),_0x376467[_0x52d500(0x28a)]('aria-label','Copy\x20code\x20block'),_0x376467['textContent']=_0x52d500(0x4a2),_0x112fb1[_0x52d500(0x310)][_0x52d500(0x463)](_0x3c01f9,_0x112fb1),_0x3c01f9[_0x52d500(0x219)](_0x376467),_0x3c01f9[_0x52d500(0x219)](_0x112fb1);}),_0x5205ac[_0x1d6a06(0x4ea)];}function _0x1dc5af(_0xdfd9b0){const _0x1c5601=_0x49dfbd,_0x5a2f0c=[],_0x3c789a='__LUMORA_CODE_BLOCK__';let _0x10835d=String(_0xdfd9b0||'')['replace'](/```[\s\S]*?```/g,function(_0x39a8ff){const _0x5e5c92=_0x28a8,_0x2eb8c1=_0x5a2f0c[_0x5e5c92(0x474)](_0x39a8ff)-0x1;return _0x3c789a+_0x2eb8c1+'__';})[_0x1c5601(0x267)](/`[^`\n]+`/g,function(_0x2a3bce){const _0x2ae580=_0x1c5601,_0x497fcd=_0x5a2f0c[_0x2ae580(0x474)](_0x2a3bce)-0x1;return _0x3c789a+_0x497fcd+'__';});return _0x10835d=_0x10835d[_0x1c5601(0x267)](/&/g,_0x1c5601(0x402))[_0x1c5601(0x267)](/</g,_0x1c5601(0x4c3))[_0x1c5601(0x267)](/>/g,_0x1c5601(0x437)),_0x10835d[_0x1c5601(0x267)](new RegExp(_0x3c789a+_0x1c5601(0x460),'g'),function(_0x26c0a6,_0x518a06){return _0x5a2f0c[Number(_0x518a06)]||'';});}function _0x1192d3(_0x2f7640){const _0x47a0e4=_0x49dfbd,_0x48e9fb=_0x1dc5af(_0x2f7640);if(!_0x4b69c9||typeof _0x4b69c9[_0x47a0e4(0x2af)]!=_0x47a0e4(0x2da)||!_0x3b7f85||typeof _0x3b7f85[_0x47a0e4(0x4f6)]!=_0x47a0e4(0x2da))return _0x25f1ab[_0x47a0e4(0x43d)](_0x2f7640)[_0x47a0e4(0x267)](/\n/g,_0x47a0e4(0x3b9));const _0x4b4eb6={};_0x4b4eb6[_0x47a0e4(0x48a)]=!0x0;const _0x4854d5={};_0x4854d5['USE_PROFILES']=_0x4b4eb6;const _0x59f7b0=_0x4b69c9[_0x47a0e4(0x2af)](_0x48e9fb),_0x212977=_0x3b7f85[_0x47a0e4(0x4f6)](_0x59f7b0,_0x4854d5);return _0x1a8df3(_0x212977);}function _0x26de9(_0x272c4b){const _0x1ed9c6=_0x49dfbd;return _0x1ed9c6(0x404)+_0x25f1ab[_0x1ed9c6(0x43d)](_0x272c4b)+_0x1ed9c6(0x1bd);}function _0x256159(_0x320e9f){const _0x559a95=_0x49dfbd;return String(_0x320e9f||'')[_0x559a95(0x2b7)]()[_0x559a95(0x267)](/^<|>$/g,'');}function _0x139545(_0x358fd3){const _0x13f808=_0x49dfbd,_0x48b8af=_0x256159(_0x358fd3);if(!_0x48b8af)return!0x1;try{const _0x1335d5=new URL(_0x48b8af);if(!/^https?:$/i[_0x13f808(0x541)](_0x1335d5[_0x13f808(0x226)]))return!0x1;const _0x3f7be3=String(_0x1335d5['pathname']||'');if(/\.(png|jpe?g|gif|webp|bmp|svg|avif)(?:$|\?)/i[_0x13f808(0x541)](_0x3f7be3))return!0x0;const _0x138fe7=String(_0x1335d5[_0x13f808(0x29a)]||'')['toLowerCase'](),_0x561e8d=(String(_0x1335d5[_0x13f808(0x306)]||'')+String(_0x1335d5['search']||''))['toLowerCase']();return/(?:aliyuncs|alibaba|alicdn|cdn|oss)/i[_0x13f808(0x541)](_0x138fe7)&&/(?:image|img|jpg|jpeg|png|webp|gif|avif|x-oss-process)/i[_0x13f808(0x541)](_0x561e8d);}catch{return!0x1;}}function _0x45d3e9(_0x5d4cc4){const _0x4c7a1f=_0x49dfbd;let _0x5b2b6a=String(_0x5d4cc4||'');const _0x495703={};_0x495703[_0x4c7a1f(0x230)]='',_0x495703[_0x4c7a1f(0x362)]=[];if(!_0x5b2b6a[_0x4c7a1f(0x2b7)]())return _0x495703;const _0x1a4f13=[];function _0x1d6df8(_0x43f28e){const _0x1d0d95=_0x4c7a1f,_0x1c3e04=_0x256159(_0x43f28e);_0x139545(_0x1c3e04)&&_0x1a4f13[_0x1d0d95(0x474)]({'url':_0x1c3e04});}_0x5b2b6a=_0x5b2b6a[_0x4c7a1f(0x267)](/!\[[^\]]*\]\((https?:\/\/[^)\s]+)\)/gi,function(_0x2b2471,_0xffe369){return _0x1d6df8(_0xffe369),'';}),_0x5b2b6a=_0x5b2b6a[_0x4c7a1f(0x267)](/<img[^>]*src=["']([^"']+)["'][^>]*>/gi,function(_0x15cca8,_0x117a5a){return _0x1d6df8(_0x117a5a),'';}),_0x5b2b6a=_0x5b2b6a[_0x4c7a1f(0x31b)](/\r?\n/)[_0x4c7a1f(0x481)](function(_0x4f8cea){const _0x4b8a3c=_0x4c7a1f,_0xe4faed=_0x4f8cea[_0x4b8a3c(0x2b7)]();return _0xe4faed&&_0x139545(_0xe4faed)&&!/\s/[_0x4b8a3c(0x541)](_0xe4faed)?(_0x1d6df8(_0xe4faed),!0x1):!0x0;})[_0x4c7a1f(0x356)]('\x0a')[_0x4c7a1f(0x267)](/\n{3,}/g,'\x0a\x0a')[_0x4c7a1f(0x2b7)]();const _0x61c88f=new Set(),_0x272f4e=_0x1a4f13[_0x4c7a1f(0x3c7)](function(_0x590a53,_0x20d12e){return _0xf0dd51(_0x590a53,_0x20d12e);})[_0x4c7a1f(0x481)](function(_0x290b55){const _0x5bf72b=_0x4c7a1f;return!_0x290b55||!_0x290b55[_0x5bf72b(0x26d)]||_0x61c88f[_0x5bf72b(0x489)](_0x290b55['url'])?!0x1:(_0x61c88f[_0x5bf72b(0x2b3)](_0x290b55['url']),!0x0);}),_0x4732ab={};return _0x4732ab[_0x4c7a1f(0x230)]=_0x5b2b6a,_0x4732ab[_0x4c7a1f(0x362)]=_0x272f4e,_0x4732ab;}function _0x42125e(_0x3d39b7,_0x55c296){const _0x3133f7=_0x49dfbd,_0x25c2b1=_0x45d3e9(_0x3d39b7),_0x3626e3=_0x35e3b4(_0x25c2b1[_0x3133f7(0x230)],_0x55c296);return _0x3626e3[_0x3133f7(0x2b7)]()?_0x1192d3(_0x3626e3):_0x55c296&&Array['isArray'](_0x55c296[_0x3133f7(0x518)])&&_0x55c296[_0x3133f7(0x518)][_0x3133f7(0x403)]||_0x25c2b1[_0x3133f7(0x362)]['length']?'':_0x55c296&&_0x55c296[_0x3133f7(0x21f)]===_0x3133f7(0x3c6)?_0x26de9(_0x55c296[_0x3133f7(0x348)]===_0x3133f7(0x1d3)?_0x3133f7(0x240):_0x3133f7(0x24a)):'';}function _0x23e096(_0x47967c,_0x489f91){const _0x232886=_0x49dfbd,_0x24e209=String(_0x47967c||'');return _0x24e209[_0x232886(0x2b7)]()?_0x1192d3(_0x24e209):_0x489f91&&_0x489f91[_0x232886(0x4da)]===_0x232886(0x315)&&_0x489f91[_0x232886(0x21f)]===_0x232886(0x3c6)?_0x26de9(_0x232886(0x2ec)):'';}function _0x50cf32(_0x516da7,_0x2753b0){const _0x1904b5=_0x49dfbd,_0x5d87ab=_0x516da7&&typeof _0x516da7==_0x1904b5(0x1e1)?_0x516da7:{'url':_0x516da7},_0x2d990a=String(_0x5d87ab['url']||_0x5d87ab[_0x1904b5(0x38a)]||_0x5d87ab[_0x1904b5(0x384)]||_0x5d87ab[_0x1904b5(0x395)]||_0x5d87ab[_0x1904b5(0x407)]||_0x5d87ab[_0x1904b5(0x1cc)]||'')[_0x1904b5(0x2b7)]();if(!_0x2d990a)return null;let _0x4789a9='';try{const _0x2244a2=new URL(_0x2d990a);if(!/^https?:$/i[_0x1904b5(0x541)](_0x2244a2['protocol']))return null;_0x4789a9=_0x2244a2[_0x1904b5(0x419)]();}catch{return null;}const _0x14f482=String(_0x5d87ab[_0x1904b5(0x276)]||_0x5d87ab[_0x1904b5(0x51c)]||_0x5d87ab['site_name']||_0x5d87ab[_0x1904b5(0x54e)]||_0x5d87ab[_0x1904b5(0x3a2)]||_0x5d87ab[_0x1904b5(0x4ef)]||'')[_0x1904b5(0x2b7)]();return{'url':_0x4789a9,'title':_0x14f482||_0x1904b5(0x3ba)+String((Number(_0x2753b0)||0x0)+0x1)};}function _0x1f13c7(_0x79f65c){const _0x38a630=_0x49dfbd,_0x1d0133=_0x79f65c&&typeof _0x79f65c==_0x38a630(0x1e1)?_0x79f65c:{},_0x9efdc8=[];Array[_0x38a630(0x4ee)](_0x1d0133[_0x38a630(0x258)])&&_0x9efdc8[_0x38a630(0x474)]['apply'](_0x9efdc8,_0x1d0133[_0x38a630(0x258)]),_0x1d0133[_0x38a630(0x4b8)]&&typeof _0x1d0133[_0x38a630(0x4b8)]==_0x38a630(0x1e1)&&Array[_0x38a630(0x4ee)](_0x1d0133['trace'][_0x38a630(0x258)])&&_0x9efdc8[_0x38a630(0x474)][_0x38a630(0x312)](_0x9efdc8,_0x1d0133[_0x38a630(0x4b8)][_0x38a630(0x258)]);const _0x1efa94=new Set();return _0x9efdc8[_0x38a630(0x3c7)](function(_0x3df4e4,_0x230015){return _0x50cf32(_0x3df4e4,_0x230015);})[_0x38a630(0x481)](function(_0x264464){const _0x522363=_0x38a630;return!_0x264464||!_0x264464[_0x522363(0x26d)]||_0x1efa94[_0x522363(0x489)](_0x264464['url'])?!0x1:(_0x1efa94[_0x522363(0x2b3)](_0x264464[_0x522363(0x26d)]),!0x0);});}function _0x2831c9(_0x36ec24){const _0xf446b8=_0x49dfbd,_0x3dd996=String(_0x36ec24||'')['trim']()[_0xf446b8(0x202)]();return _0x3dd996?_0x3dd996[_0xf446b8(0x389)](_0xf446b8(0x44a))!==-0x1||_0x3dd996[_0xf446b8(0x389)](_0xf446b8(0x269))!==-0x1||_0x3dd996[_0xf446b8(0x389)](_0xf446b8(0x526))!==-0x1:!0x1;}function _0x35e3b4(_0x7c5951,_0x5ada05){const _0x2a8f8f=_0x49dfbd,_0x5c52e7=String(_0x7c5951||''),_0x157a13=_0x1f13c7(_0x5ada05);return!_0x5c52e7||!_0x157a13[_0x2a8f8f(0x403)]?_0x5c52e7:_0x5c52e7[_0x2a8f8f(0x267)](/\[\[(\d+)\]\]/g,function(_0x5393a8,_0x43f2b5){const _0x4cdf7f=_0x2a8f8f,_0x4dac2e=Number(_0x43f2b5)-0x1;return!Number[_0x4cdf7f(0x3bf)](_0x4dac2e)||_0x4dac2e<0x0||_0x4dac2e>=_0x157a13[_0x4cdf7f(0x403)]?_0x5393a8:'['+String(_0x43f2b5)+']('+_0x157a13[_0x4dac2e][_0x4cdf7f(0x26d)]+')';});}function _0x33167a(_0x5cf00b){const _0x57a5de=_0x49dfbd;try{const _0x1e9f36=new URL(String(_0x5cf00b||''));return String(_0x1e9f36[_0x57a5de(0x29a)]||'')[_0x57a5de(0x267)](/^www\./i,'');}catch{return'';}}function _0x3c9424(_0x1225f5){const _0x786bdb=_0x49dfbd;return!Array[_0x786bdb(0x4ee)](_0x1225f5)||!_0x1225f5[_0x786bdb(0x403)]?'':[_0x786bdb(0x31a),_0x1225f5[_0x786bdb(0x3c7)](function(_0x2631d3,_0x3b2b0b){const _0x509f6f=_0x786bdb,_0x52d994=_0x33167a(_0x2631d3[_0x509f6f(0x26d)]),_0x29d822=_0x2631d3['title']||_0x52d994||'Source\x20'+String(_0x3b2b0b+0x1);return[_0x509f6f(0x22c),_0x509f6f(0x505)+_0x25f1ab[_0x509f6f(0x43d)](_0x2631d3[_0x509f6f(0x26d)])+'\x22\x20target=\x22_blank\x22\x20rel=\x22noopener\x20noreferrer\x22>'+_0x25f1ab[_0x509f6f(0x43d)](_0x29d822)+_0x509f6f(0x1fd),_0x52d994?'<span\x20class=\x22search-source-host\x22>'+_0x25f1ab[_0x509f6f(0x43d)](_0x52d994)+_0x509f6f(0x431):'',_0x509f6f(0x249)][_0x509f6f(0x356)]('');})[_0x786bdb(0x356)](''),_0x786bdb(0x3e5)]['join']('');}function _0x347f8a(_0x1e5d6d){const _0x2f1932=_0x49dfbd,_0x5476ea=_0x1e5d6d&&_0x1e5d6d[_0x2f1932(0x512)]||{},_0x3ab32e=_0x1f13c7(_0x5476ea),_0x5093ad=_0x5476ea['state']===_0x2f1932(0x3c6)&&_0x2831c9(_0x5476ea[_0x2f1932(0x1f9)]);if(!_0x5093ad&&!_0x3ab32e[_0x2f1932(0x403)])return'';const _0x336c3a=_0x5093ad?'Searching...':_0x2f1932(0x212),_0x5016e4=_0x3ab32e[_0x2f1932(0x403)]?_0x3c9424(_0x3ab32e):_0x26de9('Searching\x20the\x20web...');return[_0x2f1932(0x3f3)+_0x25f1ab[_0x2f1932(0x43d)](_0x1e5d6d['id'])+'\x22>',_0x2f1932(0x4e4),_0x2f1932(0x4f5),_0x2f1932(0x1bb)+_0x25f1ab[_0x2f1932(0x43d)](_0x336c3a)+_0x2f1932(0x431),_0x2f1932(0x431),_0x5093ad?'<span\x20class=\x22searching-pulse\x22\x20aria-hidden=\x22true\x22></span>':'',_0x2f1932(0x4ad),_0x2f1932(0x33a)+_0x5016e4+_0x2f1932(0x1bd),_0x2f1932(0x3d3)][_0x2f1932(0x356)]('');}function _0x144ef9(_0x47929c){const _0x2884f7=_0x49dfbd,_0x5ede66=_0x2ca0a5(_0x47929c)[_0x2884f7(0x481)](function(_0x344553){const _0x2dd812=_0x2884f7;return _0x344553[_0x2dd812(0x3e7)]!=='image'||!_0x344553['url'];});return _0x5ede66[_0x2884f7(0x403)]?[_0x2884f7(0x4ae),_0x5ede66[_0x2884f7(0x3c7)](function(_0x28c87c){const _0x469256=_0x2884f7,_0x461cb3=_0x28c87c[_0x469256(0x3e7)]===_0x469256(0x1d3)?_0x469256(0x32c):_0x469256(0x472);return[_0x469256(0x543)+_0x25f1ab[_0x469256(0x43d)](_0x28c87c['name'])+'\x22>',_0x469256(0x465)+_0x25f1ab[_0x469256(0x43d)](_0x28c87c[_0x469256(0x51c)])+_0x469256(0x4cf),'<span>'+_0x25f1ab[_0x469256(0x43d)](_0x461cb3)+_0x469256(0x431),_0x469256(0x1bd)][_0x469256(0x356)]('');})[_0x2884f7(0x356)](''),_0x2884f7(0x1bd)][_0x2884f7(0x356)](''):'';}function _0xf0dd51(_0x3c65d3,_0x41b7d5){const _0x4fc8a7=_0x49dfbd,_0x4a1d87=_0x3c65d3&&typeof _0x3c65d3==_0x4fc8a7(0x1e1)?_0x3c65d3:{'url':_0x3c65d3},_0x1267b7=String(_0x4a1d87['url']||_0x4a1d87['file_url']||'')['trim']();return _0x1267b7?{'url':_0x1267b7,'name':String(_0x4a1d87[_0x4fc8a7(0x51c)]||_0x4fc8a7(0x507)+String(_0x41b7d5+0x1))[_0x4fc8a7(0x2b7)]()||_0x4fc8a7(0x507)+String(_0x41b7d5+0x1),'source':_0x4fc8a7(0x47e)}:null;}function _0x17393c(_0x1210fa){const _0x4fdfdd=_0x49dfbd,_0xfcb166=_0x2ca0a5(_0x1210fa)[_0x4fdfdd(0x481)](function(_0x5a648d){const _0x43d44f=_0x4fdfdd;return _0x5a648d[_0x43d44f(0x3e7)]===_0x43d44f(0x1d3)&&_0x5a648d[_0x43d44f(0x26d)];})[_0x4fdfdd(0x3c7)](function(_0xf9ca00){const _0x1354a4=_0x4fdfdd,_0x117bd1={};return _0x117bd1[_0x1354a4(0x26d)]=_0xf9ca00[_0x1354a4(0x26d)],_0x117bd1[_0x1354a4(0x51c)]=_0xf9ca00[_0x1354a4(0x51c)]||_0x1354a4(0x4be),_0x117bd1[_0x1354a4(0x467)]=_0x1354a4(0x487),_0x117bd1;}),_0x27c0b7=(_0x1210fa&&Array[_0x4fdfdd(0x4ee)](_0x1210fa[_0x4fdfdd(0x518)])?_0x1210fa['generated_images']:[])['map'](_0xf0dd51)[_0x4fdfdd(0x481)](Boolean),_0x594e28=_0x45d3e9(_0x1210fa&&_0x1210fa['raw_content']||'')['images'],_0x296b0c=new Set();return _0xfcb166[_0x4fdfdd(0x43f)](_0x27c0b7,_0x594e28)[_0x4fdfdd(0x481)](function(_0x368f41){const _0x20c211=_0x4fdfdd;return!_0x368f41[_0x20c211(0x26d)]||_0x296b0c[_0x20c211(0x489)](_0x368f41[_0x20c211(0x26d)])?!0x1:(_0x296b0c[_0x20c211(0x2b3)](_0x368f41[_0x20c211(0x26d)]),!0x0);});}function _0x21c953(_0x50da0f,_0x47b986){const _0x3374de=_0x49dfbd,_0x586c8d={};_0x586c8d[_0x3374de(0x2df)]=_0x47b986;const _0x5358f7=Object['assign']({},_0x50da0f||{},_0x586c8d),_0x11f340=_0x17393c(_0x5358f7);return _0x11f340[_0x3374de(0x403)]?['<div\x20class=\x22message-media-strip\x22>',_0x11f340['map'](function(_0x170d54,_0x1a33d6){const _0x793536=_0x3374de,_0xec743e=_0x170d54[_0x793536(0x467)]===_0x793536(0x47e),_0x388444=_0xec743e?_0x793536(0x24d):_0x793536(0x32c),_0x51230f=_0x170d54['name']||_0x793536(0x3f6)+String(_0x1a33d6+0x1);return[_0x793536(0x313)+(_0xec743e?_0x793536(0x2cf):'')+'\x22>',_0x793536(0x27f)+(_0xec743e?_0x793536(0x2cf):'')+_0x793536(0x23c)+_0x25f1ab[_0x793536(0x43d)](_0x170d54[_0x793536(0x26d)])+'\x22\x20target=\x22_blank\x22\x20rel=\x22noopener\x20noreferrer\x22\x20title=\x22Open\x20image\x22>',_0x793536(0x49d)+(_0xec743e?_0x793536(0x2cf):'')+_0x793536(0x31e)+_0x25f1ab[_0x793536(0x43d)](_0x170d54[_0x793536(0x26d)])+_0x793536(0x40a)+_0x25f1ab[_0x793536(0x43d)](_0x170d54['name']||_0x388444)+_0x793536(0x23e),'</a>',_0x793536(0x49a),'<div\x20class=\x22message-media-copy\x22>','<strong>'+_0x25f1ab[_0x793536(0x43d)](_0x170d54[_0x793536(0x51c)]||_0x388444)+_0x793536(0x4cf),_0x793536(0x2ba)+_0x25f1ab[_0x793536(0x43d)](_0x388444)+_0x793536(0x431),_0x793536(0x1bd),_0x793536(0x459),_0x793536(0x273)+_0x25f1ab[_0x793536(0x43d)](_0x170d54[_0x793536(0x26d)])+_0x793536(0x2c0),_0x793536(0x273)+_0x25f1ab['escapeHtml'](_0x170d54[_0x793536(0x26d)])+_0x793536(0x466)+_0x25f1ab[_0x793536(0x43d)](_0x51230f)+_0x793536(0x291),_0x793536(0x1bd),_0x793536(0x1cf),_0x793536(0x307)][_0x793536(0x356)]('');})['join'](''),_0x3374de(0x1bd)][_0x3374de(0x356)](''):'';}function _0x1c9eb8(_0x5e57e5){const _0x33a363=_0x49dfbd,_0x605e4c=_0x5e57e5&&_0x5e57e5[_0x33a363(0x512)]||{};if(!((_0x5e57e5[_0x33a363(0x1f5)]||_0x33a363(0x3c8))===_0x33a363(0x3c8)&&_0x19647e(_0x5e57e5)))return'';const _0x4e8e5e=_0x5634b0(_0x5e57e5);return['<section\x20class=\x22thinking-block'+(_0x4e8e5e?_0x33a363(0x4f4):'')+_0x33a363(0x370)+_0x25f1ab[_0x33a363(0x43d)](_0x5e57e5['id'])+'\x22>',_0x33a363(0x1d8)+_0x25f1ab[_0x33a363(0x43d)](_0x5e57e5['id'])+_0x33a363(0x375)+(_0x4e8e5e?'true':_0x33a363(0x215))+'\x22>',_0x33a363(0x4f5),'<span\x20class=\x22thinking-toggle-label\x22>Thinking...</span>','</span>',_0x33a363(0x2e7),_0x33a363(0x503),'</span>',_0x33a363(0x4ad),_0x33a363(0x228)+_0x25f1ab['escapeHtml'](_0x5e57e5['id'])+'\x22'+(_0x4e8e5e?'':_0x33a363(0x298))+'>',_0x33a363(0x4cb)+_0x25f1ab[_0x33a363(0x43d)](_0x5e57e5['id'])+'\x22>'+_0x23e096(_0x605e4c[_0x33a363(0x2cd)],_0x605e4c)+_0x33a363(0x1bd),_0x33a363(0x1bd),_0x33a363(0x3d3)]['join']('');}function _0x19647e(_0x14f3d5){const _0xc038ae=_0x49dfbd,_0x398997=_0x14f3d5&&_0x14f3d5[_0xc038ae(0x512)]||{};return!!String(_0x398997[_0xc038ae(0x2cd)]||'')[_0xc038ae(0x2b7)]()||_0x398997[_0xc038ae(0x4da)]===_0xc038ae(0x315)&&_0x398997[_0xc038ae(0x21f)]==='streaming';}function _0x5634b0(_0x3dea27){const _0x2c1059=_0x49dfbd;return!!_0xcaeace[_0x2c1059(0x520)][_0x3dea27['id']];}function _0x3abdcd(_0xe5ce5){const _0x1d7727=_0x49dfbd;return _0xcaeace['preferences']['showTimestamps']?_0x11fe02(_0xe5ce5[_0x1d7727(0x1f5)]||_0x1d7727(0x3c8))+_0x1d7727(0x4de)+_0x25f1ab['formatTime'](_0xe5ce5[_0x1d7727(0x392)]):_0x11fe02(_0xe5ce5[_0x1d7727(0x1f5)]||_0x1d7727(0x3c8));}function _0x44953f(_0x44c5de,_0x18662b){const _0x8161=_0x49dfbd,_0x53f520=_0x44c5de[_0x8161(0x1f5)]||_0x8161(0x3c8),_0x36a99b=_0x44c5de[_0x8161(0x512)]||{},_0x1d74ff=_0x42125e(_0x44c5de[_0x8161(0x4a7)],_0x36a99b),_0x13b902=_0x21c953(_0x36a99b,_0x44c5de[_0x8161(0x4a7)]),_0x1cddb9=_0x144ef9(_0x36a99b),_0x143e80=_0x1c9eb8(_0x44c5de),_0x284ac3=_0x347f8a(_0x44c5de),_0x2660a2=_0x36a99b[_0x8161(0x21f)]===_0x8161(0x3c6)?_0x8161(0x340):'',_0x1866b6=_0x3abdcd(_0x44c5de),_0x48fd99=_0x5506c4(_0x44c5de),_0x4c49f2=[];return _0x18662b&&_0x18662b[_0x8161(0x439)]>0x1&&(_0x4c49f2[_0x8161(0x474)](_0x8161(0x37a)+_0x25f1ab['escapeHtml'](_0x44c5de['id'])+'\x22\x20data-version-direction=\x22prev\x22'+(_0x18662b[_0x8161(0x3a8)]>0x1?'':_0x8161(0x48c))+_0x8161(0x354)),_0x4c49f2[_0x8161(0x474)](_0x8161(0x521)+_0x25f1ab[_0x8161(0x43d)](String(_0x18662b[_0x8161(0x3a8)])+'/'+String(_0x18662b[_0x8161(0x439)]))+_0x8161(0x431)),_0x4c49f2[_0x8161(0x474)](_0x8161(0x37a)+_0x25f1ab['escapeHtml'](_0x44c5de['id'])+_0x8161(0x4a5)+(_0x18662b[_0x8161(0x3a8)]<_0x18662b[_0x8161(0x439)]?'':_0x8161(0x48c))+_0x8161(0x2b4))),_0x4c49f2[_0x8161(0x474)](_0x8161(0x41b)+_0x25f1ab[_0x8161(0x43d)](_0x44c5de['id'])+_0x8161(0x2dd)),_0x48fd99&&_0x4c49f2[_0x8161(0x474)](_0x8161(0x4c2)+_0x25f1ab[_0x8161(0x43d)](_0x44c5de['id'])+_0x8161(0x3e1)),['<article\x20class=\x22message\x20'+_0x25f1ab[_0x8161(0x43d)](_0x53f520)+_0x2660a2+_0x8161(0x4df)+_0x25f1ab[_0x8161(0x43d)](_0x44c5de['id'])+'\x22>',_0x8161(0x549),'<span\x20class=\x22message-meta\x22>'+_0x25f1ab[_0x8161(0x43d)](_0x1866b6)+_0x8161(0x431),_0x8161(0x1bd),_0x143e80,_0x13b902,_0x1cddb9,_0x1d74ff?_0x8161(0x32d)+_0x25f1ab[_0x8161(0x43d)](_0x44c5de['id'])+'\x22>'+_0x1d74ff+_0x8161(0x33f):'',_0x284ac3,_0x8161(0x4b6),_0x4c49f2[_0x8161(0x356)](''),'</div>',_0x8161(0x280)][_0x8161(0x356)]('');}function _0x297f89(_0x564f2a){const _0x34928e=_0x49dfbd;if(!_0x1b8bcf[_0x34928e(0x38b)]||!_0x564f2a)return null;const _0x3757f9=_0x1b8bcf[_0x34928e(0x38b)][_0x34928e(0x21d)]('[data-message-id]');for(let _0x251a83=0x0;_0x251a83<_0x3757f9[_0x34928e(0x403)];_0x251a83+=0x1)if(_0x3757f9[_0x251a83][_0x34928e(0x1c7)](_0x34928e(0x257))===String(_0x564f2a))return _0x3757f9[_0x251a83];return null;}function _0x2f6929(_0x3eec72,_0xe0ee66){const _0x5bc8cb=_0x49dfbd;if(!_0x3eec72||!_0xe0ee66)return;const _0x3db583=_0x3eec72['querySelector'](_0x5bc8cb(0x2e9)+String(_0xe0ee66['id'])+'\x22]'),_0x19df52=_0x3eec72['querySelector'](_0x5bc8cb(0x341)+String(_0xe0ee66['id'])+'\x22]'),_0x42bf7e=_0x3eec72[_0x5bc8cb(0x455)](_0x5bc8cb(0x20d)+String(_0xe0ee66['id'])+'\x22]');if(!_0x3db583||!_0x19df52||!_0x42bf7e)return;const _0x36ad53=_0x5634b0(_0xe0ee66);_0x3db583['classList']['toggle'](_0x5bc8cb(0x2f4),_0x36ad53),_0x42bf7e[_0x5bc8cb(0x28a)]('aria-expanded',_0x36ad53?_0x5bc8cb(0x46b):'false'),_0x19df52['hidden']=!_0x36ad53;}function _0x5cf10c(_0x29d277,_0x6f02de){const _0x37537a=_0x49dfbd;if(!_0x29d277)return;const _0xe2ce0d=_0x6f02de&&_0x6f02de[_0x37537a(0x512)]||{},_0x4e53c4=_0x29d277[_0x37537a(0x455)](_0x37537a(0x2bf));if(!_0x19647e(_0x6f02de)){_0x4e53c4&&_0x4e53c4['remove']();return;}if(!_0x4e53c4){const _0x32fa06=_0x1c9eb8(_0x6f02de);if(!_0x32fa06)return;const _0x38104e=document[_0x37537a(0x484)](_0x37537a(0x441));_0x38104e[_0x37537a(0x4ea)]=_0x32fa06;const _0x509e94=_0x38104e[_0x37537a(0x4a7)][_0x37537a(0x2ad)],_0x306070=_0x29d277[_0x37537a(0x455)](_0x37537a(0x234));_0x306070&&_0x509e94&&_0x306070['insertAdjacentElement']('afterend',_0x509e94),_0x2f6929(_0x29d277,_0x6f02de);return;}const _0x472ba2=String(_0x6f02de['id']),_0x438e61=_0x4e53c4[_0x37537a(0x455)](_0x37537a(0x3d9)),_0x395d06=_0x4e53c4[_0x37537a(0x455)](_0x37537a(0x2f9)),_0x8fc828=_0x4e53c4[_0x37537a(0x455)]('.thinking-body');_0x4e53c4[_0x37537a(0x28a)]('data-thinking-block',_0x472ba2),_0x438e61&&_0x438e61['setAttribute'](_0x37537a(0x2f8),_0x472ba2),_0x395d06&&_0x395d06[_0x37537a(0x28a)](_0x37537a(0x2fe),_0x472ba2),_0x8fc828&&(_0x8fc828[_0x37537a(0x28a)](_0x37537a(0x2be),_0x472ba2),_0x8fc828[_0x37537a(0x4ea)]=_0x23e096(_0xe2ce0d['reasoning_text'],_0xe2ce0d)),_0x2f6929(_0x29d277,_0x6f02de);}function _0x5c02c3(_0x4d8744,_0x1a2a28){const _0x18fa4b=_0x49dfbd;if(!_0x4d8744)return;const _0x48ecae=_0x4d8744[_0x18fa4b(0x455)](_0x18fa4b(0x4af)),_0x39744b=_0x347f8a(_0x1a2a28);if(!_0x39744b){_0x48ecae&&_0x48ecae['remove']();return;}const _0x3d934c=document[_0x18fa4b(0x484)](_0x18fa4b(0x441));_0x3d934c[_0x18fa4b(0x4ea)]=_0x39744b;const _0x128624=_0x3d934c[_0x18fa4b(0x4a7)][_0x18fa4b(0x2ad)];if(!_0x128624)return;_0x48ecae&&_0x48ecae[_0x18fa4b(0x3b3)]();const _0x1b72b8=_0x4d8744[_0x18fa4b(0x455)]('.message-body');if(_0x1b72b8){_0x1b72b8[_0x18fa4b(0x1f6)](_0x18fa4b(0x3c5),_0x128624);return;}const _0xabb6ec=_0x4d8744[_0x18fa4b(0x455)]('.message-media-strip');if(_0xabb6ec){_0xabb6ec[_0x18fa4b(0x1f6)]('afterend',_0x128624);return;}const _0x233e4a=_0x4d8744[_0x18fa4b(0x455)]('.message-attachments');if(_0x233e4a){_0x233e4a[_0x18fa4b(0x1f6)](_0x18fa4b(0x3c5),_0x128624);return;}const _0x51a6ab=_0x4d8744[_0x18fa4b(0x455)](_0x18fa4b(0x2bf));if(_0x51a6ab){_0x51a6ab['insertAdjacentElement'](_0x18fa4b(0x3c5),_0x128624);return;}const _0x2cd487=_0x4d8744[_0x18fa4b(0x455)](_0x18fa4b(0x289));if(_0x2cd487){_0x2cd487[_0x18fa4b(0x1f6)](_0x18fa4b(0x41d),_0x128624);return;}const _0x53901e=_0x4d8744[_0x18fa4b(0x455)](_0x18fa4b(0x234));if(_0x53901e){_0x53901e['insertAdjacentElement']('afterend',_0x128624);return;}_0x4d8744[_0x18fa4b(0x219)](_0x128624);}function _0x57b637(_0x3e8f43){const _0x45d684=_0x49dfbd,_0xb950c9=_0x297f89(_0x3e8f43&&_0x3e8f43['id']);if(!_0xb950c9){_0x5265eb();return;}const _0x3fe33e=_0x3e8f43[_0x45d684(0x1f5)]||_0x45d684(0x3c8),_0x573044=_0x3e8f43[_0x45d684(0x512)]||{};_0xb950c9[_0x45d684(0x2ea)]=_0x45d684(0x46a)+_0x3fe33e+(_0x573044[_0x45d684(0x21f)]===_0x45d684(0x3c6)?_0x45d684(0x340):'');const _0x33ba35=_0xb950c9[_0x45d684(0x455)](_0x45d684(0x339));_0x33ba35&&(_0x33ba35[_0x45d684(0x381)]=_0x3abdcd(_0x3e8f43));const _0x494073=_0x42125e(_0x3e8f43['content'],_0x573044),_0x329816=_0xb950c9[_0x45d684(0x455)](_0x45d684(0x53b));if(_0x494073){if(_0x329816)_0x329816[_0x45d684(0x4ea)]=_0x494073;else{const _0xe7ec1b=document[_0x45d684(0x484)](_0x45d684(0x441));_0xe7ec1b[_0x45d684(0x4ea)]='<div\x20class=\x22message-body\x22><div\x20class=\x22message-body-inner\x22\x20data-message-body=\x22'+_0x25f1ab[_0x45d684(0x43d)](_0x3e8f43['id'])+'\x22>'+_0x494073+'</div></div>';const _0x34b3fc=_0xe7ec1b['content'][_0x45d684(0x2ad)];_0x34b3fc&&_0xb950c9[_0x45d684(0x219)](_0x34b3fc);}}else _0x329816&&_0x329816[_0x45d684(0x522)]&&_0x329816['parentElement'][_0x45d684(0x3b3)]();_0x5cf10c(_0xb950c9,_0x3e8f43);const _0x5da7dc=_0x21c953(_0x573044,_0x3e8f43['content']),_0xf36e26=_0xb950c9[_0x45d684(0x455)](_0x45d684(0x2c7)),_0x59c7ea=_0x144ef9(_0x573044),_0x4cd398=_0xb950c9[_0x45d684(0x455)](_0x45d684(0x4a1)),_0x53d890=_0xb950c9[_0x45d684(0x455)](_0x45d684(0x473));if(_0x5da7dc){const _0x5adabd=document['createElement'](_0x45d684(0x441));_0x5adabd[_0x45d684(0x4ea)]=_0x5da7dc;const _0xf965aa=_0x5adabd[_0x45d684(0x4a7)][_0x45d684(0x2ad)];_0xf36e26?_0xf36e26[_0x45d684(0x53d)](_0xf965aa):_0x4cd398&&_0xf965aa?_0x4cd398[_0x45d684(0x1f6)](_0x45d684(0x41d),_0xf965aa):_0x53d890&&_0xf965aa?_0x53d890[_0x45d684(0x1f6)](_0x45d684(0x41d),_0xf965aa):_0xf965aa&&_0xb950c9[_0x45d684(0x219)](_0xf965aa);}else _0xf36e26&&_0xf36e26[_0x45d684(0x3b3)]();if(_0x59c7ea){const _0x4ad3d6=document['createElement'](_0x45d684(0x441));_0x4ad3d6[_0x45d684(0x4ea)]=_0x59c7ea;const _0x40d704=_0x4ad3d6['content'][_0x45d684(0x2ad)];_0x4cd398?_0x4cd398[_0x45d684(0x53d)](_0x40d704):_0x53d890&&_0x40d704?_0x53d890[_0x45d684(0x1f6)](_0x45d684(0x41d),_0x40d704):_0x40d704&&_0xb950c9['appendChild'](_0x40d704);}else _0x4cd398&&_0x4cd398[_0x45d684(0x3b3)]();_0x5c02c3(_0xb950c9,_0x3e8f43);}async function _0x531696(){const _0x78c904=_0x49dfbd,_0x5f5ad5=await _0x1f9d0d[_0x78c904(0x205)]('app_settings')[_0x78c904(0x3a1)]('*')['eq']('id','global')[_0x78c904(0x550)]();if(_0x5f5ad5['error'])throw new Error(_0x5f5ad5[_0x78c904(0x414)]['message']||_0x78c904(0x1d5));return _0x3742f7[_0x78c904(0x1cd)](_0x5f5ad5[_0x78c904(0x2d7)]||{});}function _0xfd7001(_0x38c250){const _0x5d0b75=_0x49dfbd,_0x154d93=_0x38c250&&typeof _0x38c250==_0x5d0b75(0x1e1)?_0x38c250:{},_0x903ca4=String(_0x154d93[_0x5d0b75(0x430)]||_0x154d93[_0x5d0b75(0x33b)]||'')[_0x5d0b75(0x2b7)](),_0x1aa6dd=String(_0x154d93[_0x5d0b75(0x3f4)]||_0x154d93[_0x5d0b75(0x220)]||'')[_0x5d0b75(0x2b7)](),_0x242dc1=String(_0x154d93[_0x5d0b75(0x532)]||_0x154d93[_0x5d0b75(0x2d4)]||'')[_0x5d0b75(0x2b7)](),_0x1e5b14=String(_0x154d93[_0x5d0b75(0x440)]||'')[_0x5d0b75(0x2b7)](),_0x23410a=String(_0x154d93['gateway_password_hash']||'')['trim'](),_0x482400=String(_0x154d93['gateway_access_token']||_0x154d93['access_token']||'')[_0x5d0b75(0x2b7)]();return{'gateway_email':_0x1e5b14,'gateway_password_hash':_0x23410a,'gateway_access_token':_0x482400,'gateway_token_expiry':_0x154d93[_0x5d0b75(0x4c8)]||_0x154d93[_0x5d0b75(0x490)]||null,'gateway_pool_id':_0x1aa6dd,'gateway_pool_label':_0x242dc1,'gateway_assignment_source':_0x903ca4,'gateway_assigned_users':Number(_0x154d93[_0x5d0b75(0x3a3)]||_0x154d93[_0x5d0b75(0x2d0)]||0x0)||0x0,'gateway_pool_capacity':Number(_0x154d93[_0x5d0b75(0x1f1)]||_0x154d93[_0x5d0b75(0x1f0)]||0x0)||0x0};}function _0x107056(){const _0x13a258=_0x49dfbd,_0x5d982e=_0xcaeace[_0x13a258(0x46c)]?Object[_0x13a258(0x30c)]({},_0xcaeace[_0x13a258(0x46c)]):{},_0x23a2de=_0xcaeace[_0x13a258(0x2a7)];return _0x23a2de&&(_0x23a2de['gateway_email']&&(_0x5d982e[_0x13a258(0x440)]=_0x23a2de[_0x13a258(0x440)]),_0x23a2de['gateway_password_hash']&&(_0x5d982e[_0x13a258(0x2e4)]=_0x23a2de[_0x13a258(0x2e4)]),_0x23a2de[_0x13a258(0x28e)]&&(_0x5d982e[_0x13a258(0x28e)]=_0x23a2de[_0x13a258(0x28e)]),_0x23a2de[_0x13a258(0x4c8)]&&(_0x5d982e[_0x13a258(0x4c8)]=_0x23a2de['gateway_token_expiry']),_0x23a2de[_0x13a258(0x3f4)]&&(_0x5d982e[_0x13a258(0x3f4)]=_0x23a2de['gateway_pool_id']),_0x23a2de[_0x13a258(0x532)]&&(_0x5d982e[_0x13a258(0x532)]=_0x23a2de[_0x13a258(0x532)]),_0x23a2de['gateway_assignment_source']&&(_0x5d982e[_0x13a258(0x430)]=_0x23a2de[_0x13a258(0x430)]),_0x23a2de[_0x13a258(0x2d0)]&&(_0x5d982e['gateway_assigned_users']=_0x23a2de[_0x13a258(0x2d0)]),_0x23a2de[_0x13a258(0x1f0)]&&(_0x5d982e[_0x13a258(0x1f0)]=_0x23a2de[_0x13a258(0x1f0)])),_0x5d982e;}async function _0x181512(_0x4d3836){const _0x4fca46=_0x49dfbd,_0xeaba26={};_0xeaba26[_0x4fca46(0x1df)]=!0x1;const _0x204a32=Object[_0x4fca46(0x30c)](_0xeaba26,_0x4d3836||{});if(!_0xcaeace['context']||!_0xcaeace[_0x4fca46(0x1f4)][_0x4fca46(0x2b6)]||!_0xcaeace[_0x4fca46(0x1f4)][_0x4fca46(0x2b6)]['id'])return _0xcaeace[_0x4fca46(0x2a7)]=null,null;const _0x54fb3f={};_0x54fb3f[_0x4fca46(0x2ed)]=_0xcaeace[_0x4fca46(0x1f4)][_0x4fca46(0x2b6)]['id'];const _0x3e4478=await _0x1f9d0d[_0x4fca46(0x299)]('resolve_gateway_runtime_credentials',_0x54fb3f);if(_0x3e4478[_0x4fca46(0x414)]){const _0x23916d=String(_0x3e4478[_0x4fca46(0x414)][_0x4fca46(0x42f)]||'');if(/resolve_gateway_runtime_credentials|does not exist|schema cache|function/i['test'](_0x23916d))return _0xcaeace['runtimeGateway']=null,null;if(!_0x204a32[_0x4fca46(0x1df)])throw new Error(_0x23916d||'Unable\x20to\x20resolve\x20runtime\x20credentials.');return _0xcaeace['runtimeGateway'];}const _0x465798=Array[_0x4fca46(0x4ee)](_0x3e4478[_0x4fca46(0x2d7)])?_0x3e4478[_0x4fca46(0x2d7)][0x0]:_0x3e4478[_0x4fca46(0x2d7)];return _0xcaeace[_0x4fca46(0x2a7)]=_0x465798?_0xfd7001(_0x465798):null,_0xcaeace[_0x4fca46(0x2a7)];}async function _0x47cf46(){const _0x8c62bf=_0x49dfbd,_0x3579c4={};_0x3579c4['persist']=!0x1,_0xaf7a8d(_0x3579c4);const _0x4f8043=_0x4bbbc6()||_0x8c62bf(0x3c8);let _0x1ad6ce=_0x1f9d0d[_0x8c62bf(0x205)](_0x8c62bf(0x4c1))['select']('*')['eq']('owner_id',_0xcaeace[_0x8c62bf(0x1f4)][_0x8c62bf(0x2b6)]['id']);_0xcaeace[_0x8c62bf(0x479)]!==!0x1&&(_0x1ad6ce=_0x1ad6ce['eq'](_0x8c62bf(0x52c),_0x4f8043));const _0x32c5bf={};_0x32c5bf[_0x8c62bf(0x391)]=!0x1;const _0x3d3c91={};_0x3d3c91['ascending']=!0x1;let _0x1bc05d=await _0x1ad6ce['order']('pinned',_0x32c5bf)[_0x8c62bf(0x1e3)](_0x8c62bf(0x2a6),_0x3d3c91);const _0x4b4f6a={};_0x4b4f6a[_0x8c62bf(0x391)]=!0x1;const _0x4b0bd3={};_0x4b0bd3[_0x8c62bf(0x391)]=!0x1;if(_0x1bc05d[_0x8c62bf(0x414)]&&_0xcaeace[_0x8c62bf(0x479)]!==!0x1&&_0x45df93(_0x1bc05d['error'])&&(_0xcaeace['threadBotIdSupported']=!0x1,_0x1bc05d=await _0x1f9d0d[_0x8c62bf(0x205)]('chat_threads')[_0x8c62bf(0x3a1)]('*')['eq'](_0x8c62bf(0x35c),_0xcaeace[_0x8c62bf(0x1f4)][_0x8c62bf(0x2b6)]['id'])[_0x8c62bf(0x1e3)]('pinned',_0x4b4f6a)[_0x8c62bf(0x1e3)](_0x8c62bf(0x2a6),_0x4b0bd3)),_0x1bc05d[_0x8c62bf(0x414)])throw new Error(_0x1bc05d['error'][_0x8c62bf(0x42f)]||_0x8c62bf(0x3be));let _0x2692f0=_0x1dcc3b(_0x1bc05d[_0x8c62bf(0x2d7)]);_0xcaeace['threadBotIdSupported']===!0x1&&(_0x2692f0=_0x2692f0[_0x8c62bf(0x481)](function(_0x2e735a){return _0x3b0c05(_0x2e735a)===_0x4f8043;})),_0xcaeace[_0x8c62bf(0x36a)]=_0x2692f0,_0x347924();}async function _0x1d0327(){const _0x43ba26=_0x49dfbd,_0x2b0335=_0x3c522f(),_0x1d7641=String(_0x25f1ab[_0x43ba26(0x552)](_0x3590f6(),'')||'')[_0x43ba26(0x2b7)]();if(_0x2b0335[_0x43ba26(0x3fc)]){_0x1773e1(),_0x59dc9a(null);return;}const _0x2d2ff6=_0x2b0335['threadId']||_0x1d7641;if(!_0x2d2ff6){_0xcaeace[_0x43ba26(0x36a)][_0x43ba26(0x403)]?await _0x384147(_0xcaeace[_0x43ba26(0x36a)][0x0]['id']):_0x1773e1();return;}const _0x103749=_0xcaeace['threads'][_0x43ba26(0x546)](function(_0x52f2fa){return String(_0x52f2fa['id'])===_0x2d2ff6;});if(!_0x103749){if(_0x2b0335['threadId']){_0xc0a02c(_0x43ba26(0x3b1),_0x43ba26(0x414)),_0x1773e1();return;}_0xcaeace[_0x43ba26(0x36a)]['length']?await _0x384147(_0xcaeace[_0x43ba26(0x36a)][0x0]['id']):_0x1773e1();return;}if(_0x2b0335[_0x43ba26(0x48b)]){const _0x4e4d7c=String(_0x2b0335[_0x43ba26(0x3ec)]||'')['trim']();if(!_0x4e4d7c){_0xc0a02c(_0x43ba26(0x36b),_0x43ba26(0x414)),_0x1773e1();return;}if(!await _0x3a0eb5(_0x103749,_0x4e4d7c)){_0xc0a02c(_0x43ba26(0x52f),'error'),_0x1773e1();return;}}await _0x384147(_0x2d2ff6);}async function _0x573f56(_0x1728bc){const _0x42e404=_0x49dfbd;if(!_0x1728bc){_0xcaeace[_0x42e404(0x38b)]=[],_0xcaeace[_0x42e404(0x520)]={},_0xcaeace[_0x42e404(0x418)]=[],_0xcaeace[_0x42e404(0x420)]={},_0xcaeace[_0x42e404(0x38c)]={},_0xcaeace[_0x42e404(0x353)]={},_0xcaeace[_0x42e404(0x1c9)]={},_0x5265eb(),_0x26ae92(),_0x2c95ff();return;}const _0x4f0804={};_0x4f0804[_0x42e404(0x391)]=!0x0;const _0x288349=await _0x1f9d0d[_0x42e404(0x205)]('chat_messages')[_0x42e404(0x3a1)]('*')['eq'](_0x42e404(0x4b4),_0x1728bc)[_0x42e404(0x1e3)](_0x42e404(0x392),_0x4f0804);if(_0x288349[_0x42e404(0x414)])throw new Error(_0x288349['error']['message']||_0x42e404(0x30e));const _0x215315={};_0x215315[_0x42e404(0x37d)]=!0x0,(_0xcaeace[_0x42e404(0x38b)]=Array[_0x42e404(0x4ee)](_0x288349[_0x42e404(0x2d7)])?_0x288349[_0x42e404(0x2d7)]:[],_0xcaeace['reasoningExpanded']={},_0xcaeace[_0x42e404(0x418)]=[],_0xcaeace[_0x42e404(0x420)]={},_0xcaeace['messageTurnKeyById']={},_0xcaeace[_0x42e404(0x353)]={},_0xcaeace[_0x42e404(0x1c9)]={},_0x5265eb(),_0x26ae92(),_0x2c95ff(_0x215315));}async function _0x384147(_0x32e92c,_0x4ce8f9){const _0x1c0954=_0x49dfbd,_0x1ce274={};_0x1ce274[_0x1c0954(0x4c7)]=!0x1,_0x1ce274[_0x1c0954(0x49b)]=!0x0;const _0x1eb60b=Object[_0x1c0954(0x30c)](_0x1ce274,_0x4ce8f9||{});_0x4833e9(!0x1),_0xcaeace[_0x1c0954(0x44e)]=null,_0xcaeace[_0x1c0954(0x376)]=_0x32e92c,_0x25f1ab['setStoredValue'](_0x3590f6(),_0x32e92c),_0x1eb60b[_0x1c0954(0x49b)]&&_0x59dc9a(_0x32e92c),_0x347924(),_0x26ae92(),_0x2c95ff(),!_0x1eb60b['skipLoad']&&await _0x573f56(_0x32e92c);}function _0xa198b6(){const _0x3069e0=_0x49dfbd;_0x1b8bcf[_0x3069e0(0x241)]&&(_0x1b8bcf[_0x3069e0(0x241)][_0x3069e0(0x381)]=_0x1b8bcf[_0x3069e0(0x237)][_0x3069e0(0x1c6)][_0x3069e0(0x403)]+_0x3069e0(0x374)),_0x541fda();}function _0x540d52(){const _0xd1c5b3=_0x49dfbd;if(!_0x1b8bcf[_0xd1c5b3(0x33e)])return;const _0x41c7d5=_0xcaeace[_0xd1c5b3(0x331)][_0xd1c5b3(0x43f)](_0xcaeace[_0xd1c5b3(0x49c)]);if(!_0x41c7d5['length']){_0x1b8bcf[_0xd1c5b3(0x33e)][_0xd1c5b3(0x3d1)]=!0x0,_0x1b8bcf[_0xd1c5b3(0x33e)][_0xd1c5b3(0x4ea)]='',_0x541fda();return;}_0x1b8bcf[_0xd1c5b3(0x33e)][_0xd1c5b3(0x3d1)]=!0x1,_0x1b8bcf[_0xd1c5b3(0x33e)][_0xd1c5b3(0x4ea)]=_0x41c7d5['map'](function(_0x3a6aa3){const _0x37a8ea=_0xd1c5b3,_0x317f64=_0x47c44a(_0x3a6aa3),_0x5a7c4a=_0x317f64[_0x37a8ea(0x372)]===_0x37a8ea(0x2f3)?_0x37a8ea(0x27b):_0x317f64[_0x37a8ea(0x372)]===_0x37a8ea(0x414)?_0x37a8ea(0x294):_0x317f64[_0x37a8ea(0x3e7)]==='image'?_0x37a8ea(0x32c):_0x37a8ea(0x472),_0x595887=_0x317f64['error']?_0x317f64['name']+_0x37a8ea(0x4de)+_0x317f64['error']:_0x317f64['name'];return[_0x37a8ea(0x461)+_0x25f1ab[_0x37a8ea(0x43d)](_0x317f64[_0x37a8ea(0x372)])+_0x37a8ea(0x45e)+_0x25f1ab['escapeHtml'](_0x595887)+'\x22>','<span\x20class=\x22composer-attachment-name\x22>'+_0x25f1ab[_0x37a8ea(0x43d)](_0x317f64[_0x37a8ea(0x51c)])+_0x37a8ea(0x431),_0x37a8ea(0x3da)+_0x25f1ab[_0x37a8ea(0x43d)](_0x5a7c4a)+_0x37a8ea(0x431),'<button\x20class=\x22composer-attachment-remove\x22\x20type=\x22button\x22\x20data-remove-attachment=\x22'+_0x25f1ab[_0x37a8ea(0x43d)](_0x317f64['localId'])+_0x37a8ea(0x4e5),_0x37a8ea(0x1bd)][_0x37a8ea(0x356)]('');})[_0xd1c5b3(0x356)](''),_0x541fda();}function _0x3fc6a3(_0xf917a7){const _0x550c58=_0x49dfbd,_0x48940f=_0xf917a7&&_0xf917a7['meta'];if(!_0x48940f||typeof _0x48940f!='object')return{};const _0xabe4a3=_0x48940f[_0x550c58(0x4b8)];return _0xabe4a3&&typeof _0xabe4a3==_0x550c58(0x1e1)?_0xabe4a3:{};}function _0x2d3a31(_0x212ed6){const _0x1b860c=_0x49dfbd,_0x45bb75=new Set();return(Array[_0x1b860c(0x4ee)](_0x212ed6)?_0x212ed6:[])[_0x1b860c(0x3c7)](function(_0x5a6c37){const _0x58588b=_0x1b860c;return String(_0x5a6c37||'')[_0x58588b(0x2b7)]();})[_0x1b860c(0x481)](function(_0x5b8610){const _0x2def92=_0x1b860c;return!_0x5b8610||_0x45bb75[_0x2def92(0x489)](_0x5b8610)?!0x1:(_0x45bb75['add'](_0x5b8610),!0x0);});}function _0x220203(){const _0x22a938=_0x49dfbd,_0x25eb2c=Array[_0x22a938(0x4ee)](_0xcaeace[_0x22a938(0x38b)])?_0xcaeace[_0x22a938(0x38b)]:[],_0x26c64a=[],_0x45a362={},_0x4c76f9={},_0x2ab3ec={},_0x8a6eb2={},_0x3b9f1c={};let _0x3da5d4='';_0x25eb2c[_0x22a938(0x417)](function(_0x17e4d2){const _0x508d57=_0x22a938,_0x5e33d4=_0x17e4d2['role']||'assistant';_0x5e33d4==='user'&&(_0x3da5d4=String(_0x17e4d2['id']||'')['trim']());const _0x26cece=_0x3fc6a3(_0x17e4d2),_0x5cf67d=String(_0x26cece['qwen_parent_id']||'')['trim'](),_0x5ac3ae=_0x3da5d4?_0x508d57(0x51b)+_0x3da5d4:'',_0x5d85a0=_0x5e33d4===_0x508d57(0x3c8)||_0x5e33d4===_0x508d57(0x414)?_0x5ac3ae||(_0x5cf67d?_0x508d57(0x54b)+_0x5cf67d:''):'',_0x31b8e1=String(_0x17e4d2['id']||'')[_0x508d57(0x2b7)]();_0x31b8e1&&(_0x8a6eb2[_0x31b8e1]=_0x5d85a0),_0x5d85a0&&(_0x45a362[_0x5d85a0]||(_0x45a362[_0x5d85a0]=[]),_0x45a362[_0x5d85a0][_0x508d57(0x474)](_0x17e4d2)),_0x26c64a[_0x508d57(0x474)]({'message':_0x17e4d2,'turnKey':_0x5d85a0});}),Object[_0x22a938(0x2ef)](_0x45a362)[_0x22a938(0x417)](function(_0xbb532f){const _0x59e7ff=_0x22a938,_0x14154b=(_0x45a362[_0xbb532f]||[])['map'](function(_0x245339){return String(_0x245339['id']||'')['trim']();})[_0x59e7ff(0x481)](Boolean);if(!_0x14154b[_0x59e7ff(0x403)])return;const _0x53188a=String(_0xcaeace[_0x59e7ff(0x1c9)][_0xbb532f]||'')['trim'](),_0x266452=_0x14154b[_0x59e7ff(0x389)](_0x53188a)!==-0x1?_0x53188a:_0x14154b[_0x14154b['length']-0x1];_0x4c76f9[_0xbb532f]=_0x266452,_0x3b9f1c[_0xbb532f]=_0x14154b,_0xcaeace[_0x59e7ff(0x1c9)][_0xbb532f]=_0x266452,_0x14154b[_0x59e7ff(0x417)](function(_0x448a8d,_0x490421){const _0x49fa00=_0x59e7ff;_0x2ab3ec[_0x448a8d]={'turnKey':_0xbb532f,'index':_0x490421+0x1,'total':_0x14154b[_0x49fa00(0x403)],'selectedId':_0x266452,'isSelected':_0x448a8d===_0x266452};});});const _0x9ff875=[],_0x53966e=new Set();return _0x26c64a[_0x22a938(0x417)](function(_0x3dcee3){const _0x2f7ca2=_0x22a938;if(!_0x3dcee3['turnKey']){_0x9ff875[_0x2f7ca2(0x474)](_0x3dcee3[_0x2f7ca2(0x42f)]);return;}const _0x3de659=String(_0x3dcee3['message']['id']||'')['trim'](),_0x5f91b3=_0x2ab3ec[_0x3de659];if(!_0x5f91b3||_0x5f91b3[_0x2f7ca2(0x439)]<=0x1){_0x53966e[_0x2f7ca2(0x489)](_0x3dcee3['turnKey'])||(_0x9ff875[_0x2f7ca2(0x474)](_0x3dcee3[_0x2f7ca2(0x42f)]),_0x53966e[_0x2f7ca2(0x2b3)](_0x3dcee3[_0x2f7ca2(0x266)]));return;}if(_0x53966e[_0x2f7ca2(0x489)](_0x3dcee3[_0x2f7ca2(0x266)]))return;const _0x19375c=_0x4c76f9[_0x3dcee3[_0x2f7ca2(0x266)]],_0x261044=_0x45a362[_0x3dcee3[_0x2f7ca2(0x266)]][_0x2f7ca2(0x546)](function(_0x5e0968){return String(_0x5e0968['id']||'')===_0x19375c;})||_0x3dcee3[_0x2f7ca2(0x42f)];_0x9ff875[_0x2f7ca2(0x474)](_0x261044),_0x53966e[_0x2f7ca2(0x2b3)](_0x3dcee3['turnKey']);}),_0xcaeace['visibleMessages']=_0x9ff875,_0xcaeace['messageVariantMeta']=_0x2ab3ec,_0xcaeace['messageTurnKeyById']=_0x8a6eb2,_0xcaeace[_0x22a938(0x353)]=_0x3b9f1c,{'visibleMessages':_0x9ff875,'variantMetaById':_0x2ab3ec};}function _0x281c89(_0x2d6fd7,_0x27ffce,_0x39712f,_0x90cbd,_0x429234,_0x2f1262){const _0x14dd54=_0x49dfbd,_0x1bf22d=(Array[_0x14dd54(0x4ee)](_0x429234)?_0x429234:[])[_0x14dd54(0x3c7)](function(_0x1432be){const _0x3a23c1=_0x14dd54,_0x571443=_0x47c44a(_0x1432be);return[_0x571443[_0x3a23c1(0x2e5)],_0x571443[_0x3a23c1(0x3d4)],_0x571443[_0x3a23c1(0x51c)],_0x571443[_0x3a23c1(0x217)]][_0x3a23c1(0x356)](':');})[_0x14dd54(0x356)]('|');return[String(_0xcaeace['activeThreadId']||''),String(_0x2d6fd7||'')[_0x14dd54(0x2b7)](),String(_0x27ffce||''),String(_0x39712f||''),String(_0x90cbd||''),String(_0x2f1262||''),_0x1bf22d][_0x14dd54(0x356)]('::');}function _0x1a8002(_0x4c71f7,_0x57bd23){const _0x416af0=_0x49dfbd;if(!_0x4c71f7||!_0x57bd23||!_0x57bd23['replaceMessage'])return null;const _0x3f61ef=_0x3fc6a3(_0x57bd23[_0x416af0(0x2bb)]),_0x53ed40=_0x4c71f7[_0x416af0(0x3e8)]&&typeof _0x4c71f7['last_trace']=='object'?_0x4c71f7[_0x416af0(0x3e8)]:{},_0x1f69fd=String(_0x3f61ef[_0x416af0(0x50d)]||_0x53ed40[_0x416af0(0x50d)]||'')[_0x416af0(0x2b7)]();if(!_0x1f69fd)return null;const _0x47ec3c=_0x2d3a31(_0x3f61ef['children_ids'])[_0x416af0(0x43f)](_0x2d3a31(_0x53ed40[_0x416af0(0x3c0)])),_0x17137d=String(_0x3f61ef[_0x416af0(0x361)]||_0x4c71f7[_0x416af0(0x261)]||'')[_0x416af0(0x2b7)]();_0x17137d&&_0x47ec3c[_0x416af0(0x474)](_0x17137d);const _0x3efdfa=Number(_0x3f61ef['request_timestamp']||_0x53ed40[_0x416af0(0x3de)]||0x0)||null;return{'qwenParentId':_0x1f69fd,'childrenIds':_0x2d3a31(_0x47ec3c),'originalTimestamp':_0x3efdfa};}function _0x2c9eb9(_0x4c9144){const _0x46907c=_0x49dfbd;if(!_0xcaeace[_0x46907c(0x38b)][_0x46907c(0x403)])return null;const _0x58b89f=Array[_0x46907c(0x4ee)](_0xcaeace[_0x46907c(0x418)])&&_0xcaeace['visibleMessages'][_0x46907c(0x403)]?_0xcaeace[_0x46907c(0x418)]:_0xcaeace[_0x46907c(0x38b)];let _0x4eb7ed=-0x1;if(_0x4c9144){const _0x564636=String(_0x4c9144);if(_0x4eb7ed=_0xcaeace[_0x46907c(0x38b)][_0x46907c(0x1c4)](function(_0x4d9156){return String(_0x4d9156['id'])===_0x564636;}),_0x4eb7ed===-0x1)return null;const _0x45a2dc=_0xcaeace[_0x46907c(0x38b)][_0x4eb7ed]['role'];if(_0x45a2dc!==_0x46907c(0x3c8)&&_0x45a2dc!==_0x46907c(0x414))return null;}else for(let _0x5056c2=_0x58b89f['length']-0x1;_0x5056c2>=0x0;_0x5056c2-=0x1){const _0x44015c=_0x58b89f[_0x5056c2][_0x46907c(0x1f5)];if(_0x44015c===_0x46907c(0x3c8)||_0x44015c==='error'){const _0x29bcf2=String(_0x58b89f[_0x5056c2]['id']||'');_0x4eb7ed=_0xcaeace[_0x46907c(0x38b)]['findIndex'](function(_0x2818cc){return String(_0x2818cc['id'])===_0x29bcf2;});break;}if(_0x44015c===_0x46907c(0x2b6))return null;}if(_0x4eb7ed===-0x1)return null;for(let _0x19af30=_0x4eb7ed-0x1;_0x19af30>=0x0;_0x19af30-=0x1)if(_0xcaeace[_0x46907c(0x38b)][_0x19af30][_0x46907c(0x1f5)]==='user')return{'prompt':String(_0xcaeace[_0x46907c(0x38b)][_0x19af30][_0x46907c(0x4a7)]||'')[_0x46907c(0x2b7)](),'attachments':_0x2ca0a5(_0xcaeace['messages'][_0x19af30][_0x46907c(0x512)]||{}),'replaceMessage':_0xcaeace[_0x46907c(0x38b)][_0x4eb7ed],'mode':_0xcaeace['messages'][_0x4eb7ed][_0x46907c(0x512)]&&_0xcaeace[_0x46907c(0x38b)][_0x4eb7ed][_0x46907c(0x512)][_0x46907c(0x4da)],'interactionMode':_0xcaeace[_0x46907c(0x38b)][_0x4eb7ed][_0x46907c(0x512)]&&_0xcaeace[_0x46907c(0x38b)][_0x4eb7ed][_0x46907c(0x512)][_0x46907c(0x348)],'model':_0xcaeace[_0x46907c(0x38b)][_0x4eb7ed]['meta']&&_0xcaeace[_0x46907c(0x38b)][_0x4eb7ed]['meta'][_0x46907c(0x272)]};return null;}function _0x220d2b(){const _0x2d861c=_0x49dfbd,_0x2ce0e3=_0x2c9eb9();if(!_0x2ce0e3||!_0x2ce0e3[_0x2d861c(0x2bb)])return'';const _0x2656c9=_0x2ce0e3[_0x2d861c(0x2bb)],_0x4e589e=_0x2656c9[_0x2d861c(0x1f5)]||_0x2d861c(0x3c8),_0x3aae18=!!(_0x2656c9[_0x2d861c(0x512)]&&_0x2656c9[_0x2d861c(0x512)][_0x2d861c(0x21f)]==='streaming'),_0x459e09=String(_0x2656c9['id']||'')['trim']();return _0x4e589e!=='assistant'||_0x3aae18||!_0x459e09?'':_0x459e09;}function _0x5506c4(_0xef3799){const _0x21776e=_0x49dfbd;if(!_0xef3799||(_0xef3799[_0x21776e(0x1f5)]||_0x21776e(0x3c8))!==_0x21776e(0x3c8)||_0xef3799[_0x21776e(0x512)]&&_0xef3799[_0x21776e(0x512)]['state']==='streaming')return!0x1;const _0x22fcb4=String(_0xef3799['id']||'')[_0x21776e(0x2b7)]();if(!_0x22fcb4)return!0x1;const _0x410e87=_0xcaeace[_0x21776e(0x3c1)]||_0x220d2b();return!!_0x410e87&&_0x410e87===_0x22fcb4;}function _0x39dd5d(){const _0x5dd1c7=_0x49dfbd,_0x345318=!!_0x1ace65(),_0x5882a6=_0x2c9eb9();_0x1b8bcf[_0x5dd1c7(0x34f)][_0x5dd1c7(0x309)]=!_0x345318||_0xcaeace[_0x5dd1c7(0x2d2)],_0x1b8bcf[_0x5dd1c7(0x1db)][_0x5dd1c7(0x309)]=!_0x345318||_0xcaeace[_0x5dd1c7(0x2d2)],_0x1b8bcf[_0x5dd1c7(0x26a)][_0x5dd1c7(0x309)]=!_0x345318||_0xcaeace[_0x5dd1c7(0x2d2)],_0x1b8bcf['regenerateReplyBtn'][_0x5dd1c7(0x309)]=!_0x345318||_0xcaeace[_0x5dd1c7(0x2d2)]||!_0x5882a6,_0x1b8bcf[_0x5dd1c7(0x3c3)]['disabled']=!_0x345318||_0xcaeace[_0x5dd1c7(0x2d2)],_0x1b8bcf[_0x5dd1c7(0x478)][_0x5dd1c7(0x309)]=!_0x345318||_0xcaeace[_0x5dd1c7(0x2d2)],_0x1b8bcf[_0x5dd1c7(0x213)]&&(_0x1b8bcf[_0x5dd1c7(0x213)]['hidden']=!0x0,_0x1b8bcf[_0x5dd1c7(0x213)][_0x5dd1c7(0x28a)](_0x5dd1c7(0x4cd),_0x5dd1c7(0x46b)),_0x1b8bcf['shareThreadBtn'][_0x5dd1c7(0x309)]=!0x0),_0x1b8bcf[_0x5dd1c7(0x321)]&&(_0x1b8bcf['clearChatsBtn'][_0x5dd1c7(0x309)]=_0xcaeace['busy']||!_0xcaeace[_0x5dd1c7(0x36a)][_0x5dd1c7(0x403)]);}function _0x30f964(_0x59d972){const _0x95ee01=_0x49dfbd;_0xcaeace[_0x95ee01(0x2d2)]=_0x59d972,document['body'][_0x95ee01(0x252)][_0x95ee01(0x539)]=_0x59d972?_0x95ee01(0x46b):'false',_0x1b8bcf['newThreadBtn']&&(_0x1b8bcf[_0x95ee01(0x49e)][_0x95ee01(0x309)]=_0x59d972),_0x1b8bcf[_0x95ee01(0x20c)][_0x95ee01(0x309)]=_0x59d972,_0x1b8bcf[_0x95ee01(0x468)]&&(_0x1b8bcf[_0x95ee01(0x468)][_0x95ee01(0x309)]=_0x59d972),_0x39dd5d(),_0x541fda(),_0x4833e9(!0x1);}function _0x347924(){const _0x79bff1=_0x49dfbd;_0x2d5298();const _0x588e8a=_0xcaeace[_0x79bff1(0x281)][_0x79bff1(0x2b7)]()[_0x79bff1(0x202)](),_0x4ad3cd=_0x588e8a?_0xcaeace[_0x79bff1(0x36a)][_0x79bff1(0x481)](function(_0x371f78){const _0x33b958=_0x79bff1;return[_0x371f78[_0x33b958(0x276)],_0x371f78['remote_session_id']]['join']('\x20')[_0x33b958(0x202)]()[_0x33b958(0x4fc)](_0x588e8a);}):_0xcaeace[_0x79bff1(0x36a)];if(_0x1b8bcf[_0x79bff1(0x36f)][_0x79bff1(0x381)]=_0x588e8a?_0x4ad3cd[_0x79bff1(0x403)]+'/'+_0xcaeace[_0x79bff1(0x36a)][_0x79bff1(0x403)]:String(_0xcaeace[_0x79bff1(0x36a)]['length']),!_0x4ad3cd[_0x79bff1(0x403)]){_0xcaeace[_0x79bff1(0x44e)]=null,_0x1b8bcf[_0x79bff1(0x263)][_0x79bff1(0x4ea)]='',_0x3f9431();return;}_0xcaeace[_0x79bff1(0x44e)]&&!_0x4ad3cd[_0x79bff1(0x2fa)](function(_0x2ee95c){const _0x122d4f=_0x79bff1;return String(_0x2ee95c['id'])===String(_0xcaeace[_0x122d4f(0x44e)]);})&&(_0xcaeace['openThreadMenuId']=null),_0x1b8bcf[_0x79bff1(0x263)][_0x79bff1(0x4ea)]=_0x4ad3cd['map'](function(_0x1613b6){const _0x2b61b6=_0x79bff1,_0x1c7449=String(_0x1613b6['id']),_0x1f9d04=_0x25f1ab[_0x2b61b6(0x43d)](_0x1c7449),_0x14762c=_0x1c7449===_0xcaeace[_0x2b61b6(0x44e)],_0x3f029d=_0x1613b6['id']===_0xcaeace[_0x2b61b6(0x376)]?_0x2b61b6(0x54f):'',_0x416277=_0x14762c?_0x2b61b6(0x444):'';return[_0x2b61b6(0x4e3)+_0x3f029d+_0x416277+'\x22>',_0x2b61b6(0x242)+_0x1f9d04+'\x22>',_0x2b61b6(0x465)+_0x25f1ab[_0x2b61b6(0x43d)](_0x1613b6[_0x2b61b6(0x276)]||_0x2b61b6(0x367))+_0x2b61b6(0x4cf),_0x2b61b6(0x4ad),_0x2b61b6(0x1ce),_0x2b61b6(0x4d3)+_0x1f9d04+_0x2b61b6(0x3e6)+(_0x14762c?_0x2b61b6(0x46b):'false')+_0x2b61b6(0x279),_0x2b61b6(0x4c6)+_0x1f9d04+'\x22'+(_0x14762c?'':'\x20hidden')+'>',_0x2b61b6(0x1bc),'<button\x20class=\x22thread-menu-item\x20danger\x22\x20type=\x22button\x22\x20data-thread-delete=\x22'+_0x1f9d04+_0x2b61b6(0x1ff),_0x2b61b6(0x1bd),_0x2b61b6(0x1bd),_0x2b61b6(0x280)][_0x2b61b6(0x356)]('');})[_0x79bff1(0x356)](''),_0x3f9431();}function _0x26ae92(){const _0x1ea495=_0x49dfbd,_0x51a759=_0x1ace65();if(!_0x51a759){_0x1b8bcf[_0x1ea495(0x300)][_0x1ea495(0x381)]=_0x1ea495(0x462),_0x1b8bcf[_0x1ea495(0x1fc)][_0x1ea495(0x381)]=_0x3742f7[_0x1ea495(0x412)](_0x107056())?_0x1ea495(0x251):'An\x20admin\x20still\x20needs\x20to\x20finish\x20the\x20assistant\x20runtime\x20setup.',_0x1b8bcf[_0x1ea495(0x40f)]&&(_0x1b8bcf[_0x1ea495(0x40f)][_0x1ea495(0x3d1)]=!0x0,_0x1b8bcf[_0x1ea495(0x40f)][_0x1ea495(0x381)]=''),_0x1b8bcf[_0x1ea495(0x1db)][_0x1ea495(0x381)]=_0x1ea495(0x45f),_0x39dd5d(),_0x4ef466();return;}_0x1b8bcf[_0x1ea495(0x300)][_0x1ea495(0x381)]=_0x51a759[_0x1ea495(0x276)]||'New\x20chat',_0x1b8bcf[_0x1ea495(0x1fc)][_0x1ea495(0x381)]=_0x3742f7[_0x1ea495(0x412)](_0x107056())?_0x1ea495(0x251):_0x1ea495(0x3ad),_0x1b8bcf[_0x1ea495(0x40f)]&&(_0x1b8bcf[_0x1ea495(0x40f)][_0x1ea495(0x3d1)]=!0x0,_0x1b8bcf['threadMetaBadge']['textContent']=''),_0x1b8bcf[_0x1ea495(0x1db)][_0x1ea495(0x381)]=_0x51a759[_0x1ea495(0x40b)]?_0x1ea495(0x41c):'Pin',_0x39dd5d(),_0x4ef466();}function _0x5265eb(){const _0x506da0=_0x49dfbd,_0x32f473=_0xcaeace[_0x506da0(0x46c)]||{},_0x4f8e4e=_0xcaeace[_0x506da0(0x38b)][_0x506da0(0x403)]>0x0;if(_0x1b8bcf[_0x506da0(0x2bd)][_0x506da0(0x282)][_0x506da0(0x278)](_0x506da0(0x3d1),_0x4f8e4e),_0x1b8bcf[_0x506da0(0x1e7)][_0x506da0(0x381)]=_0x32f473[_0x506da0(0x3df)]||_0x506da0(0x497),_0x1b8bcf[_0x506da0(0x4d5)][_0x506da0(0x381)]=_0x32f473[_0x506da0(0x2b9)]||_0x506da0(0x48d),!_0x4f8e4e){_0xcaeace[_0x506da0(0x3c1)]='',_0xcaeace[_0x506da0(0x418)]=[],_0xcaeace[_0x506da0(0x420)]={},_0xcaeace[_0x506da0(0x38c)]={},_0xcaeace[_0x506da0(0x353)]={},_0xcaeace[_0x506da0(0x1c9)]={},_0x1b8bcf[_0x506da0(0x38b)][_0x506da0(0x4ea)]='',_0xcaeace[_0x506da0(0x4d0)]=0x0,_0xcaeace[_0x506da0(0x3a5)]=!0x1,_0xdda558();return;}const _0x24e6ce=_0x220203();_0xcaeace['latestRegeneratableAssistantId']=_0x220d2b(),_0x1b8bcf[_0x506da0(0x38b)][_0x506da0(0x4ea)]=_0x24e6ce[_0x506da0(0x418)][_0x506da0(0x3c7)](function(_0x38d3fc){return _0x44953f(_0x38d3fc,_0x24e6ce['variantMetaById'][String(_0x38d3fc['id'])||'']);})[_0x506da0(0x356)](''),_0xcaeace[_0x506da0(0x4d0)]=_0x1b8bcf['messages'][_0x506da0(0x1fb)],_0xdda558();}function _0x53a4db(){const _0x2a0813=_0x49dfbd,_0x3dcdbe={};_0x3dcdbe['persist']=!0x0,(_0x1b8bcf[_0x2a0813(0x1e4)][_0x2a0813(0x381)]=_0xcaeace[_0x2a0813(0x1f4)][_0x2a0813(0x23a)][_0x2a0813(0x2f2)]||_0xcaeace[_0x2a0813(0x1f4)][_0x2a0813(0x2b6)][_0x2a0813(0x53c)]||'User',_0x1b8bcf[_0x2a0813(0x3ae)][_0x2a0813(0x381)]=_0x25f1ab[_0x2a0813(0x327)](_0xcaeace[_0x2a0813(0x1f4)][_0x2a0813(0x23a)]['role']),_0x1b8bcf['adminLink'][_0x2a0813(0x3d1)]=_0xcaeace['context'][_0x2a0813(0x23a)][_0x2a0813(0x1f5)]!==_0x2a0813(0x494),_0x1b8bcf['sidebarRailAdminLink'][_0x2a0813(0x3d1)]=_0xcaeace[_0x2a0813(0x1f4)][_0x2a0813(0x23a)]['role']!=='admin',_0x1b8bcf[_0x2a0813(0x506)]['hidden']=_0xcaeace[_0x2a0813(0x1f4)]['profile'][_0x2a0813(0x1f5)]!==_0x2a0813(0x494),_0x1b8bcf[_0x2a0813(0x396)][_0x2a0813(0x381)]=_0x5e72d9(),_0x1b8bcf[_0x2a0813(0x4ba)]&&(_0x1b8bcf['railProfileName'][_0x2a0813(0x381)]=_0xcaeace[_0x2a0813(0x1f4)]['profile'][_0x2a0813(0x2f2)]||_0xcaeace[_0x2a0813(0x1f4)]['user'][_0x2a0813(0x53c)]||_0x2a0813(0x39f)),_0x1b8bcf[_0x2a0813(0x377)]&&(_0x1b8bcf['railProfileEmail'][_0x2a0813(0x381)]=_0xcaeace[_0x2a0813(0x1f4)][_0x2a0813(0x2b6)][_0x2a0813(0x53c)]||''),_0x1b8bcf[_0x2a0813(0x51a)]['value']=_0xcaeace['context'][_0x2a0813(0x23a)][_0x2a0813(0x2f2)]||'',_0x1b8bcf[_0x2a0813(0x1dc)][_0x2a0813(0x1c6)]=_0xcaeace[_0x2a0813(0x1f4)][_0x2a0813(0x2b6)][_0x2a0813(0x53c)]||'',_0xcaeace[_0x2a0813(0x1f4)][_0x2a0813(0x23a)][_0x2a0813(0x1f5)]!==_0x2a0813(0x494)&&_0xcaeace[_0x2a0813(0x3f2)]['activeView']===_0x2a0813(0x494)&&_0x36ba8b(_0x2a0813(0x449),_0x3dcdbe));}function _0x336caa(){const _0x1c1ce0=_0x49dfbd;_0x1b8bcf[_0x1c1ce0(0x344)][_0x1c1ce0(0x416)]=!!_0xcaeace[_0x1c1ce0(0x3f2)][_0x1c1ce0(0x524)],_0x1b8bcf[_0x1c1ce0(0x3dd)][_0x1c1ce0(0x416)]=!!_0xcaeace[_0x1c1ce0(0x3f2)]['showTimestamps'];const _0x14c112=_0x1a6828(),_0x3592e5=_0x446ddd(),_0x260ba9=_0x3592e5&&_0x3592e5[_0x1c1ce0(0x51c)]?_0x3592e5['name']:_0x1c1ce0(0x50f),_0x3aeb7a=_0x14c112===_0x1c1ce0(0x365)?_0x1c1ce0(0x530)+_0x260ba9:_0x1c1ce0(0x483),_0xbd60f4=_0xcaeace[_0x1c1ce0(0x2a7)]&&_0xcaeace[_0x1c1ce0(0x2a7)]['gateway_pool_label']?_0xcaeace[_0x1c1ce0(0x2a7)][_0x1c1ce0(0x532)]:_0xcaeace[_0x1c1ce0(0x2a7)]&&_0xcaeace[_0x1c1ce0(0x2a7)]['gateway_pool_id']?_0x1c1ce0(0x216):_0x1c1ce0(0x514);_0x1b8bcf[_0x1c1ce0(0x3ac)][_0x1c1ce0(0x381)]=_0xcaeace[_0x1c1ce0(0x3f2)][_0x1c1ce0(0x3fb)]?_0x1c1ce0(0x498)+_0xbd60f4+'.\x20'+_0x3aeb7a+'.':_0x1c1ce0(0x443)+_0xbd60f4+'.\x20'+_0x3aeb7a+'.',_0x4f640a(),_0x3f9431(),_0x48e7c5();}function _0x3f9431(_0x251293){const _0x3460cc=_0x49dfbd;if(!_0x1b8bcf[_0x3460cc(0x2f1)])return;if(typeof _0x251293==_0x3460cc(0x46f)&&_0x251293[_0x3460cc(0x2b7)]()){_0x1b8bcf['chatMaintenanceStatus'][_0x3460cc(0x381)]=_0x251293[_0x3460cc(0x2b7)]();return;}const _0x40fa7e=Array[_0x3460cc(0x4ee)](_0xcaeace['threads'])?_0xcaeace[_0x3460cc(0x36a)][_0x3460cc(0x403)]:0x0,_0xec5e09=_0x1a6828(),_0x42b036=_0x446ddd(),_0x4e4d90=_0x42b036&&_0x42b036[_0x3460cc(0x51c)]?_0x42b036[_0x3460cc(0x51c)]:'Assistant';if(_0xec5e09===_0x3460cc(0x316)){_0x1b8bcf[_0x3460cc(0x2f1)][_0x3460cc(0x381)]=_0x40fa7e===0x0?'No\x20normal\x20chats\x20yet.':_0x40fa7e===0x1?'1\x20normal\x20chat.\x20Delete\x20all\x20clears\x20locally\x20first\x20and\x20then\x20cleans\x20Qwen\x20sessions.':_0x40fa7e+_0x3460cc(0x4aa);return;}_0x1b8bcf[_0x3460cc(0x2f1)][_0x3460cc(0x381)]=_0x40fa7e===0x0?_0x3460cc(0x509)+_0x4e4d90+_0x3460cc(0x1e6):_0x40fa7e===0x1?'1\x20chat\x20for\x20'+_0x4e4d90+_0x3460cc(0x36c):_0x40fa7e+'\x20chats\x20for\x20'+_0x4e4d90+_0x3460cc(0x36c);}async function _0x3e31e0(_0x45c4b7){const _0x2a17f3=_0x49dfbd,_0x14931c=_0x1ace65();if(_0x14931c)return _0x14931c;const _0x3e4264=_0x25f1ab[_0x2a17f3(0x519)](_0x45c4b7[_0x2a17f3(0x267)](/\s+/g,'\x20'),0x38)||_0x2a17f3(0x367),_0x3bf652={'owner_id':_0xcaeace[_0x2a17f3(0x1f4)][_0x2a17f3(0x2b6)]['id'],'title':_0x3e4264,'title_source':_0x2a17f3(0x34d),'bot_id':_0x4bbbc6()||'assistant'};_0xcaeace['titleSourceSupported']===!0x1&&delete _0x3bf652[_0x2a17f3(0x3fd)],_0xcaeace[_0x2a17f3(0x479)]===!0x1&&delete _0x3bf652[_0x2a17f3(0x52c)];let _0x121e25=null;for(;_0x121e25=await _0x1f9d0d[_0x2a17f3(0x205)](_0x2a17f3(0x4c1))[_0x2a17f3(0x47b)](_0x3bf652)['select']('*')['single'](),!!_0x121e25[_0x2a17f3(0x414)];){if(_0x3bf652[_0x2a17f3(0x3fd)]&&_0x2ff9dd(_0x121e25[_0x2a17f3(0x414)])){_0xcaeace[_0x2a17f3(0x335)]=!0x1,delete _0x3bf652['title_source'];continue;}if(_0x3bf652[_0x2a17f3(0x52c)]&&_0x45df93(_0x121e25['error'])){_0xcaeace[_0x2a17f3(0x479)]=!0x1,delete _0x3bf652[_0x2a17f3(0x52c)];continue;}break;}if(_0x121e25[_0x2a17f3(0x414)])throw new Error(_0x121e25['error']['message']||_0x2a17f3(0x2bc));const _0x14541a=_0x2a779b(_0x121e25['data'],_0x2a17f3(0x34d)),_0x546562={};_0x546562['skipLoad']=!0x0;const _0x1847f7={};return _0x1847f7[_0x2a17f3(0x37d)]=!0x0,(_0x371544(_0x14541a),_0xcaeace[_0x2a17f3(0x38b)]=[],_0xcaeace[_0x2a17f3(0x520)]={},_0xcaeace[_0x2a17f3(0x418)]=[],_0xcaeace[_0x2a17f3(0x420)]={},_0xcaeace[_0x2a17f3(0x38c)]={},_0xcaeace[_0x2a17f3(0x353)]={},_0xcaeace[_0x2a17f3(0x1c9)]={},await _0x384147(_0x121e25[_0x2a17f3(0x2d7)]['id'],_0x546562),_0x5265eb(),_0x2c95ff(_0x1847f7),_0x14541a);}async function _0x4d88cb(_0x2ca375,_0x49e915){const _0x31ca22=_0x49dfbd,_0x3d9c63=_0xcaeace['threads'][_0x31ca22(0x546)](function(_0x4edac4){return _0x4edac4['id']===_0x2ca375;})||null,_0x4cc271=_0x49e915[_0x31ca22(0x3fd)]||_0x3d9c63&&_0x3d9c63[_0x31ca22(0x3fd)]||_0x31ca22(0x34d),_0x4f18e4=Object[_0x31ca22(0x30c)]({},_0x49e915);let _0x585ebb=Object['assign']({},_0x49e915);_0xcaeace[_0x31ca22(0x335)]===!0x1&&delete _0x585ebb[_0x31ca22(0x3fd)];let _0xc154bc=await _0x1f9d0d[_0x31ca22(0x205)](_0x31ca22(0x4c1))[_0x31ca22(0x301)](_0x585ebb)['eq']('id',_0x2ca375)['select']('*')['single']();if(_0xc154bc[_0x31ca22(0x414)]&&_0x4f18e4[_0x31ca22(0x3fd)]&&_0x2ff9dd(_0xc154bc[_0x31ca22(0x414)])&&(_0xcaeace[_0x31ca22(0x335)]=!0x1,_0x585ebb=Object[_0x31ca22(0x30c)]({},_0x4f18e4),delete _0x585ebb[_0x31ca22(0x3fd)],_0xc154bc=await _0x1f9d0d[_0x31ca22(0x205)]('chat_threads')[_0x31ca22(0x301)](_0x585ebb)['eq']('id',_0x2ca375)[_0x31ca22(0x3a1)]('*')[_0x31ca22(0x4a3)]()),_0xc154bc['error'])throw new Error(_0xc154bc[_0x31ca22(0x414)][_0x31ca22(0x42f)]||_0x31ca22(0x325));const _0x26a8c7=_0x2a779b(_0xc154bc[_0x31ca22(0x2d7)],_0x4cc271);return _0x371544(_0x26a8c7),_0x347924(),_0x26ae92(),_0x26a8c7;}async function _0xf6490e(_0x40181d,_0x296268,_0x107d92,_0x34247b){const _0x1c97b6=_0x49dfbd,_0x1ba1c7={};_0x1ba1c7[_0x1c97b6(0x4b4)]=_0x40181d,_0x1ba1c7[_0x1c97b6(0x1f5)]=_0x296268,_0x1ba1c7[_0x1c97b6(0x4a7)]=_0x107d92,_0x1ba1c7[_0x1c97b6(0x512)]=_0x34247b||{};const _0x3a933f=await _0x1f9d0d['from'](_0x1c97b6(0x51f))[_0x1c97b6(0x47b)](_0x1ba1c7)[_0x1c97b6(0x3a1)]('*')[_0x1c97b6(0x4a3)]();if(_0x3a933f[_0x1c97b6(0x414)])throw new Error(_0x3a933f[_0x1c97b6(0x414)]['message']||_0x1c97b6(0x3e4));return _0x3a933f['data'];}async function _0x24d790(_0xcf9934){const _0xf44e47=_0x49dfbd;if(!_0xcf9934)return;const _0x59b2b7=await _0x1f9d0d['from']('chat_messages')[_0xf44e47(0x32f)]()['eq']('id',_0xcf9934);if(_0x59b2b7[_0xf44e47(0x414)])throw new Error(_0x59b2b7[_0xf44e47(0x414)][_0xf44e47(0x42f)]||_0xf44e47(0x330));}function _0x14317c(_0xb9f118){const _0x14bde4=_0x49dfbd;if(!_0xcaeace[_0x14bde4(0x1f4)]||_0xcaeace['context'][_0x14bde4(0x23a)][_0x14bde4(0x1f5)]!==_0x14bde4(0x494))return;const _0x157bdb=_0xb9f118||_0x14bde4(0x46c),_0x2a76e2={};_0x2a76e2[_0x14bde4(0x3b5)]=!0x1;const _0xb5c993={};_0xb5c993[_0x14bde4(0x223)]=!0x0,(_0xcaeace[_0x14bde4(0x24f)]?_0xcaeace[_0x14bde4(0x24f)][_0x14bde4(0x1d7)](_0x157bdb,_0x2a76e2):_0x247106()[_0x14bde4(0x3bb)](function(){const _0x2e9f72=_0x14bde4,_0x31e5bd={};_0x31e5bd[_0x2e9f72(0x3b5)]=!0x1,_0xcaeace[_0x2e9f72(0x24f)]&&_0xcaeace[_0x2e9f72(0x24f)][_0x2e9f72(0x1d7)](_0x157bdb,_0x31e5bd);})[_0x14bde4(0x24b)](function(_0x16a099){const _0x75bb40=_0x14bde4,_0x2e7301=_0x1b8bcf[_0x75bb40(0x2f0)]?_0x1b8bcf[_0x75bb40(0x2f0)][_0x75bb40(0x455)](_0x75bb40(0x292)):null;_0x2e7301&&(_0x2e7301[_0x75bb40(0x381)]=_0x75bb40(0x4db)),_0xc0a02c(_0x16a099&&_0x16a099[_0x75bb40(0x42f)]?_0x16a099['message']:_0x75bb40(0x320),_0x75bb40(0x414));}),_0x36ba8b(_0x14bde4(0x494),_0xb5c993));}async function _0x28a177(_0x3e26b6,_0x47dd87){const _0x20a7a3=_0x49dfbd;if(!(!_0x3e26b6||!_0x47dd87||_0xcaeace[_0x20a7a3(0x363)][_0x3e26b6])){_0xcaeace[_0x20a7a3(0x363)][_0x3e26b6]=!0x0;try{const _0x44108e=_0xcaeace[_0x20a7a3(0x36a)][_0x20a7a3(0x546)](function(_0x291edc){return _0x291edc['id']===_0x3e26b6;});if(_0x44108e&&_0x44108e[_0x20a7a3(0x3fd)]===_0x20a7a3(0x2c5))return;const _0x244856=await _0x3742f7[_0x20a7a3(0x378)]({'settings':_0x107056(),'sessionId':_0x47dd87});if(!_0x244856)return;let _0x3150d4=await _0x1f9d0d['from']('chat_threads')['select']('id,\x20title,\x20title_source')['eq']('id',_0x3e26b6)['single']();if(_0x3150d4['error']&&_0x2ff9dd(_0x3150d4[_0x20a7a3(0x414)])&&(_0xcaeace[_0x20a7a3(0x335)]=!0x1,_0x3150d4=await _0x1f9d0d[_0x20a7a3(0x205)](_0x20a7a3(0x4c1))[_0x20a7a3(0x3a1)](_0x20a7a3(0x1e5))['eq']('id',_0x3e26b6)['single']()),_0x3150d4['error'])throw new Error(_0x3150d4[_0x20a7a3(0x414)]['message']||_0x20a7a3(0x3ee));const _0x3df2fc=_0x2a779b(_0x3150d4['data']||{},_0x44108e&&_0x44108e[_0x20a7a3(0x3fd)]||_0x20a7a3(0x34d));if(_0x3df2fc[_0x20a7a3(0x3fd)]===_0x20a7a3(0x2c5)||_0x3df2fc[_0x20a7a3(0x276)]===_0x244856&&_0x3df2fc[_0x20a7a3(0x3fd)]==='remote')return;await _0x4d88cb(_0x3e26b6,{'title':_0x244856,'title_source':_0x20a7a3(0x426),'updated_at':new Date()[_0x20a7a3(0x4ab)]()});}catch(_0x54e5f5){console[_0x20a7a3(0x3d6)]('Title\x20sync\x20skipped:',_0x54e5f5&&_0x54e5f5['message']?_0x54e5f5[_0x20a7a3(0x42f)]:_0x54e5f5);}finally{delete _0xcaeace['titleSyncing'][_0x3e26b6];}}}async function _0x587276(_0x2b2444){const _0x366199=_0x49dfbd,_0x5ea83f={};_0x5ea83f[_0x366199(0x452)]=!0x0,_0x5ea83f['replaceMessage']=null,_0x5ea83f[_0x366199(0x1eb)]=!0x0,_0x5ea83f[_0x366199(0x425)]='Generating\x20a\x20live\x20reply...',_0x5ea83f[_0x366199(0x492)]=_0x366199(0x3a4);const _0x165f45=Object['assign'](_0x5ea83f,_0x2b2444||{}),_0x1c7257=String(_0x165f45[_0x366199(0x311)]||'')[_0x366199(0x2b7)](),_0x3a0a8c=_0x15cbe0(_0x165f45[_0x366199(0x38f)])?_0x165f45[_0x366199(0x38f)]:_0x1f65ea(),_0x5a71a4=Array[_0x366199(0x4ee)](_0x165f45[_0x366199(0x4a9)])?_0x165f45['attachments'][_0x366199(0x3c7)](_0x47c44a):[],_0x18cfd8=_0x1c7257||(_0x3a0a8c==='chat'&&_0x5a71a4[_0x366199(0x403)]?_0x3cb185(_0x5a71a4):''),_0x59f4ee=String(_0x165f45[_0x366199(0x53a)]||_0x1b8330(_0x3a0a8c)||'')[_0x366199(0x2b7)](),_0x19d9ae=_0x446ddd(),_0x41221c=String(_0x19d9ae&&_0x19d9ae['id']||'')[_0x366199(0x2b7)](),_0x395da1=String(_0x19d9ae&&_0x19d9ae[_0x366199(0x51c)]||'')[_0x366199(0x2b7)](),_0x350d54=_0x5d2c66(_0x3a0a8c,_0x59f4ee,_0x165f45[_0x366199(0x4da)]);if(_0xcaeace[_0x366199(0x2d2)])return;if(!_0x18cfd8&&!_0x5a71a4[_0x366199(0x403)]){_0xc0a02c('Type\x20a\x20message\x20first.',_0x366199(0x414));return;}if(_0x3a0a8c===_0x366199(0x1d3)&&_0x5a71a4[_0x366199(0x403)]){_0xc0a02c(_0x366199(0x3f9),'error');return;}const _0x4648e9={};_0x4648e9[_0x366199(0x1df)]=!0x0,await _0x181512(_0x4648e9);const _0x2cf894=_0x107056();if(!_0x3742f7[_0x366199(0x412)](_0x2cf894)){_0xc0a02c('The\x20assistant\x20is\x20not\x20configured\x20yet.\x20Ask\x20an\x20admin\x20to\x20finish\x20setup.',_0x366199(0x414));return;}_0x30f964(!0x0),_0x1e74e3(_0x366199(0x3cf),_0x165f45[_0x366199(0x425)]),_0x165f45[_0x366199(0x1eb)]&&(_0x1b8bcf[_0x366199(0x237)]['value']='',_0x25f1ab[_0x366199(0x39e)](_0x1b8bcf[_0x366199(0x237)]),_0xa198b6());let _0x38d1a3,_0x37530a=null;_0xcaeace[_0x366199(0x25e)]=new AbortController();try{if(_0x38d1a3=_0x165f45[_0x366199(0x4d4)]||await _0x3e31e0(_0x18cfd8),_0x165f45[_0x366199(0x452)]!==!0x1){const _0x3d308c={};_0x3d308c[_0x366199(0x21f)]=_0x366199(0x50e),_0x3d308c['mode']=_0x350d54,_0x3d308c[_0x366199(0x348)]=_0x3a0a8c,_0x3d308c[_0x366199(0x52c)]=_0x41221c,_0x3d308c[_0x366199(0x337)]=_0x395da1,_0x3d308c[_0x366199(0x272)]=_0x59f4ee,_0x3d308c['attachments']=_0x5a71a4;const _0x3ae686=await _0xf6490e(_0x38d1a3['id'],'user',_0x18cfd8,_0x3d308c);_0xcaeace[_0x366199(0x38b)]['push'](_0x3ae686);}if(_0x37530a={'id':_0x366199(0x2d8)+_0x25f1ab[_0x366199(0x53f)](),'thread_id':_0x38d1a3['id'],'role':_0x366199(0x3c8),'content':'','meta':{'state':_0x366199(0x3c6),'mode':_0x350d54,'interaction_mode':_0x3a0a8c,'bot_id':_0x41221c,'bot_name':_0x395da1,'request_model':_0x59f4ee,'search_sources':[],'generated_images':[],'reasoning_text':'','response_id':'','parent_user_id':'','session_id':String(_0x38d1a3['remote_session_id']||'')},'created_at':new Date()[_0x366199(0x4ab)]()},_0xcaeace[_0x366199(0x520)][_0x37530a['id']]=!0x1,_0x165f45[_0x366199(0x2bb)]){const _0x2c1515=_0xcaeace[_0x366199(0x38c)][String(_0x165f45[_0x366199(0x2bb)]['id'])];_0x2c1515&&(_0xcaeace[_0x366199(0x1c9)][_0x2c1515]=_0x37530a['id']),_0xcaeace[_0x366199(0x38b)][_0x366199(0x474)](_0x37530a);}else _0xcaeace[_0x366199(0x38b)]['push'](_0x37530a);const _0x360451={};_0x360451[_0x366199(0x37d)]=!0x0,(_0x5265eb(),_0x26ae92(),_0x2c95ff(_0x360451));const _0x3d61d7=await _0x3742f7[_0x366199(0x44b)]({'settings':_0x2cf894,'thread':_0x38d1a3,'mode':_0x350d54,'interactionMode':_0x3a0a8c,'model':_0x59f4ee,'botId':_0x41221c,'prompt':_0x18cfd8,'files':_0x5a71a4,'regeneration':_0x165f45[_0x366199(0x238)]||null,'signal':_0xcaeace[_0x366199(0x25e)][_0x366199(0x393)],'onUpdate':function(_0x4530d6){const _0x44ef7b=_0x366199,_0x3aeec0={};_0x3aeec0['mode']=_0x350d54,_0x3aeec0[_0x44ef7b(0x38f)]=_0x3a0a8c,_0x536699(_0x37530a,Object[_0x44ef7b(0x30c)]({},_0x4530d6||{},_0x3aeec0));}}),_0x44cde5={};_0x44cde5[_0x366199(0x355)]=!0x0,_0x246998(_0x37530a,_0x44cde5);const _0x16035b=await _0x4d88cb(_0x38d1a3['id'],{'remote_session_id':_0x3d61d7['sessionId'],'remote_parent_id':_0x3d61d7[_0x366199(0x41e)],'last_trace':_0x2aba9b(_0x38d1a3,Object[_0x366199(0x30c)]({},_0x3d61d7[_0x366199(0x4b8)],{'remote_chat_type':_0x3d61d7[_0x366199(0x3a0)],'interaction_mode':_0x3a0a8c})),'updated_at':new Date()[_0x366199(0x4ab)]()}),_0x4f1e5f=_0x3d61d7[_0x366199(0x364)]||(Array[_0x366199(0x4ee)](_0x3d61d7[_0x366199(0x30f)])&&_0x3d61d7[_0x366199(0x30f)][_0x366199(0x403)]?'':_0x3d61d7[_0x366199(0x315)]?_0x366199(0x457):_0x366199(0x3ef)),_0x2558e0=await _0xf6490e(_0x38d1a3['id'],'assistant',_0x4f1e5f,{'state':_0x366199(0x50e),'trace':_0x3d61d7['trace'],'mode':_0x350d54,'interaction_mode':_0x3a0a8c,'bot_id':_0x3d61d7[_0x366199(0x1c5)]||_0x41221c,'bot_name':_0x3d61d7[_0x366199(0x36e)]||_0x395da1,'request_model':_0x3d61d7[_0x366199(0x43a)]||_0x59f4ee,'search_sources':Array[_0x366199(0x4ee)](_0x3d61d7['searchSources'])?_0x3d61d7[_0x366199(0x408)]:[],'generated_images':Array['isArray'](_0x3d61d7[_0x366199(0x30f)])?_0x3d61d7[_0x366199(0x30f)]:[],'reasoning_text':_0x3d61d7['thinking']||''});if(_0xcaeace[_0x366199(0x38b)]=_0xcaeace['messages']['filter'](function(_0x327ea7){return _0x327ea7['id']!==_0x37530a['id'];})['concat'](_0x2558e0),_0xcaeace[_0x366199(0x520)][_0x2558e0['id']]=!0x1,delete _0xcaeace[_0x366199(0x520)][_0x37530a['id']],_0x5a71a4[_0x366199(0x403)]){const _0xf849fa=_0x5a71a4[_0x366199(0x3c7)](function(_0x2cdb72){const _0x1b73a4=_0x366199;return _0x2cdb72[_0x1b73a4(0x2e5)];});_0xcaeace[_0x366199(0x49c)]=_0xcaeace[_0x366199(0x49c)][_0x366199(0x481)](function(_0x9e2570){const _0x2c02f0=_0x366199;return _0xf849fa[_0x2c02f0(0x389)](_0x9e2570[_0x2c02f0(0x2e5)])===-0x1;}),_0x540d52();}const _0x494c25={};_0x494c25[_0x366199(0x3ab)]=_0xcaeace['isAutoFollow'],_0x494c25[_0x366199(0x227)]=!_0xcaeace[_0x366199(0x50c)],(_0x5265eb(),_0x26ae92(),_0xb86f9e(_0x494c25),_0x1e74e3(_0x366199(0x1e2),_0x3a0a8c==='image'?_0x366199(0x513):_0x165f45[_0x366199(0x492)]),_0x3a0a8c===_0x366199(0x1d3)&&_0xc0a02c(_0x366199(0x1d9),_0x366199(0x211)),_0x38d1a3=_0x16035b,_0x28a177(_0x16035b['id'],_0x3d61d7['sessionId']));}catch(_0x231018){if(_0x231018&&_0x231018['name']===_0x366199(0x323)){if(_0x246998(_0x37530a),_0x38d1a3&&_0x37530a){const _0x21c110={};_0x21c110[_0x366199(0x38f)]=_0x3a0a8c,_0x21c110['requestModel']=_0x59f4ee,_0x38d1a3=await _0x487c30(_0x38d1a3,_0x37530a,_0x21c110);try{const _0x134d4a=_0x37530a[_0x366199(0x512)]&&typeof _0x37530a['meta']==_0x366199(0x1e1)?_0x37530a[_0x366199(0x512)]:{},_0xaed962=String(_0x134d4a['reasoning_text']||''),_0x5c51a3=String(_0x134d4a[_0x366199(0x361)]||'')['trim'](),_0x5613cd=String(_0x134d4a[_0x366199(0x493)]||'')[_0x366199(0x2b7)](),_0x3b7b0b=String(_0x134d4a[_0x366199(0x3f0)]||_0x38d1a3[_0x366199(0x253)]||'')[_0x366199(0x2b7)](),_0x2c80dd=Array[_0x366199(0x4ee)](_0x134d4a[_0x366199(0x518)])?_0x134d4a[_0x366199(0x518)]:[],_0xae639e=Array[_0x366199(0x4ee)](_0x134d4a[_0x366199(0x258)])?_0x134d4a[_0x366199(0x258)]:[],_0x83e200=_0x37530a[_0x366199(0x4a7)][_0x366199(0x2b7)]()?_0x37530a[_0x366199(0x4a7)]:_0xaed962['trim']()?_0x366199(0x535):_0x165f45[_0x366199(0x2bb)]?'Reply\x20regeneration\x20stopped\x20before\x20a\x20new\x20answer\x20arrived.':'',_0x43496b=_0x83e200?await _0xf6490e(_0x38d1a3['id'],_0x366199(0x3c8),_0x83e200,{'state':_0x366199(0x358),'mode':_0x350d54,'interaction_mode':_0x3a0a8c,'bot_id':_0x41221c,'bot_name':_0x395da1,'reasoning_text':_0xaed962,'search_sources':_0xae639e,'generated_images':_0x2c80dd,'response_id':_0x5c51a3,'parent_user_id':_0x5613cd,'session_id':_0x3b7b0b,'trace':{'response_id':_0x5c51a3,'qwen_parent_id':_0x5613cd,'children_ids':_0x2d3a31(_0x5c51a3?[_0x5c51a3]:[])}}):null;_0xcaeace['messages']=_0xcaeace[_0x366199(0x38b)][_0x366199(0x481)](function(_0x5aa2e5){return _0x5aa2e5['id']!==_0x37530a['id'];}),_0x43496b&&(_0xcaeace[_0x366199(0x38b)]=_0xcaeace[_0x366199(0x38b)][_0x366199(0x43f)](_0x43496b),_0xcaeace[_0x366199(0x520)][_0x43496b['id']]=!0x1),delete _0xcaeace['reasoningExpanded'][_0x37530a['id']];}catch{const _0x42d171={};_0x42d171['state']=_0x366199(0x358),_0x37530a[_0x366199(0x512)]=Object['assign']({},_0x37530a[_0x366199(0x512)],_0x42d171);}}else _0xcaeace['messages']=_0xcaeace[_0x366199(0x38b)][_0x366199(0x481)](function(_0x10e5fe){return!(_0x37530a&&_0x10e5fe['id']===_0x37530a['id']);});const _0xec837c={};_0xec837c[_0x366199(0x3ab)]=_0xcaeace[_0x366199(0x50c)],(_0x5265eb(),_0x26ae92(),_0xb86f9e(_0xec837c),_0x1e74e3(_0x366199(0x358),_0x366199(0x47d)),_0xc0a02c('Generation\x20stopped.',_0x366199(0x4d8)));}else{_0x246998(_0x37530a);const _0xce9d64=_0x150353(_0x231018);if(_0x38d1a3&&_0x37530a)try{const _0x23f688={};_0x23f688[_0x366199(0x21f)]='error';const _0x36330e=await _0xf6490e(_0x38d1a3['id'],_0x366199(0x414),_0xce9d64,_0x23f688);_0xcaeace[_0x366199(0x38b)]=_0xcaeace[_0x366199(0x38b)][_0x366199(0x481)](function(_0x2ba728){return _0x2ba728['id']!==_0x37530a['id'];})[_0x366199(0x43f)](_0x36330e),delete _0xcaeace[_0x366199(0x520)][_0x37530a['id']];}catch{const _0x37eb55={};_0x37eb55[_0x366199(0x21f)]=_0x366199(0x414),(_0x37530a[_0x366199(0x1f5)]=_0x366199(0x414),_0x37530a['content']=_0xce9d64,_0x37530a[_0x366199(0x512)]=_0x37eb55);}else _0xc0a02c(_0xce9d64,_0x366199(0x414));const _0x39934c={};_0x39934c[_0x366199(0x3ab)]=_0xcaeace['isAutoFollow'],_0x39934c[_0x366199(0x227)]=!_0xcaeace[_0x366199(0x50c)],(_0x5265eb(),_0x26ae92(),_0xb86f9e(_0x39934c),_0x1e74e3('error',_0xce9d64),_0xc0a02c(_0xce9d64,_0x366199(0x414)));}}finally{_0x30f964(!0x1),_0x7755bc(),_0xcaeace[_0x366199(0x25e)]=null,_0x38d1a3&&(_0x371544(_0x38d1a3),_0x347924(),_0x26ae92()),_0xcaeace[_0x366199(0x3f2)][_0x366199(0x3ea)]===_0x366199(0x449)&&_0x1b8bcf[_0x366199(0x237)][_0x366199(0x229)]();}}async function _0x36cd4a(_0x23ea71){const _0x45a83=_0x49dfbd;if(_0x23ea71[_0x45a83(0x540)](),_0xcaeace[_0x45a83(0x3ca)]||_0xcaeace[_0x45a83(0x2d2)])return;if(_0x3b07ae()){_0xc0a02c('Wait\x20for\x20the\x20attachment\x20upload\x20to\x20finish.',_0x45a83(0x414));return;}const _0x52820c=_0x1f65ea(),_0x49a183=_0x1b8330(_0x52820c),_0x2500c1=_0x446ddd(),_0x4e07ed=String(_0x2500c1&&_0x2500c1['id']||'')[_0x45a83(0x2b7)](),_0x44b0b2=_0x5d2c66(_0x52820c,_0x49a183),_0x388725=_0x52820c===_0x45a83(0x449)?_0x384971():[],_0x30931b=_0x281c89(_0x1b8bcf[_0x45a83(0x237)]['value'],_0x52820c,_0x44b0b2,_0x49a183,_0x388725,_0x4e07ed),_0x37b37b=Date[_0x45a83(0x28c)]();if(!(_0x30931b&&_0x30931b===_0xcaeace['lastSendSignature']&&_0x37b37b-Number(_0xcaeace['lastSendAt']||0x0)<0x708)){_0xcaeace[_0x45a83(0x3ca)]=!0x0,_0xcaeace[_0x45a83(0x366)]=_0x30931b,_0xcaeace[_0x45a83(0x201)]=_0x37b37b,_0x4833e9(!0x1);try{const _0x287164={};_0x287164['prompt']=_0x1b8bcf[_0x45a83(0x237)][_0x45a83(0x1c6)],_0x287164[_0x45a83(0x4da)]=_0x44b0b2,_0x287164[_0x45a83(0x38f)]=_0x52820c,_0x287164[_0x45a83(0x53a)]=_0x49a183,_0x287164['attachments']=_0x388725,_0x287164['persistUserMessage']=!0x0,_0x287164[_0x45a83(0x1eb)]=!0x0,_0x287164[_0x45a83(0x425)]=_0x52820c==='image'?_0x45a83(0x240):_0x44b0b2===_0x45a83(0x315)?_0x45a83(0x1d2):_0x45a83(0x3b7),await _0x587276(_0x287164);}finally{_0xcaeace[_0x45a83(0x3ca)]=!0x1;}}}function _0x2be7f9(){const _0x3fd404=_0x49dfbd;for(let _0x3f6e6e=_0xcaeace[_0x3fd404(0x38b)][_0x3fd404(0x403)]-0x1;_0x3f6e6e>=0x0;_0x3f6e6e-=0x1){const _0x4061d2=_0xcaeace[_0x3fd404(0x38b)][_0x3f6e6e];if(!_0x4061d2||_0x4061d2['role']!==_0x3fd404(0x3c8))continue;if((_0x4061d2[_0x3fd404(0x512)]&&typeof _0x4061d2['meta']==_0x3fd404(0x1e1)?_0x4061d2[_0x3fd404(0x512)]:{})['state']==='streaming')return _0x4061d2;}return null;}function _0x2a1627(_0x33b3ea){const _0x5f56bd=_0x49dfbd,_0x1e4b29=new Set();return(Array['isArray'](_0x33b3ea)?_0x33b3ea:[])[_0x5f56bd(0x3c7)](function(_0x317ef0){return String(_0x317ef0||'')['trim']();})[_0x5f56bd(0x481)](function(_0x3de596){const _0x22bcef=_0x5f56bd;return!_0x3de596||_0x1e4b29[_0x22bcef(0x489)](_0x3de596)?!0x1:(_0x1e4b29[_0x22bcef(0x2b3)](_0x3de596),!0x0);});}function _0x7755bc(){const _0x134ef5=_0x49dfbd;_0xcaeace[_0x134ef5(0x446)]&&(window[_0x134ef5(0x324)](_0xcaeace[_0x134ef5(0x446)]),_0xcaeace[_0x134ef5(0x446)]=null);}function _0x18d00b(_0x48a51e,_0x1a9bd2){const _0xa071=_0x49dfbd,_0x5e89cd=_0x48a51e&&typeof _0x48a51e==_0xa071(0x1e1)?_0x48a51e:null,_0x2bb86a=_0x1a9bd2&&typeof _0x1a9bd2==_0xa071(0x1e1)?_0x1a9bd2:null,_0x34dadd=String(_0x5e89cd&&_0x5e89cd[_0xa071(0x545)]||_0x2bb86a&&_0x2bb86a['sessionId']||'')[_0xa071(0x2b7)](),_0x4c8029=_0x2a1627([][_0xa071(0x43f)](_0x5e89cd&&Array['isArray'](_0x5e89cd['responseIds'])?_0x5e89cd[_0xa071(0x2ff)]:[])[_0xa071(0x43f)](_0x5e89cd&&_0x5e89cd[_0xa071(0x3eb)]?[_0x5e89cd['responseId']]:[])[_0xa071(0x43f)](_0x2bb86a&&Array[_0xa071(0x4ee)](_0x2bb86a[_0xa071(0x2ff)])?_0x2bb86a['responseIds']:[])[_0xa071(0x43f)](_0x2bb86a&&_0x2bb86a[_0xa071(0x3eb)]?[_0x2bb86a['responseId']]:[]));return!_0x34dadd||!_0x4c8029[_0xa071(0x403)]?null:{'sessionId':_0x34dadd,'responseId':_0x4c8029[0x0],'responseIds':_0x4c8029};}function _0x1f52f0(){const _0x56c5fd=_0x49dfbd,_0x2f3783=_0x1ace65(),_0x2654f7=_0x2be7f9();if(!_0x2f3783||!_0x2654f7)return null;const _0x48baa3=_0x2654f7[_0x56c5fd(0x512)]&&typeof _0x2654f7[_0x56c5fd(0x512)]==_0x56c5fd(0x1e1)?_0x2654f7[_0x56c5fd(0x512)]:{},_0x4f16a0=_0x33e6bd(_0x2f3783),_0xee9c86=String(_0x48baa3[_0x56c5fd(0x3f0)]||_0x2f3783[_0x56c5fd(0x253)]||'')[_0x56c5fd(0x2b7)](),_0x46e0fc=_0x2a1627([_0x48baa3[_0x56c5fd(0x361)],_0x48baa3[_0x56c5fd(0x493)],_0x2f3783[_0x56c5fd(0x261)],_0x4f16a0['response_id'],_0x4f16a0[_0x56c5fd(0x50d)]]);return!_0xee9c86||!_0x46e0fc['length']?null:{'sessionId':_0xee9c86,'responseId':_0x46e0fc[0x0],'responseIds':_0x46e0fc};}function _0x127b8e(_0x16cbd0,_0x19ceaf){const _0x4858ab=_0x49dfbd;if(!_0x3742f7||typeof _0x3742f7[_0x4858ab(0x42d)]!=_0x4858ab(0x2da))return Promise[_0x4858ab(0x296)](!0x1);const _0x2fe2b2=_0x19ceaf&&typeof _0x19ceaf==_0x4858ab(0x1e1)?_0x19ceaf:{},_0x15cf9c=_0x16cbd0||_0x1f52f0();return _0x15cf9c?_0x3742f7[_0x4858ab(0x42d)]({'settings':_0x107056(),'sessionId':_0x15cf9c[_0x4858ab(0x545)],'responseId':_0x15cf9c[_0x4858ab(0x3eb)],'responseIds':_0x15cf9c['responseIds']})[_0x4858ab(0x3bb)](function(_0x23892e){const _0x5909ba=_0x4858ab;return!!(_0x23892e&&_0x23892e[_0x5909ba(0x358)]);})[_0x4858ab(0x24b)](function(_0x2d130e){const _0x196770=_0x4858ab;return _0x2fe2b2[_0x196770(0x1df)]||console[_0x196770(0x3d6)](_0x196770(0x248),_0x2d130e&&_0x2d130e['message']?_0x2d130e[_0x196770(0x42f)]:_0x2d130e),!0x1;}):Promise[_0x4858ab(0x296)](!0x1);}function _0x155e88(){const _0x1cb33e=_0x1f52f0();let _0x46fea1=0x0;_0x7755bc();function _0x2c4217(){const _0x48719b=_0x28a8;_0x46fea1+=0x1;const _0x5e84a4=_0x1f52f0(),_0x5de5e8=_0x18d00b(_0x5e84a4,_0x1cb33e),_0x3ebf15={};_0x3ebf15[_0x48719b(0x1df)]=_0x46fea1<_0x116f69,_0x127b8e(_0x5de5e8,_0x3ebf15)[_0x48719b(0x3bb)](function(_0x57f520){const _0x35bd3e=_0x48719b;if(_0x57f520||_0x46fea1>=_0x116f69){_0x7755bc();return;}_0xcaeace[_0x35bd3e(0x446)]=window[_0x35bd3e(0x4a8)](_0x2c4217,_0x1e5b32);});}_0x2c4217();}async function _0x487c30(_0x575e58,_0x35cb61,_0x8969a0){const _0x4619f5=_0x49dfbd;if(!_0x575e58||!_0x575e58['id'])return _0x575e58;const _0x5e9e30=_0x35cb61&&_0x35cb61[_0x4619f5(0x512)]&&typeof _0x35cb61[_0x4619f5(0x512)]==_0x4619f5(0x1e1)?_0x35cb61[_0x4619f5(0x512)]:{},_0x248bbd=_0x33e6bd(_0x575e58),_0x40fea1=String(_0x5e9e30[_0x4619f5(0x3f0)]||_0x575e58[_0x4619f5(0x253)]||'')[_0x4619f5(0x2b7)](),_0x2d04b9=String(_0x5e9e30[_0x4619f5(0x361)]||'')[_0x4619f5(0x2b7)](),_0x28f832=String(_0x5e9e30[_0x4619f5(0x493)]||_0x248bbd[_0x4619f5(0x50d)]||'')[_0x4619f5(0x2b7)](),_0x331b66=_0x2d3a31(_0x2d3a31(_0x248bbd['children_ids'])[_0x4619f5(0x43f)](_0x2d04b9?[_0x2d04b9]:[]));if(!_0x40fea1&&!_0x2d04b9&&!_0x28f832&&!_0x331b66['length'])return _0x575e58;const _0x4350a3=_0x8969a0&&_0x8969a0[_0x4619f5(0x38f)]===_0x4619f5(0x1d3)?'image':_0x4619f5(0x449),_0x205c58=_0x4350a3==='image'?_0x4619f5(0x4dc):_0x4619f5(0x1cb),_0x50140d={'last_trace':_0x2aba9b(_0x575e58,Object['assign']({},_0x248bbd,{'response_id':_0x2d04b9||_0x248bbd[_0x4619f5(0x361)]||'','qwen_parent_id':_0x28f832||_0x248bbd[_0x4619f5(0x50d)]||'','children_ids':_0x331b66,'interaction_mode':_0x4350a3,'remote_chat_type':_0x205c58,'request_model':String(_0x8969a0&&_0x8969a0[_0x4619f5(0x43a)]||_0x248bbd[_0x4619f5(0x272)]||'')[_0x4619f5(0x2b7)](),'state':'stopped','stopped_at':new Date()[_0x4619f5(0x4ab)]()})),'updated_at':new Date()[_0x4619f5(0x4ab)]()};_0x40fea1&&(_0x50140d['remote_session_id']=_0x40fea1);const _0x3ade86=String(_0x28f832||_0x575e58[_0x4619f5(0x261)]||_0x248bbd['qwen_parent_id']||_0x248bbd[_0x4619f5(0x361)]||_0x2d04b9||'')['trim']();_0x3ade86&&(_0x50140d[_0x4619f5(0x261)]=_0x3ade86);try{return await _0x4d88cb(_0x575e58['id'],_0x50140d);}catch(_0x36e26b){return console[_0x4619f5(0x3d6)](_0x4619f5(0x422),_0x36e26b&&_0x36e26b[_0x4619f5(0x42f)]?_0x36e26b[_0x4619f5(0x42f)]:_0x36e26b),_0x575e58;}}function _0x30b1b6(){const _0x328bc8=_0x49dfbd;_0xcaeace[_0x328bc8(0x25e)]&&(_0x155e88(),_0xcaeace[_0x328bc8(0x25e)][_0x328bc8(0x442)]());}function _0x3f06f3(_0x2fc225){const _0x283f50=_0x49dfbd,_0x27bfa0=_0x2fc225['target'][_0x283f50(0x4ff)](_0x283f50(0x3af));if(_0x27bfa0){_0x2fc225['preventDefault'](),_0x2fc225['stopPropagation']();const _0x523d38=_0x27bfa0[_0x283f50(0x1c7)]('data-thread-delete');_0x4c70a2(null),_0x1c8293(_0x523d38)[_0x283f50(0x24b)](function(_0x2c908b){const _0x1390ae=_0x283f50;_0xc0a02c(_0x2c908b[_0x1390ae(0x42f)]||_0x1390ae(0x380),_0x1390ae(0x414));});return;}const _0x18ef47=_0x2fc225[_0x283f50(0x319)][_0x283f50(0x4ff)](_0x283f50(0x1ca));if(_0x18ef47){_0x2fc225[_0x283f50(0x540)](),_0x2fc225[_0x283f50(0x255)]();const _0x363774=_0x18ef47[_0x283f50(0x1c7)](_0x283f50(0x3c4));_0x4c70a2(_0xcaeace[_0x283f50(0x44e)]===_0x363774?null:_0x363774);return;}const _0x4ea7dc=_0x2fc225[_0x283f50(0x319)][_0x283f50(0x4ff)](_0x283f50(0x3bd));!_0x4ea7dc||_0xcaeace['busy']||(_0x4c70a2(null),_0x36ba8b(_0x283f50(0x449)),_0x384147(_0x4ea7dc[_0x283f50(0x1c7)](_0x283f50(0x2b1)))[_0x283f50(0x24b)](function(_0x583be9){const _0x1b0600=_0x283f50;_0xc0a02c(_0x583be9[_0x1b0600(0x42f)]||'Unable\x20to\x20open\x20the\x20thread.',_0x1b0600(0x414));}));}async function _0x5eca5c(){const _0x113b08=_0x49dfbd,_0x49f044=_0x1ace65();if(!_0x49f044||_0xcaeace[_0x113b08(0x2d2)])return;const _0x3ed4e7=window[_0x113b08(0x311)](_0x113b08(0x20f),_0x49f044[_0x113b08(0x276)]||'New\x20chat');if(!_0x3ed4e7)return;const _0xda7601=_0x3ed4e7[_0x113b08(0x2b7)]();if(!_0xda7601){_0xc0a02c(_0x113b08(0x275),_0x113b08(0x414));return;}try{await _0x4d88cb(_0x49f044['id'],{'title':_0xda7601,'title_source':_0x113b08(0x2c5),'updated_at':new Date()[_0x113b08(0x4ab)]()}),_0xc0a02c('Chat\x20renamed.',_0x113b08(0x211));}catch(_0x1f74df){_0xc0a02c(_0x1f74df[_0x113b08(0x42f)]||_0x113b08(0x39c),'error');}}async function _0x4a1362(){const _0x161765=_0x49dfbd,_0x2b9ec8=_0x1ace65();if(!(!_0x2b9ec8||_0xcaeace[_0x161765(0x2d2)]))try{await _0x4d88cb(_0x2b9ec8['id'],{'pinned':!_0x2b9ec8[_0x161765(0x40b)],'updated_at':new Date()[_0x161765(0x4ab)]()}),_0xc0a02c(_0x2b9ec8[_0x161765(0x40b)]?_0x161765(0x428):_0x161765(0x318),_0x161765(0x211));}catch(_0x50091e){_0xc0a02c(_0x50091e[_0x161765(0x42f)]||_0x161765(0x4f0),_0x161765(0x414));}}function _0x535bee(){const _0x19d84e=_0x49dfbd,_0x3fdcbc=_0x1ace65();_0x3fdcbc&&_0x25f1ab['downloadJson']((_0x3fdcbc[_0x19d84e(0x276)]||_0x19d84e(0x449))[_0x19d84e(0x202)]()[_0x19d84e(0x267)](/[^a-z0-9]+/g,'-')+_0x19d84e(0x43b),{'exported_at':new Date()['toISOString'](),'thread':_0x3fdcbc,'messages':_0xcaeace[_0x19d84e(0x38b)]});}async function _0xa3f161(){const _0x1e412b=_0x49dfbd,_0x48424e=_0x1ace65();if(!_0x48424e||_0xcaeace[_0x1e412b(0x2d2)])return;const _0xbc6ec9=_0x52ee04(),_0x1421f5=await _0x25f1ab[_0x1e412b(0x1da)](_0xbc6ec9);await _0x4d88cb(_0x48424e['id'],{'last_trace':_0x16c56c(_0x48424e,_0x1421f5),'updated_at':new Date()[_0x1e412b(0x4ab)]()});const _0x361edb=_0x46d83d(_0x48424e['id'],_0xbc6ec9);try{await navigator['clipboard'][_0x1e412b(0x547)](_0x361edb),_0xc0a02c(_0x1e412b(0x3c9),_0x1e412b(0x211));}catch{window[_0x1e412b(0x311)](_0x1e412b(0x436),_0x361edb),_0xc0a02c('Secure\x20share\x20link\x20ready.\x20Copy\x20it\x20from\x20the\x20prompt.',_0x1e412b(0x4d8));}}function _0x2ebaa2(_0x178b9c){const _0x5a23da=_0x49dfbd,_0xa0b49a=_0x178b9c&&_0x178b9c[_0x5a23da(0x42f)]?_0x178b9c[_0x5a23da(0x42f)]:String(_0x178b9c||'');return/\b404\b|not found|does not exist/i['test'](_0xa0b49a);}async function _0x5c9556(_0x7692ff){const _0x1fa45f=_0x49dfbd,_0x58fa26=String(_0x7692ff||'')[_0x1fa45f(0x2b7)](),_0x1a10f5={};_0x1a10f5[_0x1fa45f(0x4bd)]=!0x1,_0x1a10f5['deleted']=!0x1,_0x1a10f5[_0x1fa45f(0x1e9)]=!0x0,_0x1a10f5[_0x1fa45f(0x295)]=_0x1fa45f(0x239);if(!_0x58fa26)return _0x1a10f5;const _0x1273d9={};_0x1273d9['attempted']=!0x1,_0x1273d9[_0x1fa45f(0x3d8)]=!0x1,_0x1273d9[_0x1fa45f(0x1e9)]=!0x0,_0x1273d9[_0x1fa45f(0x295)]=_0x1fa45f(0x328);if(!_0x3742f7[_0x1fa45f(0x412)](_0x107056()))return _0x1273d9;const _0x2232ce={};_0x2232ce['attempted']=!0x1,_0x2232ce[_0x1fa45f(0x3d8)]=!0x1,_0x2232ce[_0x1fa45f(0x1e9)]=!0x0,_0x2232ce[_0x1fa45f(0x295)]=_0x1fa45f(0x27a);if(typeof _0x3742f7[_0x1fa45f(0x388)]!=_0x1fa45f(0x2da))return _0x2232ce;try{const _0x6ade03={};return _0x6ade03[_0x1fa45f(0x4bd)]=!0x0,_0x6ade03[_0x1fa45f(0x3d8)]=!0x0,_0x6ade03[_0x1fa45f(0x1e9)]=!0x1,(await _0x3742f7[_0x1fa45f(0x388)]({'settings':_0x107056(),'sessionId':_0x58fa26}),_0x6ade03);}catch(_0x39dc7b){const _0x513ac4={};return _0x513ac4[_0x1fa45f(0x4bd)]=!0x0,_0x513ac4[_0x1fa45f(0x3d8)]=!0x0,_0x513ac4['skipped']=!0x1,_0x513ac4[_0x1fa45f(0x46d)]=!0x0,_0x2ebaa2(_0x39dc7b)?_0x513ac4:{'attempted':!0x0,'deleted':!0x1,'skipped':!0x1,'error':_0x39dc7b};}}function _0xafac77(_0x2bc30b){const _0x460df2=_0x49dfbd;if(String(_0x2bc30b&&_0x2bc30b[_0x460df2(0x253)]||'')[_0x460df2(0x2b7)]())return!0x1;const _0x4f8be6=!!String(_0x2bc30b&&_0x2bc30b['remote_parent_id']||'')[_0x460df2(0x2b7)](),_0x253d80=!!(_0x2bc30b&&_0x2bc30b['last_trace']&&typeof _0x2bc30b[_0x460df2(0x3e8)]==_0x460df2(0x1e1)&&Object[_0x460df2(0x2ef)](_0x2bc30b[_0x460df2(0x3e8)])[_0x460df2(0x403)]);return _0x4f8be6||_0x253d80;}async function _0x1c8293(_0x3f183d){const _0x5fdb4c=_0x49dfbd,_0x5da4c7=_0xcaeace[_0x5fdb4c(0x36a)][_0x5fdb4c(0x546)](function(_0x444b7b){return String(_0x444b7b['id'])===String(_0x3f183d||'');});if(!_0x5da4c7||_0xcaeace['busy']||!window['confirm']('Delete\x20\x22'+(_0x5da4c7[_0x5fdb4c(0x276)]||_0x5fdb4c(0x43c))+'\x22?'))return;const _0x5e390c=String(_0x5da4c7[_0x5fdb4c(0x253)]||'')[_0x5fdb4c(0x2b7)](),_0x8b8567=_0xafac77(_0x5da4c7),_0x49c0ac=await _0x1f9d0d[_0x5fdb4c(0x205)](_0x5fdb4c(0x4c1))[_0x5fdb4c(0x32f)]()['eq']('id',_0x5da4c7['id']);if(_0x49c0ac[_0x5fdb4c(0x414)]){_0xc0a02c(_0x49c0ac[_0x5fdb4c(0x414)][_0x5fdb4c(0x42f)]||_0x5fdb4c(0x380),_0x5fdb4c(0x414));return;}const _0x546348=String(_0xcaeace[_0x5fdb4c(0x376)]||'')===String(_0x5da4c7['id']);if(_0xa79de9(_0x5da4c7['id']),_0xcaeace[_0x5fdb4c(0x44e)]=null,_0x546348){const _0x4692fa=_0xcaeace['threads'][0x0]||null;if(_0x4692fa)try{await _0x384147(_0x4692fa['id']);}catch{_0xcaeace[_0x5fdb4c(0x376)]=null,_0xcaeace[_0x5fdb4c(0x38b)]=[],_0xcaeace[_0x5fdb4c(0x520)]={},_0xcaeace['visibleMessages']=[],_0xcaeace[_0x5fdb4c(0x420)]={},_0xcaeace[_0x5fdb4c(0x38c)]={},_0xcaeace[_0x5fdb4c(0x353)]={},_0xcaeace[_0x5fdb4c(0x1c9)]={},_0x25f1ab[_0x5fdb4c(0x31f)](_0x3590f6(),null),_0x347924(),_0x5265eb(),_0x26ae92(),_0x2c95ff(),_0xc0a02c(_0x5fdb4c(0x38d),_0x5fdb4c(0x4d8));}else _0xcaeace[_0x5fdb4c(0x376)]=null,_0xcaeace[_0x5fdb4c(0x38b)]=[],_0xcaeace['reasoningExpanded']={},_0xcaeace[_0x5fdb4c(0x418)]=[],_0xcaeace['messageVariantMeta']={},_0xcaeace[_0x5fdb4c(0x38c)]={},_0xcaeace['turnVariantMembers']={},_0xcaeace[_0x5fdb4c(0x1c9)]={},_0x25f1ab[_0x5fdb4c(0x31f)](_0x3590f6(),null),_0x347924(),_0x5265eb(),_0x26ae92(),_0x2c95ff(),_0x1e74e3('idle',_0x5fdb4c(0x283));}else _0x347924(),_0x39dd5d();if(_0xc0a02c(_0x5fdb4c(0x51e),'success'),!_0x5e390c){_0x8b8567&&_0xc0a02c(_0x5fdb4c(0x3ff),_0x5fdb4c(0x4d8));return;}_0x5c9556(_0x5e390c)[_0x5fdb4c(0x3bb)](function(_0x3bcf7e){const _0x3662f6=_0x5fdb4c;if(_0x3bcf7e[_0x3662f6(0x4bd)]&&!_0x3bcf7e[_0x3662f6(0x3d8)]){console[_0x3662f6(0x3d6)](_0x3662f6(0x1c1),_0x3bcf7e[_0x3662f6(0x414)]);const _0x417cf7=_0x3bcf7e[_0x3662f6(0x414)]&&_0x3bcf7e[_0x3662f6(0x414)][_0x3662f6(0x42f)]?_0x3bcf7e[_0x3662f6(0x414)][_0x3662f6(0x42f)]:_0x3662f6(0x451);_0xc0a02c('Chat\x20deleted\x20locally.\x20'+_0x417cf7,_0x3662f6(0x414));return;}_0x3bcf7e[_0x3662f6(0x1e9)]&&_0xc0a02c('Chat\x20deleted\x20locally.\x20Qwen\x20cleanup\x20was\x20skipped.',_0x3662f6(0x4d8));})[_0x5fdb4c(0x24b)](function(_0x44a838){const _0x227df2=_0x5fdb4c;_0xc0a02c(_0x227df2(0x4fb)+(_0x44a838&&_0x44a838['message']?_0x44a838[_0x227df2(0x42f)]:'unknown\x20error.'),_0x227df2(0x414));});}async function _0x214383(){const _0x3e60e3=_0x1ace65();if(_0x3e60e3)return _0x1c8293(_0x3e60e3['id']);}function _0x17b46c(_0x2f3983,_0x2697f7){const _0x3641b0=_0x49dfbd,_0x1f254f=String(_0x2f3983||'')[_0x3641b0(0x2b7)](),_0x4b926a=_0x2697f7===_0x3641b0(0x504)?_0x3641b0(0x504):_0x3641b0(0x536),_0x145e18=_0xcaeace['messageTurnKeyById'][_0x1f254f];if(!_0x145e18)return;const _0x427a49=Array[_0x3641b0(0x4ee)](_0xcaeace[_0x3641b0(0x353)][_0x145e18])?_0xcaeace['turnVariantMembers'][_0x145e18]['slice']():[];if(_0x427a49[_0x3641b0(0x403)]<=0x1)return;const _0x4b2747=String(_0xcaeace[_0x3641b0(0x1c9)][_0x145e18]||_0x1f254f)[_0x3641b0(0x2b7)](),_0x49d96c=_0x427a49[_0x3641b0(0x389)](_0x4b2747);if(_0x49d96c===-0x1){_0xcaeace[_0x3641b0(0x1c9)][_0x145e18]=_0x427a49[_0x427a49['length']-0x1],_0x5265eb(),_0x26ae92();return;}const _0x82ff77=_0x4b926a===_0x3641b0(0x504)?Math[_0x3641b0(0x25b)](0x0,_0x49d96c-0x1):Math[_0x3641b0(0x40c)](_0x427a49[_0x3641b0(0x403)]-0x1,_0x49d96c+0x1);_0x82ff77!==_0x49d96c&&(_0xcaeace[_0x3641b0(0x1c9)][_0x145e18]=_0x427a49[_0x82ff77],_0x5265eb(),_0x26ae92());}function _0x2d6022(_0x2e5a5b){const _0x5a6241=_0x49dfbd,_0x2c97a3=_0x2e5a5b[_0x5a6241(0x319)][_0x5a6241(0x4ff)](_0x5a6241(0x4ca));if(_0x2c97a3){const _0x298f54=_0x2c97a3[_0x5a6241(0x1c7)](_0x5a6241(0x2f8)),_0x5f2ed7=_0xcaeace[_0x5a6241(0x38b)][_0x5a6241(0x546)](function(_0x3517c3){return _0x3517c3['id']===_0x298f54;});if(!_0x5f2ed7)return;_0xcaeace['busy']&&_0x3e9519(),_0xcaeace[_0x5a6241(0x520)][_0x298f54]=!_0x5634b0(_0x5f2ed7);const _0x12708a=_0x297f89(_0x298f54);_0x12708a?_0x2f6929(_0x12708a,_0x5f2ed7):_0x57b637(_0x5f2ed7);return;}const _0x572c2f=_0x2e5a5b[_0x5a6241(0x319)][_0x5a6241(0x4ff)]('[data-message-version-nav]');if(_0x572c2f){const _0x5ba1d4=_0x572c2f['getAttribute'](_0x5a6241(0x2e6)),_0x186ae1=_0x572c2f[_0x5a6241(0x1c7)](_0x5a6241(0x38e));_0x17b46c(_0x5ba1d4,_0x186ae1);return;}const _0x5da64d=_0x2e5a5b[_0x5a6241(0x319)][_0x5a6241(0x4ff)](_0x5a6241(0x3ed));if(_0x5da64d){const _0x285731=_0x5da64d[_0x5a6241(0x1c7)](_0x5a6241(0x47f));if(_0xcaeace[_0x5a6241(0x2d2)]){_0xc0a02c(_0x5a6241(0x2d5),_0x5a6241(0x4d8));return;}_0x30cbc1(_0x285731)[_0x5a6241(0x24b)](function(_0x2d097c){const _0xa57961=_0x5a6241;_0xc0a02c(_0x2d097c&&_0x2d097c[_0xa57961(0x42f)]?_0x2d097c[_0xa57961(0x42f)]:'Unable\x20to\x20regenerate\x20this\x20reply.','error');});return;}const _0x4e239b=_0x2e5a5b[_0x5a6241(0x319)][_0x5a6241(0x4ff)](_0x5a6241(0x222));if(_0x4e239b){const _0x4d0d1d=_0x4e239b[_0x5a6241(0x4ff)](_0x5a6241(0x2ce)),_0x1d2da2=_0x4d0d1d?_0x4d0d1d[_0x5a6241(0x455)](_0x5a6241(0x4f3)):null,_0x356322=_0x1d2da2&&_0x1d2da2[_0x5a6241(0x381)]?_0x1d2da2[_0x5a6241(0x381)]:'';if(!_0x356322){_0xc0a02c('Nothing\x20to\x20copy.',_0x5a6241(0x414));return;}navigator[_0x5a6241(0x409)][_0x5a6241(0x547)](_0x356322)[_0x5a6241(0x3bb)](function(){const _0x2bbbd6=_0x5a6241;_0x4e239b[_0x2bbbd6(0x381)]='Copied',window[_0x2bbbd6(0x4a8)](function(){const _0x2bfd73=_0x2bbbd6;document[_0x2bfd73(0x230)][_0x2bfd73(0x233)](_0x4e239b)&&(_0x4e239b[_0x2bfd73(0x381)]='Copy');},0x578);})[_0x5a6241(0x24b)](function(){const _0x3058aa=_0x5a6241;_0xc0a02c(_0x3058aa(0x33d),_0x3058aa(0x414));});return;}const _0x71d033=_0x2e5a5b[_0x5a6241(0x319)][_0x5a6241(0x4ff)](_0x5a6241(0x52b));if(!_0x71d033)return;const _0xa3f95e=_0x71d033[_0x5a6241(0x1c7)](_0x5a6241(0x22d)),_0x3442a8=_0xcaeace[_0x5a6241(0x38b)][_0x5a6241(0x546)](function(_0x24fda7){return _0x24fda7['id']===_0xa3f95e;}),_0x4b6f30=_0x3442a8&&_0x3442a8[_0x5a6241(0x512)]&&Array[_0x5a6241(0x4ee)](_0x3442a8[_0x5a6241(0x512)]['generated_images'])?_0x3442a8['meta'][_0x5a6241(0x518)]:[],_0x1506b3=_0x3442a8&&_0x3442a8[_0x5a6241(0x4a7)]?_0x3442a8['content']:_0x4b6f30[_0x5a6241(0x3c7)](function(_0x3ba8fb){const _0x4f7ce2=_0x5a6241;return _0x3ba8fb&&_0x3ba8fb[_0x4f7ce2(0x26d)]?_0x3ba8fb[_0x4f7ce2(0x26d)]:String(_0x3ba8fb||'');})[_0x5a6241(0x481)](Boolean)['join']('\x0a');if(!_0x3442a8||!_0x1506b3){_0xc0a02c(_0x5a6241(0x290),_0x5a6241(0x414));return;}navigator[_0x5a6241(0x409)][_0x5a6241(0x547)](_0x1506b3)[_0x5a6241(0x3bb)](function(){const _0x4c2e76=_0x5a6241;_0xc0a02c(_0x4c2e76(0x4e7),_0x4c2e76(0x211));})[_0x5a6241(0x24b)](function(){const _0x11a8b4=_0x5a6241;_0xc0a02c(_0x11a8b4(0x33d),'error');});}function _0x4a62ef(_0x3abb6d){const _0x2bb45c=_0x49dfbd,_0x58e39b=_0x3abb6d['target'][_0x2bb45c(0x4ff)]('[data-quick-prompt]');_0x58e39b&&(_0x1b8bcf[_0x2bb45c(0x237)][_0x2bb45c(0x1c6)]=_0x58e39b[_0x2bb45c(0x1c7)](_0x2bb45c(0x1fe))||'',_0x25f1ab[_0x2bb45c(0x39e)](_0x1b8bcf[_0x2bb45c(0x237)]),_0xa198b6(),_0x1b8bcf[_0x2bb45c(0x237)][_0x2bb45c(0x229)]());}function _0x519b0a(_0x5896ff){const _0x50e83c=_0x49dfbd,_0x34e61f=Array[_0x50e83c(0x4ee)](_0x5896ff)?_0x5896ff[_0x50e83c(0x3c7)](function(_0x996bf3){const _0x1b77aa=_0x50e83c;return _0x47c44a({'localId':_0x1b77aa(0x245)+_0x25f1ab[_0x1b77aa(0x53f)](),'name':_0x996bf3&&_0x996bf3[_0x1b77aa(0x51c)]?_0x996bf3[_0x1b77aa(0x51c)]:'Attachment','size':_0x996bf3&&_0x996bf3['size']?_0x996bf3[_0x1b77aa(0x217)]:0x0,'type':_0x996bf3&&typeof _0x996bf3[_0x1b77aa(0x3e7)]=='string'&&_0x996bf3[_0x1b77aa(0x3e7)][_0x1b77aa(0x202)]()[_0x1b77aa(0x246)](_0x1b77aa(0x264))?'image':_0x1b77aa(0x259),'status':_0x1b77aa(0x2f3)});}):[];return _0xcaeace[_0x50e83c(0x331)]=_0xcaeace[_0x50e83c(0x331)][_0x50e83c(0x43f)](_0x34e61f),_0x540d52(),_0x34e61f;}async function _0x4375a2(_0x77af34){const _0x3559e2=_0x49dfbd,_0x17bf19=Array[_0x3559e2(0x4ee)](_0x77af34)?_0x77af34['filter'](Boolean):[];if(!_0x17bf19[_0x3559e2(0x403)])return;const _0x8d611d=_0x519b0a(_0x17bf19),_0x5d83bd=_0x8d611d[_0x3559e2(0x3c7)](function(_0x566372){return _0x566372['localId'];});try{const _0x42451c={};_0x42451c['silent']=!0x0,await _0x181512(_0x42451c);const _0x3ca2ac=await _0x3742f7[_0x3559e2(0x548)]({'settings':_0x107056(),'files':_0x17bf19}),_0x3f65c0=Array[_0x3559e2(0x4ee)](_0x3ca2ac&&_0x3ca2ac[_0x3559e2(0x4d7)])?_0x3ca2ac[_0x3559e2(0x4d7)]:[],_0x431f08=Array[_0x3559e2(0x4ee)](_0x3ca2ac&&_0x3ca2ac[_0x3559e2(0x21a)])?_0x3ca2ac[_0x3559e2(0x21a)]:[];if(_0xcaeace[_0x3559e2(0x331)]=_0xcaeace[_0x3559e2(0x331)]['filter'](function(_0x417fb0){const _0x3c621a=_0x3559e2;return _0x5d83bd[_0x3c621a(0x389)](_0x417fb0[_0x3c621a(0x2e5)])===-0x1;}),_0x3f65c0[_0x3559e2(0x417)](function(_0x34e13a,_0x15f572){const _0x196d7c=_0x3559e2,_0x43a74b=Number[_0x196d7c(0x485)](Number(_0x34e13a[_0x196d7c(0x3a8)]))?Number(_0x34e13a[_0x196d7c(0x3a8)]):_0x15f572,_0x1a5fe5=_0x8d611d[_0x43a74b]||_0x8d611d[_0x15f572]||{};_0xcaeace[_0x196d7c(0x49c)][_0x196d7c(0x474)](_0x47c44a(Object[_0x196d7c(0x30c)]({},_0x1a5fe5,_0x34e13a,{'localId':_0x1a5fe5['localId']||_0x196d7c(0x245)+_0x25f1ab[_0x196d7c(0x53f)](),'status':_0x196d7c(0x20e)})));}),_0x431f08[_0x3559e2(0x417)](function(_0x556b67,_0x27f43d){const _0x528ca6=_0x3559e2,_0x30df56=Number[_0x528ca6(0x485)](Number(_0x556b67[_0x528ca6(0x3a8)]))?Number(_0x556b67['index']):_0x3f65c0['length']+_0x27f43d,_0x2b6dc8=_0x8d611d[_0x30df56]||_0x8d611d[_0x27f43d]||{};_0xcaeace['pendingAttachments'][_0x528ca6(0x474)](_0x47c44a(Object['assign']({},_0x2b6dc8,_0x556b67,{'localId':_0x2b6dc8[_0x528ca6(0x2e5)]||_0x528ca6(0x245)+_0x25f1ab[_0x528ca6(0x53f)](),'status':_0x528ca6(0x414)})));}),_0x540d52(),_0x3f65c0['length']&&_0xc0a02c(_0x3f65c0['length']===0x1?_0x3559e2(0x2b8):_0x3f65c0[_0x3559e2(0x403)]+_0x3559e2(0x400),_0x3559e2(0x211)),_0x431f08[_0x3559e2(0x403)]){const _0x2cc622=_0x431f08[0x0]&&(_0x431f08[0x0][_0x3559e2(0x414)]||_0x431f08[0x0][_0x3559e2(0x42f)]);_0xc0a02c(_0x2cc622?'Attachment\x20upload\x20failed:\x20'+_0x2cc622:_0x3559e2(0x488),_0x3559e2(0x414));}}catch(_0x48b4ee){_0xcaeace['uploadingAttachments']=_0xcaeace[_0x3559e2(0x331)][_0x3559e2(0x481)](function(_0x2cc02a){const _0x1450d9=_0x3559e2;return _0x5d83bd[_0x1450d9(0x389)](_0x2cc02a[_0x1450d9(0x2e5)])===-0x1;}),_0x8d611d['forEach'](function(_0x2c8080){const _0x580417=_0x3559e2,_0x27eac3={};_0x27eac3[_0x580417(0x372)]=_0x580417(0x414),_0x27eac3[_0x580417(0x414)]=_0x48b4ee&&_0x48b4ee[_0x580417(0x42f)]?_0x48b4ee[_0x580417(0x42f)]:_0x580417(0x533),_0xcaeace[_0x580417(0x49c)]['push'](_0x47c44a(Object[_0x580417(0x30c)]({},_0x2c8080,_0x27eac3)));}),_0x540d52(),_0xc0a02c(_0x48b4ee&&_0x48b4ee[_0x3559e2(0x42f)]?_0x48b4ee[_0x3559e2(0x42f)]:'Unable\x20to\x20upload\x20the\x20attachment.','error');}}function _0x40bf70(){const _0x3dc9ff=_0x49dfbd;if(!(!_0x1b8bcf[_0x3dc9ff(0x476)]||_0xcaeace[_0x3dc9ff(0x2d2)])){if(_0x1f65ea()===_0x3dc9ff(0x1d3)){_0xc0a02c(_0x3dc9ff(0x491),_0x3dc9ff(0x4d8));return;}_0x4833e9(!0x1),_0x1b8bcf['composerFileInput'][_0x3dc9ff(0x2a2)]();}}function _0x1b1fd2(_0x4bc98b){const _0x41cb41=_0x49dfbd,_0x2cfa64=Array[_0x41cb41(0x205)](_0x4bc98b['target']['files']||[]);_0x4bc98b[_0x41cb41(0x319)]['value']='',_0x4375a2(_0x2cfa64)[_0x41cb41(0x24b)](function(_0x2c624e){const _0x2faff0=_0x41cb41;_0xc0a02c(_0x2c624e&&_0x2c624e[_0x2faff0(0x42f)]?_0x2c624e[_0x2faff0(0x42f)]:_0x2faff0(0x1dd),'error');});}function _0x59c78d(_0x221d86){const _0x7f472f=_0x49dfbd,_0x44e208=_0x221d86[_0x7f472f(0x319)][_0x7f472f(0x4ff)]('[data-remove-attachment]');_0x44e208&&(_0x7999c(_0x44e208[_0x7f472f(0x1c7)](_0x7f472f(0x24e))),_0x540d52());}function _0xbc71cf(_0x5c9cef){const _0x486bad=_0x49dfbd;_0xcaeace[_0x486bad(0x3f2)]['enterToSend']&&_0x5c9cef[_0x486bad(0x2c8)]===_0x486bad(0x39d)&&!_0x5c9cef['shiftKey']&&(_0x5c9cef[_0x486bad(0x540)](),_0x1b8bcf[_0x486bad(0x274)][_0x486bad(0x3d2)]());}function _0x1ad9d9(){const _0x235504=_0x49dfbd;_0xcaeace[_0x235504(0x2d2)]||_0x1f65ea()!==_0x235504(0x449)||_0x4833e9(!_0xcaeace[_0x235504(0x1c0)]);}function _0x5b7833(_0xf54d38){const _0x4853e4=_0x49dfbd,_0x11236a=_0xf54d38[_0x4853e4(0x319)]['closest']('[data-composer-mode]');_0x11236a&&_0x1c6351(_0x11236a[_0x4853e4(0x1c7)](_0x4853e4(0x35f)));}function _0xa7473b(){const _0x56d18a=_0x49dfbd;_0x1b8bcf[_0x56d18a(0x40e)]&&(_0x54159c(_0x1f65ea(),_0x1b8bcf[_0x56d18a(0x40e)][_0x56d18a(0x1c6)]),_0x541fda());}function _0xd004f4(_0x5dfed2){const _0x11855e=_0x49dfbd,_0x312159=_0x5dfed2[_0x11855e(0x319)]['closest'](_0x11855e(0x477));if(!_0x312159||_0xcaeace[_0x11855e(0x2d2)])return;const _0x3c9235=_0x312159[_0x11855e(0x1c7)](_0x11855e(0x427));_0x3cf166(_0x3c9235),_0x3c9235==='image'&&_0x4f783e()>0x0&&_0xc0a02c(_0x11855e(0x382),_0x11855e(0x4d8));}function _0xb88f45(_0x2d779f){const _0x296f11=_0x49dfbd;_0xcaeace[_0x296f11(0x1c0)]&&_0x1b8bcf[_0x296f11(0x360)]&&!_0x1b8bcf[_0x296f11(0x360)][_0x296f11(0x233)](_0x2d779f[_0x296f11(0x319)])&&_0x4833e9(!0x1),_0xcaeace[_0x296f11(0x1c3)]&&_0x1b8bcf['railProfileMenu']&&_0x1b8bcf[_0x296f11(0x3a7)]&&!_0x1b8bcf[_0x296f11(0x448)]['contains'](_0x2d779f[_0x296f11(0x319)])&&!_0x1b8bcf['sidebarProfileBtn'][_0x296f11(0x233)](_0x2d779f[_0x296f11(0x319)])&&_0x53fb39(!0x1),_0xcaeace[_0x296f11(0x44e)]&&_0x1b8bcf[_0x296f11(0x263)]&&!_0x1b8bcf[_0x296f11(0x263)][_0x296f11(0x233)](_0x2d779f[_0x296f11(0x319)])&&_0x4c70a2(null);}function _0x42ad91(_0x3ccd32){const _0x20391d=_0x49dfbd;_0x3ccd32[_0x20391d(0x2c8)]===_0x20391d(0x342)&&_0xcaeace['composerModeMenuOpen']&&_0x4833e9(!0x1),_0x3ccd32['key']==='Escape'&&_0xcaeace[_0x20391d(0x1c3)]&&_0x53fb39(!0x1),_0x3ccd32['key']==='Escape'&&_0xcaeace[_0x20391d(0x44e)]&&_0x4c70a2(null);}function _0x502bd6(){const _0x5e2a02=_0x49dfbd,_0x308082=_0x1b8bcf[_0x5e2a02(0x38b)][_0x5e2a02(0x1fb)],_0x467ef3=_0x308082<_0xcaeace[_0x5e2a02(0x4d0)]-0x2;if(_0xcaeace[_0x5e2a02(0x4d0)]=_0x308082,_0x467ef3){_0x3e9519();return;}if(_0x4b681e()){_0xcaeace['isAutoFollow']=!0x0,_0xcaeace[_0x5e2a02(0x3a5)]=!0x1,_0xdda558();return;}_0xcaeace[_0x5e2a02(0x50c)]=!0x1,_0xcaeace[_0x5e2a02(0x2d2)]&&(_0xcaeace[_0x5e2a02(0x3a5)]=!0x0,_0xdda558());}function _0xb1e55c(_0x4e53c5){const _0x1017eb=_0x49dfbd;_0xcaeace[_0x1017eb(0x2d2)]&&_0x4e53c5[_0x1017eb(0x537)]<0x0&&_0x3e9519();}function _0x411a6c(){const _0x134f10=_0x49dfbd;_0xcaeace['touchScrollStartTop']=_0x1b8bcf['messages']?_0x1b8bcf['messages'][_0x134f10(0x1fb)]:0x0;}function _0x469641(){const _0x2512b1=_0x49dfbd;!_0xcaeace[_0x2512b1(0x2d2)]||!_0x1b8bcf[_0x2512b1(0x38b)]||_0x1b8bcf['messages'][_0x2512b1(0x1fb)]<_0xcaeace[_0x2512b1(0x1de)]-0x2&&_0x3e9519();}function _0xd45cb3(){const _0x56e151=_0x49dfbd,_0x8f98cd={};_0x8f98cd[_0x56e151(0x37d)]=!0x0,_0x8f98cd[_0x56e151(0x3e2)]=_0x56e151(0x486),_0x2c95ff(_0x8f98cd);}function _0x1773e1(){const _0x85117e=_0x49dfbd,_0x58d1f0={};_0x58d1f0[_0x85117e(0x208)]=!0x0,_0xcaeace[_0x85117e(0x2d2)]||(_0x4833e9(!0x1),_0xcaeace[_0x85117e(0x44e)]=null,_0xcaeace['activeThreadId']=null,_0xcaeace[_0x85117e(0x38b)]=[],_0xcaeace['reasoningExpanded']={},_0xcaeace[_0x85117e(0x418)]=[],_0xcaeace[_0x85117e(0x420)]={},_0xcaeace[_0x85117e(0x38c)]={},_0xcaeace[_0x85117e(0x353)]={},_0xcaeace[_0x85117e(0x1c9)]={},_0x59dc9a(null),_0x25f1ab['setStoredValue'](_0x3590f6(),null),_0x347924(),_0x5265eb(),_0x26ae92(),_0x2c95ff(),_0x1e74e3(_0x85117e(0x387),_0x85117e(0x4ac)),_0x36ba8b(_0x85117e(0x449),_0x58d1f0));}async function _0x5664c8(){const _0x8cd0a8=_0x49dfbd,_0x19e5d5=_0x1ace65();if(!(!_0x19e5d5||_0xcaeace[_0x8cd0a8(0x2d2)]))try{await _0x4d88cb(_0x19e5d5['id'],{'remote_session_id':null,'remote_parent_id':null,'last_trace':_0x2aba9b(_0x19e5d5,{}),'updated_at':new Date()[_0x8cd0a8(0x4ab)]()}),_0x1e74e3(_0x8cd0a8(0x4c5),_0x8cd0a8(0x247)),_0xc0a02c(_0x8cd0a8(0x386),'success');}catch(_0x443465){_0xc0a02c(_0x443465['message']||_0x8cd0a8(0x4c4),_0x8cd0a8(0x414));}}async function _0x564eac(_0x216117,_0x43678e){const _0x1c51c9=_0x49dfbd,_0xa39d16={};_0xa39d16['selected']=!0x1;const _0x359882=Object['assign'](_0xa39d16,_0x43678e||{}),_0x327f6f=_0x1ace65();if(!_0x327f6f||!_0x216117||_0xcaeace[_0x1c51c9(0x2d2)])return;const _0x4c04c3=_0x216117[_0x1c51c9(0x38f)]||_0x1c51c9(0x449),_0xde86bc=_0x216117['model']||_0x1b8330(_0x4c04c3),_0x522113=_0x216117[_0x1c51c9(0x4da)]||_0x5d2c66(_0x4c04c3,_0xde86bc),_0x319645=_0x4c04c3==='chat'?_0x1a8002(_0x327f6f,_0x216117):null;if(_0x4c04c3===_0x1c51c9(0x449)&&!_0x319645){_0xc0a02c(_0x1c51c9(0x22b),'error');return;}const _0x48b710={};_0x48b710[_0x1c51c9(0x311)]=_0x216117[_0x1c51c9(0x311)],_0x48b710[_0x1c51c9(0x4a9)]=_0x216117[_0x1c51c9(0x4a9)],_0x48b710[_0x1c51c9(0x38f)]=_0x4c04c3,_0x48b710[_0x1c51c9(0x53a)]=_0xde86bc,_0x48b710[_0x1c51c9(0x4da)]=_0x522113,_0x48b710[_0x1c51c9(0x4d4)]=_0x327f6f,_0x48b710[_0x1c51c9(0x238)]=_0x319645,_0x48b710[_0x1c51c9(0x452)]=!0x1,_0x48b710[_0x1c51c9(0x2bb)]=_0x216117[_0x1c51c9(0x2bb)],_0x48b710[_0x1c51c9(0x1eb)]=!0x1,_0x48b710[_0x1c51c9(0x425)]=_0x4c04c3===_0x1c51c9(0x1d3)?_0x1c51c9(0x3f1):_0x359882[_0x1c51c9(0x2a4)]?_0x1c51c9(0x41a):_0x1c51c9(0x4d6),_0x48b710[_0x1c51c9(0x492)]=_0x4c04c3===_0x1c51c9(0x1d3)?'Latest\x20image\x20regenerated.':_0x359882[_0x1c51c9(0x2a4)]?_0x1c51c9(0x25f):_0x1c51c9(0x3b2),await _0x587276(_0x48b710);}async function _0x30cbc1(_0x309197){const _0x396a1e=_0x49dfbd,_0x4f0dfc=_0xcaeace[_0x396a1e(0x3c1)]||_0x220d2b();if(!_0x4f0dfc||String(_0x309197||'')!==String(_0x4f0dfc)){_0xc0a02c(_0x396a1e(0x1be),'info');return;}const _0x21d68c=_0x2c9eb9(_0x309197),_0xb2b5f4={};_0xb2b5f4[_0x396a1e(0x2a4)]=!0x0,await _0x564eac(_0x21d68c,_0xb2b5f4);}async function _0x3f43da(){const _0x587485=_0x49dfbd,_0x2c8081=_0x2c9eb9(),_0x3cd24f={};_0x3cd24f[_0x587485(0x2a4)]=!0x1,await _0x564eac(_0x2c8081,_0x3cd24f);}async function _0x2812ed(){const _0x30f8bb=_0x49dfbd;if(_0xcaeace[_0x30f8bb(0x2d2)]||!_0xcaeace[_0x30f8bb(0x36a)][_0x30f8bb(0x403)])return;const _0x3f3f49=_0x1a6828(),_0x2961e0=_0x446ddd(),_0x43901f=_0x2961e0&&_0x2961e0[_0x30f8bb(0x51c)]?_0x2961e0[_0x30f8bb(0x51c)]:_0x30f8bb(0x50f),_0x4e5f70=_0x3f3f49===_0x30f8bb(0x316)?'normal\x20chats':_0x43901f+_0x30f8bb(0x2f5);if(!window[_0x30f8bb(0x39b)](_0x30f8bb(0x1ea)+_0x4e5f70+_0x30f8bb(0x542)))return;const _0x8096a0=_0xcaeace[_0x30f8bb(0x36a)][_0x30f8bb(0x29d)](),_0x53ad23=_0x8096a0[_0x30f8bb(0x3c7)](function(_0xe6a797){const _0x450cfb=_0x30f8bb;return String(_0xe6a797&&_0xe6a797['id']||'')[_0x450cfb(0x2b7)]();})[_0x30f8bb(0x481)](Boolean),_0x70970a=_0x8096a0[_0x30f8bb(0x3c7)](function(_0x30520e){const _0xc9c4bc=_0x30f8bb;return String(_0x30520e&&_0x30520e[_0xc9c4bc(0x253)]||'')[_0xc9c4bc(0x2b7)]();})[_0x30f8bb(0x481)](Boolean),_0x5c9d50=_0x8096a0[_0x30f8bb(0x481)](_0xafac77)['length'],_0x11c8eb={};_0x11c8eb[_0x30f8bb(0x414)]=null;let _0x29b9c6=_0x11c8eb;if(_0x53ad23[_0x30f8bb(0x403)]&&(_0x29b9c6=await _0x1f9d0d['from'](_0x30f8bb(0x4c1))[_0x30f8bb(0x32f)]()['in']('id',_0x53ad23)),_0x29b9c6[_0x30f8bb(0x414)]){_0xc0a02c(_0x29b9c6[_0x30f8bb(0x414)][_0x30f8bb(0x42f)]||_0x30f8bb(0x1d4),_0x30f8bb(0x414));return;}_0xcaeace[_0x30f8bb(0x36a)]=[],_0xcaeace[_0x30f8bb(0x376)]=null,_0xcaeace[_0x30f8bb(0x38b)]=[],_0xcaeace[_0x30f8bb(0x520)]={},_0xcaeace['visibleMessages']=[],_0xcaeace['messageVariantMeta']={},_0xcaeace[_0x30f8bb(0x38c)]={},_0xcaeace[_0x30f8bb(0x353)]={},_0xcaeace[_0x30f8bb(0x1c9)]={},_0xcaeace[_0x30f8bb(0x281)]='',_0x25f1ab['setStoredValue'](_0x3590f6(),null),_0x1b8bcf[_0x30f8bb(0x20c)][_0x30f8bb(0x1c6)]='',_0x347924(),_0x5265eb(),_0x26ae92(),_0x2c95ff();const _0x4b18d8=_0x3f3f49===_0x30f8bb(0x316)?'normal\x20chats':''+_0x43901f+_0x30f8bb(0x2c9);if(_0x1e74e3('idle','All\x20'+_0x4b18d8+_0x30f8bb(0x207)),_0x3f9431(_0x30f8bb(0x4bf)+_0x4b18d8+'\x20were\x20deleted.\x20Running\x20Qwen\x20cleanup\x20in\x20the\x20background...'),_0xc0a02c(_0x30f8bb(0x501)+_0x4b18d8+'\x20cleared.',_0x30f8bb(0x211)),!_0x70970a['length']&&_0x5c9d50===0x0){_0x3f9431();return;}Promise[_0x30f8bb(0x2f7)](_0x70970a[_0x30f8bb(0x3c7)](function(_0x42476f){return _0x5c9556(_0x42476f);}))['then'](function(_0x41873e){const _0x38edfd=_0x30f8bb,_0x124bfc=_0x41873e[_0x38edfd(0x481)](function(_0x5b706a){const _0x47d438=_0x38edfd;return _0x5b706a[_0x47d438(0x4bd)]&&!_0x5b706a['deleted'];})[_0x38edfd(0x403)],_0x46b5d5=_0x41873e['filter'](function(_0x27ff32){const _0x4a450d=_0x38edfd;return _0x27ff32[_0x4a450d(0x1e9)];})['length'],_0x45ff2a=[];if(_0x124bfc>0x0&&_0x45ff2a[_0x38edfd(0x474)](_0x124bfc+_0x38edfd(0x54c)),_0x46b5d5>0x0&&_0x45ff2a[_0x38edfd(0x474)](_0x46b5d5+_0x38edfd(0x369)),_0x5c9d50>0x0&&_0x45ff2a[_0x38edfd(0x474)](_0x5c9d50+'\x20chats\x20had\x20no\x20remote\x20session\x20ID'),!_0x45ff2a[_0x38edfd(0x403)]){_0x3f9431(_0x38edfd(0x4bf)+_0x4b18d8+_0x38edfd(0x20b));return;}const _0x47293e=_0x38edfd(0x4bf)+_0x4b18d8+_0x38edfd(0x4b3)+_0x45ff2a[_0x38edfd(0x356)](';\x20')+'.';_0x3f9431(_0x47293e),_0xc0a02c(_0x47293e,_0x124bfc>0x0?_0x38edfd(0x414):_0x38edfd(0x4d8));})[_0x30f8bb(0x24b)](function(_0x4051a3){const _0x11007f=_0x30f8bb,_0x2bb26d=_0x11007f(0x4bf)+_0x4b18d8+_0x11007f(0x413)+(_0x4051a3&&_0x4051a3[_0x11007f(0x42f)]?_0x4051a3[_0x11007f(0x42f)]:_0x11007f(0x235));_0x3f9431(_0x2bb26d),_0xc0a02c(_0x2bb26d,_0x11007f(0x414));});}async function _0x3ea5ea(_0x3b61e3){const _0x3a2165=_0x49dfbd;_0x3b61e3[_0x3a2165(0x540)]();const _0x5e0650=(_0x1b8bcf[_0x3a2165(0x51a)][_0x3a2165(0x1c6)]||'')[_0x3a2165(0x2b7)]();if(!_0x5e0650){_0xc0a02c(_0x3a2165(0x4cc),_0x3a2165(0x414));return;}_0x1b8bcf[_0x3a2165(0x218)][_0x3a2165(0x381)]=_0x3a2165(0x42c);const _0x3d3779={};_0x3d3779[_0x3a2165(0x34c)]=_0x5e0650;const _0x50030f=await _0x1f9d0d[_0x3a2165(0x299)](_0x3a2165(0x26b),_0x3d3779);if(_0x50030f[_0x3a2165(0x414)])throw new Error(/update_own_profile/i[_0x3a2165(0x541)](_0x50030f[_0x3a2165(0x414)][_0x3a2165(0x42f)]||'')?_0x3a2165(0x1e0):_0x50030f[_0x3a2165(0x414)][_0x3a2165(0x42f)]||_0x3a2165(0x45d));const _0x5b2f70={};_0x5b2f70[_0x3a2165(0x2f2)]=_0x5e0650;const _0x10d208={};_0x10d208[_0x3a2165(0x2d7)]=_0x5b2f70;const _0x510c8e=await _0x1f9d0d[_0x3a2165(0x3b6)][_0x3a2165(0x346)](_0x10d208);if(_0x510c8e[_0x3a2165(0x414)])throw new Error(_0x510c8e['error'][_0x3a2165(0x42f)]||_0x3a2165(0x423));const _0xe72395={};_0xe72395[_0x3a2165(0x2f2)]=_0x5e0650,(_0xcaeace[_0x3a2165(0x1f4)][_0x3a2165(0x23a)]=Object[_0x3a2165(0x30c)]({},_0xcaeace[_0x3a2165(0x1f4)][_0x3a2165(0x23a)],_0x50030f[_0x3a2165(0x2d7)]||{},_0xe72395),_0x53a4db(),_0x1b8bcf[_0x3a2165(0x218)][_0x3a2165(0x381)]=_0x3a2165(0x26c),_0xc0a02c(_0x3a2165(0x1f8),_0x3a2165(0x211)));}function _0x33f90c(_0x2a0f6c){const _0x51b471=_0x49dfbd;_0x2a0f6c[_0x51b471(0x540)](),_0xcaeace[_0x51b471(0x3f2)][_0x51b471(0x524)]=!!_0x1b8bcf[_0x51b471(0x344)][_0x51b471(0x416)],_0xcaeace['preferences']['showTimestamps']=!!_0x1b8bcf[_0x51b471(0x3dd)]['checked'],_0x2d765b(),_0x336caa(),_0x5265eb(),_0x1b8bcf[_0x51b471(0x20a)][_0x51b471(0x381)]=_0x51b471(0x2e2),_0xc0a02c('Preferences\x20updated.',_0x51b471(0x211));}function _0x2db7d2(){const _0x3429d9=_0x49dfbd,_0x5cbc77={};_0x5cbc77[_0x3429d9(0x3ea)]='settings',(_0xcaeace[_0x3429d9(0x3f2)]=Object[_0x3429d9(0x30c)]({},_0x523852,_0x5cbc77),_0x2d765b(),_0x2cbadb['setThemePreference'](window[_0x3429d9(0x525)]['constants']['WORKSPACE_THEME_VALUE']),_0x2cbadb[_0x3429d9(0x1f2)]({'settings':_0xcaeace[_0x3429d9(0x46c)],'authPage':!0x1,'allowWorkspaceDefault':!0x0}),_0x336caa(),_0x5265eb(),_0x1b8bcf[_0x3429d9(0x20a)][_0x3429d9(0x381)]=_0x3429d9(0x394),_0x1b8bcf['accountSettingsStatus'][_0x3429d9(0x381)]=_0x3429d9(0x45c),_0xc0a02c(_0x3429d9(0x394),_0x3429d9(0x211)));}async function _0x247106(){const _0x77cbf5=_0x49dfbd;if(!_0xcaeace[_0x77cbf5(0x1f4)]||_0xcaeace[_0x77cbf5(0x1f4)][_0x77cbf5(0x23a)][_0x77cbf5(0x1f5)]!==_0x77cbf5(0x494)||!_0x1b8bcf[_0x77cbf5(0x2f0)]||_0xcaeace[_0x77cbf5(0x24f)])return;const _0x3f6ce8=_0x1b8bcf[_0x77cbf5(0x2f0)]['querySelector']('[data-admin-el=\x22status-line\x22]');_0x3f6ce8&&(_0x3f6ce8[_0x77cbf5(0x381)]=_0x77cbf5(0x4f9));const _0x5383e6=await _0x37ca7d();if(!_0x5383e6||typeof _0x5383e6[_0x77cbf5(0x225)]!=_0x77cbf5(0x2da))throw new Error(_0x77cbf5(0x470));_0xcaeace['adminWorkspace']=_0x5383e6['create']({'root':_0x1b8bcf[_0x77cbf5(0x2f0)],'context':_0xcaeace[_0x77cbf5(0x1f4)],'initialSettings':_0xcaeace[_0x77cbf5(0x46c)],'notify':_0xc0a02c,'standalone':!0x1,'syncHash':!0x1,'defaultSection':_0x77cbf5(0x46c),'onBackToChat':function(){const _0x56c6da=_0x77cbf5,_0x7024b0={};_0x7024b0[_0x56c6da(0x208)]=!0x0,_0x36ba8b(_0x56c6da(0x449),_0x7024b0);},'onSettingsSaved':async function(_0x2d8c21){const _0x465701=_0x77cbf5,_0x1986e8=String(_0xcaeace[_0x465701(0x376)]||'')[_0x465701(0x2b7)](),_0x2e178d={};_0x2e178d[_0x465701(0x223)]=!0x0;const _0x44f101={};_0x44f101['persist']=!0x0;const _0x1e0b2d={};_0x1e0b2d['silent']=!0x0,(_0xcaeace[_0x465701(0x46c)]=_0x2d8c21,_0x431f88(_0x2e178d),_0xaf7a8d(_0x44f101),await _0x47cf46(),_0x1986e8&&_0xcaeace[_0x465701(0x36a)]['some'](function(_0x1d365e){return String(_0x1d365e['id'])===_0x1986e8;})?await _0x384147(_0x1986e8):(_0x59dc9a(null),await _0x1d0327()),await _0x181512(_0x1e0b2d),_0x25f1ab[_0x465701(0x329)](_0xcaeace[_0x465701(0x46c)]),_0x2cbadb[_0x465701(0x1f2)]({'settings':_0xcaeace[_0x465701(0x46c)],'authPage':!0x1,'allowWorkspaceDefault':!0x0}),_0x5265eb(),_0x26ae92(),_0x336caa(),_0x541fda(),_0xcaeace[_0x465701(0x2d2)]||_0x1e74e3(_0x3742f7[_0x465701(0x412)](_0x107056())?_0x465701(0x516):_0x465701(0x398),_0x3742f7[_0x465701(0x412)](_0x107056())?_0x465701(0x40d):'An\x20admin\x20still\x20needs\x20to\x20finish\x20the\x20assistant\x20runtime\x20setup.'),_0x48e7c5());}}),await _0xcaeace['adminWorkspace'][_0x77cbf5(0x2c1)]();}async function _0x346c77(){const _0x387dd6=_0x49dfbd,_0x4a7d45={};_0x4a7d45['authPage']=!0x1,_0x4a7d45['allowWorkspaceDefault']=!0x0;if(_0x3cacfb(!0x1),_0x13a59b(),_0x2cbadb[_0x387dd6(0x1f2)](_0x4a7d45),_0x25f1ab['applyBranding'](),!_0x570595['hasConfig']){_0x25f1ab[_0x387dd6(0x52a)]('Supabase\x20setup\x20missing',_0x570595[_0x387dd6(0x32e)](),_0x387dd6(0x29e),_0x387dd6(0x415));return;}const _0x675357=await _0x570595['guardPage']({});if(_0x675357){const _0x1c10fe={};_0x1c10fe[_0x387dd6(0x223)]=!0x0;const _0x5793f8={};_0x5793f8[_0x387dd6(0x223)]=!0x0;const _0x4cd136={};_0x4cd136[_0x387dd6(0x1df)]=!0x0,(_0xcaeace[_0x387dd6(0x1f4)]=_0x675357,_0x3e23ba(),_0xcaeace[_0x387dd6(0x1f4)][_0x387dd6(0x23a)][_0x387dd6(0x1f5)]!==_0x387dd6(0x494)&&_0xcaeace[_0x387dd6(0x3f2)]['activeView']==='admin'&&(_0xcaeace[_0x387dd6(0x3f2)][_0x387dd6(0x3ea)]=_0x387dd6(0x449),_0x2d765b()),_0xcaeace[_0x387dd6(0x46c)]=await _0x531696(),_0x431f88(_0x1c10fe),_0xaf7a8d(_0x5793f8),await _0x181512(_0x4cd136),_0x25f1ab[_0x387dd6(0x329)](_0xcaeace[_0x387dd6(0x46c)]),_0x2cbadb[_0x387dd6(0x1f2)]({'settings':_0xcaeace[_0x387dd6(0x46c)],'authPage':!0x1,'allowWorkspaceDefault':!0x0}),_0x53a4db(),_0x336caa(),_0x3cacfb(!0x0));try{await _0x247106();}catch(_0x42eee8){console['warn'](_0x387dd6(0x2a0),_0x42eee8&&_0x42eee8[_0x387dd6(0x42f)]?_0x42eee8[_0x387dd6(0x42f)]:_0x42eee8);const _0x174523=_0x1b8bcf[_0x387dd6(0x2f0)]?_0x1b8bcf['embeddedAdminWorkspace'][_0x387dd6(0x455)](_0x387dd6(0x292)):null;_0x174523&&(_0x174523[_0x387dd6(0x381)]='Admin\x20load\x20failed.\x20Refresh\x20and\x20retry.'),_0xc0a02c(_0x42eee8&&_0x42eee8[_0x387dd6(0x42f)]?_0x42eee8[_0x387dd6(0x42f)]:'Admin\x20workspace\x20failed\x20to\x20load.\x20Hard\x20refresh\x20and\x20retry.',_0x387dd6(0x414));}const _0x140750={};_0x140750['passive']=!0x0;const _0x3995a7={};_0x3995a7[_0x387dd6(0x232)]=!0x0;const _0x240dee={};_0x240dee[_0x387dd6(0x232)]=!0x0;const _0x6b0818={};_0x6b0818['passive']=!0x0,(_0x30f964(!0x1),_0x1e74e3(_0x3742f7[_0x387dd6(0x412)](_0x107056())?_0x387dd6(0x516):'setup',_0x3742f7['gatewayReady'](_0x107056())?_0x387dd6(0x517):_0x387dd6(0x3ad)),await _0x47cf46(),await _0x1d0327(),_0xcaeace['preferences'][_0x387dd6(0x3ea)]===_0x387dd6(0x494)&&_0xcaeace[_0x387dd6(0x1f4)][_0x387dd6(0x23a)][_0x387dd6(0x1f5)]===_0x387dd6(0x494)&&_0x14317c(_0x387dd6(0x46c)),_0x48e7c5(),_0x1b8bcf[_0x387dd6(0x20c)][_0x387dd6(0x2cc)](_0x387dd6(0x42a),function(){const _0x25cd01=_0x387dd6;_0xcaeace['threadQuery']=_0x1b8bcf['threadSearchInput'][_0x25cd01(0x1c6)]||'',_0x347924();}),_0x1b8bcf[_0x387dd6(0x263)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0x3f06f3),_0x1b8bcf[_0x387dd6(0x263)][_0x387dd6(0x2cc)]('scroll',_0x598f8a,_0x140750),_0x1b8bcf[_0x387dd6(0x410)]&&_0x1b8bcf['botList'][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0x3cbb9e),_0x1b8bcf['newThreadBtn']&&_0x1b8bcf[_0x387dd6(0x49e)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0x1773e1),_0x1b8bcf[_0x387dd6(0x468)]&&_0x1b8bcf[_0x387dd6(0x468)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0x1773e1),_0x1b8bcf[_0x387dd6(0x23f)]&&_0x1b8bcf[_0x387dd6(0x23f)][_0x387dd6(0x2cc)]('click',_0x37b567),_0x1b8bcf[_0x387dd6(0x25a)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),function(){const _0x36c776=_0x387dd6;_0x2977fd(!_0xcaeace[_0x36c776(0x3f2)]['sidebarCollapsed']);}),_0x1b8bcf[_0x387dd6(0x3d7)]&&_0x1b8bcf[_0x387dd6(0x3d7)][_0x387dd6(0x2cc)]('click',function(){const _0x4bce1f=_0x387dd6,_0x1b194c={};_0x1b194c['focusComposer']=!0x0,_0x9bf6b9(_0x1b194c)[_0x4bce1f(0x24b)](function(_0x23e191){const _0x3c264a=_0x4bce1f;_0xc0a02c(_0x23e191&&_0x23e191[_0x3c264a(0x42f)]?_0x23e191[_0x3c264a(0x42f)]:_0x3c264a(0x3d5),'error');});}),_0x1b8bcf[_0x387dd6(0x224)]['addEventListener'](_0x387dd6(0x2a2),function(){const _0x4c8219=_0x387dd6;_0x36ba8b(_0x4c8219(0x46c));}),_0x1b8bcf[_0x387dd6(0x3a7)]['addEventListener'](_0x387dd6(0x2a2),function(){const _0x4f4555=_0x387dd6;_0x53fb39(!_0xcaeace[_0x4f4555(0x1c3)]);}),_0x1b8bcf[_0x387dd6(0x287)]&&_0x1b8bcf[_0x387dd6(0x287)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),function(){const _0x290d1e=_0x387dd6;_0x53fb39(!0x1),_0x36ba8b(_0x290d1e(0x46c));}),_0x1b8bcf[_0x387dd6(0x1c8)]&&_0x1b8bcf[_0x387dd6(0x1c8)][_0x387dd6(0x2cc)]('click',function(){const _0x402bc6=_0x387dd6;_0x53fb39(!0x1),_0x570595[_0x402bc6(0x206)]();}),_0x1b8bcf[_0x387dd6(0x305)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),function(){const _0x53ff5f=_0x387dd6,_0x53d81e={};_0x53d81e[_0x53ff5f(0x208)]=!0x0,_0x36ba8b(_0x53ff5f(0x449),_0x53d81e);}),_0x1b8bcf[_0x387dd6(0x34b)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),function(){const _0x5ecf50=_0x387dd6;_0x2977fd(!_0xcaeace[_0x5ecf50(0x3f2)][_0x5ecf50(0x3fb)]),_0x1b8bcf[_0x5ecf50(0x3ac)][_0x5ecf50(0x381)]=_0xcaeace[_0x5ecf50(0x3f2)][_0x5ecf50(0x3fb)]?_0x5ecf50(0x28b):_0x5ecf50(0x35a);}),_0x1b8bcf[_0x387dd6(0x508)][_0x387dd6(0x2cc)](_0x387dd6(0x210),function(_0x4a50ff){const _0x531a51=_0x387dd6;_0x3ea5ea(_0x4a50ff)[_0x531a51(0x24b)](function(_0x241511){const _0x43e967=_0x531a51;_0x1b8bcf[_0x43e967(0x218)][_0x43e967(0x381)]=_0x241511[_0x43e967(0x42f)]||_0x43e967(0x551),_0xc0a02c(_0x241511['message']||_0x43e967(0x551),_0x43e967(0x414));});}),_0x1b8bcf[_0x387dd6(0x30b)][_0x387dd6(0x2cc)](_0x387dd6(0x210),function(_0x3fa941){_0x33f90c(_0x3fa941);}),_0x1b8bcf['resetPreferencesBtn'][_0x387dd6(0x2cc)]('click',_0x2db7d2),_0x1b8bcf['settingsLogoutBtn'][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),function(){_0x570595['signOut']();}),_0x1b8bcf[_0x387dd6(0x34f)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0x5eca5c),_0x1b8bcf['pinThreadBtn'][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0x4a1362),_0x1b8bcf[_0x387dd6(0x213)]&&_0x1b8bcf[_0x387dd6(0x213)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),function(){const _0x2d4f05=_0x387dd6;_0xa3f161()[_0x2d4f05(0x24b)](function(_0x50c7d1){const _0x2243d8=_0x2d4f05;_0xc0a02c(_0x50c7d1[_0x2243d8(0x42f)]||_0x2243d8(0x262),_0x2243d8(0x414));});}),_0x1b8bcf[_0x387dd6(0x26a)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),function(){const _0x3419ba=_0x387dd6;_0x5664c8()[_0x3419ba(0x24b)](function(_0x28ad13){const _0x52b271=_0x3419ba;_0xc0a02c(_0x28ad13[_0x52b271(0x42f)]||'Unable\x20to\x20reset\x20the\x20session.',_0x52b271(0x414));});}),_0x1b8bcf['regenerateReplyBtn'][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),function(){const _0x410d3e=_0x387dd6;_0x3f43da()[_0x410d3e(0x24b)](function(_0x1f2bf0){const _0x40f0c1=_0x410d3e;_0xc0a02c(_0x1f2bf0['message']||_0x40f0c1(0x538),'error');});}),_0x1b8bcf[_0x387dd6(0x3c3)]['addEventListener'](_0x387dd6(0x2a2),_0x535bee),_0x1b8bcf[_0x387dd6(0x478)][_0x387dd6(0x2cc)]('click',function(){const _0x726744=_0x387dd6;_0x214383()[_0x726744(0x24b)](function(_0x272990){const _0x37361f=_0x726744;_0xc0a02c(_0x272990[_0x37361f(0x42f)]||_0x37361f(0x380),_0x37361f(0x414));});}),_0x1b8bcf[_0x387dd6(0x321)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),function(){const _0xc9823e=_0x387dd6;_0x2812ed()[_0xc9823e(0x24b)](function(_0x14acbd){const _0x1fe57a=_0xc9823e;_0xc0a02c(_0x14acbd['message']||_0x1fe57a(0x1d4),'error');});}),_0x1b8bcf[_0x387dd6(0x4f1)]['addEventListener'](_0x387dd6(0x2a2),function(){const _0xe3a713=_0x387dd6;_0x570595[_0xe3a713(0x206)]();}),_0x1b8bcf[_0x387dd6(0x32b)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),function(){_0x14317c('settings');}),_0x1b8bcf[_0x387dd6(0x42e)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),function(){_0x14317c('settings');}),_0x1b8bcf[_0x387dd6(0x506)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),function(){const _0x2f44a8=_0x387dd6;_0x14317c(_0x2f44a8(0x46c));}),_0x1b8bcf['composerForm'][_0x387dd6(0x2cc)](_0x387dd6(0x210),function(_0x3090f1){const _0x4659b4=_0x387dd6;_0x36cd4a(_0x3090f1)[_0x4659b4(0x24b)](function(_0x3015af){const _0x652791=_0x4659b4;_0xc0a02c(_0x3015af['message']||_0x652791(0x534),_0x652791(0x414)),_0x30f964(!0x1),_0x1e74e3(_0x652791(0x414),_0x3015af[_0x652791(0x42f)]||_0x652791(0x534));});}),_0x1b8bcf[_0x387dd6(0x37f)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0xd004f4),_0x1b8bcf[_0x387dd6(0x3a6)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0x40bf70),_0x1b8bcf[_0x387dd6(0x476)][_0x387dd6(0x2cc)](_0x387dd6(0x231),_0x1b1fd2),_0x1b8bcf[_0x387dd6(0x333)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0x1ad9d9),_0x1b8bcf['composerModeMenu'][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0x5b7833),_0x1b8bcf[_0x387dd6(0x40e)]&&_0x1b8bcf[_0x387dd6(0x40e)][_0x387dd6(0x2cc)](_0x387dd6(0x231),_0xa7473b),_0x1b8bcf[_0x387dd6(0x390)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0x30b1b6),_0x1b8bcf[_0x387dd6(0x33e)][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0x59c78d),_0x1b8bcf[_0x387dd6(0x38b)][_0x387dd6(0x2cc)]('click',_0x2d6022),_0x1b8bcf['messages'][_0x387dd6(0x2cc)]('scroll',_0x502bd6),_0x1b8bcf['messages']['addEventListener'](_0x387dd6(0x373),_0xb1e55c,_0x3995a7),_0x1b8bcf[_0x387dd6(0x38b)][_0x387dd6(0x2cc)](_0x387dd6(0x1d0),_0x411a6c,_0x240dee),_0x1b8bcf[_0x387dd6(0x38b)][_0x387dd6(0x2cc)](_0x387dd6(0x35e),_0x469641,_0x6b0818),_0x1b8bcf[_0x387dd6(0x424)]&&_0x1b8bcf['jumpLatestBtn'][_0x387dd6(0x2cc)](_0x387dd6(0x2a2),_0xd45cb3),_0x1b8bcf[_0x387dd6(0x2bd)]['addEventListener'](_0x387dd6(0x2a2),_0x4a62ef),_0x1b8bcf[_0x387dd6(0x237)][_0x387dd6(0x2cc)](_0x387dd6(0x42a),function(){const _0x5d07b3=_0x387dd6;_0x25f1ab[_0x5d07b3(0x39e)](_0x1b8bcf[_0x5d07b3(0x237)]),_0xa198b6();}),_0x1b8bcf[_0x387dd6(0x237)][_0x387dd6(0x2cc)](_0x387dd6(0x304),_0xbc71cf),document[_0x387dd6(0x2cc)]('pointerdown',_0xb88f45),document[_0x387dd6(0x2cc)]('keydown',_0x42ad91),window[_0x387dd6(0x2cc)]('resize',_0x2a8bcc),_0xa198b6(),_0x540d52(),_0x25f1ab['autoResizeTextarea'](_0x1b8bcf[_0x387dd6(0x237)]),_0x4ef466(),_0xcaeace[_0x387dd6(0x3f2)][_0x387dd6(0x3ea)]===_0x387dd6(0x449)&&_0x1b8bcf[_0x387dd6(0x237)][_0x387dd6(0x229)]());}}_0x346c77()[_0x49dfbd(0x24b)](function(_0x2df799){const _0x581112=_0x49dfbd;_0x3cacfb(!0x0),_0x25f1ab[_0x581112(0x52a)](_0x581112(0x265),_0x2df799&&_0x2df799[_0x581112(0x42f)]?_0x2df799[_0x581112(0x42f)]:_0x581112(0x4a4),_0x581112(0x332),_0x581112(0x351));});}()));function _0x46b3(){const _0x337184=['Aw5MBW','C2nYB2XSsgvPz2H0','Bw9Kzq','qwrTAw4GBg9HzcbMywLSzwqUifjLzNjLC2GGyw5KihjLDhj5lG','DdjP','y29TCg9ZzxiTAw50zw50lxrVz2DSzq','imk3ia','iIbKyxrHlw1LC3nHz2uTAwq9iG','C2LKzwjHCI1YywLSlxnLDhrPBMDZlwj0BG','u2vUzcbTzxnZywDL','z2v0','pgfYDgLJBguGy2XHC3m9iNrOCMvHzc1JyxjK','pgj1DhrVBIbJBgfZCZ0IDgHPBMTPBMCTDg9Nz2XLihnLyxjJAc10B2DNBguIihr5Cgu9iMj1DhrVBIiGzgLZywjSzwq+','iIbHCMLHlwXHyMvSpsjszw1VDMuGyxr0ywnOBwvUDci+jNrPBwvZoZWVyNv0Dg9UpG','vgHLigfZC2LZDgfUDcbYDw50Aw1LignVDwXKig5VDcbIzsbHDxrOB3jPEMvKihjPz2H0ig5VDY4GqxnRigfUigfKBwLUihrVihjLDMLLDYb0AguGCNvUDgLTzsbZzxr0Aw5NCY4','twvZC2fNzsbJB3bPzwqU','y29TCg9ZzxiTzMLSzs1PBNb1Da','DgHYzwfKtw9Kzq','Aw5Uzxjive1m','rxHWyw5KzwqGBgf5B3v0','rxHWyw5KihnPzgvIyxi','vw5HyMXLihrVihn3AxrJAcbIB3qGDgHYzwfKCYbYAwDODcbUB3CU','AxnbCNjHEq','zg9TywLU','vw5HyMXLihrVihvWzgf0zsb0AguGy2HHDc4','Bg9NB3v0qNrU','yNjHBMrFBMfTzq','ChjLignVzgu','igLZlw9Wzw4','phnWyw4Gy2XHC3m9iNrOAw5RAw5NlxrVz2DSzs1JB3b5iJ4','C2fUAxrPEMu','y29UBMvJDgLVBKjHzgDL','y29TCg9ZzxiTzM9YBq','tg9HzgLUzYbHzg1PBIbKyxrHlI4U','Dg9vChbLCKnHC2u','q2HHDcbKzwXLDgvKigXVy2fSBhKUiff3zw4Gy2XLyw51CcbMywLSzwq6ia','Aw5JBhvKzxm','zg9JDw1LBNrfBgvTzw50','qxv0BW','y2XVC2vZDa','ugXLyxnLigrLC2nYAwjLihrOzsbHDhrHy2HLzcbPBwfNzs4','qwXSia','thvTB3jHq29UzMLN','phn2zYb2Awv3qM94psiWidaGmJaGmJaIihjVBgu9iNbYzxnLBNrHDgLVBIiGzM9JDxnHyMXLpsjMywXZzsi+phbHDgGGzd0IBtyGoca0idqGnc00iIbMAwXSpsjUB25LiIbZDhjVA2u9iMn1CNjLBNrdB2XVCIiGC3rYB2TLlwXPBMvJyxa9iNjVDw5KiIbZDhjVA2uTBgLUzwPVAw49iNjVDw5KiIbZDhjVA2uTD2LKDgG9iJeUociVpJWVC3zNpG','ChjLDG','pgeGy2XHC3m9iNnLyxjJAc1ZB3vYy2uTBgLUAYiGAhjLzJ0I','C2v0DgLUz3nbzg1PBKXPBMS','r2vUzxjHDgvKigLTywDLia','ChjVzMLSzvnLDhrPBMDZrM9YBq','tM8Gy2HHDhmGzM9Yia','uMvZCg9UC2uGBw9KztOG','yM90q291BNq','AxnbDxrVrM9SBg93','CxDLBL9WyxjLBNrFAwq','zg9Uzq','qxnZAxn0yw50','lNjHAwWTz2X5CgG','lI4V','Bwv0yq','sw1Hz2uGz2vUzxjHDgvKihn1y2nLC3nMDwXSEs4','v29YA3nWywnLihj1BNrPBwu','CgLUlxrOCMvHzc1IDg4','CMvHzhK','uMvHzhKGzM9YigeGBMv3ihbYB21WDc4Grw50zxiGC2vUzhmSifnOAwz0k0vUDgvYigfKzhmGysbUzxCGBgLUzs4','z2vUzxjHDgvKx2LTywDLCW','Dhj1BMnHDgvuzxH0','C2v0DgLUz3neAxnWBgf5tMfTzq','DhvYBJO','BMfTzq','BwfYA2rVD24TDgfIBguTD3jHCa','q2HHDcbKzwXLDgvKlG','y2HHDf9TzxnZywDLCW','CMvHC29UAw5NrxHWyw5Kzwq','phnWyw4Gy2XHC3m9iM1LC3nHz2uTDMvYC2LVBI1PBMrPy2f0B3iIihrPDgXLpsjszxnWB25Zzsb2zxjZAw9UiJ4','CgfYzw50rwXLBwvUDa','z2zT','zw50zxjuB1nLBMq','thvTB3jH','yNjVD3nL','AxmTyxbWlxjLywr5','C2v0DgLUz3mTC2LKzwjHCI10B2DNBguTyNrU','y29TCg9ZzxjnB2rLtgfIzwW','CMvUzgvYqMXVy2TPBMDtDgf0zq','w2rHDgeTBwvZC2fNzs1JB3b5xq','yM90x2LK','rxjYB3i','DgHYzwfKlwXPC3q','sw52ywXPzcbZAgfYzsb0B2TLBIbMB3iGDgHPCYbJAgf0lG','qM90ig1Vzgu6ia','y2HHDc12Awv3','z2f0zxDHEv9WB29Sx2XHyMvS','vxbSB2fKigzHAwXLzc4','vw5HyMXLihrVihnLBMqGDgHLig1LC3nHz2uU','r2vUzxjHDgLVBIbZDg9WCgvKigjLzM9YzsbHigzPBMfSigfUC3DLCIb3yxmGChjVzhvJzwqU','BMv4Da','zgvSDgfz','vw5HyMXLihrVihjLz2vUzxjHDguGDgHLihjLCgX5lG','BgL2zvn0CMvHBwLUzW','Bw9KzwW','w2rHDgeTBwvZC2fNzs1IB2r5xq','zw1HAwW','CMvWBgfJzvDPDgG','C2v0DgLUz3mTzw50zxiTDg8TC2vUza','DwLK','ChjLDMvUDerLzMf1Bhq','DgvZDa','iIbHBMqGC3rHCNqGzNjLC2G/','pgrPDIbJBgfZCZ0IBwvZC2fNzs1HDhrHy2HTzw50lwnOAxaIihrPDgXLpsi','ChjLzMvYzw5JzxmTC2v0DgLUz3mTC3rHDhvZ','C2vZC2LVBKLK','zMLUza','D3jPDgvuzxH0','DxbSB2fKrMLSzxm','pgrPDIbJBgfZCZ0IBwvZC2fNzs1OzwfKiJ4','lNrOCMvHzc1JyxjKlM1LBNuTB3bLBG','CxDLBJO','ihjLBw90zsbKzwXLDguGzMfPBhvYzxm','lNrOCMvHzc1Tzw51','C2L0zu5HBwu','igfJDgL2zq','Bwf5yMvtAw5NBgu','vw5HyMXLihrVihnHDMuGChjVzMLSzs4','z2v0u3rVCMvKvMfSDwu','qxr0ywnOigzPBgu','BwvZC2fNzuLK','phnWyw4Gy2XHC3m9iNrOAw5RAw5NlxrVz2DSzs1SywjLBci+','pgrPDIbJBgfZCZ0IDgHYzwfKlw1LBNuTBgfIzwWIpKfJDgLVBNm8l2rPDJ4','pc9KAxy+','t25SEsb0AguGBgf0zxn0igfZC2LZDgfUDcbYzxbSEsbJyw4GyMuGCMvNzw5LCMf0zwqGCMLNAhqGBM93lG','CMvUyw1LlxrOCMvHzc1IDg4','y29TCg9ZzxjnB2rLtwvUDu9Wzw4','uMvTB3rLignOyxqGzgvSzxrPB24GzMfPBgvKoG','BgfIzwW','ChjVzMLSzu1LBNvpCgvU','zMLUzeLUzgv4','yM90swq','DMfSDwu','z2v0qxr0CMLIDxrL','CMfPBfbYB2zPBgvmB2DVDxrcDg4','DMfYAwfUDfnLBgvJDgLVBKj5vhvYBG','w2rHDgeTDgHYzwfKlw1LBNuTDhjPz2DLCL0','Ddj0','DxjP','BM9YBwfSAxPLqxbWu2v0DgLUz3m','pgrPDIbJBgfZCZ0IDgHYzwfKlwnHCMqTBwvUDsi+','pc9MAwDJyxb0Aw9UpG','Dg91y2HZDgfYDa','thvTB3jHqwrTAw5xB3jRC3bHy2u','vgHPBMTPBMCGDgHYB3vNAcb0AguGyw5ZD2vYlI4U','Aw1Hz2u','vw5HyMXLihrVignSzwfYignOyxrZlG','vw5HyMXLihrVigXVywqGD29YA3nWywnLihnLDhrPBMDZlG','thvTB3jHr2f0zxDHEq','C2v0qwn0AxzLu2vJDgLVBG','pgj1DhrVBIbJBgfZCZ0IDgHPBMTPBMCTDg9Nz2XLiIb0ExbLpsjIDxr0B24IigrHDgeTDgHPBMTPBMCTDg9Nz2XLpsi','sw1Hz2uGz2vUzxjHDgvKlG','C2HHmJu2sgv4','CgLUvgHYzwfKqNrU','C2v0DgLUz3nfBwfPBa','vw5HyMXLihrVihf1zxvLihrOzsbHDhrHy2HTzw50lG','Dg91y2Hty3jVBgXtDgfYDfrVCa','C2LSzw50','uNvUihrOzsb1CgrHDgvKifn1CgfIyxnLifnrtcbVBMnLihrVigvUywjSzsbWCM9MAwXLigvKAxrPBMCU','B2jQzwn0','y29TCgXLDgu','B3jKzxi','ChjVzMLSzu5HBwu','AwqSihrPDgXL','ihLLDc4','D2vSy29TzvrPDgXL','q29SBgfWC2vKihjHAwW','C2TPChbLza','q2XLyxiGzxzLCNKGy2HHDcbMB3iGiG','y2XLyxjdB21WB3nLCG','z2v0vgLTzq','uMvZzxq','C2v0DgLUz3mTzw1HAwW','Dg9HC3q','z2f0zxDHEv9WB29Sx2nHCgfJAxr5','Bwf4x3vZzxjZ','Aw5PDgLHBgL6zq','z2v0rwXLBwvUDej5swq','y29UDgv4Da','CM9Szq','Aw5Zzxj0qwrQywnLBNrfBgvTzw50','BwfYA2vK','uhjVzMLSzsb1CgrHDgvKlG','CgHHC2u','pc9VChrPB24+','C2nYB2XSvg9W','y2HHDfn0yxr1C0XPBMu','pc9HpG','zgf0ys1XDwLJAY1WCM9TChq','iJ5ezwXLDguGy2HHDdWVyNv0Dg9UpG','AgLZDg9YEq','BgfZDfnLBMrbDa','Dg9mB3DLCKnHC2u','re9nuhvYAwz5','lNrOCMvHzc1Tzw51lxrYAwDNzxi','zNjVBq','C2LNBK91Da','ignSzwfYzwqUifn0yxj0igeGzNjLC2GGy29UDMvYC2f0Aw9UlG','zM9JDxndB21WB3nLCG','AgvHza','ChjLzMvYzw5Jzxntzxr0Aw5NC1n0yxr1CW','ihDLCMuGzgvSzxrLzcbHBMqGuxDLBIbJBgvHBNvWignVBxbSzxrLzc4','DgHYzwfKu2vHCMnOsw5WDxq','w2rHDgeTDgHPBMTPBMCTDg9Nz2XLpsi','DxbSB2fKzwq','uMvUyw1LihrOAxmGy2HHDa','C3vIBwL0','C3vJy2vZCW','u2vHCMnOifnVDxjJzxm','C2HHCMvuAhjLywrcDg4','y29TCg9ZzxiTBw9Kzs1SywjLBa','zMfSC2u','qxnZAwDUzwqGCg9VBcbHy2nVDw50','C2L6zq','ChjVzMLSzvnLDhrPBMDZu3rHDhvZ','yxbWzw5Kq2HPBgq','zxjYB3jZ','pg9WDgLVBIb2ywX1zt0I','phnWyw4Gy2XHC3m9iMjVDc1JyxjKlwHLywqIpG','CxvLCNLtzwXLy3rVCKfSBa','zMfZDa','C3rHDgu','Cg9VBf9Pza','C2v0DgLUz3mTywrTAw4TBgLUAW','w2rHDgeTy29Kzs1JB3b5xq','CgvYC2LZDa','C2LKzwjHCLjHAwXtzxr0Aw5NC0j0BG','y3jLyxrL','ChjVDg9JB2W','zNjVBvn0CMvHBq','pgrPDIbJBgfZCZ0IDgHPBMTPBMCTCgfUzwWIigrHDgeTDgHPBMTPBMCTCgfUzwW9iG','zM9JDxm','q29SBgfWC2uGC2LKzwjHCG','uMvNzw5LCMf0Aw9UignVBNrLEhqGAxmGBwLZC2LUzYbMB3iGDgHPCYbYzxbSEs4Gu2vUzcbVBMuGBMv3ihbYB21WDcWGDgHLBIbYzxrYEsbYzwDLBMvYyxrPB24U','pgXPignSyxnZpsjZzwfYy2GTC291CMnLCY1PDgvTiJ4','zgf0ys1TzxnZywDLlwnVChK','y29TCg9ZzxiTBwLJlwj0BG','z3vLC3q','yM9KEq','y2HHBMDL','CgfZC2L2zq','y29UDgfPBNm','lM1LC3nHz2uTAgvHza','Dw5RBM93BIbLCNjVCI4','y29TCg9ZzxiTBw9Kzs1WAwnRzxi','ChjVBxb0sw5WDxq','CMvNzw5LCMf0Aw9U','BwLZC2LUzY1ZzxnZAw9UlwLK','ChjVzMLSzq','tM8Gy3vZDg9TigjVDhmGEwv0lIbdCMvHDguGB25LigLUigfKBwLUihnLDhrPBMDZlG','iIbOCMvMpsi','C2v0DgLUz3mTBg9NB3v0lwj0BG','iIbSB2fKAw5NpsjSyxP5iJ4','C2LKzwjHCLjHAwXcB3rZqNrU','r2vUzxjHDgLUzYbPBwfNzs4UlG','ChjVBxb0q291BNq','pgj1DhrVBIbJBgfZCZ0IDgHYzwfKlwnHCMqTBwfPBIiGDhLWzt0IyNv0Dg9UiIbKyxrHlxrOCMvHzc1Pzd0I','yxv0BW','CgXHy2vTzw50','yxr0lq','C3rHCNrZv2L0Aa','uMvTB3rLihnLC3nPB24Gy2XLyxjLzc4GvgHLig5LEhqGChjVBxb0ihDPBgWGC3rHCNqGysbMCMvZAcbZzxnZAw9UlG','uMvTB3rLihn0B3aGCMvXDwvZDcbMywLSzwq6','pc9SAt4','r2vUzxjHDgLUzYbYzxnWB25Zzs4UlG','y2f0y2G','BMv3','r2vUzxjHDgvKigLTywDL','zgf0ys1Yzw1VDMuTyxr0ywnOBwvUDa','ywrTAw5xB3jRC3bHy2u','AgvPz2H0','uMvHzhKGD2HLBIb5B3uGyxjLlG','zgf0yxnLDa','CMvTB3rLx3nLC3nPB25FAwq','vgHPBMTPBMC','C3rVCfbYB3bHz2f0Aw9U','yNjLywTZ','zgf0ys1TzxnZywDLlwLK','C2vHCMnOx3nVDxjJzxm','zMLSzq','C2LKzwjHCLrVz2DSzuj0BG','Bwf4','y29TCg9ZzxiTBw9Kzs10CMLNz2vY','qxr0ywnOBwvUDhmGyxjLigf2ywLSywjSzsbPBIbbC2SGBw9Kzs4','ywjVCNrdB250CM9SBgvY','u2vSzwn0zwqGCMvWBhKGCMvNzw5LCMf0zwqU','CgfKu3rHCNq','CMvTB3rLx3bHCMvUDf9Pza','vw5HyMXLihrVigDLBMvYyxrLigeGC2vJDxjLihnOyxjLigXPBMSU','DgHYzwfKtgLZDa','Aw1Hz2uV','q2HHDcb1BMf2ywLSywjSzq','DhvYBKTLEq','CMvWBgfJzq','DgHYzwfKlxrPDgXL','CMv0CMLLDMu','CMvZzxrtzxnZAw9UqNrU','DxbKyxrLx293BL9WCM9MAwXL','uhjVzMLSzsbZyxzLzc4','DxjS','AxmTywn0AxzLlxzPzxC','y2HHDc1WCMvMzxjLBMnLCY1MB3jT','zg93BG','zgvSzxrLlxrOCMvHzc1IDg4','CMvXDwvZDf9TB2rLBa','pgeGy2XHC3m9iM1LC3nHz2uTBwvKAweTywn0Aw9UiIbOCMvMpsi','y29TCg9ZzxjgB3jT','vgL0BguGy2fUBM90igjLigvTChr5lG','DgL0Bgu','pgj1DhrVBIbJBgfZCZ0IyM90lwnHCMq','Dg9Nz2XL','iIb0AxrSzt0Iq2HHDcbVChrPB25ZiJ4UlI48l2j1DhrVBJ4','z2f0zxDHEs1KzwXLDguTDw5HDMfPBgfIBgu','vxbSB2fKAw5N','zgvMyxvSDf9TB2rLBa','y3j5ChrV','u3rYzwfTAw5N','pgeGy2XHC3m9iM1LC3nHz2uTBwvKAweTBgLUAW','pc9HCNrPy2XLpG','DgHYzwfKuxvLCNK','y2XHC3nmAxn0','q2HHDcbKzwXLDgvKlIbtDgfYDcbHigzYzxnOignVBNzLCNnHDgLVBIb3AgvUihjLywr5lG','zMLSzw5HBwu','y2XPzw50','y2HHDc1ZAwrLyMfY','CMfPBfbYB2zPBgvtzxr0Aw5NC0j0BG','BMv3lxrOCMvHzc1IDg4','lM1LC3nHz2uTywn0Aw9UCW','C2v0qxr0CMLIDxrL','u2LKzwjHCIbPCYbUB3CGy29SBgfWC2vKlG','BM93','ywrTAw5wAwv3','z2f0zxDHEv9Hy2nLC3nFDg9Rzw4','D2vSy29Tzs1Wyw5LBa','tM90AgLUzYb0BYbJB3b5lG','iJ5eB3DUBg9HzdWVyt4','w2rHDgeTywrTAw4TzwW9iNn0yxr1CY1SAw5LiL0','C2LKzwjHCI1YywLSlw5LDY1IDg4','rMfPBgvK','CMvHC29U','CMvZB2X2zq','y2HHCKf0','igHPzgrLBG','CNbJ','Ag9ZDg5HBwu','C2vHCMnOugfYyw1Z','zMLUywXSEq','C2XPy2u','u1vqqujbu0vFu0vuvvaUBwq','Dg9W','qwrTAw4GD29YA3nWywnLigLUAxqGC2TPChbLzdO','yM90lq','y2XPy2S','thvTB3jHqxv0Aa','C2vSzwn0zwq','qwrTAw4GFca','DxbKyxrLzf9HDa','CNvUDgLTzuDHDgv3yxK','mteZntyWohDJDKXOAa','DMLZAw9U','zgvMyxvSDf9PBwfNzv9TB2rLBa','ChjL','y29TCg9ZzxiTyxr0ywnOlwj0BG','zMLYC3rfBgvTzw50q2HPBgq','C3rVCc1IDg4','CgfYC2u','y2XLyxiTy2HHDhmTyNrU','zgf0ys10AhjLywqTAwq','C2v0DgLUz3mTC2LKzwjHCI1ZDgf0Dxm','ywrK','igfYAweTBgfIzwW9iLnOB3CGBMv4Dcb2zxjZAw9UiJ4MCNnHCxvVoZWVyNv0Dg9UpG','zgvMyxvSDhm','DxnLCG','DhjPBq','qxr0ywnOBwvUDcbYzwfKEs4','D2vSy29Tzv9JB3b5','phnWyw4+','CMvWBgfJzu1LC3nHz2u','vw5HyMXLihrVignYzwf0zsbHig5LDYb0AhjLywqU','D2vSy29TzvbHBMvS','zgf0ys10AgLUA2LUzY1IB2r5','lNrOAw5RAw5NlwjSB2nR','iIb0yxjNzxq9iL9IBgfUAYiGCMvSpsjUB29Wzw5LCIbUB3jLzMvYCMvYiJ5pCgvUpc9HpG','Aw5PDa','u2v0Dxa','B21UAq','y29TCg9ZzxjdAgf0tw9Kzuj0BG','BwfUDwfS','pgrPDIbJBgfZCZ0IyM90lwXPC3qTzw1WDhKIpK5Vign1C3rVBsbIB3rZihLLDc4Gq3jLyxrLigjVDhmGzNjVBsbHzg1PBIbZzxr0Aw5NCY48l2rPDJ4','lM1LC3nHz2uTBwvKAweTC3rYAxa','A2v5','igjVDcbJAgf0CW','C3LZDgvTx3bYB21WDa','C2HHCMuTDgHYzwfKlwj0BG','ywrKrxzLBNrmAxn0zw5LCG','CMvHC29UAw5Nx3rLEhq','lM1HCMTKB3DUlwnVzguTD3jHCa','igLZlwDLBMvYyxrLza','z2f0zxDHEv9HC3nPz25Lzf91C2vYCW','vgHLigfZC2LZDgfUDcbPCYbUB3qGy29UzMLNDxjLzcb5zxqUiefZAYbHBIbHzg1PBIb0BYbMAw5PC2GGDgHLignOyxqGCNvUDgLTzsbZzxr1Cc4','yNvZEq','BM9VCgvUzxiGBM9YzwzLCNjLCG','Cg9VBf9SywjLBa','ugXLyxnLihDHAxqGzM9YihrOzsbJDxjYzw50ihjLC3bVBNnLihrVigzPBMLZAc4','BwfUz2XL','zgf0yq','zhjHzNqT','C2LKzwjHCI10B2DNBguTyNrU','zNvUy3rPB24','C2v0DgLUz3mTzgLZCgXHEs1Uyw1L','y29TCg9ZzxjjBwfNzu1VzgvcDg4','iJ5dB3b5pc9IDxr0B24+','Bw9KzwXFywXPyxnLCW','CMf3x2nVBNrLBNq','C3jJ','tM8Gzw5HyMXLzcbTB2rLBhmGzM91BMqGAw4GywrTAw4GC2v0DgLUz3mU','uhjLzMvYzw5JzxmGC2f2zwqGAw4GDgHPCYbICM93C2vYlG','CM91Dgu','z2f0zxDHEv9WyxnZD29Yzf9OyxnO','Bg9JywXjza','zgf0ys1TzxnZywDLlxzLCNnPB24TBMf2','phnWyw4Gy2XHC3m9iNrOAw5RAw5NlxrVz2DSzs1Py29UiIbHCMLHlwHPzgrLBJ0IDhj1zsi+','C29YDa','w2rHDgeTDgHPBMTPBMCTyMXVy2S9iG','y2XHC3noyw1L','CgfYC2vY','vgHPBMTPBMCUlI4','DgfYz2v0x3vZzxjFAwq','iIb0ExbLpsjIDxr0B24IigrHDgeTyM90lwLKpsi','A2v5CW','zw1IzwrKzwrbzg1PBLDVCMTZCgfJzq','y2HHDe1HAw50zw5HBMnLu3rHDhvZ','zgLZCgXHEv9Uyw1L','DxbSB2fKAw5N','AxmTB3bLBG','igjVDa','Bg9JyxrPB24','ywXS','zgf0ys10AgLUA2LUzY10B2DNBgu','lNrOAw5RAw5NlxbHBMvS','C29Tzq','C3LZDgvT','u2nYAxb0ihnVDxjJzsbPCYbTAxnZAw5NlG','uMvHzhK','zgf0ys10AgLUA2LUzY1Wyw5LBa','CMvZCg9UC2vjzhm','DgHYzwfKvgL0Bgu','DxbKyxrL','q29TCgXLDgu','y29TCg9ZzxiTyxr0ywnOBwvUDhm','A2v5zg93BG','C2v0DgLUz3ncywnRqNrU','Cgf0Ag5HBwu','pc9MAwD1CMu+','swrSzq','zgLZywjSzwq','y29TCg9ZzxjnB2rL','y2HHDfbYzwzLCMvUy2vZrM9YBq','yxnZAwDU','mtq3mdvwyNHNBfC','vw5HyMXLihrVigXVywqGDgHPCYbJB252zxjZyxrPB24U','z2vUzxjHDgvKsw1Hz2vZ','CgfYzw50tM9Kzq','ChjVBxb0','yxbWBhK','pgzPz3vYzsbJBgfZCZ0IBwvZC2fNzs1TzwrPys1JyxjK','y2HHDc1TywLUDgvUyw5Jzs1ZDgf0Dxm','DgHPBMTPBMC','BM9YBwfS','z2v0qM91BMrPBMDdBgLLBNrszwn0','q2HHDcbWAw5UzwqU','DgfYz2v0','pg9SignSyxnZpsjZzwfYy2GTC291CMnLCY1SAxn0iJ4','C3bSAxq','C2v0DgLUz3mTC2HVDY10Aw1LC3rHBxbZ','ChjVzMLSzs1Uyw1L','iIbZCMm9iG','C2v0u3rVCMvKvMfSDwu','vw5HyMXLihrVigXVywqGywrTAw4GD29YA3nWywnLlG','y2XLyxjdAgf0C0j0BG','yM90CW','qwjVCNrfCNjVCG','y2XLyxjuAw1LB3v0','vw5HyMXLihrVihvWzgf0zsb0AguGDgHYzwfKlG','C2v0','zM9YBwf0uM9Szq','z2f0zxDHEs1UB3qTCMvHzhK','yxbWBhLcCMfUzgLUzW','AgvHzgvYswrZ','C2LKzwjHCLjHAwXbzg1PBKXPBMS','sw1Hz2u','pgrPDIbJBgfZCZ0IBwvZC2fNzs1IB2r5iJ48zgL2ignSyxnZpsjTzxnZywDLlwjVzhKTAw5UzxiIigrHDgeTBwvZC2fNzs1IB2r5psi','z2v0q29UzMLNrxjYB3i','zgvSzxrL','vw5HyMXLihrVihjLBw92zsb0AguGChjLDMLVDxmGCMvWBhKU','DxbSB2fKAw5Nqxr0ywnOBwvUDhm','Bg9NAw4UAhrTBa','y29TCg9ZzxjnB2rLvhjPz2DLCG','B25SB2fK','DgL0BgvtB3vYy2vtDxbWB3j0zwq','x3nOyxjL','yM90x25HBwu','z2v0uMfUzg9TvMfSDwvZ','lM1LC3nHz2uTBwv0yq','pgrPDIbJBgfZCZ0IDgHPBMTPBMCTCgfUzwWGC2vHCMnOlxbHBMvSiJ4','yxnZAwDUBwvUDf9ZB3vYy2u','C2v0DgLUz3mTyMfJAY1IDg4','q2XPCgjVyxjKigfJy2vZCYbMywLSzwqU','y29TCg9ZzxjbDhrHy2HTzw50CW','pc9KAxy+pc9KAxy+','igLZlxn0CMvHBwLUzW','w2rHDgeTDgHPBMTPBMCTCgfUzwW9iG','rxnJyxbL','u3rVCcb0AguGy3vYCMvUDcbYzxbSEsbIzwzVCMuGC3DPDgnOAw5NigjVDhmU','C2v0DgLUz3nfBNrLCLrVu2vUza','u2vSzwn0igvUywjSzwqGAw1Hz2uGBw9KzwW','DxbKyxrLvxnLCG','C2LKzwjHCI1YywLSlwnOyxrZlwj0BG','Aw50zxjHy3rPB25FBw9Kzq','DgHYzwfKu2nVCgvdB3b5','qwn0AxzL','C2v0DgLUz3ntAwrLyMfYvg9Nz2XLqNrU','BMv4Df9KAxnWBgf5x25HBwu','Bg9JywW','y29TCg9ZzxiTBw9Kzs1Tzw51','CMvUyw1LvgHYzwfKqNrU','C3rYzwfTuMv2zwfS','qMfJAYb0BYbSB2DPBG','ChjVzMLSzs1YB2XL','DhvYBLzHCMLHBNrnzw1IzxjZ','igfYAweTBgfIzwW9iLnOB3CGChjLDMLVDxmGDMvYC2LVBIi+jMXZyxf1BZS8l2j1DhrVBJ4','zMX1C2G','AM9PBG','y2HHDe1VzgvSt3zLCNjPzgu','C3rVChbLza','C2HHCMu','u2LKzwjHCIbPCYbUB3CGzxHWyw5KzwqU','y29TCg9ZzxjnAwncDg4','B3DUzxjFAwq','BM9Kzq','Dg91y2HTB3zL','zgf0ys1JB21WB3nLCI1TB2rL','y29TCg9ZzxjnB2rLugLJA2vY','CMvZCg9UC2vFAwq','Aw1Hz2vZ','DgL0BgvtEw5JAw5N','CMvWBhK','yM90','BgfZDfnLBMrtAwDUyxr1CMu','tMv3ignOyxq','igLZlwfJDgL2zq','ihjLBw90zsbKzwXLDgvZihnRAxbWzwq','DgHYzwfKCW','u2HHCMuGDg9Rzw4GAxmGBwLZC2LUzYbMCM9TihrOzsbSAw5RlG','lIbezwXLDguGywXSignSzwfYCYbSB2nHBgX5igzPCNn0igfUzcb0AgvUignSzwfUCYbrD2vUihnLC3nPB25ZlG','ntKXnZqWnMjNDwjVEG','yM90tMfTzq','DgHYzwfKq291BNq','iIbKyxrHlxrOAw5RAw5NlwjSB2nRpsi','BwfYA2rVD24Ty29Kzs1JB3b5lwj0BG','C3rHDhvZ','D2HLzwW','ignOyxjHy3rLCNm','iIbHCMLHlwv4CgfUzgvKpsi','ywn0AxzLvgHYzwfKswq','CMfPBfbYB2zPBgvfBwfPBa','zMv0y2Hszw1VDgvuAxrSzq','CMvNzw5LCMf0zs1YzxbSEs1IDg4','pgj1DhrVBIb0ExbLpsjIDxr0B24IignSyxnZpsjTzxnZywDLlxzLCNnPB24TBMf2iIbKyxrHlw1LC3nHz2uTDMvYC2LVBI1Uyxy9iG','u3rVCcb0AguGy3vYCMvUDcbYzxbSEsbIzwzVCMuGC3DPDgnOAw5NignOyxqGBw9Kzs4','Dw5ZAgLMDa','C2nYB2XS','ChjVzMLSzs1Zzxr0Aw5NCY1ZDgf0Dxm','y29TCg9ZzxjjBNrLBNruB2DNBgu','vw5HyMXLihrVigrLBgv0zsb0AguGy2HHDc4','Dgv4DenVBNrLBNq','uxvLDwvKigf0DgfJAg1LBNrZihn0yxKGAw4GqxnRig1VzguUifjLBw92zsb0AgvTig9Yihn3AxrJAcbIywnRigjLzM9YzsbZzw5KAw5NlG','yM90Dg9T','AhjLzG','yNjHBMroyw1L','u2vZC2LVBIbYzxnLDcbMB3iGDgHPCYbJAgf0lG','AwrSzq','zgvSzxrLuMvTB3rLu2vZC2LVBG','Aw5KzxHpzG','BgLUAW','BwvZC2fNzxm','BwvZC2fNzvr1CM5lzxLcEuLK','q2HHDcbKzwXLDgvKlIbvBMfIBguGDg8GBg9Hzcb0AguGBMv4DcbJAgf0ihjPz2H0ig5VDY4','zgf0ys12zxjZAw9UlwrPCMvJDgLVBG','Aw50zxjHy3rPB25nB2rL','C3rVCej0BG','yxnJzw5KAw5N','y3jLyxrLzf9HDa','C2LNBMfS','tg9JywWGChjLzMvYzw5JzxmGCMvZzxqU','C291CMnLx3vYBa','C2LKzwjHCLbYB2zPBgvbDMf0yxi','C2vUzej0BG','C2v0Dxa','Aw1Hz2vnB2rLBe92zxjYAwrL','mJKWotK1mdHgzKDAwxm','y29UzMLYBq','vw5HyMXLihrVihjLBMfTzsb0AguGy2HHDc4','rw50zxi','yxv0B1jLC2L6zvrLEhrHCMvH','vxnLCG','y2HHDfr5Cgu','C2vSzwn0','Ag9ZDa','yxnZAwDUzwrFDxnLCNm','tgf0zxn0ihjLCgX5ignVBxbSzxrLzcbZDwnJzxnZzNvSBhKU','C2HVD0P1BxbuB0XHDgvZDa','y29TCg9ZzxjbDhrHy2HcDg4','C2LKzwjHCLbYB2zPBgvcDg4','Aw5KzxG','Dg9Rzw5FAgfZAa','w2rHDgeTy29TCg9ZzxiTBw9Kzv0','zM9Yy2vgB2XSB3C','ywnJB3vUDfnLDhrPBMDZu3rHDhvZ','qw4GywrTAw4GC3rPBgWGBMvLzhmGDg8GzMLUAxnOihrOzsbHC3nPC3rHBNqGCNvUDgLTzsbZzxr1Cc4','ChjVzMLSzvjVBgu','w2rHDgeTDgHYzwfKlwrLBgv0zv0','ChjVBxb0lwnVDw50','vgHLihjLCxvLC3rLzcbJAgf0igLZihvUyxzHAwXHyMXLigzVCIb0AgLZigfJy291BNqU','tgf0zxn0ihjLCgX5ihjLz2vUzxjHDgvKlG','CMvTB3zL','DgfIBgu','C3LUy0HHC2G','yxv0Aa','r2vUzxjHDgLUzYbHigXPDMuGCMvWBhKUlI4','DgfYz2v0q29UDgvUDa','pgjYpG','u291CMnLia','DgHLBG','CMvWBgfJzvn0yxrL','w2rHDgeTDgHYzwfKlwLKxq','vw5HyMXLihrVigXVywqGEw91CIb0AhjLywrZlG','AxnjBNrLz2vY','y2HPBgrYzw5FAwrZ','Bgf0zxn0uMvNzw5LCMf0ywjSzufZC2LZDgfUDeLK','zxHWB3j0lxrOCMvHzc1IDg4','zxHWB3j0vgHYzwfKqNrU','zgf0ys10AhjLywqTBwvUDs10CMLNz2vY','ywz0zxjLBMq','C3rYzwfTAw5N','BwfW','yxnZAxn0yw50','u2vJDxjLihnOyxjLigXPBMSGy29WAwvKlG','C2vUzeLUrMXPz2H0','qxr0ywnOBwvUDa','lxzS','zMLSzxr5Cgu','CMfPBc1WCM9MAwXLlxnLDhrPBMDZlwj0BG','C2vUzgLUzW','zgf0ys1JB2XSyxbZzwq','AgLKzgvU','CMvXDwvZDfn1yM1PDa','pc9Zzwn0Aw9UpG','zMLSzv9Pza','vw5HyMXLihrVig9Wzw4GBM9YBwfSignOyxrZihjPz2H0ig5VDY4','D2fYBG','C2LKzwjHCLjHAwXdAgf0C0j0BG','zgvSzxrLza','lNrOAw5RAw5NlxrVz2DSzq','phnWyw4Gy2XHC3m9iMnVBxbVC2vYlwf0DgfJAg1LBNqTC3rHDguIpG','q2HHDa','phnWyw4Gy2XHC3m9iMjVDc1JyxjKlxn0yxrLiJ4','C2v0DgLUz3ntAg93vgLTzxn0yw1WCW','CMvXDwvZDf90Aw1LC3rHBxa','D2vSy29Tzv90AxrSzq','u3rVChbLza','iJ5szwDLBMvYyxrLpc9IDxr0B24+','yMvOyxzPB3i','CMfPBc1WCM9MAwXLlwvTywLS','vw5HyMXLihrVihn0B3jLihrOzsbTzxnZywDLlG','pc9VBd4','iIbHCMLHlwHHC3bVChvWpsjTzw51iIbHCMLHlwv4CgfUzgvKpsi','DhLWzq','BgfZDf90CMfJzq','mZG2nty0A2TMsKTM','ywn0AxzLvMLLDW','CMvZCg9UC2vjza','C2HHCMvuB2TLBG','w2rHDgeTBwvZC2fNzs1YzwDLBMvYyxrLxq','vw5HyMXLihrVignOzwnRihrOzsbSyxrLC3qGy2HHDcb0AxrSzs4','tM8GCMvZCg9UC2uGDgv4DcbMB3vUzc4','C2vZC2LVBL9Pza','uMvNzw5LCMf0Aw5NigLTywDLlI4U','ChjLzMvYzw5Jzxm','phnLy3rPB24Gy2XHC3m9iNrOAw5RAw5NlwjSB2nRihnLyxjJAc1IBg9JAYbPCY1VCgvUiIbKyxrHlxnLyxjJAc1IBg9JAZ0I','z2f0zxDHEv9WB29Sx2LK','y2HHDc1ZDgf0DxmTBgLUzq','Aw1Hz2uT','u3LZDgvT','y29TCg9ZzxiTC3rHDhvZ','qxr0ywnOBwvUDhmGyxjLig9UBhKGyxzHAwXHyMXLigLUiefZAYbTB2rLihjPz2H0ig5VDY4','AxmTywn0AxzL','C2LKzwjHCKnVBgXHChnLza','zM9Yy2vozxC','DgL0BgvFC291CMnL','y29TCg9ZzxiTAw1Hz2uTBw9Kzs1IDg4','q2HHDcbKzwXLDgvKigXVy2fSBhKUiff3zw4Gy2XLyw51CcbZA2LWCgvKigjLy2f1C2uGCMvTB3rLihnLC3nPB24GsuqGD2fZig1PC3nPBMCU','igf0DgfJAg1LBNrZihjLywr5lG','x2jSyw5R','jMfTCdS','BgvUz3rO','pgrPDIbJBgfZCZ0IC3rYzwfTlxbSywnLAg9SzgvYiJ4','y29TCg9ZzxjnB2rLtwvUDq','C2LKzwjHCI1WCM9MAwXLlwj0BG','C291CMnLvxjS','C2vHCMnOu291CMnLCW','y2XPCgjVyxjK','iIbHBhq9iG','CgLUBMvK','BwLU','uMvHzhKGzM9YigeGBMv3ihbYB21WDc4Grw50zxiGC2vUzhmUifnOAwz0k0vUDgvYigfKzhmGysbUzxCGBgLUzs4','y29TCg9ZzxjnB2rLBfnLBgvJDa','DgHYzwfKtwv0yujHzgDL','yM90tgLZDa','C3rYAw5NAwz5','z2f0zxDHEvjLywr5','ihDLCMuGzgvSzxrLzc4GuxDLBIbJBgvHBNvWigvYCM9YoIa','zxjYB3i','t3bLBIbZzxr1CcbNDwLKzq','y2HLy2TLza','zM9YrwfJAa','DMLZAwjSzu1LC3nHz2vZ','Dg9tDhjPBMC','uMvNzw5LCMf0Aw5NihnLBgvJDgvKihjLCgX5lI4U','pgj1DhrVBIb0ExbLpsjIDxr0B24IigrHDgeTBwvZC2fNzs1JB3b5psi','vw5WAw4','yMvMB3jLyMvNAw4','CgfYzw50swq','yxjPys1JAgvJA2vK','BwvZC2fNzvzHCMLHBNrnzxrH','DgHYzwfKlwnVDw50','vw5HyMXLihrVihbLCNnPC3qGC3rVChbLzcbYzw1VDguGC3rHDgu6','uhjVzMLSzsb1CgrHDgvKlcbIDxqGyxv0AcbTzxrHzgf0ysbJB3vSzcbUB3qGyMuGC3LUy2vKlG','ANvTCeXHDgvZDej0BG','yNvZEunVChK','CMvTB3rL','zgf0ys1PBNrLCMfJDgLVBI1TB2rL','q2HHDcb1BNbPBM5Lzc4','u2HVD2LUzYbJAgf0CYbMB3iG','Aw5WDxq','yxjPys1SywjLBa','u2f2Aw5NihbYB2zPBguUlI4','C3rVCenOyxrdB21WBgv0Aw9U','ywrTAw5mAw5R','BwvZC2fNzq','z2f0zxDHEv9HC3nPz25Tzw50x3nVDxjJzq','pc9ZCgfUpG','vw5HyMXLihrVig9Wzw4GyM90ignOyxrZihjPz2H0ig5VDY4','ugXLyxnLihjLDMLLDYb0AguGyxr0ywnOzwqGzMLSzs4','C2LKzwjHCI1WCM9MAwXLlwf2yxrHCG','CMvTB3zLqxr0CMLIDxrL','q29WEsbZzwn1CMuGC2HHCMuGBgLUAW','jMD0oW','ChjVzMLSzs1Zzxr0Aw5NCY1MB3jT','Dg90ywW','CMvXDwvZDe1VzgvS','lMPZB24','DgHPCYbJAgf0','zxnJyxbLshrTBa','CMfPBc1WCM9MAwXLlw1LBNu','y29Uy2f0','z2f0zxDHEv9LBwfPBa','DgvTCgXHDgu','ywjVCNq','u2LKzwjHCIbPCYbLEhbHBMrLzcbMB3iGzNvSBcb0AhjLywqGyNjVD3nPBMCUifj1BNrPBwu6ia','ig1LBNuTB3bLBG','ywXSB3DLzf9TB2rLBhm','CMvTB3rLu3rVCfjLDhj5vgLTzxjjza','yM90lxnLy3rPB24','CMfPBfbYB2zPBgvnzw51','y2HHDa','C2vHCMnO','C3rYzwfTq2HHDa','rMfZDa','BwfYA2rVD24Ty29Kzs13CMfW','B3bLBLrOCMvHze1LBNvjza','mte0nNLSDMfUEq','CMvS','uMvTB3rLiff3zw4Gy2XLyw51CcbMywLSzwqU','CgvYC2LZDfvZzxjnzxnZywDL','yxn5BMm','y2HHDc1WCMvMzxjLBMnLCZO','CxvLCNLtzwXLy3rVCG','DgHYzwfKlxnJB3bLlwnVChK','tM8GzMLUywWGyw5ZD2vYihDHCYbYzxr1CM5Lzc4','mtHOy0f4wha','pgrPDIbJBgfZCZ0IBwvZC2fNzs1TzwrPys1Hy3rPB25ZiJ4','zgL2','u2HVD2LUzYbUB3jTywWGy2HHDhmU','vgHLBwuGyw5KigXVy2fSifvjihbYzwzLCMvUy2vZihDLCMuGCMvZzxqU','vw5HyMXLihrVihnHDMuGEw91CIbWCM9MAwXLlG','iIb0AxrSzt0I','ugLU','kfXKkYLFxW','pgrPDIbJBgfZCZ0Iy29TCg9ZzxiTyxr0ywnOBwvUDc1JAgLWiIbKyxrHlxn0yxr1CZ0I','tMv3ignVBNzLCNnHDgLVBG','Aw5Zzxj0qMvMB3jL','r2vUzxjHDguGAw1Hz2u','phn0CM9UzZ4','iIbKB3DUBg9Hzd0I','C291CMnL','C2LKzwjHCLjHAwXozxDcDg4','yw5ZD2vY','BwvZC2fNzsa','Dhj1zq','C2v0DgLUz3m','ywXYzwfKEu1PC3nPBMC','nZiWmJmWzxHVEKXg','C3rYAw5N','qwrTAw4GD29YA3nWywnLig1VzhvSzsb1BMf2ywLSywjSzs4GsgfYzcbYzwzYzxnOigfUzcbYzxrYEs4','mtvXvNb5EK8','rMLSzq','lM1LC3nHz2uTyM9KEq','ChvZAa','C2v0t3b0Aw9UCW','y29TCg9ZzxjgAwXLsw5WDxq','w2rHDgeTAw50zxjHy3rPB24TBw9Kzv0','zgvSzxrLvgHYzwfKqNrU','DgHYzwfKqM90swrtDxbWB3j0zwq','w2rHDgeTywrTAw4TD29YA3nWywnLpsjLBwjLzgrLzcjD','Aw5Zzxj0','ywn0AxzLlxrOCMvHzdO','r2vUzxjHDgLVBIbZDg9WCgvKlIbzB3uGy2fUignVBNrPBNvLihDOzw5LDMvYihLVDsbHCMuGCMvHzhKU','z2vUzxjHDgvK','zgf0ys1TzxnZywDLlxjLz2vUzxjHDgu','yM90u2vJDgLVBG','zMLSDgvY','y2HHDfzPzxC','tM9YBwfSignOyxrZig1Vzgu','y3jLyxrLrwXLBwvUDa','AxngAw5PDgu','C21VB3rO','yxr0ywnOBwvUDa','u29TzsbHDhrHy2HTzw50CYbJB3vSzcbUB3qGyMuGDxbSB2fKzwqU','AgfZ','AhrTBa','C2HHCMvnB2rL','igrPC2fIBgvK','qxnRigzVCIbZDhjHDgvNEsWGy29UDgvUDcWGy29KAw5NigHLBhaSigfUywX5C2LZlcbVCIbHBNL0AgLUzYbLBhnLihLVDsb3yw50ihrVihDVCMSGDgHYB3vNAcbSAxzLlG','u2v0DgLUz3mGFca','DgHYzwfKlw1LDgeTyMfKz2u','Dg9Rzw5FzxHWAxj5','u3DPDgnOihrViefZAYbTB2rLihrVihvWBg9HzcbHDhrHy2HTzw50CY4','C3vJy2vZC0nVChK','CgfYzw50x3vZzxjFAwq','ywrTAw4','C2nYAxb0','DgLTzxjjza','u3rHCNqGysbUzxCGy29UDMvYC2f0Aw9U','u2LKzwjHCIbPCYbJB2XSyxbZzwqUiev4CgfUzcbPDcbHBNL0Aw1LigzYB20GDgHLihjHAwWUifj1BNrPBwu6ia','zgf0ys1JB2rLlwnVChK','pgzPz2nHChrPB24Gy2XHC3m9iM1LC3nHz2uTBwvKAweTBwv0ysi+','C3LUy1jVDxrL','CgvUzgLUz0f0DgfJAg1LBNrZ','pgLTzYbJBgfZCZ0IBwvZC2fNzs1TzwrPys1PBwfNzq','BMv3vgHYzwfKqNrU','z2v0qxzHAwXHyMXLvgHLBwvZ','C2nYAxb0CY9Hzg1PBI13B3jRC3bHy2uUANm/DJ0Ymdi2mdmYmc1WB29SDxGXma','lM1LC3nHz2uTyxr0ywnOBwvUDhm','q29WEq','C2LUz2XL','vw5HyMXLihrVigXVywqGDgHLignOyxqGD29YA3nWywnLlG','iIbKyxrHlxzLCNnPB24TzgLYzwn0Aw9UpsjUzxH0iG','mJyWmdC2zKnSu05b','y29UDgvUDa','C2v0vgLTzw91Da','yxr0ywnOBwvUDhm','ig5VCM1HBcbJAgf0CY4GrgvSzxrLigfSBcbJBgvHCNmGBg9JywXSEsbMAxjZDcbHBMqGDgHLBIbJBgvHBNmGuxDLBIbZzxnZAw9UCY4','Dg9ju09tDhjPBMC','rNjLC2GGy29UDMvYC2f0Aw9UihjLywr5lIbfBNrLCIbHihbYB21WDcb0BYbZDgfYDc4','pc9IDxr0B24+','pgrPDIbJBgfZCZ0IBwvZC2fNzs1HDhrHy2HTzw50CYi+','lNnLyxjJAc1IBg9JAW','mtbqrgLWCMW','y29TCg9ZzxiTy2HHDc1TB2rLlwj0BG','D2vSy29Tzs10AxrSzq','ihDLCMuGzgvSzxrLzc4G','DgHYzwfKx2LK','qwrTAw4GD29YA3nWywnLig1VzhvSzsbPCYbZDgLSBcb1BMf2ywLSywjSzsbHzNrLCIbYzwXVywqU','pgrPDIbJBgfZCZ0IBwvZC2fNzs1Hy3rPB25ZiJ4','yxjPys1LEhbHBMrLza','DhjHy2u','B25LCNjVCG','CMfPBfbYB2zPBgvoyw1L','mM93sNjkzW','C2v0DgLUz3nwAwv3','yxr0zw1WDgvK','vxbSB2fKzwqGAw1Hz2u','qwXSigXVy2fSia','DgHLBwu','y2HHDf90AhjLywrZ','pgj1DhrVBIb0ExbLpsjIDxr0B24IignSyxnZpsjTzxnZywDLlwfJDgLVBI1YzwDLBMvYyxrLiIbKyxrHlw1LC3nHz2uTCMvNzw5LCMf0zt0I','jMX0oW','vw5HyMXLihrVihjLC2v0ihrOzsbZzxnZAw9UlG','CMvZzxq','pgrPDIbJBgfZCZ0IDgHYzwfKlw1LBNuIigrHDgeTDgHYzwfKlw1LBNu9iG','C2TPCeXVywq','z2f0zxDHEv90B2TLBL9LEhbPCNK','B3bLBG','w2rHDgeTDgHPBMTPBMCTDg9Nz2XLxq','pgrPDIbJBgfZCZ0IBwvZC2fNzs1IB2r5ihrOAw5RAw5NlwjVzhKIigrHDgeTDgHPBMTPBMCTyM9KEt0I','rgLZCgXHEsbUyw1LignHBM5VDcbIzsbLBxb0Es4','yxjPys1OAwrKzw4','CMvZzxqTC2vZC2LVBI1IDg4','pc9ZDhjVBMC+','BgfZDe1LC3nHz2vZu2nYB2XSvg9W','ywn0AxzLqM90swq','ywnJB3vUDc1Zzxr0Aw5NCY1ZDgf0Dxm','pgj1DhrVBIbJBgfZCZ0IDgHYzwfKlw1LBNuTDhjPz2DLCIiGDhLWzt0IyNv0Dg9UiIbKyxrHlxrOCMvHzc1Tzw51lxrYAwDNzxi9iG','DgHYzwfK','D2vSy29TzunVChK','uMvNzw5LCMf0Aw5NihrOzsbSyxrLC3qGCMvWBhKUlI4','zMLSzxm'];_0x46b3=function(){return _0x337184;};return _0x46b3();}
+(function () {
+    const auth = window.LumoraAuth;
+    const client = auth.client;
+    const gateway = window.LumoraGateway;
+    const utils = window.Lumora.utils;
+    const theme = window.Lumora.theme;
+    let adminWorkspaceApi = window.LumoraAdminWorkspace;
+    const markedLib = window.marked;
+    const purify = window.DOMPurify;
+    const ADMIN_WORKSPACE_SCRIPT_SRC = "scripts/admin-workspace.js?v=20260320-poolux10";
+    const BOTTOM_THRESHOLD = 80;
+    const THREAD_ROUTE_KEY = "thread";
+    const NEW_ROUTE_KEY = "new";
+    const SHARE_ROUTE_KEY = "share";
+    const SHARE_TOKEN_ROUTE_KEY = "token";
+    const DEFAULT_PREFERENCES = {
+        sidebarCollapsed: false,
+        activeView: "chat",
+        threadMode: "bot",
+        interactionMode: "chat",
+        activeBotId: "",
+        composerMode: null,
+        enterToSend: true,
+        showTimestamps: true,
+        chatModelOverride: "",
+        imageModelOverride: ""
+    };
+    const REMOTE_STOP_RETRY_DELAY_MS = 300;
+    const REMOTE_STOP_MAX_ATTEMPTS = 7;
+
+    const dom = {
+        chatSidebar: document.getElementById("chat-sidebar"),
+        sidebarToggleBtn: document.getElementById("sidebar-toggle-btn"),
+        sidebarRailNewBtn: document.getElementById("sidebar-rail-new-btn"),
+        sidebarRailBotsBtn: document.getElementById("sidebar-rail-bots-btn"),
+        sidebarRailChatsBtn: document.getElementById("sidebar-rail-chats-btn"),
+        sidebarRailSettingsBtn: document.getElementById("sidebar-rail-settings-btn"),
+        sidebarRailAdminLink: document.getElementById("sidebar-rail-admin-link"),
+        sidebarProfileBtn: document.getElementById("sidebar-profile-btn"),
+        sidebarProfileAvatar: document.getElementById("sidebar-profile-avatar"),
+        railProfileMenu: document.getElementById("rail-profile-menu"),
+        railProfileName: document.getElementById("rail-profile-name"),
+        railProfileEmail: document.getElementById("rail-profile-email"),
+        railProfileSettingsBtn: document.getElementById("rail-profile-settings-btn"),
+        railProfileLogoutBtn: document.getElementById("rail-profile-logout-btn"),
+        botSection: document.getElementById("bot-section"),
+        threadList: document.getElementById("thread-list"),
+        threadCount: document.getElementById("thread-count"),
+        botList: document.getElementById("bot-list"),
+        botCount: document.getElementById("bot-count"),
+        threadScopeCopy: document.getElementById("thread-scope-copy"),
+        threadSearchInput: document.getElementById("thread-search-input"),
+        newThreadBtn: document.getElementById("new-thread-btn"),
+        threadMetaBadge: document.getElementById("thread-meta-badge"),
+        threadTitle: document.getElementById("thread-title"),
+        shareThreadBtn: document.getElementById("share-thread-btn"),
+        chatStatusLine: document.getElementById("chat-status-line"),
+        renameThreadBtn: document.getElementById("rename-thread-btn"),
+        pinThreadBtn: document.getElementById("pin-thread-btn"),
+        resetSessionBtn: document.getElementById("reset-session-btn"),
+        regenerateReplyBtn: document.getElementById("regenerate-reply-btn"),
+        exportThreadBtn: document.getElementById("export-thread-btn"),
+        deleteThreadBtn: document.getElementById("delete-thread-btn"),
+        profileName: document.getElementById("profile-name"),
+        profileRole: document.getElementById("profile-role"),
+        adminLink: document.getElementById("admin-link"),
+        logoutBtn: document.getElementById("logout-btn"),
+        welcomePanel: document.getElementById("welcome-panel"),
+        welcomeTitle: document.getElementById("welcome-title"),
+        welcomeCopy: document.getElementById("welcome-copy"),
+        messages: document.getElementById("messages"),
+        jumpLatestBtn: document.getElementById("jump-latest-btn"),
+        chatView: document.getElementById("chat-view"),
+        settingsView: document.getElementById("settings-view"),
+        adminView: document.getElementById("admin-view"),
+        embeddedAdminWorkspace: document.querySelector('[data-admin-workspace="embedded"]'),
+        settingsBackBtn: document.getElementById("settings-back-btn"),
+        profileSettingsForm: document.getElementById("profile-settings-form"),
+        profileSettingsStatus: document.getElementById("profile-settings-status"),
+        settingsDisplayName: document.getElementById("settings-display-name"),
+        settingsEmail: document.getElementById("settings-email"),
+        settingsSidebarStatus: document.getElementById("settings-sidebar-status"),
+        settingsSidebarToggleBtn: document.getElementById("settings-sidebar-toggle-btn"),
+        chatPreferencesForm: document.getElementById("chat-preferences-form"),
+        preferencesSettingsStatus: document.getElementById("preferences-settings-status"),
+        settingsEnterToSend: document.getElementById("settings-enter-to-send"),
+        settingsShowTimestamps: document.getElementById("settings-show-timestamps"),
+        clearChatsBtn: document.getElementById("clear-chats-btn"),
+        chatMaintenanceStatus: document.getElementById("chat-maintenance-status"),
+        resetPreferencesBtn: document.getElementById("reset-preferences-btn"),
+        settingsLogoutBtn: document.getElementById("settings-logout-btn"),
+        settingsAdminLink: document.getElementById("settings-admin-link"),
+        accountSettingsStatus: document.getElementById("account-settings-status"),
+        composerForm: document.getElementById("composer-form"),
+        composerStatus: document.getElementById("composer-status"),
+        connectionBadge: document.getElementById("connection-badge"),
+        composerAttachments: document.getElementById("composer-attachments"),
+        composerAttachBtn: document.getElementById("composer-attach-btn"),
+        composerFileInput: document.getElementById("composer-file-input"),
+        composerIntentToggle: document.getElementById("composer-intent-toggle"),
+        composerChatModeBtn: document.getElementById("composer-chat-mode-btn"),
+        composerImageModeBtn: document.getElementById("composer-image-mode-btn"),
+        composerModelSelect: document.getElementById("composer-model-select"),
+        composerModePicker: document.getElementById("composer-mode-picker"),
+        composerModeTrigger: document.getElementById("composer-mode-trigger"),
+        composerModeLabel: document.getElementById("composer-mode-label"),
+        composerModeMenu: document.getElementById("composer-mode-menu"),
+        composerMicBtn: document.getElementById("composer-mic-btn"),
+        promptInput: document.getElementById("prompt-input"),
+        promptCount: document.getElementById("prompt-count"),
+        stopBtn: document.getElementById("stop-btn"),
+        sendBtn: document.getElementById("send-btn"),
+        toast: document.getElementById("toast")
+    };
+
+    const toast = utils.createNotifier(dom.toast);
+    const state = {
+        context: null,
+        settings: null,
+        runtimeGateway: null,
+        threads: [],
+        activeThreadId: null,
+        openThreadMenuId: null,
+        messages: [],
+        threadQuery: "",
+        busy: false,
+        abortController: null,
+        isAutoFollow: true,
+        showJumpToLatest: false,
+        lastMessagesScrollTop: 0,
+        titleSourceSupported: true,
+        threadBotIdSupported: true,
+        preferences: Object.assign({}, DEFAULT_PREFERENCES),
+        titleSyncing: {},
+        adminWorkspace: null,
+        composerModeMenuOpen: false,
+        profileMenuOpen: false,
+        reasoningExpanded: {},
+        pendingAttachments: [],
+        uploadingAttachments: [],
+        latestRegeneratableAssistantId: "",
+        visibleMessages: [],
+        messageVariantMeta: {},
+        messageTurnKeyById: {},
+        turnVariantMembers: {},
+        variantSelectionByTurn: {},
+        sendInFlight: false,
+        lastSendSignature: "",
+        lastSendAt: 0,
+        touchScrollStartTop: 0,
+        remoteStopRetryTimerId: null,
+        streamReveal: {
+            timerId: null,
+            messageId: null
+        }
+    };
+    let adminWorkspaceLoadPromise = null;
+
+    function loadScriptWithFreshQuery(baseSrc) {
+        return new Promise(function (resolve, reject) {
+            const src = String(baseSrc || "").trim();
+            if (!src) {
+                reject(new Error("Script source is missing."));
+                return;
+            }
+
+            const fullSrc = src + (src.indexOf("?") === -1 ? "?" : "&") + "reload=" + Date.now();
+            const script = document.createElement("script");
+            script.src = fullSrc;
+            script.async = false;
+            script.onload = function () {
+                resolve();
+            };
+            script.onerror = function () {
+                reject(new Error("Failed to load " + src));
+            };
+            (document.head || document.body || document.documentElement).appendChild(script);
+        });
+    }
+
+    async function ensureAdminWorkspaceApiLoaded() {
+        adminWorkspaceApi = window.LumoraAdminWorkspace;
+        if (adminWorkspaceApi && typeof adminWorkspaceApi.create === "function") {
+            return adminWorkspaceApi;
+        }
+
+        if (!adminWorkspaceLoadPromise) {
+            adminWorkspaceLoadPromise = loadScriptWithFreshQuery(ADMIN_WORKSPACE_SCRIPT_SRC)
+                .then(function () {
+                    adminWorkspaceApi = window.LumoraAdminWorkspace;
+                    if (!adminWorkspaceApi || typeof adminWorkspaceApi.create !== "function") {
+                        throw new Error("Admin workspace module is still unavailable after reload.");
+                    }
+                    return adminWorkspaceApi;
+                })
+                .finally(function () {
+                    adminWorkspaceLoadPromise = null;
+                });
+        }
+
+        return adminWorkspaceLoadPromise;
+    }
+
+    function configureMarkdown() {
+        if (!markedLib || typeof markedLib.setOptions !== "function") {
+            return;
+        }
+        markedLib.setOptions({
+            gfm: true,
+            breaks: true,
+            mangle: false,
+            headerIds: false
+        });
+    }
+
+    function activeStorageKey() {
+        const userId = state.context && state.context.user && state.context.user.id
+            ? state.context.user.id
+            : "guest";
+        const botId = getEffectiveThreadBotId() || "assistant";
+        return "active-thread:" + userId + ":" + botId;
+    }
+
+    function preferencesStorageKey() {
+        return "chat-preferences:" + state.context.user.id;
+    }
+
+    function readPreferences() {
+        const stored = utils.getStoredValue(preferencesStorageKey(), null) || {};
+        state.preferences = Object.assign({}, DEFAULT_PREFERENCES, stored);
+        if (["chat", "settings", "admin"].indexOf(state.preferences.activeView) === -1) {
+            state.preferences.activeView = DEFAULT_PREFERENCES.activeView;
+        }
+        if (["normal", "bot"].indexOf(state.preferences.threadMode) === -1) {
+            state.preferences.threadMode = DEFAULT_PREFERENCES.threadMode;
+        }
+        if (!isValidComposerMode(state.preferences.composerMode)) {
+            state.preferences.composerMode = null;
+        }
+        if (!isValidInteractionMode(state.preferences.interactionMode)) {
+            state.preferences.interactionMode = DEFAULT_PREFERENCES.interactionMode;
+        }
+        if (typeof state.preferences.chatModelOverride !== "string") {
+            state.preferences.chatModelOverride = "";
+        }
+        if (typeof state.preferences.imageModelOverride !== "string") {
+            state.preferences.imageModelOverride = "";
+        }
+        if (typeof state.preferences.activeBotId !== "string") {
+            state.preferences.activeBotId = "";
+        }
+    }
+
+    function persistPreferences() {
+        utils.setStoredValue(preferencesStorageKey(), state.preferences);
+    }
+
+    function getChatRouteState() {
+        const params = new URLSearchParams(window.location.search || "");
+        return {
+            threadId: String(params.get(THREAD_ROUTE_KEY) || "").trim(),
+            forceNew: params.get(NEW_ROUTE_KEY) === "1",
+            shareMode: params.get(SHARE_ROUTE_KEY) === "1",
+            shareToken: String(params.get(SHARE_TOKEN_ROUTE_KEY) || "").trim()
+        };
+    }
+
+    function replaceCurrentRouteUrl(url) {
+        if (!window.history || typeof window.history.replaceState !== "function") {
+            return;
+        }
+        window.history.replaceState({}, "", url.toString());
+    }
+
+    function syncThreadRoute(threadId, options) {
+        const settings = Object.assign({
+            shareMode: false,
+            shareToken: ""
+        }, options || {});
+        const url = new URL(window.location.href);
+
+        if (threadId) {
+            url.searchParams.set(THREAD_ROUTE_KEY, String(threadId));
+        } else {
+            url.searchParams.delete(THREAD_ROUTE_KEY);
+        }
+
+        url.searchParams.delete(NEW_ROUTE_KEY);
+
+        if (settings.shareMode && threadId) {
+            url.searchParams.set(SHARE_ROUTE_KEY, "1");
+            if (settings.shareToken) {
+                url.searchParams.set(SHARE_TOKEN_ROUTE_KEY, String(settings.shareToken));
+            } else {
+                url.searchParams.delete(SHARE_TOKEN_ROUTE_KEY);
+            }
+        } else {
+            url.searchParams.delete(SHARE_ROUTE_KEY);
+            url.searchParams.delete(SHARE_TOKEN_ROUTE_KEY);
+        }
+
+        replaceCurrentRouteUrl(url);
+    }
+
+    function getThreadTrace(thread) {
+        const trace = thread && thread.last_trace;
+        return trace && typeof trace === "object"
+            ? trace
+            : {};
+    }
+
+    function getThreadShareMeta(thread) {
+        const trace = getThreadTrace(thread);
+        const share = trace._share;
+        if (!share || typeof share !== "object") {
+            return null;
+        }
+        return Object.assign({}, share);
+    }
+
+    function withPreservedShareTrace(thread, nextTrace) {
+        const merged = nextTrace && typeof nextTrace === "object"
+            ? Object.assign({}, nextTrace)
+            : {};
+        const shareMeta = getThreadShareMeta(thread);
+        if (shareMeta && shareMeta.token_hash) {
+            merged._share = shareMeta;
+        }
+        return merged;
+    }
+
+    function buildThreadShareTrace(thread, tokenHash) {
+        const nowIso = new Date().toISOString();
+        const currentTrace = getThreadTrace(thread);
+        const currentShareMeta = getThreadShareMeta(thread) || {};
+        const shareMeta = Object.assign({}, currentShareMeta, {
+            token_hash: tokenHash,
+            updated_at: nowIso,
+            created_at: currentShareMeta.created_at || nowIso,
+            created_by: state.context && state.context.user ? state.context.user.id : null,
+            version: 1
+        });
+        return Object.assign({}, currentTrace, {
+            _share: shareMeta
+        });
+    }
+
+    function generateShareToken() {
+        const bytes = new Uint8Array(18);
+        window.crypto.getRandomValues(bytes);
+        return Array.from(bytes)
+            .map(function (value) {
+                return value.toString(16).padStart(2, "0");
+            })
+            .join("");
+    }
+
+    function buildThreadShareUrl(threadId, token) {
+        const url = new URL(window.location.href);
+        url.searchParams.set(THREAD_ROUTE_KEY, String(threadId || "").trim());
+        url.searchParams.set(SHARE_ROUTE_KEY, "1");
+        url.searchParams.set(SHARE_TOKEN_ROUTE_KEY, String(token || "").trim());
+        url.searchParams.delete(NEW_ROUTE_KEY);
+        return url.toString();
+    }
+
+    async function isValidThreadShareToken(thread, token) {
+        const shareMeta = getThreadShareMeta(thread);
+        const expected = String(shareMeta && shareMeta.token_hash || "").trim();
+        const provided = String(token || "").trim();
+        if (!expected || !provided) {
+            return false;
+        }
+        const providedHash = await utils.sha256Hex(provided);
+        return providedHash === expected;
+    }
+
+    function profileInitials() {
+        const source = state.context && state.context.profile && state.context.profile.display_name
+            ? state.context.profile.display_name
+            : state.context && state.context.user && state.context.user.email
+                ? state.context.user.email
+                : "User";
+        return source
+            .trim()
+            .split(/\s+/)
+            .slice(0, 2)
+            .map(function (part) {
+                return part.charAt(0).toUpperCase();
+            })
+            .join("") || "U";
+    }
+
+    function setAppReady(isReady) {
+        if (!document.body) {
+            return;
+        }
+        document.body.classList.toggle("is-app-ready", Boolean(isReady));
+    }
+
+    function isValidComposerMode(mode) {
+        return mode === "fast" || mode === "thinking" || mode === "auto";
+    }
+
+    function isValidInteractionMode(mode) {
+        return mode === "chat" || mode === "image";
+    }
+
+    function getResolvedInteractionMode() {
+        return isValidInteractionMode(state.preferences.interactionMode)
+            ? state.preferences.interactionMode
+            : DEFAULT_PREFERENCES.interactionMode;
+    }
+
+    function modelSupportsVisualInput(modelId) {
+        const value = String(modelId || "").toLowerCase();
+        return value.indexOf("omni") !== -1
+            || value.indexOf("-vl") !== -1
+            || value.indexOf("qvq") !== -1
+            || value.indexOf("vision") !== -1;
+    }
+
+    function normalizeModelAliasMap(rawAliases) {
+        const source = rawAliases && typeof rawAliases === "object" && !Array.isArray(rawAliases)
+            ? rawAliases
+            : {};
+        const normalized = {};
+        Object.keys(source).forEach(function (modelId) {
+            const normalizedId = String(modelId || "").trim();
+            if (!normalizedId) {
+                return;
+            }
+            const alias = String(source[modelId] || "").trim();
+            if (!alias) {
+                return;
+            }
+            normalized[normalizedId] = alias;
+        });
+        return normalized;
+    }
+
+    function getModelDisplayName(modelId) {
+        const normalizedId = String(modelId || "").trim();
+        if (!normalizedId) {
+            return "";
+        }
+        const aliases = normalizeModelAliasMap(state.settings && state.settings.model_aliases);
+        const alias = String(aliases[normalizedId] || "").trim();
+        return alias || normalizedId;
+    }
+
+    function normalizeBotId(rawId, fallbackIndex) {
+        const source = String(rawId || "").trim().toLowerCase();
+        const normalized = source
+            .replace(/[^a-z0-9_-]+/g, "-")
+            .replace(/-{2,}/g, "-")
+            .replace(/^-+|-+$/g, "");
+        if (normalized) {
+            return normalized;
+        }
+        return fallbackIndex === 0
+            ? "assistant"
+            : "bot-" + String(fallbackIndex + 1);
+    }
+
+    function getAvailableBots() {
+        const settings = state.settings || {};
+        const source = Array.isArray(settings.bots)
+            ? settings.bots
+            : [];
+        const seen = new Set();
+        const bots = [];
+
+        source.forEach(function (entry, index) {
+            const value = entry && typeof entry === "object"
+                ? entry
+                : {};
+            const baseId = normalizeBotId(value.id, index);
+            let botId = baseId;
+            let suffix = 2;
+            while (seen.has(botId)) {
+                botId = baseId + "-" + String(suffix);
+                suffix += 1;
+            }
+            seen.add(botId);
+            bots.push({
+                id: botId,
+                name: String(value.name || value.label || "").trim() || (index === 0 ? "Assistant" : ("Bot " + String(index + 1))),
+                system_prompt: typeof value.system_prompt === "string"
+                    ? value.system_prompt
+                    : typeof value.prompt === "string"
+                        ? value.prompt
+                        : ""
+            });
+        });
+
+        if (!bots.some(function (bot) { return bot.id === "assistant"; })) {
+            bots.unshift({
+                id: "assistant",
+                name: "Assistant",
+                system_prompt: ""
+            });
+        }
+
+        return bots;
+    }
+
+    function getCustomBots() {
+        const settings = state.settings || {};
+        const source = Array.isArray(settings.bots)
+            ? settings.bots
+            : [];
+        const seen = new Set();
+        const bots = [];
+
+        source.forEach(function (entry, index) {
+            const value = entry && typeof entry === "object"
+                ? entry
+                : {};
+            const baseId = normalizeBotId(value.id, index);
+            let botId = baseId;
+            let suffix = 2;
+            while (seen.has(botId)) {
+                botId = baseId + "-" + String(suffix);
+                suffix += 1;
+            }
+            seen.add(botId);
+            bots.push({
+                id: botId,
+                name: String(value.name || value.label || "").trim() || (index === 0 ? "Assistant" : ("Bot " + String(index + 1))),
+                system_prompt: typeof value.system_prompt === "string"
+                    ? value.system_prompt
+                    : typeof value.prompt === "string"
+                        ? value.prompt
+                        : ""
+            });
+        });
+
+        return bots;
+    }
+
+    function getResolvedThreadMode() {
+        const preferred = String(state.preferences.threadMode || "").trim().toLowerCase();
+        if (preferred === "bot" && getCustomBots().length) {
+            return "bot";
+        }
+        return "normal";
+    }
+
+    function ensureThreadModePreference(optionsOverride) {
+        const options = Object.assign({ persist: true }, optionsOverride || {});
+        const resolvedMode = getResolvedThreadMode();
+        if (state.preferences.threadMode === resolvedMode) {
+            return resolvedMode;
+        }
+        state.preferences.threadMode = resolvedMode;
+        if (options.persist) {
+            persistPreferences();
+        }
+        return resolvedMode;
+    }
+
+    function getResolvedActiveBotId() {
+        const bots = getCustomBots();
+        if (!bots.length) {
+            return "";
+        }
+        const preferred = String(state.preferences.activeBotId || "").trim();
+        if (preferred && bots.some(function (bot) { return bot.id === preferred; })) {
+            return preferred;
+        }
+        return bots[0].id;
+    }
+
+    function getEffectiveThreadBotId() {
+        const mode = getResolvedThreadMode();
+        if (mode === "normal") {
+            return "assistant";
+        }
+        const botId = getResolvedActiveBotId();
+        return botId || "assistant";
+    }
+
+    function getActiveBot() {
+        const bots = getAvailableBots();
+        if (!bots.length) {
+            return null;
+        }
+        const activeId = getEffectiveThreadBotId();
+        return bots.find(function (bot) {
+            return bot.id === activeId;
+        }) || bots[0];
+    }
+
+    function ensureActiveBotPreference(optionsOverride) {
+        const options = Object.assign({ persist: true }, optionsOverride || {});
+        const resolvedId = getResolvedActiveBotId();
+        if (!resolvedId) {
+            if (state.preferences.activeBotId) {
+                state.preferences.activeBotId = "";
+                if (options.persist) {
+                    persistPreferences();
+                }
+            }
+            return "";
+        }
+        if (resolvedId === state.preferences.activeBotId) {
+            return resolvedId;
+        }
+        state.preferences.activeBotId = resolvedId;
+        if (options.persist) {
+            persistPreferences();
+        }
+        return resolvedId;
+    }
+
+    function setActiveBot(botId, optionsOverride) {
+        const options = Object.assign({ persist: true }, optionsOverride || {});
+        const requested = String(botId || "").trim();
+        const bots = getCustomBots();
+        if (!bots.length) {
+            return false;
+        }
+        const match = bots.find(function (bot) {
+            return bot.id === requested;
+        }) || bots[0];
+        if (!match) {
+            return false;
+        }
+        if (state.preferences.activeBotId === match.id) {
+            return false;
+        }
+        state.preferences.activeBotId = match.id;
+        if (options.persist) {
+            persistPreferences();
+        }
+        renderBotList();
+        syncComposerControls();
+        return true;
+    }
+
+    function setThreadMode(mode, optionsOverride) {
+        const options = Object.assign({ persist: true }, optionsOverride || {});
+        const requested = String(mode || "").trim().toLowerCase();
+        const nextMode = requested === "bot" && getCustomBots().length
+            ? "bot"
+            : "normal";
+        if (state.preferences.threadMode === nextMode) {
+            return false;
+        }
+        state.preferences.threadMode = nextMode;
+        if (options.persist) {
+            persistPreferences();
+        }
+        applyShellState();
+        return true;
+    }
+
+    async function switchToNormalChatContext(optionsOverride) {
+        const options = Object.assign({ focusComposer: true }, optionsOverride || {});
+        if (state.busy) {
+            toast("Stop the current reply before switching chat mode.", "info");
+            return;
+        }
+
+        setActiveView("chat", { focusComposer: options.focusComposer });
+        const changedMode = setThreadMode("normal");
+        if (!changedMode && state.preferences.activeView === "chat") {
+            return;
+        }
+
+        state.threadQuery = "";
+        if (dom.threadSearchInput) {
+            dom.threadSearchInput.value = "";
+        }
+
+        syncThreadRoute(null);
+        await loadThreads();
+        await restoreInitialThreadSelection();
+        renderPreferences();
+    }
+
+    async function switchToBotContext(botId) {
+        if (state.busy) {
+            toast("Stop the current reply before switching bots.", "info");
+            return;
+        }
+
+        const hasCustomBots = getCustomBots().length > 0;
+        if (!hasCustomBots) {
+            toast("No custom bots yet. Create one in admin settings.", "info");
+            return;
+        }
+
+        const previousMode = getResolvedThreadMode();
+        const previousBotId = getResolvedActiveBotId();
+        const changedBot = setActiveBot(botId);
+        const changedMode = setThreadMode("bot");
+        if (!changedBot && !changedMode) {
+            return;
+        }
+
+        setActiveView("chat", { focusComposer: false });
+        state.threadQuery = "";
+        if (dom.threadSearchInput) {
+            dom.threadSearchInput.value = "";
+        }
+
+        try {
+            syncThreadRoute(null);
+            await loadThreads();
+            await restoreInitialThreadSelection();
+            renderPreferences();
+        } catch (error) {
+            setThreadMode(previousMode);
+            setActiveBot(previousBotId);
+            throw error;
+        }
+    }
+
+    function renderBotList() {
+        const mode = getResolvedThreadMode();
+        const bots = getCustomBots();
+        const activeBotId = ensureActiveBotPreference({ persist: false });
+
+        if (dom.botSection) {
+            dom.botSection.hidden = false;
+        }
+        if (dom.botCount) {
+            dom.botCount.textContent = String(bots.length);
+        }
+
+        if (!dom.botList) {
+            return;
+        }
+
+        if (!bots.length) {
+            dom.botList.innerHTML = '<div class="bot-list-empty">No custom bots yet. Create bots from admin settings.</div>';
+            return;
+        }
+
+        dom.botList.innerHTML = bots.map(function (bot) {
+            const activeClass = bot.id === activeBotId ? " is-active" : "";
+            const activeLabel = bot.id === activeBotId
+                ? "Active"
+                : "Ready";
+            return [
+                '<button class="bot-card' + activeClass + '" type="button" data-bot-id="' + utils.escapeHtml(bot.id) + '">',
+                '<span class="bot-card-head">',
+                '<strong>' + utils.escapeHtml(bot.name) + '</strong>',
+                '<span class="bot-card-state">' + utils.escapeHtml(activeLabel) + '</span>',
+                '</span>',
+                '</button>'
+            ].join("");
+        }).join("");
+    }
+
+    function renderThreadScopeCopy() {
+        if (!dom.threadScopeCopy) {
+            return;
+        }
+        const mode = getResolvedThreadMode();
+        if (mode === "normal") {
+            dom.threadScopeCopy.textContent = "Showing normal chats.";
+            return;
+        }
+        const activeBot = getActiveBot();
+        const activeBotLabel = activeBot && activeBot.name
+            ? activeBot.name
+            : "Assistant";
+        dom.threadScopeCopy.textContent = "Showing chats for " + activeBotLabel + ".";
+    }
+
+    function handleBotListClick(event) {
+        const trigger = event.target.closest("[data-bot-id]");
+        if (!trigger) {
+            return;
+        }
+        const botId = String(trigger.getAttribute("data-bot-id") || "").trim();
+        if (!botId) {
+            return;
+        }
+        switchToBotContext(botId)
+            .then(function () {
+                startNewChat();
+            })
+            .catch(function (error) {
+                toast(error && error.message ? error.message : "Unable to switch bot threads right now.", "error");
+            });
+    }
+
+    function handleBotRailClick() {
+        if (state.busy) {
+            return;
+        }
+
+        setActiveView("chat", { focusComposer: false });
+        const bots = getCustomBots();
+        if (!bots.length) {
+            toast("No custom bots yet. Create one in admin settings.", "info");
+            return;
+        }
+
+        const preferredBotId = ensureActiveBotPreference({ persist: true }) || bots[0].id;
+        switchToBotContext(preferredBotId)
+            .catch(function (error) {
+                toast(error && error.message ? error.message : "Unable to open bot chats right now.", "error");
+            });
+    }
+
+    function getEnabledModelIds() {
+        const settings = state.settings || {};
+        const sourceModels = Array.isArray(settings.allowed_models) && settings.allowed_models.length
+            ? settings.allowed_models
+            : [settings.default_model || "", settings.default_image_model || ""];
+        const seen = new Set();
+        return sourceModels.map(function (modelId) {
+            return String(modelId || "").trim();
+        }).filter(function (modelId) {
+            if (!modelId || seen.has(modelId)) {
+                return false;
+            }
+            seen.add(modelId);
+            return true;
+        });
+    }
+
+    function getDefaultModelForInteraction(interactionMode) {
+        const settings = state.settings || {};
+        if (interactionMode === "image") {
+            return String(settings.default_image_model || settings.default_model || "").trim();
+        }
+        return String(settings.default_model || "").trim();
+    }
+
+    function getStoredModelOverride(interactionMode) {
+        return interactionMode === "image"
+            ? String(state.preferences.imageModelOverride || "").trim()
+            : String(state.preferences.chatModelOverride || "").trim();
+    }
+
+    function setStoredModelOverride(interactionMode, modelId) {
+        const nextValue = String(modelId || "").trim();
+        if (interactionMode === "image") {
+            state.preferences.imageModelOverride = nextValue;
+        } else {
+            state.preferences.chatModelOverride = nextValue;
+        }
+        persistPreferences();
+    }
+
+    function getSelectableModelsForInteraction(interactionMode) {
+        const enabledModels = getEnabledModelIds();
+        if (interactionMode !== "image") {
+            return enabledModels;
+        }
+        const imageCapableModels = enabledModels.filter(modelSupportsVisualInput);
+        return imageCapableModels.length
+            ? imageCapableModels
+            : enabledModels;
+    }
+
+    function resolveComposerSelectedModel(interactionMode) {
+        const mode = isValidInteractionMode(interactionMode)
+            ? interactionMode
+            : getResolvedInteractionMode();
+        const selectableModels = getSelectableModelsForInteraction(mode);
+        const storedOverride = getStoredModelOverride(mode);
+        if (storedOverride && selectableModels.indexOf(storedOverride) !== -1) {
+            return storedOverride;
+        }
+        const preferredDefault = getDefaultModelForInteraction(mode);
+        if (preferredDefault && selectableModels.indexOf(preferredDefault) !== -1) {
+            return preferredDefault;
+        }
+        return selectableModels.length
+            ? selectableModels[0]
+            : preferredDefault;
+    }
+
+    function renderComposerModelSelect(interactionMode) {
+        if (!dom.composerModelSelect) {
+            return;
+        }
+
+        const mode = isValidInteractionMode(interactionMode)
+            ? interactionMode
+            : getResolvedInteractionMode();
+        const selectableModels = getSelectableModelsForInteraction(mode);
+        const preferredModel = resolveComposerSelectedModel(mode);
+
+        if (!selectableModels.length) {
+            dom.composerModelSelect.innerHTML = '<option value="">No enabled models</option>';
+            dom.composerModelSelect.value = "";
+            dom.composerModelSelect.disabled = true;
+            dom.composerModelSelect.title = "No enabled models found in admin settings.";
+            return;
+        }
+
+        dom.composerModelSelect.innerHTML = selectableModels.map(function (modelId) {
+            const label = getModelDisplayName(modelId);
+            return '<option value="' + utils.escapeHtml(modelId) + '">' + utils.escapeHtml(label || modelId) + "</option>";
+        }).join("");
+
+        dom.composerModelSelect.value = selectableModels.indexOf(preferredModel) !== -1
+            ? preferredModel
+            : selectableModels[0];
+        dom.composerModelSelect.disabled = state.busy;
+        dom.composerModelSelect.title = mode === "image"
+            ? "Select enabled image model"
+            : "Select enabled chat model";
+    }
+
+    function getSelectedComposerModel(interactionMode) {
+        const mode = isValidInteractionMode(interactionMode)
+            ? interactionMode
+            : getResolvedInteractionMode();
+        const selectableModels = getSelectableModelsForInteraction(mode);
+        const selectedInControl = mode === getResolvedInteractionMode() && dom.composerModelSelect
+            ? String(dom.composerModelSelect.value || "").trim()
+            : "";
+        if (selectedInControl && selectableModels.indexOf(selectedInControl) !== -1) {
+            return selectedInControl;
+        }
+        return resolveComposerSelectedModel(mode);
+    }
+
+    function modelSupportsAutoMode(modelId) {
+        return String(modelId || "").toLowerCase().indexOf("qwen3.5-plus") !== -1;
+    }
+
+    function getAvailableComposerModes(interactionMode, selectedModel) {
+        const resolvedInteractionMode = isValidInteractionMode(interactionMode)
+            ? interactionMode
+            : getResolvedInteractionMode();
+        const modes = ["fast", "thinking"];
+        if (resolvedInteractionMode === "chat" && modelSupportsAutoMode(selectedModel)) {
+            modes.push("auto");
+        }
+        return modes;
+    }
+
+    function getResolvedComposerMode(interactionMode, selectedModel, preferredMode) {
+        const resolvedInteractionMode = isValidInteractionMode(interactionMode)
+            ? interactionMode
+            : getResolvedInteractionMode();
+        const resolvedModel = String(selectedModel || getSelectedComposerModel(resolvedInteractionMode) || "").trim();
+        const availableModes = getAvailableComposerModes(resolvedInteractionMode, resolvedModel);
+        const candidateMode = isValidComposerMode(preferredMode)
+            ? preferredMode
+            : state.preferences.composerMode;
+
+        if (isValidComposerMode(candidateMode) && availableModes.indexOf(candidateMode) !== -1) {
+            return candidateMode;
+        }
+
+        const defaultMode = state.settings && state.settings.thinking_enabled
+            ? "thinking"
+            : "fast";
+        if (availableModes.indexOf(defaultMode) !== -1) {
+            return defaultMode;
+        }
+        return availableModes.length
+            ? availableModes[0]
+            : "fast";
+    }
+
+    function getComposerModeLabel(mode) {
+        if (mode === "auto") {
+            return "Auto";
+        }
+        return mode === "thinking"
+            ? "Thinking"
+            : "Fast";
+    }
+
+    function queuedAttachmentCount() {
+        return state.pendingAttachments.length + state.uploadingAttachments.length;
+    }
+
+    function normalizeAttachmentDescriptor(descriptor) {
+        const item = descriptor && typeof descriptor === "object" ? descriptor : {};
+        const name = String(item.name || item.filename || "Attachment").trim() || "Attachment";
+        const rawType = String(item.type || item.filetype || "").trim().toLowerCase();
+        const type = rawType.indexOf("image/") === 0
+            ? "image"
+            : rawType;
+        return {
+            localId: String(item.localId || "att-" + utils.uid()),
+            id: String(item.id || item.file_id || "").trim(),
+            name: name,
+            size: Number(item.size) || 0,
+            type: type || "file",
+            url: String(item.url || item.file_url || "").trim(),
+            status: String(item.status || "uploaded").trim() || "uploaded",
+            error: String(item.error || "").trim()
+        };
+    }
+
+    function collectMessageAttachments(meta) {
+        const items = meta && Array.isArray(meta.attachments) ? meta.attachments : [];
+        return items.map(normalizeAttachmentDescriptor).filter(function (item) {
+            return item.name;
+        });
+    }
+
+    function activeUploadInProgress() {
+        return state.uploadingAttachments.some(function (item) {
+            return item.status === "uploading";
+        });
+    }
+
+    function sendableAttachments() {
+        return state.pendingAttachments
+            .filter(function (item) {
+                return item.status === "uploaded" && (item.id || item.url);
+            })
+            .map(function (item) {
+                return {
+                    localId: item.localId,
+                    id: item.id,
+                    file_id: item.id,
+                    name: item.name,
+                    size: item.size,
+                    type: item.type,
+                    url: item.url,
+                    file_url: item.url,
+                    status: "uploaded"
+                };
+            });
+    }
+
+    function buildAttachmentOnlyPrompt(files) {
+        const items = Array.isArray(files) ? files : [];
+        const hasImage = items.some(function (file) {
+            return String(file.type || "").toLowerCase() === "image";
+        });
+        return hasImage
+            ? "Please describe the attached image."
+            : "Please review the attached file.";
+    }
+
+    function removeQueuedAttachment(localId) {
+        const identifier = String(localId || "");
+        state.pendingAttachments = state.pendingAttachments.filter(function (item) {
+            return item.localId !== identifier;
+        });
+        state.uploadingAttachments = state.uploadingAttachments.filter(function (item) {
+            return item.localId !== identifier;
+        });
+    }
+
+    function setComposerModeMenuOpen(isOpen) {
+        state.composerModeMenuOpen = Boolean(isOpen);
+        if (!dom.composerModePicker || !dom.composerModeTrigger || !dom.composerModeMenu) {
+            return;
+        }
+        dom.composerModePicker.dataset.open = state.composerModeMenuOpen ? "true" : "false";
+        dom.composerModeTrigger.setAttribute("aria-expanded", state.composerModeMenuOpen ? "true" : "false");
+        dom.composerModeMenu.hidden = !state.composerModeMenuOpen;
+    }
+
+    function syncComposerControls() {
+        const interactionMode = getResolvedInteractionMode();
+        renderComposerModelSelect(interactionMode);
+        const selectedModel = getSelectedComposerModel(interactionMode);
+        const availableModes = getAvailableComposerModes(interactionMode, selectedModel);
+        const mode = getResolvedComposerMode(interactionMode, selectedModel);
+        if (state.preferences.composerMode !== mode) {
+            state.preferences.composerMode = mode;
+            persistPreferences();
+        }
+        const hasPrompt = Boolean((dom.promptInput && dom.promptInput.value || "").trim());
+        const hasQueuedAttachments = Boolean(sendableAttachments().length);
+        const uploadsPending = activeUploadInProgress();
+        const attachmentsBlocked = interactionMode === "image" && queuedAttachmentCount() > 0;
+        const canSend = interactionMode === "image"
+            ? hasPrompt && !attachmentsBlocked
+            : hasPrompt || hasQueuedAttachments;
+
+        if (dom.composerChatModeBtn && dom.composerImageModeBtn) {
+            const isChat = interactionMode === "chat";
+            dom.composerChatModeBtn.classList.toggle("is-active", isChat);
+            dom.composerChatModeBtn.setAttribute("aria-selected", isChat ? "true" : "false");
+            dom.composerImageModeBtn.classList.toggle("is-active", !isChat);
+            dom.composerImageModeBtn.setAttribute("aria-selected", !isChat ? "true" : "false");
+        }
+
+        if (dom.composerModeLabel) {
+            dom.composerModeLabel.textContent = getComposerModeLabel(mode);
+        }
+
+        if (dom.composerModeMenu) {
+            dom.composerModeMenu.querySelectorAll("[data-composer-mode]").forEach(function (button) {
+                const buttonMode = button.getAttribute("data-composer-mode");
+                const isAvailable = availableModes.indexOf(buttonMode) !== -1;
+                button.hidden = !isAvailable;
+                button.disabled = !isAvailable;
+                if (!isAvailable) {
+                    button.classList.remove("is-active");
+                    button.setAttribute("aria-checked", "false");
+                    return;
+                }
+                const isActive = buttonMode === mode;
+                button.classList.toggle("is-active", isActive);
+                button.setAttribute("aria-checked", isActive ? "true" : "false");
+            });
+        }
+
+        if (dom.composerModeTrigger) {
+            dom.composerModeTrigger.disabled = state.busy || interactionMode !== "chat";
+            dom.composerModeTrigger.setAttribute("title", "Response mode: " + getComposerModeLabel(mode));
+        }
+
+        if (dom.composerModePicker) {
+            dom.composerModePicker.hidden = interactionMode !== "chat";
+        }
+
+        if (dom.composerAttachBtn) {
+            dom.composerAttachBtn.disabled = state.busy || uploadsPending || interactionMode === "image";
+            dom.composerAttachBtn.setAttribute("title", interactionMode === "image" ? "Attachments are available in Ask mode." : "Attach file");
+        }
+
+        if (dom.composerMicBtn) {
+            dom.composerMicBtn.disabled = true;
+        }
+
+        if (dom.sendBtn) {
+            dom.sendBtn.hidden = state.busy;
+            dom.sendBtn.disabled = state.busy || uploadsPending || !canSend;
+            dom.sendBtn.setAttribute("title", interactionMode === "image" ? "Generate image" : "Send message");
+        }
+
+        if (dom.stopBtn) {
+            dom.stopBtn.hidden = !state.busy;
+            dom.stopBtn.disabled = !state.busy;
+        }
+    }
+
+    function setComposerMode(mode, options) {
+        const mergedOptions = Object.assign({ persist: true }, options || {});
+        const interactionMode = getResolvedInteractionMode();
+        const selectedModel = getSelectedComposerModel(interactionMode);
+        const availableModes = getAvailableComposerModes(interactionMode, selectedModel);
+        if (!isValidComposerMode(mode) || availableModes.indexOf(mode) === -1) {
+            return;
+        }
+        state.preferences.composerMode = mode;
+        if (mergedOptions.persist) {
+            persistPreferences();
+        }
+        setComposerModeMenuOpen(false);
+        syncComposerControls();
+    }
+
+    function setInteractionMode(mode, options) {
+        const mergedOptions = Object.assign({ persist: true }, options || {});
+        if (!isValidInteractionMode(mode)) {
+            return;
+        }
+        state.preferences.interactionMode = mode;
+        if (mode === "image") {
+            setComposerModeMenuOpen(false);
+        }
+        if (mergedOptions.persist) {
+            persistPreferences();
+        }
+        syncComposerControls();
+    }
+
+    function setProfileMenuOpen(isOpen) {
+        state.profileMenuOpen = Boolean(isOpen);
+        if (!dom.railProfileMenu || !dom.sidebarProfileBtn) {
+            return;
+        }
+        dom.railProfileMenu.hidden = !state.profileMenuOpen;
+        dom.railProfileMenu.dataset.open = state.profileMenuOpen ? "true" : "false";
+        dom.sidebarProfileBtn.classList.toggle("is-active", state.profileMenuOpen);
+        dom.sidebarProfileBtn.setAttribute("aria-expanded", state.profileMenuOpen ? "true" : "false");
+    }
+
+    function setThreadMenuOpen(threadId) {
+        state.openThreadMenuId = threadId ? String(threadId) : null;
+        renderThreadList();
+        if (state.openThreadMenuId) {
+            requestAnimationFrame(updateOpenThreadMenuPlacement);
+        }
+    }
+
+    function updateOpenThreadMenuPlacement() {
+        if (!state.openThreadMenuId || !dom.threadList) {
+            return;
+        }
+
+        const openCard = dom.threadList.querySelector(".thread-card.menu-open");
+        if (!openCard) {
+            return;
+        }
+
+        const menu = openCard.querySelector(".thread-menu");
+        const trigger = openCard.querySelector(".thread-menu-trigger");
+        if (!menu || !trigger || menu.hidden) {
+            return;
+        }
+
+        menu.dataset.placement = "down";
+        const listRect = dom.threadList.getBoundingClientRect();
+        const triggerRect = trigger.getBoundingClientRect();
+        const menuRect = menu.getBoundingClientRect();
+        const spaceBelow = listRect.bottom - triggerRect.bottom;
+        const spaceAbove = triggerRect.top - listRect.top;
+        const requiredSpace = (menuRect.height || 0) + 10;
+
+        if (spaceBelow < requiredSpace && spaceAbove > spaceBelow) {
+            menu.dataset.placement = "up";
+        }
+    }
+
+    function handleThreadListScroll() {
+        if (state.openThreadMenuId) {
+            updateOpenThreadMenuPlacement();
+        }
+    }
+
+    function handleWindowResize() {
+        if (state.openThreadMenuId) {
+            updateOpenThreadMenuPlacement();
+        }
+    }
+
+    function syncAppViews(activeView) {
+        const views = [
+            { key: "chat", node: dom.chatView },
+            { key: "settings", node: dom.settingsView },
+            { key: "admin", node: dom.adminView }
+        ].filter(function (entry) {
+            return entry.node;
+        });
+
+        views.forEach(function (entry) {
+            const node = entry.node;
+            const shouldShow = entry.key === activeView;
+            node.hidden = !shouldShow;
+            node.classList.toggle("is-active-view", shouldShow);
+        });
+    }
+
+    function applyShellState() {
+        document.body.dataset.sidebarCollapsed = state.preferences.sidebarCollapsed ? "true" : "false";
+
+        const isSettingsView = state.preferences.activeView === "settings";
+        const isAdminView = state.preferences.activeView === "admin";
+        const isChatView = state.preferences.activeView === "chat";
+        const threadMode = ensureThreadModePreference({ persist: false });
+        syncAppViews(
+            isSettingsView ? "settings" : isAdminView ? "admin" : "chat"
+        );
+        if (dom.sidebarRailChatsBtn) {
+            dom.sidebarRailChatsBtn.classList.toggle("is-active", isChatView && threadMode === "normal");
+        }
+        if (dom.sidebarRailBotsBtn) {
+            dom.sidebarRailBotsBtn.classList.toggle("is-active", isChatView && threadMode === "bot");
+        }
+        if (dom.botSection) {
+            dom.botSection.hidden = threadMode !== "bot";
+        }
+        dom.sidebarRailSettingsBtn.classList.toggle("is-active", isSettingsView);
+        dom.sidebarRailAdminLink.classList.toggle("is-active", isAdminView);
+        dom.chatSidebar.setAttribute("data-collapsed", state.preferences.sidebarCollapsed ? "true" : "false");
+        dom.sidebarToggleBtn.setAttribute("aria-expanded", state.preferences.sidebarCollapsed ? "false" : "true");
+        dom.sidebarToggleBtn.setAttribute("title", state.preferences.sidebarCollapsed ? "Expand sidebar" : "Collapse sidebar");
+        dom.sidebarToggleBtn.setAttribute("aria-label", state.preferences.sidebarCollapsed ? "Expand sidebar" : "Collapse sidebar");
+        dom.sidebarToggleBtn.querySelector(".rail-glyph").textContent = state.preferences.sidebarCollapsed ? ">" : "<";
+        dom.settingsSidebarStatus.textContent = state.preferences.sidebarCollapsed ? "Collapsed rail" : "Expanded layout";
+        dom.settingsSidebarToggleBtn.textContent = state.preferences.sidebarCollapsed ? "Expand sidebar" : "Collapse sidebar";
+        syncDocumentTitle();
+        syncComposerControls();
+    }
+
+    function getThemeLabel(themeId) {
+        const availableThemes = typeof theme.getAvailableThemes === "function"
+            ? theme.getAvailableThemes()
+            : [];
+        const match = availableThemes.find(function (entry) {
+            return entry.id === themeId;
+        });
+        return match ? match.label : String(themeId || "-");
+    }
+
+    function setChatFeedback(kind, copy) {
+        const resolvedKind = kind || (gateway.gatewayReady(getGatewayRuntimeSettings()) ? "ready" : "setup");
+        const badgeLabels = {
+            ready: "Ready",
+            setup: "Setup",
+            idle: "Idle",
+            sending: "Streaming",
+            complete: "Complete",
+            stopped: "Stopped",
+            error: "Error",
+            reset: "Reset"
+        };
+        dom.connectionBadge.dataset.state = resolvedKind;
+        dom.connectionBadge.textContent = badgeLabels[resolvedKind] || "Ready";
+        dom.composerStatus.textContent = copy || "Enter sends. Shift+Enter adds a new line.";
+    }
+
+    function setActiveView(view, options) {
+        let nextView = "chat";
+        if (view === "settings") {
+            nextView = "settings";
+        } else if (view === "admin" && state.context && state.context.profile.role === "admin") {
+            nextView = "admin";
+        }
+        const mergedOptions = Object.assign({ persist: true, focusComposer: false }, options || {});
+        state.preferences.activeView = nextView;
+        setProfileMenuOpen(false);
+        if (mergedOptions.persist) {
+            persistPreferences();
+        }
+        applyShellState();
+        if (mergedOptions.focusComposer && nextView === "chat") {
+            requestAnimationFrame(function () {
+                dom.promptInput.focus();
+            });
+        }
+    }
+
+    function setSidebarCollapsed(collapsed, options) {
+        const mergedOptions = Object.assign({ persist: true }, options || {});
+        state.preferences.sidebarCollapsed = Boolean(collapsed);
+        if (mergedOptions.persist) {
+            persistPreferences();
+        }
+        applyShellState();
+    }
+
+    function getActiveThread() {
+        return state.threads.find(function (thread) {
+            return thread.id === state.activeThreadId;
+        }) || null;
+    }
+
+    function getBrandName() {
+        if (state.settings && state.settings.brand_name) {
+            return state.settings.brand_name;
+        }
+        const config = window.LumoraConfig || {};
+        return config.defaults && config.defaults.brandName
+            ? config.defaults.brandName
+            : "Lumora";
+    }
+
+    function syncDocumentTitle() {
+        if (state.preferences.activeView === "settings") {
+            document.title = "Settings | " + getBrandName();
+            return;
+        }
+        if (state.preferences.activeView === "admin") {
+            document.title = "Admin | " + getBrandName();
+            return;
+        }
+        const thread = getActiveThread();
+        const prefix = thread && thread.title
+            ? thread.title
+            : "Chat";
+        document.title = prefix + " | " + getBrandName();
+    }
+
+    function isNearBottom() {
+        if (!dom.messages) {
+            return true;
+        }
+        const remaining = dom.messages.scrollHeight - dom.messages.clientHeight - dom.messages.scrollTop;
+        return remaining <= BOTTOM_THRESHOLD;
+    }
+
+    function renderJumpLatestButton() {
+        if (!dom.jumpLatestBtn) {
+            return;
+        }
+        dom.jumpLatestBtn.hidden = !state.showJumpToLatest;
+    }
+
+    function scrollMessagesToBottom(behavior) {
+        if (!dom.messages) {
+            return;
+        }
+        if (behavior === "smooth" && typeof dom.messages.scrollTo === "function") {
+            dom.messages.scrollTo({
+                top: dom.messages.scrollHeight,
+                behavior: "smooth"
+            });
+            state.lastMessagesScrollTop = dom.messages.scrollHeight;
+            return;
+        }
+        dom.messages.scrollTop = dom.messages.scrollHeight;
+        state.lastMessagesScrollTop = dom.messages.scrollTop;
+    }
+
+    function detachAutoFollow() {
+        state.isAutoFollow = false;
+        state.showJumpToLatest = state.busy;
+        renderJumpLatestButton();
+    }
+
+    function clearStreamRevealTimer() {
+        if (state.streamReveal.timerId) {
+            window.clearTimeout(state.streamReveal.timerId);
+            state.streamReveal.timerId = null;
+        }
+    }
+
+    function getStreamRevealInterval() {
+        return 20;
+    }
+
+    function getRevealStepSize(remaining) {
+        if (remaining > 480) {
+            return 28;
+        }
+        if (remaining > 320) {
+            return 22;
+        }
+        if (remaining > 180) {
+            return 14;
+        }
+        if (remaining > 80) {
+            return 8;
+        }
+        if (remaining > 24) {
+            return 4;
+        }
+        return 2;
+    }
+
+    function computeRevealIndex(targetText, currentLength, stepSize) {
+        let nextIndex = Math.min(targetText.length, currentLength + stepSize);
+        const limit = Math.min(targetText.length, currentLength + stepSize + 12);
+
+        while (
+            nextIndex < limit &&
+            nextIndex < targetText.length &&
+            /\S/.test(targetText.charAt(nextIndex - 1)) &&
+            /\S/.test(targetText.charAt(nextIndex))
+        ) {
+            nextIndex += 1;
+        }
+
+        return nextIndex;
+    }
+
+    function advanceStreamReveal(message) {
+        if (!message || state.streamReveal.messageId !== message.id) {
+            clearStreamRevealTimer();
+            return;
+        }
+
+        const targetText = String(message.targetContent || "");
+        const currentText = String(message.content || "");
+
+        if (currentText === targetText) {
+            clearStreamRevealTimer();
+            return;
+        }
+
+        const remaining = targetText.length - currentText.length;
+        const nextIndex = computeRevealIndex(
+            targetText,
+            currentText.length,
+            getRevealStepSize(remaining)
+        );
+
+        message.content = targetText.slice(0, nextIndex);
+        updateStreamingMessageElement(message);
+        const shouldFollow = state.isAutoFollow;
+        syncScrollAfterRender({
+            forceFollow: shouldFollow,
+            fromStream: !shouldFollow
+        });
+
+        state.streamReveal.timerId = window.setTimeout(function () {
+            state.streamReveal.timerId = null;
+            advanceStreamReveal(message);
+        }, getStreamRevealInterval());
+    }
+
+    function scheduleStreamReveal(message, payload) {
+        if (!message) {
+            return;
+        }
+
+        const update = payload && typeof payload === "object" ? payload : {};
+        const previousMeta = message.meta && typeof message.meta === "object"
+            ? message.meta
+            : {};
+        const nextReply = String(update.reply || "");
+        const nextThinking = String(update.thinking || "");
+        const nextGeneratedImages = Array.isArray(update.generatedImages) ? update.generatedImages : [];
+        const nextSearchSources = Array.isArray(update.searchSources)
+            ? update.searchSources
+            : Array.isArray(previousMeta.search_sources)
+                ? previousMeta.search_sources
+                : [];
+        const nextResponseId = String(update.responseId || previousMeta.response_id || "").trim();
+        const nextParentUserId = String(update.parentUserId || previousMeta.parent_user_id || "").trim();
+        const nextSessionId = String(update.sessionId || previousMeta.session_id || "").trim();
+        const previousReply = String(message.targetContent || message.content || "");
+        const previousThinking = String(previousMeta.reasoning_text || "");
+        const previousGeneratedImages = JSON.stringify(previousMeta.generated_images || []);
+        const previousSearchSources = JSON.stringify(previousMeta.search_sources || []);
+
+        message.targetContent = nextReply;
+        message.meta = Object.assign({}, previousMeta, {
+            state: "streaming",
+            parser: update.parser || previousMeta.parser || "",
+            phase: update.phase || (nextGeneratedImages.length ? "image_gen" : nextReply ? "answer" : nextThinking ? "thinking" : ""),
+            mode: update.mode || previousMeta.mode || getResolvedComposerMode(),
+            interaction_mode: update.interactionMode || previousMeta.interaction_mode || getResolvedInteractionMode(),
+            generated_images: nextGeneratedImages,
+            reasoning_text: nextThinking,
+            search_sources: nextSearchSources,
+            response_id: nextResponseId,
+            parent_user_id: nextParentUserId,
+            session_id: nextSessionId
+        });
+
+        if (state.streamReveal.messageId !== message.id) {
+            clearStreamRevealTimer();
+            state.streamReveal.messageId = message.id;
+        }
+
+        if (
+            nextThinking !== previousThinking
+            || nextReply === previousReply
+            || JSON.stringify(nextGeneratedImages) !== previousGeneratedImages
+            || JSON.stringify(nextSearchSources) !== previousSearchSources
+        ) {
+            updateStreamingMessageElement(message);
+            syncScrollAfterRender({
+                forceFollow: state.isAutoFollow,
+                fromStream: !state.isAutoFollow
+            });
+        }
+
+        if (nextReply !== previousReply && !state.streamReveal.timerId) {
+            advanceStreamReveal(message);
+        }
+    }
+
+    function finalizeStreamReveal(message, options) {
+        const mergedOptions = Object.assign({
+            flush: false
+        }, options || {});
+
+        if (!message) {
+            return;
+        }
+
+        if (state.streamReveal.messageId === message.id) {
+            clearStreamRevealTimer();
+            state.streamReveal.messageId = null;
+        }
+
+        if (mergedOptions.flush && typeof message.targetContent === "string") {
+            message.content = message.targetContent;
+        }
+
+        delete message.targetContent;
+    }
+
+    function enableAutoFollow(options) {
+        const mergedOptions = Object.assign({
+            scroll: false,
+            behavior: "auto"
+        }, options || {});
+        state.isAutoFollow = true;
+        state.showJumpToLatest = false;
+        renderJumpLatestButton();
+        if (mergedOptions.scroll) {
+            requestAnimationFrame(function () {
+                scrollMessagesToBottom(mergedOptions.behavior);
+            });
+        }
+    }
+
+    function syncScrollAfterRender(options) {
+        const mergedOptions = Object.assign({
+            forceFollow: false,
+            fromStream: false
+        }, options || {});
+
+        requestAnimationFrame(function () {
+            if (mergedOptions.forceFollow || state.isAutoFollow) {
+                scrollMessagesToBottom();
+                state.isAutoFollow = true;
+                state.showJumpToLatest = false;
+                renderJumpLatestButton();
+                return;
+            }
+
+            if (mergedOptions.fromStream) {
+                state.showJumpToLatest = true;
+                renderJumpLatestButton();
+            }
+        });
+    }
+
+    function sortThreads(threads) {
+        return threads.slice().sort(function (left, right) {
+            if (Boolean(left.pinned) !== Boolean(right.pinned)) {
+                return left.pinned ? -1 : 1;
+            }
+            return new Date(right.updated_at).getTime() - new Date(left.updated_at).getTime();
+        });
+    }
+
+    function upsertThreadLocal(thread) {
+        const normalized = normalizeThreadRecord(thread);
+        const index = state.threads.findIndex(function (entry) {
+            return entry.id === normalized.id;
+        });
+        if (index === -1) {
+            state.threads.unshift(normalized);
+        } else {
+            state.threads[index] = normalized;
+        }
+        state.threads = sortThreads(state.threads);
+    }
+
+    function removeThreadLocal(threadId) {
+        state.threads = state.threads.filter(function (thread) {
+            return thread.id !== threadId;
+        });
+    }
+
+    function isMissingTitleSourceError(error) {
+        const message = error && error.message ? error.message : String(error || "");
+        return /title_source/i.test(message) && /schema cache|column|could not find/i.test(message);
+    }
+
+    function isMissingThreadBotIdError(error) {
+        const message = error && error.message ? error.message : String(error || "");
+        return /bot_id/i.test(message) && /schema cache|column|could not find/i.test(message);
+    }
+
+    function getThreadBotId(thread) {
+        const record = thread && typeof thread === "object"
+            ? thread
+            : {};
+        const directBotId = String(record.bot_id || "").trim();
+        if (directBotId) {
+            return normalizeBotId(directBotId, 0);
+        }
+        const trace = getThreadTrace(record);
+        const traceBotId = String(trace.bot_id || trace.botId || "").trim();
+        if (traceBotId) {
+            return normalizeBotId(traceBotId, 0);
+        }
+        return "assistant";
+    }
+
+    function normalizeThreadRecord(thread, fallbackSource) {
+        const record = thread && typeof thread === "object"
+            ? Object.assign({}, thread)
+            : {};
+        record.bot_id = getThreadBotId(record);
+        if (!record.title_source) {
+            record.title_source = fallbackSource || "local";
+        }
+        return record;
+    }
+
+    function normalizeThreadList(list) {
+        return (Array.isArray(list) ? list : []).map(function (thread) {
+            return normalizeThreadRecord(thread);
+        });
+    }
+
+    function friendlyRuntimeError(error) {
+        const message = error && error.message ? error.message : String(error);
+        if (/configured|gateway settings|runtime is not configured/i.test(message)) {
+            return "The assistant is not configured yet. Ask an admin to finish the chat runtime setup.";
+        }
+        if (/401|403|token|login|access token|bearer/i.test(message)) {
+            return "The assistant runtime could not be authorized right now. Ask an admin to review the runtime settings.";
+        }
+        return message
+            .replace(/qwen/ig, "assistant")
+            .replace(/proxy/ig, "route");
+    }
+
+    function roleLabel(role) {
+        if (role === "user") {
+            return "You";
+        }
+        if (role === "system") {
+            return "System";
+        }
+        if (role === "error") {
+            return "Error";
+        }
+        return "Assistant";
+    }
+
+    function isSafeRichLinkHref(value) {
+        const href = String(value || "").trim();
+        if (!href) {
+            return false;
+        }
+        if (href.startsWith("#") || href.startsWith("/") || href.startsWith("./") || href.startsWith("../") || href.startsWith("?")) {
+            return true;
+        }
+        try {
+            const parsed = new URL(href, window.location.href);
+            return /^https?:$/i.test(parsed.protocol)
+                || /^mailto:$/i.test(parsed.protocol)
+                || /^tel:$/i.test(parsed.protocol);
+        } catch (_error) {
+            return false;
+        }
+    }
+
+    function finalizeRichHtml(html) {
+        const template = document.createElement("template");
+        template.innerHTML = html;
+
+        template.content.querySelectorAll("a").forEach(function (link) {
+            const href = String(link.getAttribute("href") || "").trim();
+            if (href && !isSafeRichLinkHref(href)) {
+                link.removeAttribute("href");
+            }
+            if (!link.getAttribute("href")) {
+                link.removeAttribute("target");
+                link.removeAttribute("rel");
+                return;
+            }
+            link.setAttribute("target", "_blank");
+            link.setAttribute("rel", "noopener noreferrer");
+        });
+
+        template.content.querySelectorAll("table").forEach(function (table) {
+            if (table.parentElement && table.parentElement.classList.contains("markdown-table-wrap")) {
+                return;
+            }
+            const wrapper = document.createElement("div");
+            wrapper.className = "markdown-table-wrap";
+            table.parentNode.insertBefore(wrapper, table);
+            wrapper.appendChild(table);
+        });
+
+        template.content.querySelectorAll("pre").forEach(function (pre) {
+            if (pre.parentElement && pre.parentElement.classList.contains("markdown-code-wrap")) {
+                return;
+            }
+            const wrapper = document.createElement("div");
+            wrapper.className = "markdown-code-wrap";
+
+            const copyButton = document.createElement("button");
+            copyButton.type = "button";
+            copyButton.className = "markdown-code-copy-btn";
+            copyButton.setAttribute("data-code-copy", "true");
+            copyButton.setAttribute("aria-label", "Copy code block");
+            copyButton.textContent = "Copy";
+
+            pre.parentNode.insertBefore(wrapper, pre);
+            wrapper.appendChild(copyButton);
+            wrapper.appendChild(pre);
+        });
+
+        return template.innerHTML;
+    }
+
+    function escapeMarkdownHtml(source) {
+        const placeholders = [];
+        const marker = "__LUMORA_CODE_BLOCK__";
+        let protectedSource = String(source || "")
+            .replace(/```[\s\S]*?```/g, function (match) {
+                const index = placeholders.push(match) - 1;
+                return marker + index + "__";
+            })
+            .replace(/`[^`\n]+`/g, function (match) {
+                const index = placeholders.push(match) - 1;
+                return marker + index + "__";
+            });
+
+        protectedSource = protectedSource
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;");
+
+        return protectedSource.replace(new RegExp(marker + "(\\d+)__", "g"), function (_match, index) {
+            return placeholders[Number(index)] || "";
+        });
+    }
+
+    function renderMarkdownBlock(source) {
+        const escapedSource = escapeMarkdownHtml(source);
+
+        if (
+            !markedLib
+            || typeof markedLib.parse !== "function"
+            || !purify
+            || typeof purify.sanitize !== "function"
+        ) {
+            return utils.escapeHtml(source).replace(/\n/g, "<br>");
+        }
+
+        const rendered = markedLib.parse(escapedSource);
+        const sanitized = purify.sanitize(rendered, { USE_PROFILES: { html: true } });
+
+        return finalizeRichHtml(sanitized);
+    }
+
+    function renderPlaceholder(copy) {
+        return '<div class="stream-placeholder">' + utils.escapeHtml(copy) + "</div>";
+    }
+
+    function normalizeInlineImageUrl(value) {
+        return String(value || "")
+            .trim()
+            .replace(/^<|>$/g, "");
+    }
+
+    function looksLikeInlineImageUrl(value) {
+        const rawUrl = normalizeInlineImageUrl(value);
+        if (!rawUrl) {
+            return false;
+        }
+        try {
+            const parsed = new URL(rawUrl);
+            if (!/^https?:$/i.test(parsed.protocol)) {
+                return false;
+            }
+            const path = String(parsed.pathname || "");
+            if (/\.(png|jpe?g|gif|webp|bmp|svg|avif)(?:$|\?)/i.test(path)) {
+                return true;
+            }
+            const host = String(parsed.hostname || "").toLowerCase();
+            const pathAndQuery = (String(parsed.pathname || "") + String(parsed.search || "")).toLowerCase();
+            return /(?:aliyuncs|alibaba|alicdn|cdn|oss)/i.test(host)
+                && /(?:image|img|jpg|jpeg|png|webp|gif|avif|x-oss-process)/i.test(pathAndQuery);
+        } catch (_error) {
+            return false;
+        }
+    }
+
+    function extractInlineImageContent(content) {
+        let nextContent = String(content || "");
+        if (!nextContent.trim()) {
+            return {
+                body: "",
+                images: []
+            };
+        }
+
+        const found = [];
+        function remember(url) {
+            const normalized = normalizeInlineImageUrl(url);
+            if (!looksLikeInlineImageUrl(normalized)) {
+                return;
+            }
+            found.push({ url: normalized });
+        }
+
+        nextContent = nextContent.replace(/!\[[^\]]*\]\((https?:\/\/[^)\s]+)\)/gi, function (_match, url) {
+            remember(url);
+            return "";
+        });
+
+        nextContent = nextContent.replace(/<img[^>]*src=["']([^"']+)["'][^>]*>/gi, function (_match, url) {
+            remember(url);
+            return "";
+        });
+
+        nextContent = nextContent
+            .split(/\r?\n/)
+            .filter(function (line) {
+                const trimmed = line.trim();
+                if (!trimmed) {
+                    return true;
+                }
+                if (looksLikeInlineImageUrl(trimmed) && !/\s/.test(trimmed)) {
+                    remember(trimmed);
+                    return false;
+                }
+                return true;
+            })
+            .join("\n")
+            .replace(/\n{3,}/g, "\n\n")
+            .trim();
+
+        const seen = new Set();
+        const images = found
+            .map(function (item, index) {
+                return normalizeGeneratedImageDescriptor(item, index);
+            })
+            .filter(function (item) {
+                if (!item || !item.url || seen.has(item.url)) {
+                    return false;
+                }
+                seen.add(item.url);
+                return true;
+            });
+
+        return {
+            body: nextContent,
+            images: images
+        };
+    }
+
+    function renderMessageBody(content, meta) {
+        const inlineExtracted = extractInlineImageContent(content);
+        const rawContent = injectSourceCitations(inlineExtracted.body, meta);
+        if (!rawContent.trim()) {
+            if ((meta && Array.isArray(meta.generated_images) && meta.generated_images.length) || inlineExtracted.images.length) {
+                return "";
+            }
+            if (meta && meta.state === "streaming") {
+                return renderPlaceholder(meta.interaction_mode === "image" ? "Generating image..." : "Generating response...");
+            }
+            return "";
+        }
+        return renderMarkdownBlock(rawContent);
+    }
+
+    function renderReasoningBody(content, meta) {
+        const rawContent = String(content || "");
+        if (!rawContent.trim()) {
+            if (meta && meta.mode === "thinking" && meta.state === "streaming") {
+                return renderPlaceholder("Thinking...");
+            }
+            return "";
+        }
+        return renderMarkdownBlock(rawContent);
+    }
+
+    function normalizeSearchSourceDescriptor(item, index) {
+        const source = item && typeof item === "object"
+            ? item
+            : { url: item };
+        const url = String(
+            source.url
+            || source.link
+            || source.href
+            || source.source_url
+            || source.sourceUrl
+            || source.uri
+            || ""
+        ).trim();
+        if (!url) {
+            return null;
+        }
+
+        let normalizedUrl = "";
+        try {
+            const parsed = new URL(url);
+            if (!/^https?:$/i.test(parsed.protocol)) {
+                return null;
+            }
+            normalizedUrl = parsed.toString();
+        } catch (_error) {
+            return null;
+        }
+
+        const title = String(
+            source.title
+            || source.name
+            || source.site_name
+            || source.siteName
+            || source.host
+            || source.domain
+            || ""
+        ).trim();
+
+        return {
+            url: normalizedUrl,
+            title: title || "Source " + String((Number(index) || 0) + 1)
+        };
+    }
+
+    function collectSearchSources(meta) {
+        const value = meta && typeof meta === "object"
+            ? meta
+            : {};
+        const candidates = [];
+        if (Array.isArray(value.search_sources)) {
+            candidates.push.apply(candidates, value.search_sources);
+        }
+        if (value.trace && typeof value.trace === "object" && Array.isArray(value.trace.search_sources)) {
+            candidates.push.apply(candidates, value.trace.search_sources);
+        }
+
+        const seen = new Set();
+        return candidates.map(function (item, index) {
+            return normalizeSearchSourceDescriptor(item, index);
+        }).filter(function (item) {
+            if (!item || !item.url || seen.has(item.url)) {
+                return false;
+            }
+            seen.add(item.url);
+            return true;
+        });
+    }
+
+    function isSearchPhase(phase) {
+        const normalized = String(phase || "").trim().toLowerCase();
+        if (!normalized) {
+            return false;
+        }
+        return normalized.indexOf("search") !== -1
+            || normalized.indexOf("retrieve") !== -1
+            || normalized.indexOf("browse") !== -1;
+    }
+
+    function injectSourceCitations(content, meta) {
+        const text = String(content || "");
+        const sources = collectSearchSources(meta);
+        if (!text || !sources.length) {
+            return text;
+        }
+
+        return text.replace(/\[\[(\d+)\]\]/g, function (_match, indexText) {
+            const sourceIndex = Number(indexText) - 1;
+            if (!Number.isInteger(sourceIndex) || sourceIndex < 0 || sourceIndex >= sources.length) {
+                return _match;
+            }
+            return "[" + String(indexText) + "](" + sources[sourceIndex].url + ")";
+        });
+    }
+
+    function getSearchSourceHostLabel(url) {
+        try {
+            const parsed = new URL(String(url || ""));
+            return String(parsed.hostname || "").replace(/^www\./i, "");
+        } catch (_error) {
+            return "";
+        }
+    }
+
+    function renderSearchSourcesList(sources) {
+        if (!Array.isArray(sources) || !sources.length) {
+            return "";
+        }
+
+        return [
+            '<ol class="search-sources-list">',
+            sources.map(function (source, index) {
+                const host = getSearchSourceHostLabel(source.url);
+                const label = source.title || host || "Source " + String(index + 1);
+                return [
+                    '<li class="search-sources-item">',
+                    '<a class="search-source-link" href="' + utils.escapeHtml(source.url) + '" target="_blank" rel="noopener noreferrer">' + utils.escapeHtml(label) + "</a>",
+                    host
+                        ? '<span class="search-source-host">' + utils.escapeHtml(host) + "</span>"
+                        : "",
+                    "</li>"
+                ].join("");
+            }).join(""),
+            "</ol>"
+        ].join("");
+    }
+
+    function renderSearchMarkup(message) {
+        const meta = message && message.meta || {};
+        const sources = collectSearchSources(meta);
+        const isSearching = meta.state === "streaming" && isSearchPhase(meta.phase);
+        if (!isSearching && !sources.length) {
+            return "";
+        }
+
+        const label = isSearching
+            ? "Searching..."
+            : "Search Sources";
+        const bodyHtml = sources.length
+            ? renderSearchSourcesList(sources)
+            : renderPlaceholder("Searching the web...");
+
+        return [
+            '<section class="thinking-block search-block is-open" data-search-block="' + utils.escapeHtml(message.id) + '">',
+            '<button class="thinking-toggle search-toggle" type="button" disabled>',
+            '<span class="thinking-toggle-copy">',
+            '<span class="thinking-toggle-label">' + utils.escapeHtml(label) + "</span>",
+            "</span>",
+            isSearching
+                ? '<span class="searching-pulse" aria-hidden="true"></span>'
+                : "",
+            "</button>",
+            '<div class="thinking-panel search-panel">' + bodyHtml + "</div>",
+            "</section>"
+        ].join("");
+    }
+
+    function renderMessageAttachments(meta) {
+        const attachments = collectMessageAttachments(meta);
+        const chipAttachments = attachments.filter(function (item) {
+            return item.type !== "image" || !item.url;
+        });
+        if (!chipAttachments.length) {
+            return "";
+        }
+        return [
+            '<div class="message-attachments">',
+            chipAttachments.map(function (item) {
+                const kind = item.type === "image" ? "Image" : "File";
+                return [
+                    '<div class="message-attachment-chip" title="' + utils.escapeHtml(item.name) + '">',
+                    '<strong>' + utils.escapeHtml(item.name) + "</strong>",
+                    '<span>' + utils.escapeHtml(kind) + "</span>",
+                    "</div>"
+                ].join("");
+            }).join(""),
+            "</div>"
+        ].join("");
+    }
+
+    function normalizeGeneratedImageDescriptor(item, index) {
+        const entry = item && typeof item === "object"
+            ? item
+            : { url: item };
+        const url = String(entry.url || entry.file_url || "").trim();
+        if (!url) {
+            return null;
+        }
+        return {
+            url: url,
+            name: String(entry.name || "Generated image " + String(index + 1)).trim() || "Generated image " + String(index + 1),
+            source: "generated"
+        };
+    }
+
+    function collectInlineMedia(meta) {
+        const attachments = collectMessageAttachments(meta).filter(function (item) {
+            return item.type === "image" && item.url;
+        }).map(function (item) {
+            return {
+                url: item.url,
+                name: item.name || "Uploaded image",
+                source: "attachment"
+            };
+        });
+        const generatedImages = (meta && Array.isArray(meta.generated_images) ? meta.generated_images : [])
+            .map(normalizeGeneratedImageDescriptor)
+            .filter(Boolean);
+        const inlineImages = extractInlineImageContent(meta && meta.raw_content || "").images;
+        const seen = new Set();
+        return attachments.concat(generatedImages, inlineImages).filter(function (item) {
+            if (!item.url || seen.has(item.url)) {
+                return false;
+            }
+            seen.add(item.url);
+            return true;
+        });
+    }
+
+    function renderMessageMedia(meta, content) {
+        const metaWithContent = Object.assign({}, meta || {}, {
+            raw_content: content
+        });
+        const mediaItems = collectInlineMedia(metaWithContent);
+        if (!mediaItems.length) {
+            return "";
+        }
+        return [
+            '<div class="message-media-strip">',
+            mediaItems.map(function (item, index) {
+                const isGenerated = item.source === "generated";
+                const label = isGenerated ? "Generated image" : "Image";
+                const downloadName = item.name || "image-" + String(index + 1);
+                return [
+                    '<figure class="message-media-card' + (isGenerated ? " is-generated" : "") + '">',
+                    '<a class="message-media-link' + (isGenerated ? " is-generated" : "") + '" href="' + utils.escapeHtml(item.url) + '" target="_blank" rel="noopener noreferrer" title="Open image">',
+                    '<img class="message-media-image' + (isGenerated ? " is-generated" : "") + '" src="' + utils.escapeHtml(item.url) + '" alt="' + utils.escapeHtml(item.name || label) + '" loading="lazy">',
+                    "</a>",
+                    '<figcaption class="message-media-meta">',
+                    '<div class="message-media-copy">',
+                    '<strong>' + utils.escapeHtml(item.name || label) + "</strong>",
+                    '<span>' + utils.escapeHtml(label) + "</span>",
+                    "</div>",
+                    '<div class="message-media-actions">',
+                    '<a class="message-media-action" href="' + utils.escapeHtml(item.url) + '" target="_blank" rel="noopener noreferrer">Open</a>',
+                    '<a class="message-media-action" href="' + utils.escapeHtml(item.url) + '" download="' + utils.escapeHtml(downloadName) + '">Download</a>',
+                    "</div>",
+                    "</figcaption>",
+                    "</figure>"
+                ].join("");
+            }).join(""),
+            "</div>"
+        ].join("");
+    }
+
+    function renderThinkingMarkup(message) {
+        const meta = message && message.meta || {};
+        const showReasoning = (message.role || "assistant") === "assistant" && hasReasoningBlock(message);
+        if (!showReasoning) {
+            return "";
+        }
+        const reasoningOpen = isReasoningExpanded(message);
+        return [
+            '<section class="thinking-block' + (reasoningOpen ? " is-open" : "") + '" data-thinking-block="' + utils.escapeHtml(message.id) + '">',
+            '<button class="thinking-toggle" type="button" data-thinking-toggle="' + utils.escapeHtml(message.id) + '" aria-expanded="' + (reasoningOpen ? "true" : "false") + '">',
+            '<span class="thinking-toggle-copy">',
+            '<span class="thinking-toggle-label">Thinking...</span>',
+            "</span>",
+            '<span class="thinking-toggle-icon" aria-hidden="true">',
+            '<svg viewBox="0 0 20 20" role="presentation" focusable="false"><path d="m6 8 4 4 4-4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/></svg>',
+            "</span>",
+            "</button>",
+            '<div class="thinking-panel" data-thinking-panel="' + utils.escapeHtml(message.id) + '"' + (reasoningOpen ? "" : " hidden") + '>',
+            '<div class="message-body thinking-body" data-thinking-body="' + utils.escapeHtml(message.id) + '">' + renderReasoningBody(meta.reasoning_text, meta) + "</div>",
+            "</div>",
+            "</section>"
+        ].join("");
+    }
+
+    function hasReasoningBlock(message) {
+        const meta = message && message.meta || {};
+        const reasoningText = String(meta.reasoning_text || "");
+        return Boolean(reasoningText.trim()) || (meta.mode === "thinking" && meta.state === "streaming");
+    }
+
+    function isReasoningExpanded(message) {
+        return Boolean(state.reasoningExpanded[message.id]);
+    }
+
+    function getMessageMetaLine(message) {
+        return state.preferences.showTimestamps
+            ? roleLabel(message.role || "assistant") + " · " + utils.formatTime(message.created_at)
+            : roleLabel(message.role || "assistant");
+    }
+
+    function renderMessageMarkup(message, variantMeta) {
+        const role = message.role || "assistant";
+        const meta = message.meta || {};
+        const bodyHtml = renderMessageBody(message.content, meta);
+        const mediaHtml = renderMessageMedia(meta, message.content);
+        const attachmentsHtml = renderMessageAttachments(meta);
+        const thinkingHtml = renderThinkingMarkup(message);
+        const searchHtml = renderSearchMarkup(message);
+        const streamingClass = meta.state === "streaming" ? " is-streaming" : "";
+        const metaLine = getMessageMetaLine(message);
+        const showRegenerateAction = isMessageRegeneratable(message);
+        const messageActions = [];
+        if (variantMeta && variantMeta.total > 1) {
+            messageActions.push('<button type="button" class="message-version-nav" data-message-version-nav="' + utils.escapeHtml(message.id) + '" data-version-direction="prev"' + (variantMeta.index > 1 ? "" : " disabled") + ' aria-label="Show previous version">&lsaquo;</button>');
+            messageActions.push('<span class="message-version-indicator" title="Response version">' + utils.escapeHtml(String(variantMeta.index) + "/" + String(variantMeta.total)) + "</span>");
+            messageActions.push('<button type="button" class="message-version-nav" data-message-version-nav="' + utils.escapeHtml(message.id) + '" data-version-direction="next"' + (variantMeta.index < variantMeta.total ? "" : " disabled") + ' aria-label="Show next version">&rsaquo;</button>');
+        }
+        messageActions.push('<button type="button" data-message-copy="' + utils.escapeHtml(message.id) + '">Copy</button>');
+        if (showRegenerateAction) {
+            messageActions.push('<button type="button" class="message-action-regenerate" data-message-regenerate="' + utils.escapeHtml(message.id) + '">Regenerate</button>');
+        }
+
+        return [
+            '<article class="message ' + utils.escapeHtml(role) + streamingClass + '" data-message-id="' + utils.escapeHtml(message.id) + '">',
+            '<div class="message-head">',
+            '<span class="message-meta">' + utils.escapeHtml(metaLine) + "</span>",
+            "</div>",
+            thinkingHtml,
+            mediaHtml,
+            attachmentsHtml,
+            bodyHtml
+                ? '<div class="message-body"><div class="message-body-inner" data-message-body="' + utils.escapeHtml(message.id) + '">' + bodyHtml + "</div></div>"
+                : "",
+            searchHtml,
+            '<div class="message-actions">',
+            messageActions.join(""),
+            "</div>",
+            "</article>"
+        ].join("");
+    }
+
+    function findMessageElement(messageId) {
+        if (!dom.messages || !messageId) {
+            return null;
+        }
+        const nodes = dom.messages.querySelectorAll("[data-message-id]");
+        for (let index = 0; index < nodes.length; index += 1) {
+            if (nodes[index].getAttribute("data-message-id") === String(messageId)) {
+                return nodes[index];
+            }
+        }
+        return null;
+    }
+
+    function applyThinkingDisclosureState(article, message) {
+        if (!article || !message) {
+            return;
+        }
+        const block = article.querySelector('[data-thinking-block="' + String(message.id) + '"]');
+        const panel = article.querySelector('[data-thinking-panel="' + String(message.id) + '"]');
+        const toggle = article.querySelector('[data-thinking-toggle="' + String(message.id) + '"]');
+        if (!block || !panel || !toggle) {
+            return;
+        }
+        const isOpen = isReasoningExpanded(message);
+        block.classList.toggle("is-open", isOpen);
+        toggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+        panel.hidden = !isOpen;
+    }
+
+    function upsertThinkingBlock(article, message) {
+        if (!article) {
+            return;
+        }
+
+        const meta = message && message.meta || {};
+        const currentThinkingNode = article.querySelector(".thinking-block");
+
+        if (!hasReasoningBlock(message)) {
+            if (currentThinkingNode) {
+                currentThinkingNode.remove();
+            }
+            return;
+        }
+
+        if (!currentThinkingNode) {
+            const nextThinkingHtml = renderThinkingMarkup(message);
+            if (!nextThinkingHtml) {
+                return;
+            }
+            const template = document.createElement("template");
+            template.innerHTML = nextThinkingHtml;
+            const nextThinkingNode = template.content.firstElementChild;
+            const messageHead = article.querySelector(".message-head");
+            if (messageHead && nextThinkingNode) {
+                messageHead.insertAdjacentElement("afterend", nextThinkingNode);
+            }
+            applyThinkingDisclosureState(article, message);
+            return;
+        }
+
+        const blockId = String(message.id);
+        const toggle = currentThinkingNode.querySelector(".thinking-toggle");
+        const panel = currentThinkingNode.querySelector(".thinking-panel");
+        const body = currentThinkingNode.querySelector(".thinking-body");
+
+        currentThinkingNode.setAttribute("data-thinking-block", blockId);
+        if (toggle) {
+            toggle.setAttribute("data-thinking-toggle", blockId);
+        }
+        if (panel) {
+            panel.setAttribute("data-thinking-panel", blockId);
+        }
+        if (body) {
+            body.setAttribute("data-thinking-body", blockId);
+            body.innerHTML = renderReasoningBody(meta.reasoning_text, meta);
+        }
+
+        applyThinkingDisclosureState(article, message);
+    }
+
+    function upsertSearchBlock(article, message) {
+        if (!article) {
+            return;
+        }
+
+        const currentSearchNode = article.querySelector(".search-block");
+        const nextSearchHtml = renderSearchMarkup(message);
+        if (!nextSearchHtml) {
+            if (currentSearchNode) {
+                currentSearchNode.remove();
+            }
+            return;
+        }
+
+        const template = document.createElement("template");
+        template.innerHTML = nextSearchHtml;
+        const nextSearchNode = template.content.firstElementChild;
+        if (!nextSearchNode) {
+            return;
+        }
+
+        if (currentSearchNode) {
+            currentSearchNode.remove();
+        }
+
+        const messageBodyNode = article.querySelector(".message-body");
+        if (messageBodyNode) {
+            messageBodyNode.insertAdjacentElement("afterend", nextSearchNode);
+            return;
+        }
+
+        const mediaNode = article.querySelector(".message-media-strip");
+        if (mediaNode) {
+            mediaNode.insertAdjacentElement("afterend", nextSearchNode);
+            return;
+        }
+
+        const attachmentsNode = article.querySelector(".message-attachments");
+        if (attachmentsNode) {
+            attachmentsNode.insertAdjacentElement("afterend", nextSearchNode);
+            return;
+        }
+
+        const thinkingNode = article.querySelector(".thinking-block");
+        if (thinkingNode) {
+            thinkingNode.insertAdjacentElement("afterend", nextSearchNode);
+            return;
+        }
+
+        const actionsNode = article.querySelector(".message-actions");
+        if (actionsNode) {
+            actionsNode.insertAdjacentElement("beforebegin", nextSearchNode);
+            return;
+        }
+
+        const messageHead = article.querySelector(".message-head");
+        if (messageHead) {
+            messageHead.insertAdjacentElement("afterend", nextSearchNode);
+            return;
+        }
+
+        article.appendChild(nextSearchNode);
+    }
+
+    function updateStreamingMessageElement(message) {
+        const article = findMessageElement(message && message.id);
+        if (!article) {
+            renderMessages();
+            return;
+        }
+        const role = message.role || "assistant";
+        const meta = message.meta || {};
+        article.className = "message " + role + (meta.state === "streaming" ? " is-streaming" : "");
+
+        const metaNode = article.querySelector(".message-meta");
+        if (metaNode) {
+            metaNode.textContent = getMessageMetaLine(message);
+        }
+
+        const nextBodyHtml = renderMessageBody(message.content, meta);
+        const bodyNode = article.querySelector("[data-message-body]");
+        if (nextBodyHtml) {
+            if (bodyNode) {
+                bodyNode.innerHTML = nextBodyHtml;
+            } else {
+                const template = document.createElement("template");
+                template.innerHTML = '<div class="message-body"><div class="message-body-inner" data-message-body="' + utils.escapeHtml(message.id) + '">' + nextBodyHtml + "</div></div>";
+                const nextBodyNode = template.content.firstElementChild;
+                if (nextBodyNode) {
+                    article.appendChild(nextBodyNode);
+                }
+            }
+        } else if (bodyNode && bodyNode.parentElement) {
+            bodyNode.parentElement.remove();
+        }
+
+        upsertThinkingBlock(article, message);
+
+        const nextMediaHtml = renderMessageMedia(meta, message.content);
+        const currentMediaNode = article.querySelector(".message-media-strip");
+        const nextAttachmentHtml = renderMessageAttachments(meta);
+        const currentAttachmentNode = article.querySelector(".message-attachments");
+        const messageBody = article.querySelector(".message-body");
+        if (nextMediaHtml) {
+            const template = document.createElement("template");
+            template.innerHTML = nextMediaHtml;
+            const nextMediaNode = template.content.firstElementChild;
+            if (currentMediaNode) {
+                currentMediaNode.replaceWith(nextMediaNode);
+            } else if (currentAttachmentNode && nextMediaNode) {
+                currentAttachmentNode.insertAdjacentElement("beforebegin", nextMediaNode);
+            } else if (messageBody && nextMediaNode) {
+                messageBody.insertAdjacentElement("beforebegin", nextMediaNode);
+            } else if (nextMediaNode) {
+                article.appendChild(nextMediaNode);
+            }
+        } else if (currentMediaNode) {
+            currentMediaNode.remove();
+        }
+
+        if (nextAttachmentHtml) {
+            const template = document.createElement("template");
+            template.innerHTML = nextAttachmentHtml;
+            const nextAttachmentNode = template.content.firstElementChild;
+            if (currentAttachmentNode) {
+                currentAttachmentNode.replaceWith(nextAttachmentNode);
+            } else if (messageBody && nextAttachmentNode) {
+                messageBody.insertAdjacentElement("beforebegin", nextAttachmentNode);
+            } else if (nextAttachmentNode) {
+                article.appendChild(nextAttachmentNode);
+            }
+        } else if (currentAttachmentNode) {
+            currentAttachmentNode.remove();
+        }
+
+        upsertSearchBlock(article, message);
+    }
+
+    async function fetchAppSettings() {
+        const result = await client
+            .from("app_settings")
+            .select("*")
+            .eq("id", "global")
+            .maybeSingle();
+
+        if (result.error) {
+            throw new Error(result.error.message || "Unable to load workspace settings.");
+        }
+
+        return gateway.normalizeAppSettings(result.data || {});
+    }
+
+    function normalizeRuntimeGatewayCredentials(value) {
+        const row = value && typeof value === "object" ? value : {};
+        const assignmentSource = String(
+            row.gateway_assignment_source
+            || row.assignment_source
+            || ""
+        ).trim();
+        const poolId = String(
+            row.gateway_pool_id
+            || row.pool_id
+            || ""
+        ).trim();
+        const poolLabel = String(
+            row.gateway_pool_label
+            || row.pool_label
+            || ""
+        ).trim();
+        const gatewayEmail = String(row.gateway_email || "").trim();
+        const gatewayPasswordHash = String(row.gateway_password_hash || "").trim();
+        const gatewayAccessToken = String(
+            row.gateway_access_token
+            || row.access_token
+            || ""
+        ).trim();
+
+        return {
+            gateway_email: gatewayEmail,
+            gateway_password_hash: gatewayPasswordHash,
+            gateway_access_token: gatewayAccessToken,
+            gateway_token_expiry: row.gateway_token_expiry || row.token_expiry || null,
+            gateway_pool_id: poolId,
+            gateway_pool_label: poolLabel,
+            gateway_assignment_source: assignmentSource,
+            gateway_assigned_users: Number(row.assigned_users || row.gateway_assigned_users || 0) || 0,
+            gateway_pool_capacity: Number(row.max_users || row.gateway_pool_capacity || 0) || 0
+        };
+    }
+
+    function getGatewayRuntimeSettings() {
+        const baseSettings = state.settings
+            ? Object.assign({}, state.settings)
+            : {};
+        const runtime = state.runtimeGateway;
+        if (!runtime) {
+            return baseSettings;
+        }
+
+        if (runtime.gateway_email) {
+            baseSettings.gateway_email = runtime.gateway_email;
+        }
+        if (runtime.gateway_password_hash) {
+            baseSettings.gateway_password_hash = runtime.gateway_password_hash;
+        }
+        if (runtime.gateway_access_token) {
+            baseSettings.gateway_access_token = runtime.gateway_access_token;
+        }
+        if (runtime.gateway_token_expiry) {
+            baseSettings.gateway_token_expiry = runtime.gateway_token_expiry;
+        }
+        if (runtime.gateway_pool_id) {
+            baseSettings.gateway_pool_id = runtime.gateway_pool_id;
+        }
+        if (runtime.gateway_pool_label) {
+            baseSettings.gateway_pool_label = runtime.gateway_pool_label;
+        }
+        if (runtime.gateway_assignment_source) {
+            baseSettings.gateway_assignment_source = runtime.gateway_assignment_source;
+        }
+        if (runtime.gateway_assigned_users) {
+            baseSettings.gateway_assigned_users = runtime.gateway_assigned_users;
+        }
+        if (runtime.gateway_pool_capacity) {
+            baseSettings.gateway_pool_capacity = runtime.gateway_pool_capacity;
+        }
+
+        return baseSettings;
+    }
+
+    async function refreshRuntimeGatewayCredentials(optionsOverride) {
+        const options = Object.assign({
+            silent: false
+        }, optionsOverride || {});
+
+        if (!state.context || !state.context.user || !state.context.user.id) {
+            state.runtimeGateway = null;
+            return null;
+        }
+
+        const rpcResult = await client.rpc("resolve_gateway_runtime_credentials", {
+            target_user_id: state.context.user.id
+        });
+
+        if (rpcResult.error) {
+            const message = String(rpcResult.error.message || "");
+            if (/resolve_gateway_runtime_credentials|does not exist|schema cache|function/i.test(message)) {
+                state.runtimeGateway = null;
+                return null;
+            }
+            if (!options.silent) {
+                throw new Error(message || "Unable to resolve runtime credentials.");
+            }
+            return state.runtimeGateway;
+        }
+
+        const row = Array.isArray(rpcResult.data)
+            ? rpcResult.data[0]
+            : rpcResult.data;
+        state.runtimeGateway = row
+            ? normalizeRuntimeGatewayCredentials(row)
+            : null;
+        return state.runtimeGateway;
+    }
+
+    async function loadThreads() {
+        ensureThreadModePreference({ persist: false });
+        const activeBotId = getEffectiveThreadBotId() || "assistant";
+        let query = client
+            .from("chat_threads")
+            .select("*")
+            .eq("owner_id", state.context.user.id);
+        if (state.threadBotIdSupported !== false) {
+            query = query.eq("bot_id", activeBotId);
+        }
+        let result = await query
+            .order("pinned", { ascending: false })
+            .order("updated_at", { ascending: false });
+
+        if (result.error && state.threadBotIdSupported !== false && isMissingThreadBotIdError(result.error)) {
+            state.threadBotIdSupported = false;
+            result = await client
+                .from("chat_threads")
+                .select("*")
+                .eq("owner_id", state.context.user.id)
+                .order("pinned", { ascending: false })
+                .order("updated_at", { ascending: false });
+        }
+
+        if (result.error) {
+            throw new Error(result.error.message || "Unable to load your threads.");
+        }
+
+        let nextThreads = normalizeThreadList(result.data);
+        if (state.threadBotIdSupported === false) {
+            nextThreads = nextThreads.filter(function (thread) {
+                return getThreadBotId(thread) === activeBotId;
+            });
+        }
+
+        state.threads = nextThreads;
+        renderThreadList();
+    }
+
+    async function restoreInitialThreadSelection() {
+        const routeState = getChatRouteState();
+        const storedThreadId = String(utils.getStoredValue(activeStorageKey(), "") || "").trim();
+
+        if (routeState.forceNew) {
+            startNewChat();
+            syncThreadRoute(null);
+            return;
+        }
+
+        const preferredThreadId = routeState.threadId || storedThreadId;
+        if (!preferredThreadId) {
+            if (state.threads.length) {
+                await setActiveThread(state.threads[0].id);
+            } else {
+                startNewChat();
+            }
+            return;
+        }
+
+        const targetThread = state.threads.find(function (thread) {
+            return String(thread.id) === preferredThreadId;
+        });
+
+        if (!targetThread) {
+            if (routeState.threadId) {
+                toast("The requested chat is unavailable for this account.", "error");
+                startNewChat();
+                return;
+            }
+            if (state.threads.length) {
+                await setActiveThread(state.threads[0].id);
+            } else {
+                startNewChat();
+            }
+            return;
+        }
+
+        if (routeState.shareMode) {
+            const token = String(routeState.shareToken || "").trim();
+            if (!token) {
+                toast("Share token is missing from the link.", "error");
+                startNewChat();
+                return;
+            }
+            const hasValidToken = await isValidThreadShareToken(targetThread, token);
+            if (!hasValidToken) {
+                toast("Invalid share token for this chat.", "error");
+                startNewChat();
+                return;
+            }
+        }
+
+        await setActiveThread(preferredThreadId);
+    }
+
+    async function loadMessages(threadId) {
+        if (!threadId) {
+            state.messages = [];
+            state.reasoningExpanded = {};
+            state.visibleMessages = [];
+            state.messageVariantMeta = {};
+            state.messageTurnKeyById = {};
+            state.turnVariantMembers = {};
+            state.variantSelectionByTurn = {};
+            renderMessages();
+            renderThreadState();
+            enableAutoFollow();
+            return;
+        }
+
+        const result = await client
+            .from("chat_messages")
+            .select("*")
+            .eq("thread_id", threadId)
+            .order("created_at", { ascending: true });
+
+        if (result.error) {
+            throw new Error(result.error.message || "Unable to load this conversation.");
+        }
+
+        state.messages = Array.isArray(result.data) ? result.data : [];
+        state.reasoningExpanded = {};
+        state.visibleMessages = [];
+        state.messageVariantMeta = {};
+        state.messageTurnKeyById = {};
+        state.turnVariantMembers = {};
+        state.variantSelectionByTurn = {};
+        renderMessages();
+        renderThreadState();
+        enableAutoFollow({ scroll: true });
+    }
+
+    async function setActiveThread(threadId, options) {
+        const settings = Object.assign({ skipLoad: false, syncRoute: true }, options || {});
+        setComposerModeMenuOpen(false);
+        state.openThreadMenuId = null;
+        state.activeThreadId = threadId;
+        utils.setStoredValue(activeStorageKey(), threadId);
+        if (settings.syncRoute) {
+            syncThreadRoute(threadId);
+        }
+        renderThreadList();
+        renderThreadState();
+        enableAutoFollow();
+        if (settings.skipLoad) {
+            return;
+        }
+        await loadMessages(threadId);
+    }
+
+    function updatePromptCount() {
+        if (dom.promptCount) {
+            dom.promptCount.textContent = dom.promptInput.value.length + " characters";
+        }
+        syncComposerControls();
+    }
+
+    function renderComposerAttachments() {
+        if (!dom.composerAttachments) {
+            return;
+        }
+        const items = state.uploadingAttachments.concat(state.pendingAttachments);
+        if (!items.length) {
+            dom.composerAttachments.hidden = true;
+            dom.composerAttachments.innerHTML = "";
+            syncComposerControls();
+            return;
+        }
+
+        dom.composerAttachments.hidden = false;
+        dom.composerAttachments.innerHTML = items.map(function (item) {
+            const normalized = normalizeAttachmentDescriptor(item);
+            const statusLabel = normalized.status === "uploading"
+                ? "Uploading"
+                : normalized.status === "error"
+                    ? "Failed"
+                    : normalized.type === "image"
+                        ? "Image"
+                        : "File";
+            const title = normalized.error
+                ? normalized.name + " · " + normalized.error
+                : normalized.name;
+            return [
+                '<div class="composer-attachment-chip" data-status="' + utils.escapeHtml(normalized.status) + '" title="' + utils.escapeHtml(title) + '">',
+                '<span class="composer-attachment-name">' + utils.escapeHtml(normalized.name) + "</span>",
+                '<span class="composer-attachment-state">' + utils.escapeHtml(statusLabel) + "</span>",
+                '<button class="composer-attachment-remove" type="button" data-remove-attachment="' + utils.escapeHtml(normalized.localId) + '" aria-label="Remove attachment">&times;</button>',
+                "</div>"
+            ].join("");
+        }).join("");
+        syncComposerControls();
+    }
+
+    function getMessageTrace(message) {
+        const meta = message && message.meta;
+        if (!meta || typeof meta !== "object") {
+            return {};
+        }
+        const trace = meta.trace;
+        return trace && typeof trace === "object"
+            ? trace
+            : {};
+    }
+
+    function normalizeChildrenIds(childrenIds) {
+        const seen = new Set();
+        return (Array.isArray(childrenIds) ? childrenIds : [])
+            .map(function (value) {
+                return String(value || "").trim();
+            })
+            .filter(function (value) {
+                if (!value || seen.has(value)) {
+                    return false;
+                }
+                seen.add(value);
+                return true;
+            });
+    }
+
+    function buildVisibleMessageProjection() {
+        const source = Array.isArray(state.messages) ? state.messages : [];
+        const entries = [];
+        const groups = {};
+        const selectedByTurn = {};
+        const variantMetaById = {};
+        const turnKeyById = {};
+        const turnMembers = {};
+        let latestUserId = "";
+
+        source.forEach(function (message) {
+            const role = message.role || "assistant";
+            if (role === "user") {
+                latestUserId = String(message.id || "").trim();
+            }
+
+            const trace = getMessageTrace(message);
+            const qwenParentId = String(trace.qwen_parent_id || "").trim();
+            const fallbackTurnKey = latestUserId
+                ? "turn:" + latestUserId
+                : "";
+            const turnKey = (role === "assistant" || role === "error")
+                ? (fallbackTurnKey || (qwenParentId ? "qwen:" + qwenParentId : ""))
+                : "";
+
+            const messageId = String(message.id || "").trim();
+            if (messageId) {
+                turnKeyById[messageId] = turnKey;
+            }
+            if (turnKey) {
+                if (!groups[turnKey]) {
+                    groups[turnKey] = [];
+                }
+                groups[turnKey].push(message);
+            }
+
+            entries.push({
+                message: message,
+                turnKey: turnKey
+            });
+        });
+
+        Object.keys(groups).forEach(function (turnKey) {
+            const members = groups[turnKey] || [];
+            const memberIds = members.map(function (entry) {
+                return String(entry.id || "").trim();
+            }).filter(Boolean);
+            if (!memberIds.length) {
+                return;
+            }
+            const preferredId = String(state.variantSelectionByTurn[turnKey] || "").trim();
+            const selectedId = memberIds.indexOf(preferredId) !== -1
+                ? preferredId
+                : memberIds[memberIds.length - 1];
+
+            selectedByTurn[turnKey] = selectedId;
+            turnMembers[turnKey] = memberIds;
+            state.variantSelectionByTurn[turnKey] = selectedId;
+
+            memberIds.forEach(function (messageId, index) {
+                variantMetaById[messageId] = {
+                    turnKey: turnKey,
+                    index: index + 1,
+                    total: memberIds.length,
+                    selectedId: selectedId,
+                    isSelected: messageId === selectedId
+                };
+            });
+        });
+
+        const visibleMessages = [];
+        const renderedTurnKeys = new Set();
+        entries.forEach(function (entry) {
+            if (!entry.turnKey) {
+                visibleMessages.push(entry.message);
+                return;
+            }
+
+            const messageId = String(entry.message.id || "").trim();
+            const variantMeta = variantMetaById[messageId];
+            if (!variantMeta || variantMeta.total <= 1) {
+                if (!renderedTurnKeys.has(entry.turnKey)) {
+                    visibleMessages.push(entry.message);
+                    renderedTurnKeys.add(entry.turnKey);
+                }
+                return;
+            }
+
+            if (renderedTurnKeys.has(entry.turnKey)) {
+                return;
+            }
+
+            const selectedId = selectedByTurn[entry.turnKey];
+            const selectedMessage = groups[entry.turnKey].find(function (candidate) {
+                return String(candidate.id || "") === selectedId;
+            }) || entry.message;
+            visibleMessages.push(selectedMessage);
+            renderedTurnKeys.add(entry.turnKey);
+        });
+
+        state.visibleMessages = visibleMessages;
+        state.messageVariantMeta = variantMetaById;
+        state.messageTurnKeyById = turnKeyById;
+        state.turnVariantMembers = turnMembers;
+
+        return {
+            visibleMessages: visibleMessages,
+            variantMetaById: variantMetaById
+        };
+    }
+
+    function buildSendSignature(prompt, interactionMode, mode, model, attachments, botId) {
+        const attachmentKey = (Array.isArray(attachments) ? attachments : []).map(function (item) {
+            const normalized = normalizeAttachmentDescriptor(item);
+            return [normalized.localId, normalized.file_id, normalized.name, normalized.size].join(":");
+        }).join("|");
+        return [
+            String(state.activeThreadId || ""),
+            String(prompt || "").trim(),
+            String(interactionMode || ""),
+            String(mode || ""),
+            String(model || ""),
+            String(botId || ""),
+            attachmentKey
+        ].join("::");
+    }
+
+    function buildRegenerationPayload(thread, regenerationContext) {
+        if (!thread || !regenerationContext || !regenerationContext.replaceMessage) {
+            return null;
+        }
+        const messageTrace = getMessageTrace(regenerationContext.replaceMessage);
+        const threadTrace = thread.last_trace && typeof thread.last_trace === "object"
+            ? thread.last_trace
+            : {};
+        const qwenParentId = String(
+            messageTrace.qwen_parent_id
+            || threadTrace.qwen_parent_id
+            || ""
+        ).trim();
+        if (!qwenParentId) {
+            return null;
+        }
+
+        const seedChildren = normalizeChildrenIds(messageTrace.children_ids)
+            .concat(normalizeChildrenIds(threadTrace.children_ids));
+        const responseId = String(messageTrace.response_id || thread.remote_parent_id || "").trim();
+        if (responseId) {
+            seedChildren.push(responseId);
+        }
+
+        const originalTimestamp = Number(messageTrace.request_timestamp || threadTrace.request_timestamp || 0) || null;
+
+        return {
+            qwenParentId: qwenParentId,
+            childrenIds: normalizeChildrenIds(seedChildren),
+            originalTimestamp: originalTimestamp
+        };
+    }
+
+    function getRegenerationContext(targetAssistantMessageId) {
+        if (!state.messages.length) {
+            return null;
+        }
+
+        const visibleMessages = Array.isArray(state.visibleMessages) && state.visibleMessages.length
+            ? state.visibleMessages
+            : state.messages;
+
+        let assistantIndex = -1;
+        if (targetAssistantMessageId) {
+            const targetId = String(targetAssistantMessageId);
+            assistantIndex = state.messages.findIndex(function (message) {
+                return String(message.id) === targetId;
+            });
+            if (assistantIndex === -1) {
+                return null;
+            }
+            const targetRole = state.messages[assistantIndex].role;
+            if (targetRole !== "assistant" && targetRole !== "error") {
+                return null;
+            }
+        } else {
+            for (let index = visibleMessages.length - 1; index >= 0; index -= 1) {
+                const role = visibleMessages[index].role;
+                if (role === "assistant" || role === "error") {
+                    const activeId = String(visibleMessages[index].id || "");
+                    assistantIndex = state.messages.findIndex(function (message) {
+                        return String(message.id) === activeId;
+                    });
+                    break;
+                }
+                if (role === "user") {
+                    return null;
+                }
+            }
+        }
+
+        if (assistantIndex === -1) {
+            return null;
+        }
+
+        for (let index = assistantIndex - 1; index >= 0; index -= 1) {
+            if (state.messages[index].role === "user") {
+                return {
+                    prompt: String(state.messages[index].content || "").trim(),
+                    attachments: collectMessageAttachments(state.messages[index].meta || {}),
+                    replaceMessage: state.messages[assistantIndex],
+                    mode: state.messages[assistantIndex].meta && state.messages[assistantIndex].meta.mode,
+                    interactionMode: state.messages[assistantIndex].meta && state.messages[assistantIndex].meta.interaction_mode,
+                    model: state.messages[assistantIndex].meta && state.messages[assistantIndex].meta.request_model
+                };
+            }
+        }
+
+        return null;
+    }
+
+    function getLatestRegeneratableAssistantId() {
+        const regenerationContext = getRegenerationContext();
+        if (!regenerationContext || !regenerationContext.replaceMessage) {
+            return "";
+        }
+
+        const message = regenerationContext.replaceMessage;
+        const role = message.role || "assistant";
+        const isStreaming = Boolean(message.meta && message.meta.state === "streaming");
+        const messageId = String(message.id || "").trim();
+        if (role !== "assistant" || isStreaming || !messageId) {
+            return "";
+        }
+        return messageId;
+    }
+
+    function isMessageRegeneratable(message) {
+        if (!message) {
+            return false;
+        }
+        const role = message.role || "assistant";
+        if (role !== "assistant") {
+            return false;
+        }
+        if (message.meta && message.meta.state === "streaming") {
+            return false;
+        }
+        const messageId = String(message.id || "").trim();
+        if (!messageId) {
+            return false;
+        }
+        const latestId = state.latestRegeneratableAssistantId || getLatestRegeneratableAssistantId();
+        return Boolean(latestId) && latestId === messageId;
+    }
+
+    function syncActionButtons() {
+        const hasThread = Boolean(getActiveThread());
+        const regenerationContext = getRegenerationContext();
+        dom.renameThreadBtn.disabled = !hasThread || state.busy;
+        dom.pinThreadBtn.disabled = !hasThread || state.busy;
+        dom.resetSessionBtn.disabled = !hasThread || state.busy;
+        dom.regenerateReplyBtn.disabled = !hasThread || state.busy || !regenerationContext;
+        dom.exportThreadBtn.disabled = !hasThread || state.busy;
+        dom.deleteThreadBtn.disabled = !hasThread || state.busy;
+        if (dom.shareThreadBtn) {
+            dom.shareThreadBtn.hidden = true;
+            dom.shareThreadBtn.setAttribute("aria-hidden", "true");
+            dom.shareThreadBtn.disabled = true;
+        }
+        if (dom.clearChatsBtn) {
+            dom.clearChatsBtn.disabled = state.busy || !state.threads.length;
+        }
+    }
+
+    function setBusy(isBusy) {
+        state.busy = isBusy;
+        document.body.dataset.liveStreaming = isBusy ? "true" : "false";
+        if (dom.newThreadBtn) {
+            dom.newThreadBtn.disabled = isBusy;
+        }
+        dom.threadSearchInput.disabled = isBusy;
+        if (dom.sidebarRailNewBtn) {
+            dom.sidebarRailNewBtn.disabled = isBusy;
+        }
+        syncActionButtons();
+        syncComposerControls();
+        setComposerModeMenuOpen(false);
+    }
+
+    function renderThreadList() {
+        renderThreadScopeCopy();
+        const query = state.threadQuery.trim().toLowerCase();
+        const threads = query
+            ? state.threads.filter(function (thread) {
+                return [
+                    thread.title,
+                    thread.remote_session_id
+                ].join(" ").toLowerCase().includes(query);
+            })
+            : state.threads;
+
+        dom.threadCount.textContent = query
+            ? threads.length + "/" + state.threads.length
+            : String(state.threads.length);
+
+        if (!threads.length) {
+            state.openThreadMenuId = null;
+            dom.threadList.innerHTML = "";
+            renderChatMaintenanceStatus();
+            return;
+        }
+
+        if (state.openThreadMenuId && !threads.some(function (thread) {
+            return String(thread.id) === String(state.openThreadMenuId);
+        })) {
+            state.openThreadMenuId = null;
+        }
+
+        dom.threadList.innerHTML = threads.map(function (thread) {
+            const threadId = String(thread.id);
+            const escapedThreadId = utils.escapeHtml(threadId);
+            const menuOpen = threadId === state.openThreadMenuId;
+            const activeClass = thread.id === state.activeThreadId ? " active" : "";
+            const menuClass = menuOpen ? " menu-open" : "";
+            return [
+                '<article class="thread-card' + activeClass + menuClass + '">',
+                '<button class="thread-card-main" type="button" data-thread-id="' + escapedThreadId + '">',
+                "<strong>" + utils.escapeHtml(thread.title || "New chat") + "</strong>",
+                "</button>",
+                '<div class="thread-card-menu">',
+                '<button class="thread-menu-trigger" type="button" data-thread-menu-trigger="' + escapedThreadId + '" aria-haspopup="menu" aria-expanded="' + (menuOpen ? "true" : "false") + '" title="Chat options">...</button>',
+                '<div class="thread-menu" data-thread-menu="' + escapedThreadId + '"' + (menuOpen ? "" : " hidden") + '>',
+                '<div class="thread-menu-label">Actions</div>',
+                '<button class="thread-menu-item danger" type="button" data-thread-delete="' + escapedThreadId + '">Delete chat</button>',
+                "</div>",
+                "</div>",
+                "</article>"
+            ].join("");
+        }).join("");
+
+        renderChatMaintenanceStatus();
+    }
+
+    function renderThreadState() {
+        const thread = getActiveThread();
+
+        if (!thread) {
+            dom.threadTitle.textContent = "New conversation";
+            dom.chatStatusLine.textContent = gateway.gatewayReady(getGatewayRuntimeSettings())
+                ? "Ready when you are."
+                : "An admin still needs to finish the assistant runtime setup.";
+            if (dom.threadMetaBadge) {
+                dom.threadMetaBadge.hidden = true;
+                dom.threadMetaBadge.textContent = "";
+            }
+            dom.pinThreadBtn.textContent = "Pin";
+            syncActionButtons();
+            syncDocumentTitle();
+            return;
+        }
+
+        dom.threadTitle.textContent = thread.title || "New chat";
+        dom.chatStatusLine.textContent = gateway.gatewayReady(getGatewayRuntimeSettings())
+            ? "Ready when you are."
+            : "An admin still needs to finish the assistant runtime setup.";
+        if (dom.threadMetaBadge) {
+            dom.threadMetaBadge.hidden = true;
+            dom.threadMetaBadge.textContent = "";
+        }
+        dom.pinThreadBtn.textContent = thread.pinned ? "Unpin" : "Pin";
+        syncActionButtons();
+        syncDocumentTitle();
+    }
+
+    function renderMessages() {
+        const settings = state.settings || {};
+        const hasMessages = state.messages.length > 0;
+
+        dom.welcomePanel.classList.toggle("hidden", hasMessages);
+        dom.welcomeTitle.textContent = settings.welcome_title || "Start a new conversation";
+        dom.welcomeCopy.textContent = settings.welcome_copy || "Ask for strategy, content, coding help, analysis, or anything else you want to work through live.";
+
+        if (!hasMessages) {
+            state.latestRegeneratableAssistantId = "";
+            state.visibleMessages = [];
+            state.messageVariantMeta = {};
+            state.messageTurnKeyById = {};
+            state.turnVariantMembers = {};
+            state.variantSelectionByTurn = {};
+            dom.messages.innerHTML = "";
+            state.lastMessagesScrollTop = 0;
+            state.showJumpToLatest = false;
+            renderJumpLatestButton();
+            return;
+        }
+
+        const projection = buildVisibleMessageProjection();
+        state.latestRegeneratableAssistantId = getLatestRegeneratableAssistantId();
+        dom.messages.innerHTML = projection.visibleMessages.map(function (message) {
+            return renderMessageMarkup(message, projection.variantMetaById[String(message.id) || ""]);
+        }).join("");
+        state.lastMessagesScrollTop = dom.messages.scrollTop;
+
+        renderJumpLatestButton();
+    }
+
+    function renderProfile() {
+        dom.profileName.textContent = state.context.profile.display_name || state.context.user.email || "User";
+        dom.profileRole.textContent = utils.formatRole(state.context.profile.role);
+        dom.adminLink.hidden = state.context.profile.role !== "admin";
+        dom.sidebarRailAdminLink.hidden = state.context.profile.role !== "admin";
+        dom.settingsAdminLink.hidden = state.context.profile.role !== "admin";
+        dom.sidebarProfileAvatar.textContent = profileInitials();
+        if (dom.railProfileName) {
+            dom.railProfileName.textContent = state.context.profile.display_name || state.context.user.email || "User";
+        }
+        if (dom.railProfileEmail) {
+            dom.railProfileEmail.textContent = state.context.user.email || "";
+        }
+        dom.settingsDisplayName.value = state.context.profile.display_name || "";
+        dom.settingsEmail.value = state.context.user.email || "";
+        if (state.context.profile.role !== "admin" && state.preferences.activeView === "admin") {
+            setActiveView("chat", { persist: true });
+        }
+    }
+
+    function renderPreferences() {
+        dom.settingsEnterToSend.checked = Boolean(state.preferences.enterToSend);
+        dom.settingsShowTimestamps.checked = Boolean(state.preferences.showTimestamps);
+        const threadMode = getResolvedThreadMode();
+        const activeBot = getActiveBot();
+        const activeBotLabel = activeBot && activeBot.name
+            ? activeBot.name
+            : "Assistant";
+        const threadModeLabel = threadMode === "bot"
+            ? "Bot mode: " + activeBotLabel
+            : "Normal chats mode";
+        const runtimePoolLabel = state.runtimeGateway && state.runtimeGateway.gateway_pool_label
+            ? state.runtimeGateway.gateway_pool_label
+            : state.runtimeGateway && state.runtimeGateway.gateway_pool_id
+                ? "Assigned pool account"
+                : "Workspace runtime";
+        dom.accountSettingsStatus.textContent = state.preferences.sidebarCollapsed
+            ? "Sidebar is collapsed. Expand it anytime from the rail. Runtime: " + runtimePoolLabel + ". " + threadModeLabel + "."
+            : "Sidebar is expanded for full thread browsing. Runtime: " + runtimePoolLabel + ". " + threadModeLabel + ".";
+        renderBotList();
+        renderChatMaintenanceStatus();
+        applyShellState();
+    }
+
+    function renderChatMaintenanceStatus(customMessage) {
+        if (!dom.chatMaintenanceStatus) {
+            return;
+        }
+        if (typeof customMessage === "string" && customMessage.trim()) {
+            dom.chatMaintenanceStatus.textContent = customMessage.trim();
+            return;
+        }
+        const total = Array.isArray(state.threads) ? state.threads.length : 0;
+        const mode = getResolvedThreadMode();
+        const activeBot = getActiveBot();
+        const activeBotLabel = activeBot && activeBot.name
+            ? activeBot.name
+            : "Assistant";
+        if (mode === "normal") {
+            dom.chatMaintenanceStatus.textContent = total === 0
+                ? "No normal chats yet."
+                : total === 1
+                    ? "1 normal chat. Delete all clears locally first and then cleans Qwen sessions."
+                    : total + " normal chats. Delete all clears locally first and then cleans Qwen sessions.";
+            return;
+        }
+
+        dom.chatMaintenanceStatus.textContent = total === 0
+            ? "No chats for " + activeBotLabel + " yet."
+            : total === 1
+                ? "1 chat for " + activeBotLabel + ". Delete all clears locally first and then cleans Qwen sessions."
+                : total + " chats for " + activeBotLabel + ". Delete all clears locally first and then cleans Qwen sessions.";
+    }
+
+    async function ensureThread(prompt) {
+        const existing = getActiveThread();
+        if (existing) {
+            return existing;
+        }
+
+        const title = utils.truncateText(prompt.replace(/\s+/g, " "), 56) || "New chat";
+        const insertPayload = {
+            owner_id: state.context.user.id,
+            title: title,
+            title_source: "local",
+            bot_id: getEffectiveThreadBotId() || "assistant"
+        };
+        if (state.titleSourceSupported === false) {
+            delete insertPayload.title_source;
+        }
+        if (state.threadBotIdSupported === false) {
+            delete insertPayload.bot_id;
+        }
+
+        let result = null;
+        while (true) {
+            result = await client
+                .from("chat_threads")
+                .insert(insertPayload)
+                .select("*")
+                .single();
+
+            if (!result.error) {
+                break;
+            }
+            if (insertPayload.title_source && isMissingTitleSourceError(result.error)) {
+                state.titleSourceSupported = false;
+                delete insertPayload.title_source;
+                continue;
+            }
+            if (insertPayload.bot_id && isMissingThreadBotIdError(result.error)) {
+                state.threadBotIdSupported = false;
+                delete insertPayload.bot_id;
+                continue;
+            }
+            break;
+        }
+
+        if (result.error) {
+            throw new Error(result.error.message || "Unable to create a new thread.");
+        }
+
+        const normalized = normalizeThreadRecord(result.data, "local");
+        upsertThreadLocal(normalized);
+        state.messages = [];
+        state.reasoningExpanded = {};
+        state.visibleMessages = [];
+        state.messageVariantMeta = {};
+        state.messageTurnKeyById = {};
+        state.turnVariantMembers = {};
+        state.variantSelectionByTurn = {};
+        await setActiveThread(result.data.id, { skipLoad: true });
+        renderMessages();
+        enableAutoFollow({ scroll: true });
+        return normalized;
+    }
+
+    async function persistThreadUpdate(threadId, patch) {
+        const currentThread = state.threads.find(function (thread) {
+            return thread.id === threadId;
+        }) || null;
+        const fallbackSource = patch.title_source || currentThread && currentThread.title_source || "local";
+        const initialPatch = Object.assign({}, patch);
+        let preparedPatch = Object.assign({}, patch);
+
+        if (state.titleSourceSupported === false) {
+            delete preparedPatch.title_source;
+        }
+
+        let result = await client
+            .from("chat_threads")
+            .update(preparedPatch)
+            .eq("id", threadId)
+            .select("*")
+            .single();
+
+        if (result.error && initialPatch.title_source && isMissingTitleSourceError(result.error)) {
+            state.titleSourceSupported = false;
+            preparedPatch = Object.assign({}, initialPatch);
+            delete preparedPatch.title_source;
+            result = await client
+                .from("chat_threads")
+                .update(preparedPatch)
+                .eq("id", threadId)
+                .select("*")
+                .single();
+        }
+
+        if (result.error) {
+            throw new Error(result.error.message || "Unable to update the thread.");
+        }
+
+        const normalized = normalizeThreadRecord(result.data, fallbackSource);
+        upsertThreadLocal(normalized);
+        renderThreadList();
+        renderThreadState();
+        return normalized;
+    }
+
+    async function insertMessage(threadId, role, content, meta) {
+        const result = await client
+            .from("chat_messages")
+            .insert({
+                thread_id: threadId,
+                role: role,
+                content: content,
+                meta: meta || {}
+            })
+            .select("*")
+            .single();
+
+        if (result.error) {
+            throw new Error(result.error.message || "Unable to store the message.");
+        }
+
+        return result.data;
+    }
+
+    async function deleteMessageRecord(messageId) {
+        if (!messageId) {
+            return;
+        }
+        const result = await client
+            .from("chat_messages")
+            .delete()
+            .eq("id", messageId);
+
+        if (result.error) {
+            throw new Error(result.error.message || "Unable to remove the previous reply.");
+        }
+    }
+
+    function openAdminView(section) {
+        if (!state.context || state.context.profile.role !== "admin") {
+            return;
+        }
+        const targetSection = section || "settings";
+        if (state.adminWorkspace) {
+            state.adminWorkspace.setActiveSection(targetSection, { syncHash: false });
+        } else {
+            initializeAdminWorkspace()
+                .then(function () {
+                    if (state.adminWorkspace) {
+                        state.adminWorkspace.setActiveSection(targetSection, { syncHash: false });
+                    }
+                })
+                .catch(function (error) {
+                    const statusNode = dom.embeddedAdminWorkspace
+                        ? dom.embeddedAdminWorkspace.querySelector('[data-admin-el="status-line"]')
+                        : null;
+                    if (statusNode) {
+                        statusNode.textContent = "Admin load failed. Refresh and retry.";
+                    }
+                    toast(error && error.message ? error.message : "Unable to load admin workspace.", "error");
+                });
+        }
+        setActiveView("admin", { persist: true });
+    }
+
+    async function syncRemoteTitle(threadId, sessionId) {
+        if (!threadId || !sessionId || state.titleSyncing[threadId]) {
+            return;
+        }
+
+        state.titleSyncing[threadId] = true;
+        try {
+            const current = state.threads.find(function (thread) {
+                return thread.id === threadId;
+            });
+            if (current && current.title_source === "manual") {
+                return;
+            }
+
+            const nextTitle = await gateway.fetchRemoteTitle({
+                settings: getGatewayRuntimeSettings(),
+                sessionId: sessionId
+            });
+            if (!nextTitle) {
+                return;
+            }
+
+            let latestResult = await client
+                .from("chat_threads")
+                .select("id, title, title_source")
+                .eq("id", threadId)
+                .single();
+
+            if (latestResult.error && isMissingTitleSourceError(latestResult.error)) {
+                state.titleSourceSupported = false;
+                latestResult = await client
+                    .from("chat_threads")
+                    .select("id, title")
+                    .eq("id", threadId)
+                    .single();
+            }
+
+            if (latestResult.error) {
+                throw new Error(latestResult.error.message || "Unable to check the latest chat title.");
+            }
+
+            const latest = normalizeThreadRecord(
+                latestResult.data || {},
+                current && current.title_source || "local"
+            );
+            if (latest.title_source === "manual") {
+                return;
+            }
+
+            if (latest.title === nextTitle && latest.title_source === "remote") {
+                return;
+            }
+
+            await persistThreadUpdate(threadId, {
+                title: nextTitle,
+                title_source: "remote",
+                updated_at: new Date().toISOString()
+            });
+        } catch (error) {
+            console.warn("Title sync skipped:", error && error.message ? error.message : error);
+        } finally {
+            delete state.titleSyncing[threadId];
+        }
+    }
+
+    async function runPromptTurn(options) {
+        const mergedOptions = Object.assign({
+            persistUserMessage: true,
+            replaceMessage: null,
+            clearComposer: true,
+            busyCopy: "Generating a live reply...",
+            successCopy: "Latest reply completed successfully."
+        }, options || {});
+        const rawPrompt = String(mergedOptions.prompt || "").trim();
+        const interactionMode = isValidInteractionMode(mergedOptions.interactionMode)
+            ? mergedOptions.interactionMode
+            : getResolvedInteractionMode();
+        const attachmentSnapshot = Array.isArray(mergedOptions.attachments)
+            ? mergedOptions.attachments.map(normalizeAttachmentDescriptor)
+            : [];
+        const prompt = rawPrompt || (interactionMode === "chat" && attachmentSnapshot.length ? buildAttachmentOnlyPrompt(attachmentSnapshot) : "");
+        const selectedModel = String(mergedOptions.model || getSelectedComposerModel(interactionMode) || "").trim();
+        const activeBot = getActiveBot();
+        const selectedBotId = String(activeBot && activeBot.id || "").trim();
+        const selectedBotName = String(activeBot && activeBot.name || "").trim();
+        const promptMode = getResolvedComposerMode(interactionMode, selectedModel, mergedOptions.mode);
+
+        if (state.busy) {
+            return;
+        }
+        if (!prompt && !attachmentSnapshot.length) {
+            toast("Type a message first.", "error");
+            return;
+        }
+        if (interactionMode === "image" && attachmentSnapshot.length) {
+            toast("Attachments are only available in Ask mode right now.", "error");
+            return;
+        }
+
+        await refreshRuntimeGatewayCredentials({ silent: true });
+        const runtimeSettings = getGatewayRuntimeSettings();
+        if (!gateway.gatewayReady(runtimeSettings)) {
+            toast("The assistant is not configured yet. Ask an admin to finish setup.", "error");
+            return;
+        }
+
+        setBusy(true);
+        setChatFeedback("sending", mergedOptions.busyCopy);
+        if (mergedOptions.clearComposer) {
+            dom.promptInput.value = "";
+            utils.autoResizeTextarea(dom.promptInput);
+            updatePromptCount();
+        }
+
+        let thread;
+        let draftMessage = null;
+        state.abortController = new AbortController();
+
+        try {
+            thread = mergedOptions.thread || await ensureThread(prompt);
+            if (mergedOptions.persistUserMessage !== false) {
+                const persistedUserMessage = await insertMessage(thread.id, "user", prompt, {
+                    state: "done",
+                    mode: promptMode,
+                    interaction_mode: interactionMode,
+                    bot_id: selectedBotId,
+                    bot_name: selectedBotName,
+                    request_model: selectedModel,
+                    attachments: attachmentSnapshot
+                });
+                state.messages.push(persistedUserMessage);
+            }
+
+            draftMessage = {
+                id: "draft-" + utils.uid(),
+                thread_id: thread.id,
+                role: "assistant",
+                content: "",
+                meta: {
+                    state: "streaming",
+                    mode: promptMode,
+                    interaction_mode: interactionMode,
+                    bot_id: selectedBotId,
+                    bot_name: selectedBotName,
+                    request_model: selectedModel,
+                    search_sources: [],
+                    generated_images: [],
+                    reasoning_text: "",
+                    response_id: "",
+                    parent_user_id: "",
+                    session_id: String(thread.remote_session_id || "")
+                },
+                created_at: new Date().toISOString()
+            };
+            state.reasoningExpanded[draftMessage.id] = false;
+            if (mergedOptions.replaceMessage) {
+                const turnKey = state.messageTurnKeyById[String(mergedOptions.replaceMessage.id)];
+                if (turnKey) {
+                    state.variantSelectionByTurn[turnKey] = draftMessage.id;
+                }
+                state.messages.push(draftMessage);
+            } else {
+                state.messages.push(draftMessage);
+            }
+
+            renderMessages();
+            renderThreadState();
+            enableAutoFollow({ scroll: true });
+
+            const result = await gateway.streamChat({
+                settings: runtimeSettings,
+                thread: thread,
+                mode: promptMode,
+                interactionMode: interactionMode,
+                model: selectedModel,
+                botId: selectedBotId,
+                prompt: prompt,
+                files: attachmentSnapshot,
+                regeneration: mergedOptions.regeneration || null,
+                signal: state.abortController.signal,
+                onUpdate: function (payload) {
+                    scheduleStreamReveal(
+                        draftMessage,
+                        Object.assign({}, payload || {}, {
+                            mode: promptMode,
+                            interactionMode: interactionMode
+                        })
+                    );
+                }
+            });
+
+            finalizeStreamReveal(draftMessage, { flush: true });
+
+            const updatedThread = await persistThreadUpdate(thread.id, {
+                remote_session_id: result.sessionId,
+                remote_parent_id: result.parentId,
+                last_trace: withPreservedShareTrace(thread, Object.assign({}, result.trace, {
+                    remote_chat_type: result.chatType,
+                    interaction_mode: interactionMode
+                })),
+                updated_at: new Date().toISOString()
+            });
+
+            const finalReply = result.reply
+                || (Array.isArray(result.generatedImages) && result.generatedImages.length
+                    ? ""
+                    : result.thinking
+                        ? "No final answer was returned."
+                        : "No response text found.");
+            const persistedAssistantMessage = await insertMessage(thread.id, "assistant", finalReply, {
+                state: "done",
+                trace: result.trace,
+                mode: promptMode,
+                interaction_mode: interactionMode,
+                bot_id: result.botId || selectedBotId,
+                bot_name: result.botName || selectedBotName,
+                request_model: result.requestModel || selectedModel,
+                search_sources: Array.isArray(result.searchSources) ? result.searchSources : [],
+                generated_images: Array.isArray(result.generatedImages) ? result.generatedImages : [],
+                reasoning_text: result.thinking || ""
+            });
+
+            state.messages = state.messages
+                .filter(function (message) {
+                    return message.id !== draftMessage.id;
+                })
+                .concat(persistedAssistantMessage);
+            state.reasoningExpanded[persistedAssistantMessage.id] = false;
+            delete state.reasoningExpanded[draftMessage.id];
+            if (attachmentSnapshot.length) {
+                const usedIds = attachmentSnapshot.map(function (item) {
+                    return item.localId;
+                });
+                state.pendingAttachments = state.pendingAttachments.filter(function (item) {
+                    return usedIds.indexOf(item.localId) === -1;
+                });
+                renderComposerAttachments();
+            }
+            renderMessages();
+            renderThreadState();
+            syncScrollAfterRender({
+                forceFollow: state.isAutoFollow,
+                fromStream: !state.isAutoFollow
+            });
+            setChatFeedback("complete", interactionMode === "image" ? "Image generated successfully." : mergedOptions.successCopy);
+            if (interactionMode === "image") {
+                toast("Image generated.", "success");
+            }
+            thread = updatedThread;
+
+            syncRemoteTitle(updatedThread.id, result.sessionId);
+        } catch (error) {
+            if (error && error.name === "AbortError") {
+                finalizeStreamReveal(draftMessage);
+                if (thread && draftMessage) {
+                    thread = await persistAbortRemoteState(thread, draftMessage, {
+                        interactionMode: interactionMode,
+                        requestModel: selectedModel
+                    });
+                    try {
+                        const draftMeta = draftMessage.meta && typeof draftMessage.meta === "object"
+                            ? draftMessage.meta
+                            : {};
+                        const reasoningText = String(draftMeta.reasoning_text || "");
+                        const responseId = String(draftMeta.response_id || "").trim();
+                        const parentUserId = String(draftMeta.parent_user_id || "").trim();
+                        const sessionId = String(draftMeta.session_id || thread.remote_session_id || "").trim();
+                        const generatedImages = Array.isArray(draftMeta.generated_images)
+                            ? draftMeta.generated_images
+                            : [];
+                        const searchSources = Array.isArray(draftMeta.search_sources)
+                            ? draftMeta.search_sources
+                            : [];
+                        const stoppedText = draftMessage.content.trim()
+                            ? draftMessage.content
+                            : reasoningText.trim()
+                                ? "Generation stopped before a final answer was produced."
+                                : mergedOptions.replaceMessage
+                                    ? "Reply regeneration stopped before a new answer arrived."
+                                    : "";
+                        const stoppedMessage = stoppedText
+                            ? await insertMessage(thread.id, "assistant", stoppedText, {
+                            state: "stopped",
+                            mode: promptMode,
+                            interaction_mode: interactionMode,
+                            bot_id: selectedBotId,
+                            bot_name: selectedBotName,
+                            reasoning_text: reasoningText,
+                            search_sources: searchSources,
+                            generated_images: generatedImages,
+                            response_id: responseId,
+                            parent_user_id: parentUserId,
+                            session_id: sessionId,
+                            trace: {
+                                response_id: responseId,
+                                qwen_parent_id: parentUserId,
+                                children_ids: normalizeChildrenIds(responseId ? [responseId] : [])
+                            }
+                        })
+                            : null;
+                        state.messages = state.messages.filter(function (message) {
+                            return message.id !== draftMessage.id;
+                        });
+                        if (stoppedMessage) {
+                            state.messages = state.messages.concat(stoppedMessage);
+                            state.reasoningExpanded[stoppedMessage.id] = false;
+                        }
+                        delete state.reasoningExpanded[draftMessage.id];
+                    } catch (_insertError) {
+                        draftMessage.meta = Object.assign({}, draftMessage.meta, { state: "stopped" });
+                    }
+                } else {
+                    state.messages = state.messages.filter(function (message) {
+                        return !(draftMessage && message.id === draftMessage.id);
+                    });
+                }
+                renderMessages();
+                renderThreadState();
+                syncScrollAfterRender({
+                    forceFollow: state.isAutoFollow
+                });
+                setChatFeedback("stopped", "Generation stopped. You can continue whenever you are ready.");
+                toast("Generation stopped.", "info");
+            } else {
+                finalizeStreamReveal(draftMessage);
+                const friendlyMessage = friendlyRuntimeError(error);
+                if (thread && draftMessage) {
+                    try {
+                        const persistedError = await insertMessage(thread.id, "error", friendlyMessage, {
+                            state: "error"
+                        });
+                        state.messages = state.messages
+                            .filter(function (message) {
+                                return message.id !== draftMessage.id;
+                            })
+                            .concat(persistedError);
+                        delete state.reasoningExpanded[draftMessage.id];
+                    } catch (_insertError) {
+                        draftMessage.role = "error";
+                        draftMessage.content = friendlyMessage;
+                        draftMessage.meta = { state: "error" };
+                    }
+                } else {
+                    toast(friendlyMessage, "error");
+                }
+                renderMessages();
+                renderThreadState();
+                syncScrollAfterRender({
+                    forceFollow: state.isAutoFollow,
+                    fromStream: !state.isAutoFollow
+                });
+                setChatFeedback("error", friendlyMessage);
+                toast(friendlyMessage, "error");
+            }
+        } finally {
+            setBusy(false);
+            clearRemoteStopRetryTimer();
+            state.abortController = null;
+            if (thread) {
+                upsertThreadLocal(thread);
+                renderThreadList();
+                renderThreadState();
+            }
+            if (state.preferences.activeView === "chat") {
+                dom.promptInput.focus();
+            }
+        }
+    }
+
+    async function handleSend(event) {
+        event.preventDefault();
+        if (state.sendInFlight || state.busy) {
+            return;
+        }
+        if (activeUploadInProgress()) {
+            toast("Wait for the attachment upload to finish.", "error");
+            return;
+        }
+        const interactionMode = getResolvedInteractionMode();
+        const selectedModel = getSelectedComposerModel(interactionMode);
+        const activeBot = getActiveBot();
+        const selectedBotId = String(activeBot && activeBot.id || "").trim();
+        const mode = getResolvedComposerMode(interactionMode, selectedModel);
+        const attachments = interactionMode === "chat" ? sendableAttachments() : [];
+        const sendSignature = buildSendSignature(dom.promptInput.value, interactionMode, mode, selectedModel, attachments, selectedBotId);
+        const now = Date.now();
+        if (
+            sendSignature
+            && sendSignature === state.lastSendSignature
+            && now - Number(state.lastSendAt || 0) < 1800
+        ) {
+            return;
+        }
+
+        state.sendInFlight = true;
+        state.lastSendSignature = sendSignature;
+        state.lastSendAt = now;
+        setComposerModeMenuOpen(false);
+        try {
+            await runPromptTurn({
+                prompt: dom.promptInput.value,
+                mode: mode,
+                interactionMode: interactionMode,
+                model: selectedModel,
+                attachments: attachments,
+                persistUserMessage: true,
+                clearComposer: true,
+                busyCopy: interactionMode === "image"
+                    ? "Generating image..."
+                    : mode === "thinking"
+                        ? "Thinking through the answer..."
+                        : "Generating a live reply..."
+            });
+        } finally {
+            state.sendInFlight = false;
+        }
+    }
+
+    function findActiveStreamingDraftMessage() {
+        for (let index = state.messages.length - 1; index >= 0; index -= 1) {
+            const message = state.messages[index];
+            if (!message || message.role !== "assistant") {
+                continue;
+            }
+            const meta = message.meta && typeof message.meta === "object"
+                ? message.meta
+                : {};
+            if (meta.state === "streaming") {
+                return message;
+            }
+        }
+        return null;
+    }
+
+    function uniqueStopResponseIds(values) {
+        const seen = new Set();
+        return (Array.isArray(values) ? values : []).map(function (value) {
+            return String(value || "").trim();
+        }).filter(function (value) {
+            if (!value || seen.has(value)) {
+                return false;
+            }
+            seen.add(value);
+            return true;
+        });
+    }
+
+    function clearRemoteStopRetryTimer() {
+        if (!state.remoteStopRetryTimerId) {
+            return;
+        }
+        window.clearTimeout(state.remoteStopRetryTimerId);
+        state.remoteStopRetryTimerId = null;
+    }
+
+    function mergeStopRequests(primaryRequest, fallbackRequest) {
+        const primary = primaryRequest && typeof primaryRequest === "object"
+            ? primaryRequest
+            : null;
+        const fallback = fallbackRequest && typeof fallbackRequest === "object"
+            ? fallbackRequest
+            : null;
+        const sessionId = String(
+            primary && primary.sessionId
+            || fallback && fallback.sessionId
+            || ""
+        ).trim();
+        const responseIds = uniqueStopResponseIds(
+            []
+                .concat(primary && Array.isArray(primary.responseIds) ? primary.responseIds : [])
+                .concat(primary && primary.responseId ? [primary.responseId] : [])
+                .concat(fallback && Array.isArray(fallback.responseIds) ? fallback.responseIds : [])
+                .concat(fallback && fallback.responseId ? [fallback.responseId] : [])
+        );
+
+        if (!sessionId || !responseIds.length) {
+            return null;
+        }
+
+        return {
+            sessionId: sessionId,
+            responseId: responseIds[0],
+            responseIds: responseIds
+        };
+    }
+
+    function resolveActiveStopRequest() {
+        const thread = getActiveThread();
+        const draftMessage = findActiveStreamingDraftMessage();
+        if (!thread || !draftMessage) {
+            return null;
+        }
+
+        const draftMeta = draftMessage.meta && typeof draftMessage.meta === "object"
+            ? draftMessage.meta
+            : {};
+        const threadTrace = getThreadTrace(thread);
+        const sessionId = String(draftMeta.session_id || thread.remote_session_id || "").trim();
+        const responseIds = uniqueStopResponseIds([
+            draftMeta.response_id,
+            draftMeta.parent_user_id,
+            thread.remote_parent_id,
+            threadTrace.response_id,
+            threadTrace.qwen_parent_id
+        ]);
+
+        if (!sessionId || !responseIds.length) {
+            return null;
+        }
+
+        return {
+            sessionId: sessionId,
+            responseId: responseIds[0],
+            responseIds: responseIds
+        };
+    }
+
+    function requestRemoteStop(stopRequest, options) {
+        if (!gateway || typeof gateway.stopChatCompletion !== "function") {
+            return Promise.resolve(false);
+        }
+        const settings = options && typeof options === "object"
+            ? options
+            : {};
+        const resolvedStopRequest = stopRequest || resolveActiveStopRequest();
+        if (!resolvedStopRequest) {
+            return Promise.resolve(false);
+        }
+        return gateway.stopChatCompletion({
+            settings: getGatewayRuntimeSettings(),
+            sessionId: resolvedStopRequest.sessionId,
+            responseId: resolvedStopRequest.responseId,
+            responseIds: resolvedStopRequest.responseIds
+        }).then(function (result) {
+            return Boolean(result && result.stopped);
+        }).catch(function (error) {
+            if (!settings.silent) {
+                console.warn("Remote stop request failed:", error && error.message ? error.message : error);
+            }
+            return false;
+        });
+    }
+
+    function scheduleRemoteStopWithRetry() {
+        const seedRequest = resolveActiveStopRequest();
+        let attempts = 0;
+        clearRemoteStopRetryTimer();
+
+        function runAttempt() {
+            attempts += 1;
+            const liveRequest = resolveActiveStopRequest();
+            const mergedRequest = mergeStopRequests(liveRequest, seedRequest);
+            requestRemoteStop(mergedRequest, {
+                silent: attempts < REMOTE_STOP_MAX_ATTEMPTS
+            }).then(function (stopped) {
+                if (stopped || attempts >= REMOTE_STOP_MAX_ATTEMPTS) {
+                    clearRemoteStopRetryTimer();
+                    return;
+                }
+                state.remoteStopRetryTimerId = window.setTimeout(runAttempt, REMOTE_STOP_RETRY_DELAY_MS);
+            });
+        }
+
+        runAttempt();
+    }
+
+    async function persistAbortRemoteState(thread, draftMessage, context) {
+        if (!thread || !thread.id) {
+            return thread;
+        }
+
+        const metadata = draftMessage && draftMessage.meta && typeof draftMessage.meta === "object"
+            ? draftMessage.meta
+            : {};
+        const existingTrace = getThreadTrace(thread);
+        const sessionId = String(metadata.session_id || thread.remote_session_id || "").trim();
+        const responseId = String(metadata.response_id || "").trim();
+        const parentUserId = String(metadata.parent_user_id || existingTrace.qwen_parent_id || "").trim();
+        const nextChildrenIds = normalizeChildrenIds(
+            normalizeChildrenIds(existingTrace.children_ids).concat(responseId ? [responseId] : [])
+        );
+
+        if (!sessionId && !responseId && !parentUserId && !nextChildrenIds.length) {
+            return thread;
+        }
+
+        const interactionMode = context && context.interactionMode === "image"
+            ? "image"
+            : "chat";
+        const remoteChatType = interactionMode === "image"
+            ? "t2i"
+            : "t2t";
+        const nextTrace = withPreservedShareTrace(thread, Object.assign({}, existingTrace, {
+            response_id: responseId || existingTrace.response_id || "",
+            qwen_parent_id: parentUserId || existingTrace.qwen_parent_id || "",
+            children_ids: nextChildrenIds,
+            interaction_mode: interactionMode,
+            remote_chat_type: remoteChatType,
+            request_model: String(context && context.requestModel || existingTrace.request_model || "").trim(),
+            state: "stopped",
+            stopped_at: new Date().toISOString()
+        }));
+
+        const patch = {
+            last_trace: nextTrace,
+            updated_at: new Date().toISOString()
+        };
+        if (sessionId) {
+            patch.remote_session_id = sessionId;
+        }
+        const nextRemoteParentId = String(
+            parentUserId
+            || thread.remote_parent_id
+            || existingTrace.qwen_parent_id
+            || existingTrace.response_id
+            || responseId
+            || ""
+        ).trim();
+        if (nextRemoteParentId) {
+            patch.remote_parent_id = nextRemoteParentId;
+        }
+
+        try {
+            return await persistThreadUpdate(thread.id, patch);
+        } catch (error) {
+            console.warn("Unable to persist stopped remote state:", error && error.message ? error.message : error);
+            return thread;
+        }
+    }
+
+    function handleStop() {
+        if (!state.abortController) {
+            return;
+        }
+        scheduleRemoteStopWithRetry();
+        state.abortController.abort();
+    }
+
+    function handleThreadListClick(event) {
+        const deleteButton = event.target.closest("[data-thread-delete]");
+        if (deleteButton) {
+            event.preventDefault();
+            event.stopPropagation();
+            const targetThreadId = deleteButton.getAttribute("data-thread-delete");
+            setThreadMenuOpen(null);
+            handleDeleteThreadById(targetThreadId).catch(function (error) {
+                toast(error.message || "Unable to delete the chat.", "error");
+            });
+            return;
+        }
+
+        const menuTrigger = event.target.closest("[data-thread-menu-trigger]");
+        if (menuTrigger) {
+            event.preventDefault();
+            event.stopPropagation();
+            const targetThreadId = menuTrigger.getAttribute("data-thread-menu-trigger");
+            setThreadMenuOpen(state.openThreadMenuId === targetThreadId ? null : targetThreadId);
+            return;
+        }
+
+        const button = event.target.closest("[data-thread-id]");
+        if (!button || state.busy) {
+            return;
+        }
+        setThreadMenuOpen(null);
+        setActiveView("chat");
+        setActiveThread(button.getAttribute("data-thread-id")).catch(function (error) {
+            toast(error.message || "Unable to open the thread.", "error");
+        });
+    }
+
+    async function handleRenameThread() {
+        const thread = getActiveThread();
+        if (!thread || state.busy) {
+            return;
+        }
+        const nextTitle = window.prompt("Rename this chat", thread.title || "New chat");
+        if (!nextTitle) {
+            return;
+        }
+        const cleanTitle = nextTitle.trim();
+        if (!cleanTitle) {
+            toast("Title cannot be empty.", "error");
+            return;
+        }
+        try {
+            await persistThreadUpdate(thread.id, {
+                title: cleanTitle,
+                title_source: "manual",
+                updated_at: new Date().toISOString()
+            });
+            toast("Chat renamed.", "success");
+        } catch (error) {
+            toast(error.message || "Unable to rename the chat.", "error");
+        }
+    }
+
+    async function handlePinThread() {
+        const thread = getActiveThread();
+        if (!thread || state.busy) {
+            return;
+        }
+        try {
+            await persistThreadUpdate(thread.id, {
+                pinned: !thread.pinned,
+                updated_at: new Date().toISOString()
+            });
+            toast(thread.pinned ? "Chat unpinned." : "Chat pinned.", "success");
+        } catch (error) {
+            toast(error.message || "Unable to update the chat.", "error");
+        }
+    }
+
+    function handleExportThread() {
+        const thread = getActiveThread();
+        if (!thread) {
+            return;
+        }
+        utils.downloadJson(
+            (thread.title || "chat").toLowerCase().replace(/[^a-z0-9]+/g, "-") + ".json",
+            {
+                exported_at: new Date().toISOString(),
+                thread: thread,
+                messages: state.messages
+            }
+        );
+    }
+
+    async function handleShareThread() {
+        const thread = getActiveThread();
+        if (!thread || state.busy) {
+            return;
+        }
+
+        const shareToken = generateShareToken();
+        const tokenHash = await utils.sha256Hex(shareToken);
+        await persistThreadUpdate(thread.id, {
+            last_trace: buildThreadShareTrace(thread, tokenHash),
+            updated_at: new Date().toISOString()
+        });
+
+        const shareUrl = buildThreadShareUrl(thread.id, shareToken);
+        try {
+            await navigator.clipboard.writeText(shareUrl);
+            toast("Secure share link copied.", "success");
+        } catch (_error) {
+            window.prompt("Copy secure share link", shareUrl);
+            toast("Secure share link ready. Copy it from the prompt.", "info");
+        }
+    }
+
+    function isRemoteDeleteMissingError(error) {
+        const message = error && error.message ? error.message : String(error || "");
+        return /\b404\b|not found|does not exist/i.test(message);
+    }
+
+    async function deleteRemoteThreadSession(sessionId) {
+        const remoteSessionId = String(sessionId || "").trim();
+        if (!remoteSessionId) {
+            return {
+                attempted: false,
+                deleted: false,
+                skipped: true,
+                reason: "missing-session-id"
+            };
+        }
+        if (!gateway.gatewayReady(getGatewayRuntimeSettings())) {
+            return {
+                attempted: false,
+                deleted: false,
+                skipped: true,
+                reason: "gateway-not-ready"
+            };
+        }
+        if (typeof gateway.deleteRemoteSession !== "function") {
+            return {
+                attempted: false,
+                deleted: false,
+                skipped: true,
+                reason: "gateway-delete-unavailable"
+            };
+        }
+
+        try {
+            await gateway.deleteRemoteSession({
+                settings: getGatewayRuntimeSettings(),
+                sessionId: remoteSessionId
+            });
+            return {
+                attempted: true,
+                deleted: true,
+                skipped: false
+            };
+        } catch (error) {
+            if (isRemoteDeleteMissingError(error)) {
+                return {
+                    attempted: true,
+                    deleted: true,
+                    skipped: false,
+                    alreadyMissing: true
+                };
+            }
+            return {
+                attempted: true,
+                deleted: false,
+                skipped: false,
+                error: error
+            };
+        }
+    }
+
+    function threadHasUnlinkedRemoteState(thread) {
+        const remoteSessionId = String(thread && thread.remote_session_id || "").trim();
+        if (remoteSessionId) {
+            return false;
+        }
+        const hasRemoteParent = Boolean(String(thread && thread.remote_parent_id || "").trim());
+        const hasTrace = Boolean(thread && thread.last_trace && typeof thread.last_trace === "object" && Object.keys(thread.last_trace).length);
+        return hasRemoteParent || hasTrace;
+    }
+
+    async function handleDeleteThreadById(threadId) {
+        const thread = state.threads.find(function (entry) {
+            return String(entry.id) === String(threadId || "");
+        });
+        if (!thread || state.busy) {
+            return;
+        }
+        const confirmed = window.confirm('Delete "' + (thread.title || "this chat") + '"?');
+        if (!confirmed) {
+            return;
+        }
+
+        const remoteSessionId = String(thread.remote_session_id || "").trim();
+        const hadUnlinkedRemoteState = threadHasUnlinkedRemoteState(thread);
+
+        const result = await client
+            .from("chat_threads")
+            .delete()
+            .eq("id", thread.id);
+
+        if (result.error) {
+            toast(result.error.message || "Unable to delete the chat.", "error");
+            return;
+        }
+
+        const wasActive = String(state.activeThreadId || "") === String(thread.id);
+        removeThreadLocal(thread.id);
+        state.openThreadMenuId = null;
+
+        if (wasActive) {
+            const nextThread = state.threads[0] || null;
+            if (nextThread) {
+                try {
+                    await setActiveThread(nextThread.id);
+                } catch (error) {
+                    state.activeThreadId = null;
+                    state.messages = [];
+                    state.reasoningExpanded = {};
+                    state.visibleMessages = [];
+                    state.messageVariantMeta = {};
+                    state.messageTurnKeyById = {};
+                    state.turnVariantMembers = {};
+                    state.variantSelectionByTurn = {};
+                    utils.setStoredValue(activeStorageKey(), null);
+                    renderThreadList();
+                    renderMessages();
+                    renderThreadState();
+                    enableAutoFollow();
+                    toast("Chat deleted. Unable to load the next chat right now.", "info");
+                }
+            } else {
+                state.activeThreadId = null;
+                state.messages = [];
+                state.reasoningExpanded = {};
+                state.visibleMessages = [];
+                state.messageVariantMeta = {};
+                state.messageTurnKeyById = {};
+                state.turnVariantMembers = {};
+                state.variantSelectionByTurn = {};
+                utils.setStoredValue(activeStorageKey(), null);
+                renderThreadList();
+                renderMessages();
+                renderThreadState();
+                enableAutoFollow();
+                setChatFeedback("idle", "Chat deleted. Start a fresh conversation when ready.");
+            }
+        } else {
+            renderThreadList();
+            syncActionButtons();
+        }
+
+        toast("Chat deleted.", "success");
+
+        if (!remoteSessionId) {
+            if (hadUnlinkedRemoteState) {
+                toast("Chat deleted locally. Qwen cleanup skipped because remote session ID was missing.", "info");
+            }
+            return;
+        }
+
+        deleteRemoteThreadSession(remoteSessionId)
+            .then(function (remoteDeleteResult) {
+                if (remoteDeleteResult.attempted && !remoteDeleteResult.deleted) {
+                    console.warn("Remote chat deletion failed:", remoteDeleteResult.error);
+                    const detail = remoteDeleteResult.error && remoteDeleteResult.error.message
+                        ? remoteDeleteResult.error.message
+                        : "Remote Qwen cleanup failed.";
+                    toast("Chat deleted locally. " + detail, "error");
+                    return;
+                }
+                if (remoteDeleteResult.skipped) {
+                    toast("Chat deleted locally. Qwen cleanup was skipped.", "info");
+                }
+            })
+            .catch(function (error) {
+                toast("Chat deleted locally. Qwen cleanup failed: " + (error && error.message ? error.message : "unknown error."), "error");
+            });
+    }
+
+    async function handleDeleteThread() {
+        const thread = getActiveThread();
+        if (!thread) {
+            return;
+        }
+        return handleDeleteThreadById(thread.id);
+    }
+
+    function handleMessageVersionNavigation(messageId, direction) {
+        const normalizedMessageId = String(messageId || "").trim();
+        const normalizedDirection = direction === "prev" ? "prev" : "next";
+        const turnKey = state.messageTurnKeyById[normalizedMessageId];
+        if (!turnKey) {
+            return;
+        }
+        const memberIds = Array.isArray(state.turnVariantMembers[turnKey])
+            ? state.turnVariantMembers[turnKey].slice()
+            : [];
+        if (memberIds.length <= 1) {
+            return;
+        }
+
+        const currentId = String(state.variantSelectionByTurn[turnKey] || normalizedMessageId).trim();
+        const currentIndex = memberIds.indexOf(currentId);
+        if (currentIndex === -1) {
+            state.variantSelectionByTurn[turnKey] = memberIds[memberIds.length - 1];
+            renderMessages();
+            renderThreadState();
+            return;
+        }
+
+        const nextIndex = normalizedDirection === "prev"
+            ? Math.max(0, currentIndex - 1)
+            : Math.min(memberIds.length - 1, currentIndex + 1);
+        if (nextIndex === currentIndex) {
+            return;
+        }
+
+        state.variantSelectionByTurn[turnKey] = memberIds[nextIndex];
+        renderMessages();
+        renderThreadState();
+    }
+
+    function handleMessageActions(event) {
+        const thinkingToggle = event.target.closest("[data-thinking-toggle]");
+        if (thinkingToggle) {
+            const messageId = thinkingToggle.getAttribute("data-thinking-toggle");
+            const message = state.messages.find(function (entry) {
+                return entry.id === messageId;
+            });
+            if (!message) {
+                return;
+            }
+            if (state.busy) {
+                detachAutoFollow();
+            }
+            state.reasoningExpanded[messageId] = !isReasoningExpanded(message);
+            const article = findMessageElement(messageId);
+            if (article) {
+                applyThinkingDisclosureState(article, message);
+            } else {
+                updateStreamingMessageElement(message);
+            }
+            return;
+        }
+
+        const versionNavButton = event.target.closest("[data-message-version-nav]");
+        if (versionNavButton) {
+            const messageId = versionNavButton.getAttribute("data-message-version-nav");
+            const direction = versionNavButton.getAttribute("data-version-direction");
+            handleMessageVersionNavigation(messageId, direction);
+            return;
+        }
+
+        const regenerateButton = event.target.closest("[data-message-regenerate]");
+        if (regenerateButton) {
+            const messageId = regenerateButton.getAttribute("data-message-regenerate");
+            if (state.busy) {
+                toast("Please wait for the current response to finish.", "info");
+                return;
+            }
+            handleRegenerateReplyByMessageId(messageId).catch(function (error) {
+                toast(error && error.message ? error.message : "Unable to regenerate this reply.", "error");
+            });
+            return;
+        }
+
+        const codeCopyButton = event.target.closest("[data-code-copy]");
+        if (codeCopyButton) {
+            const codeContainer = codeCopyButton.closest(".markdown-code-wrap");
+            const codeNode = codeContainer ? codeContainer.querySelector("pre code") : null;
+            const copyValue = codeNode && codeNode.textContent ? codeNode.textContent : "";
+            if (!copyValue) {
+                toast("Nothing to copy.", "error");
+                return;
+            }
+            navigator.clipboard.writeText(copyValue)
+                .then(function () {
+                    codeCopyButton.textContent = "Copied";
+                    window.setTimeout(function () {
+                        if (document.body.contains(codeCopyButton)) {
+                            codeCopyButton.textContent = "Copy";
+                        }
+                    }, 1400);
+                })
+                .catch(function () {
+                    toast("Clipboard access failed.", "error");
+                });
+            return;
+        }
+
+        const copyButton = event.target.closest("[data-message-copy]");
+        if (!copyButton) {
+            return;
+        }
+        const messageId = copyButton.getAttribute("data-message-copy");
+        const message = state.messages.find(function (entry) {
+            return entry.id === messageId;
+        });
+        const generatedImages = message && message.meta && Array.isArray(message.meta.generated_images)
+            ? message.meta.generated_images
+            : [];
+        const copyValue = message && message.content
+            ? message.content
+            : generatedImages.map(function (item) {
+                return item && item.url ? item.url : String(item || "");
+            }).filter(Boolean).join("\n");
+        if (!message || !copyValue) {
+            toast("Nothing to copy.", "error");
+            return;
+        }
+        navigator.clipboard.writeText(copyValue)
+            .then(function () {
+                toast("Message copied.", "success");
+            })
+            .catch(function () {
+                toast("Clipboard access failed.", "error");
+            });
+    }
+
+    function handleQuickPrompt(event) {
+        const button = event.target.closest("[data-quick-prompt]");
+        if (!button) {
+            return;
+        }
+        dom.promptInput.value = button.getAttribute("data-quick-prompt") || "";
+        utils.autoResizeTextarea(dom.promptInput);
+        updatePromptCount();
+        dom.promptInput.focus();
+    }
+
+    function queueUploadPlaceholders(files) {
+        const staged = Array.isArray(files) ? files.map(function (file) {
+            return normalizeAttachmentDescriptor({
+                localId: "att-" + utils.uid(),
+                name: file && file.name ? file.name : "Attachment",
+                size: file && file.size ? file.size : 0,
+                type: file && typeof file.type === "string" && file.type.toLowerCase().startsWith("image/")
+                    ? "image"
+                    : "file",
+                status: "uploading"
+            });
+        }) : [];
+        state.uploadingAttachments = state.uploadingAttachments.concat(staged);
+        renderComposerAttachments();
+        return staged;
+    }
+
+    async function uploadSelectedFiles(files) {
+        const selectedFiles = Array.isArray(files) ? files.filter(Boolean) : [];
+        if (!selectedFiles.length) {
+            return;
+        }
+
+        const staged = queueUploadPlaceholders(selectedFiles);
+        const stagedIds = staged.map(function (item) {
+            return item.localId;
+        });
+
+        try {
+            await refreshRuntimeGatewayCredentials({ silent: true });
+            const result = await gateway.uploadFiles({
+                settings: getGatewayRuntimeSettings(),
+                files: selectedFiles
+            });
+            const uploaded = Array.isArray(result && result.files) ? result.files : [];
+            const failed = Array.isArray(result && result.errors) ? result.errors : [];
+
+            state.uploadingAttachments = state.uploadingAttachments.filter(function (item) {
+                return stagedIds.indexOf(item.localId) === -1;
+            });
+
+            uploaded.forEach(function (item, index) {
+                const fallbackIndex = Number.isFinite(Number(item.index)) ? Number(item.index) : index;
+                const fallback = staged[fallbackIndex] || staged[index] || {};
+                state.pendingAttachments.push(normalizeAttachmentDescriptor(Object.assign({}, fallback, item, {
+                    localId: fallback.localId || "att-" + utils.uid(),
+                    status: "uploaded"
+                })));
+            });
+
+            failed.forEach(function (item, index) {
+                const fallbackIndex = Number.isFinite(Number(item.index)) ? Number(item.index) : uploaded.length + index;
+                const fallback = staged[fallbackIndex] || staged[index] || {};
+                state.pendingAttachments.push(normalizeAttachmentDescriptor(Object.assign({}, fallback, item, {
+                    localId: fallback.localId || "att-" + utils.uid(),
+                    status: "error"
+                })));
+            });
+
+            renderComposerAttachments();
+            if (uploaded.length) {
+                toast(uploaded.length === 1 ? "Attachment ready." : uploaded.length + " attachments ready.", "success");
+            }
+            if (failed.length) {
+                const firstFailure = failed[0] && (failed[0].error || failed[0].message);
+                toast(firstFailure
+                    ? "Attachment upload failed: " + firstFailure
+                    : "Some attachments could not be uploaded.", "error");
+            }
+        } catch (error) {
+            state.uploadingAttachments = state.uploadingAttachments.filter(function (item) {
+                return stagedIds.indexOf(item.localId) === -1;
+            });
+            staged.forEach(function (item) {
+                state.pendingAttachments.push(normalizeAttachmentDescriptor(Object.assign({}, item, {
+                    status: "error",
+                    error: error && error.message ? error.message : "Upload failed."
+                })));
+            });
+            renderComposerAttachments();
+            toast(error && error.message ? error.message : "Unable to upload the attachment.", "error");
+        }
+    }
+
+    function handleComposerAttachClick() {
+        if (!dom.composerFileInput || state.busy) {
+            return;
+        }
+        if (getResolvedInteractionMode() === "image") {
+            toast("Switch to Ask mode to upload attachments.", "info");
+            return;
+        }
+        setComposerModeMenuOpen(false);
+        dom.composerFileInput.click();
+    }
+
+    function handleComposerFileChange(event) {
+        const files = Array.from(event.target.files || []);
+        event.target.value = "";
+        uploadSelectedFiles(files).catch(function (error) {
+            toast(error && error.message ? error.message : "Unable to queue the attachment.", "error");
+        });
+    }
+
+    function handleComposerAttachmentClick(event) {
+        const button = event.target.closest("[data-remove-attachment]");
+        if (!button) {
+            return;
+        }
+        removeQueuedAttachment(button.getAttribute("data-remove-attachment"));
+        renderComposerAttachments();
+    }
+
+    function handlePromptKeydown(event) {
+        if (state.preferences.enterToSend && event.key === "Enter" && !event.shiftKey) {
+            event.preventDefault();
+            dom.composerForm.requestSubmit();
+        }
+    }
+
+    function handleComposerModeTrigger() {
+        if (state.busy || getResolvedInteractionMode() !== "chat") {
+            return;
+        }
+        setComposerModeMenuOpen(!state.composerModeMenuOpen);
+    }
+
+    function handleComposerModeMenuClick(event) {
+        const button = event.target.closest("[data-composer-mode]");
+        if (!button) {
+            return;
+        }
+        setComposerMode(button.getAttribute("data-composer-mode"));
+    }
+
+    function handleComposerModelChange() {
+        if (!dom.composerModelSelect) {
+            return;
+        }
+        setStoredModelOverride(getResolvedInteractionMode(), dom.composerModelSelect.value);
+        syncComposerControls();
+    }
+
+    function handleInteractionModeClick(event) {
+        const button = event.target.closest("[data-interaction-mode]");
+        if (!button || state.busy) {
+            return;
+        }
+        const nextMode = button.getAttribute("data-interaction-mode");
+        setInteractionMode(nextMode);
+        if (nextMode === "image" && queuedAttachmentCount() > 0) {
+            toast("Queued attachments stay in Ask mode. Remove them or switch back before sending.", "info");
+        }
+    }
+
+    function handleGlobalPointerDown(event) {
+        if (state.composerModeMenuOpen && dom.composerModePicker && !dom.composerModePicker.contains(event.target)) {
+            setComposerModeMenuOpen(false);
+        }
+
+        if (
+            state.profileMenuOpen &&
+            dom.railProfileMenu &&
+            dom.sidebarProfileBtn &&
+            !dom.railProfileMenu.contains(event.target) &&
+            !dom.sidebarProfileBtn.contains(event.target)
+        ) {
+            setProfileMenuOpen(false);
+        }
+
+        if (state.openThreadMenuId && dom.threadList && !dom.threadList.contains(event.target)) {
+            setThreadMenuOpen(null);
+        }
+    }
+
+    function handleGlobalKeydown(event) {
+        if (event.key === "Escape" && state.composerModeMenuOpen) {
+            setComposerModeMenuOpen(false);
+        }
+        if (event.key === "Escape" && state.profileMenuOpen) {
+            setProfileMenuOpen(false);
+        }
+        if (event.key === "Escape" && state.openThreadMenuId) {
+            setThreadMenuOpen(null);
+        }
+    }
+
+    function handleMessagesScroll() {
+        const currentTop = dom.messages.scrollTop;
+        const scrollingUp = currentTop < state.lastMessagesScrollTop - 2;
+        state.lastMessagesScrollTop = currentTop;
+
+        if (scrollingUp) {
+            detachAutoFollow();
+            return;
+        }
+
+        if (isNearBottom()) {
+            state.isAutoFollow = true;
+            state.showJumpToLatest = false;
+            renderJumpLatestButton();
+            return;
+        }
+
+        state.isAutoFollow = false;
+        if (state.busy) {
+            state.showJumpToLatest = true;
+            renderJumpLatestButton();
+        }
+    }
+
+    function handleMessagesWheel(event) {
+        if (!state.busy) {
+            return;
+        }
+        if (event.deltaY < 0) {
+            detachAutoFollow();
+        }
+    }
+
+    function handleMessagesTouchStart() {
+        state.touchScrollStartTop = dom.messages ? dom.messages.scrollTop : 0;
+    }
+
+    function handleMessagesTouchMove() {
+        if (!state.busy || !dom.messages) {
+            return;
+        }
+        if (dom.messages.scrollTop < state.touchScrollStartTop - 2) {
+            detachAutoFollow();
+        }
+    }
+
+    function handleJumpToLatest() {
+        enableAutoFollow({
+            scroll: true,
+            behavior: "smooth"
+        });
+    }
+
+    function startNewChat() {
+        if (state.busy) {
+            return;
+        }
+        setComposerModeMenuOpen(false);
+        state.openThreadMenuId = null;
+        state.activeThreadId = null;
+        state.messages = [];
+        state.reasoningExpanded = {};
+        state.visibleMessages = [];
+        state.messageVariantMeta = {};
+        state.messageTurnKeyById = {};
+        state.turnVariantMembers = {};
+        state.variantSelectionByTurn = {};
+        syncThreadRoute(null);
+        utils.setStoredValue(activeStorageKey(), null);
+        renderThreadList();
+        renderMessages();
+        renderThreadState();
+        enableAutoFollow();
+        setChatFeedback("idle", "Fresh conversation ready. Enter a prompt to start.");
+        setActiveView("chat", { focusComposer: true });
+    }
+
+    async function handleResetSession() {
+        const thread = getActiveThread();
+        if (!thread || state.busy) {
+            return;
+        }
+        try {
+            await persistThreadUpdate(thread.id, {
+                remote_session_id: null,
+                remote_parent_id: null,
+                last_trace: withPreservedShareTrace(thread, {}),
+                updated_at: new Date().toISOString()
+            });
+            setChatFeedback("reset", "Remote session cleared. The next prompt will start a fresh session.");
+            toast("Session reset for this chat.", "success");
+        } catch (error) {
+            toast(error.message || "Unable to reset the session.", "error");
+        }
+    }
+
+    async function runRegenerationFromContext(regenerationContext, options) {
+        const mergedOptions = Object.assign({
+            selected: false
+        }, options || {});
+        const thread = getActiveThread();
+        if (!thread || !regenerationContext || state.busy) {
+            return;
+        }
+
+        const interactionMode = regenerationContext.interactionMode || "chat";
+        const selectedModel = regenerationContext.model || getSelectedComposerModel(interactionMode);
+        const selectedMode = regenerationContext.mode || getResolvedComposerMode(interactionMode, selectedModel);
+        const regenerationPayload = interactionMode === "chat"
+            ? buildRegenerationPayload(thread, regenerationContext)
+            : null;
+
+        if (interactionMode === "chat" && !regenerationPayload) {
+            toast("Regeneration context is missing for this reply. Send one new prompt, then retry regeneration.", "error");
+            return;
+        }
+
+        await runPromptTurn({
+            prompt: regenerationContext.prompt,
+            attachments: regenerationContext.attachments,
+            interactionMode: interactionMode,
+            model: selectedModel,
+            mode: selectedMode,
+            thread: thread,
+            regeneration: regenerationPayload,
+            persistUserMessage: false,
+            replaceMessage: regenerationContext.replaceMessage,
+            clearComposer: false,
+            busyCopy: interactionMode === "image"
+                ? "Regenerating image..."
+                : mergedOptions.selected
+                    ? "Regenerating selected reply..."
+                    : "Regenerating the latest reply...",
+            successCopy: interactionMode === "image"
+                ? "Latest image regenerated."
+                : mergedOptions.selected
+                    ? "Selected reply regenerated."
+                    : "Latest reply regenerated."
+        });
+    }
+
+    async function handleRegenerateReplyByMessageId(messageId) {
+        const latestAssistantId = state.latestRegeneratableAssistantId || getLatestRegeneratableAssistantId();
+        if (!latestAssistantId || String(messageId || "") !== String(latestAssistantId)) {
+            toast("Only the latest assistant reply can be regenerated right now.", "info");
+            return;
+        }
+        const regenerationContext = getRegenerationContext(messageId);
+        await runRegenerationFromContext(regenerationContext, {
+            selected: true
+        });
+    }
+
+    async function handleRegenerateReply() {
+        const regenerationContext = getRegenerationContext();
+        await runRegenerationFromContext(regenerationContext, {
+            selected: false
+        });
+    }
+
+    async function handleClearAllChats() {
+        if (state.busy || !state.threads.length) {
+            return;
+        }
+        const mode = getResolvedThreadMode();
+        const activeBot = getActiveBot();
+        const activeBotLabel = activeBot && activeBot.name
+            ? activeBot.name
+            : "Assistant";
+        const scopeLabel = mode === "normal"
+            ? "normal chats"
+            : activeBotLabel + " bot";
+        if (!window.confirm('Clear every chat for "' + scopeLabel + '" and start fresh?')) {
+            return;
+        }
+
+        const threadSnapshot = state.threads.slice();
+        const threadIds = threadSnapshot.map(function (thread) {
+            return String(thread && thread.id || "").trim();
+        }).filter(Boolean);
+        const remoteSessionIds = threadSnapshot.map(function (thread) {
+            return String(thread && thread.remote_session_id || "").trim();
+        }).filter(Boolean);
+        const unlinkedRemoteCount = threadSnapshot.filter(threadHasUnlinkedRemoteState).length;
+
+        let result = { error: null };
+        if (threadIds.length) {
+            result = await client
+                .from("chat_threads")
+                .delete()
+                .in("id", threadIds);
+        }
+
+        if (result.error) {
+            toast(result.error.message || "Unable to clear chats.", "error");
+            return;
+        }
+
+        state.threads = [];
+        state.activeThreadId = null;
+        state.messages = [];
+        state.reasoningExpanded = {};
+        state.visibleMessages = [];
+        state.messageVariantMeta = {};
+        state.messageTurnKeyById = {};
+        state.turnVariantMembers = {};
+        state.variantSelectionByTurn = {};
+        state.threadQuery = "";
+        utils.setStoredValue(activeStorageKey(), null);
+        dom.threadSearchInput.value = "";
+        renderThreadList();
+        renderMessages();
+        renderThreadState();
+        enableAutoFollow();
+        const summaryLabel = mode === "normal"
+            ? "normal chats"
+            : "" + activeBotLabel + " bot chats";
+        setChatFeedback("idle", "All " + summaryLabel + " cleared. Start a fresh conversation.");
+        renderChatMaintenanceStatus("All local " + summaryLabel + " were deleted. Running Qwen cleanup in the background...");
+        toast("All " + summaryLabel + " cleared.", "success");
+
+        if (!remoteSessionIds.length && unlinkedRemoteCount === 0) {
+            renderChatMaintenanceStatus();
+            return;
+        }
+
+        Promise.all(remoteSessionIds.map(function (sessionId) {
+            return deleteRemoteThreadSession(sessionId);
+        }))
+            .then(function (remoteResults) {
+                const failedCount = remoteResults.filter(function (entry) {
+                    return entry.attempted && !entry.deleted;
+                }).length;
+                const skippedCount = remoteResults.filter(function (entry) {
+                    return entry.skipped;
+                }).length;
+
+                const issues = [];
+                if (failedCount > 0) {
+                    issues.push(failedCount + " remote delete failures");
+                }
+                if (skippedCount > 0) {
+                    issues.push(skippedCount + " remote deletes skipped");
+                }
+                if (unlinkedRemoteCount > 0) {
+                    issues.push(unlinkedRemoteCount + " chats had no remote session ID");
+                }
+
+                if (!issues.length) {
+                    renderChatMaintenanceStatus("All local " + summaryLabel + " were deleted and Qwen cleanup completed.");
+                    return;
+                }
+
+                const message = "All local " + summaryLabel + " were deleted. " + issues.join("; ") + ".";
+                renderChatMaintenanceStatus(message);
+                toast(message, failedCount > 0 ? "error" : "info");
+            })
+            .catch(function (error) {
+                const message = "All local " + summaryLabel + " were deleted. Qwen cleanup error: " + (error && error.message ? error.message : "unknown error.");
+                renderChatMaintenanceStatus(message);
+                toast(message, "error");
+            });
+    }
+
+    async function saveProfileSettings(event) {
+        event.preventDefault();
+        const nextDisplayName = (dom.settingsDisplayName.value || "").trim();
+        if (!nextDisplayName) {
+            toast("Display name cannot be empty.", "error");
+            return;
+        }
+
+        dom.profileSettingsStatus.textContent = "Saving profile...";
+
+        const rpcResult = await client.rpc("update_own_profile", {
+            next_display_name: nextDisplayName
+        });
+
+        if (rpcResult.error) {
+            throw new Error(
+                /update_own_profile/i.test(rpcResult.error.message || "")
+                    ? "Run the updated Supabase SQL once to enable profile editing."
+                    : rpcResult.error.message || "Unable to save your profile."
+            );
+        }
+
+        const authResult = await client.auth.updateUser({
+            data: {
+                display_name: nextDisplayName
+            }
+        });
+
+        if (authResult.error) {
+            throw new Error(authResult.error.message || "Profile updated, but auth metadata could not be synced.");
+        }
+
+        state.context.profile = Object.assign({}, state.context.profile, rpcResult.data || {}, {
+            display_name: nextDisplayName
+        });
+        renderProfile();
+        dom.profileSettingsStatus.textContent = "Profile saved.";
+        toast("Profile updated.", "success");
+    }
+
+    function savePreferenceSettings(event) {
+        event.preventDefault();
+        state.preferences.enterToSend = Boolean(dom.settingsEnterToSend.checked);
+        state.preferences.showTimestamps = Boolean(dom.settingsShowTimestamps.checked);
+        persistPreferences();
+        renderPreferences();
+        renderMessages();
+        dom.preferencesSettingsStatus.textContent = "Preferences saved in this browser.";
+        toast("Preferences updated.", "success");
+    }
+
+    function resetLocalPreferences() {
+        state.preferences = Object.assign({}, DEFAULT_PREFERENCES, {
+            activeView: "settings"
+        });
+        persistPreferences();
+        theme.setThemePreference(window.Lumora.constants.WORKSPACE_THEME_VALUE);
+        theme.initialize({
+            settings: state.settings,
+            authPage: false,
+            allowWorkspaceDefault: true
+        });
+        renderPreferences();
+        renderMessages();
+        dom.preferencesSettingsStatus.textContent = "Local preferences reset.";
+        dom.accountSettingsStatus.textContent = "Theme and local UI preferences were reset.";
+        toast("Local preferences reset.", "success");
+    }
+
+    async function initializeAdminWorkspace() {
+        if (
+            !state.context ||
+            state.context.profile.role !== "admin" ||
+            !dom.embeddedAdminWorkspace
+        ) {
+            return;
+        }
+
+        if (state.adminWorkspace) {
+            return;
+        }
+
+        const statusNode = dom.embeddedAdminWorkspace.querySelector('[data-admin-el="status-line"]');
+        if (statusNode) {
+            statusNode.textContent = "Loading admin data...";
+        }
+
+        const workspaceApi = await ensureAdminWorkspaceApiLoaded();
+        if (!workspaceApi || typeof workspaceApi.create !== "function") {
+            throw new Error("Admin workspace module unavailable. Hard refresh and retry.");
+        }
+
+        state.adminWorkspace = workspaceApi.create({
+            root: dom.embeddedAdminWorkspace,
+            context: state.context,
+            initialSettings: state.settings,
+            notify: toast,
+            standalone: false,
+            syncHash: false,
+            defaultSection: "settings",
+            onBackToChat: function () {
+                setActiveView("chat", { focusComposer: true });
+            },
+            onSettingsSaved: async function (nextSettings) {
+                const previousActiveThreadId = String(state.activeThreadId || "").trim();
+                state.settings = nextSettings;
+                ensureActiveBotPreference({ persist: true });
+                ensureThreadModePreference({ persist: true });
+                await loadThreads();
+                if (previousActiveThreadId && state.threads.some(function (thread) {
+                    return String(thread.id) === previousActiveThreadId;
+                })) {
+                    await setActiveThread(previousActiveThreadId);
+                } else {
+                    syncThreadRoute(null);
+                    await restoreInitialThreadSelection();
+                }
+                await refreshRuntimeGatewayCredentials({ silent: true });
+                utils.applyBranding(state.settings);
+                theme.initialize({
+                    settings: state.settings,
+                    authPage: false,
+                    allowWorkspaceDefault: true
+                });
+                renderMessages();
+                renderThreadState();
+                renderPreferences();
+                syncComposerControls();
+                if (!state.busy) {
+                    setChatFeedback(
+                        gateway.gatewayReady(getGatewayRuntimeSettings()) ? "ready" : "setup",
+                        gateway.gatewayReady(getGatewayRuntimeSettings())
+                            ? "Ready for a new prompt. Enter sends. Shift+Enter adds a new line."
+                            : "An admin still needs to finish the assistant runtime setup."
+                    );
+                }
+                applyShellState();
+            }
+        });
+
+        await state.adminWorkspace.init();
+    }
+
+    async function init() {
+        setAppReady(false);
+        configureMarkdown();
+        theme.initialize({
+            authPage: false,
+            allowWorkspaceDefault: true
+        });
+        utils.applyBranding();
+
+        if (!auth.hasConfig) {
+            utils.renderBlockingState("Supabase setup missing", auth.getConfigError(), "SUPABASE_SETUP.md", "Open setup guide");
+            return;
+        }
+
+        const context = await auth.guardPage({});
+        if (!context) {
+            return;
+        }
+        state.context = context;
+        readPreferences();
+        if (state.context.profile.role !== "admin" && state.preferences.activeView === "admin") {
+            state.preferences.activeView = "chat";
+            persistPreferences();
+        }
+        state.settings = await fetchAppSettings();
+        ensureActiveBotPreference({ persist: true });
+        ensureThreadModePreference({ persist: true });
+        await refreshRuntimeGatewayCredentials({ silent: true });
+        utils.applyBranding(state.settings);
+        theme.initialize({
+            settings: state.settings,
+            authPage: false,
+            allowWorkspaceDefault: true
+        });
+        renderProfile();
+        renderPreferences();
+        setAppReady(true);
+        try {
+            await initializeAdminWorkspace();
+        } catch (adminInitError) {
+            console.warn("Admin workspace init skipped:", adminInitError && adminInitError.message ? adminInitError.message : adminInitError);
+            const statusNode = dom.embeddedAdminWorkspace
+                ? dom.embeddedAdminWorkspace.querySelector('[data-admin-el="status-line"]')
+                : null;
+            if (statusNode) {
+                statusNode.textContent = "Admin load failed. Refresh and retry.";
+            }
+            toast(adminInitError && adminInitError.message
+                ? adminInitError.message
+                : "Admin workspace failed to load. Hard refresh and retry.", "error");
+        }
+        setBusy(false);
+        setChatFeedback(
+            gateway.gatewayReady(getGatewayRuntimeSettings()) ? "ready" : "setup",
+            gateway.gatewayReady(getGatewayRuntimeSettings())
+                ? "Ready for a new prompt. Enter sends, Shift+Enter adds a new line."
+                : "An admin still needs to finish the assistant runtime setup."
+        );
+
+        await loadThreads();
+        await restoreInitialThreadSelection();
+
+        if (state.preferences.activeView === "admin" && state.context.profile.role === "admin") {
+            openAdminView("settings");
+        }
+        applyShellState();
+
+        dom.threadSearchInput.addEventListener("input", function () {
+            state.threadQuery = dom.threadSearchInput.value || "";
+            renderThreadList();
+        });
+        dom.threadList.addEventListener("click", handleThreadListClick);
+        dom.threadList.addEventListener("scroll", handleThreadListScroll, { passive: true });
+        if (dom.botList) {
+            dom.botList.addEventListener("click", handleBotListClick);
+        }
+        if (dom.newThreadBtn) {
+            dom.newThreadBtn.addEventListener("click", startNewChat);
+        }
+        if (dom.sidebarRailNewBtn) {
+            dom.sidebarRailNewBtn.addEventListener("click", startNewChat);
+        }
+        if (dom.sidebarRailBotsBtn) {
+            dom.sidebarRailBotsBtn.addEventListener("click", handleBotRailClick);
+        }
+        dom.sidebarToggleBtn.addEventListener("click", function () {
+            setSidebarCollapsed(!state.preferences.sidebarCollapsed);
+        });
+        if (dom.sidebarRailChatsBtn) {
+            dom.sidebarRailChatsBtn.addEventListener("click", function () {
+                switchToNormalChatContext({ focusComposer: true }).catch(function (error) {
+                    toast(error && error.message ? error.message : "Unable to open normal chats right now.", "error");
+                });
+            });
+        }
+        dom.sidebarRailSettingsBtn.addEventListener("click", function () {
+            setActiveView("settings");
+        });
+        dom.sidebarProfileBtn.addEventListener("click", function () {
+            setProfileMenuOpen(!state.profileMenuOpen);
+        });
+        if (dom.railProfileSettingsBtn) {
+            dom.railProfileSettingsBtn.addEventListener("click", function () {
+                setProfileMenuOpen(false);
+                setActiveView("settings");
+            });
+        }
+        if (dom.railProfileLogoutBtn) {
+            dom.railProfileLogoutBtn.addEventListener("click", function () {
+                setProfileMenuOpen(false);
+                auth.signOut();
+            });
+        }
+        dom.settingsBackBtn.addEventListener("click", function () {
+            setActiveView("chat", { focusComposer: true });
+        });
+        dom.settingsSidebarToggleBtn.addEventListener("click", function () {
+            setSidebarCollapsed(!state.preferences.sidebarCollapsed);
+            dom.accountSettingsStatus.textContent = state.preferences.sidebarCollapsed
+                ? "Sidebar is now collapsed."
+                : "Sidebar is now expanded.";
+        });
+        dom.profileSettingsForm.addEventListener("submit", function (event) {
+            saveProfileSettings(event).catch(function (error) {
+                dom.profileSettingsStatus.textContent = error.message || "Unable to save profile.";
+                toast(error.message || "Unable to save profile.", "error");
+            });
+        });
+        dom.chatPreferencesForm.addEventListener("submit", function (event) {
+            savePreferenceSettings(event);
+        });
+        dom.resetPreferencesBtn.addEventListener("click", resetLocalPreferences);
+        dom.settingsLogoutBtn.addEventListener("click", function () {
+            auth.signOut();
+        });
+        dom.renameThreadBtn.addEventListener("click", handleRenameThread);
+        dom.pinThreadBtn.addEventListener("click", handlePinThread);
+        if (dom.shareThreadBtn) {
+            dom.shareThreadBtn.addEventListener("click", function () {
+                handleShareThread().catch(function (error) {
+                    toast(error.message || "Unable to generate a secure share link.", "error");
+                });
+            });
+        }
+        dom.resetSessionBtn.addEventListener("click", function () {
+            handleResetSession().catch(function (error) {
+                toast(error.message || "Unable to reset the session.", "error");
+            });
+        });
+        dom.regenerateReplyBtn.addEventListener("click", function () {
+            handleRegenerateReply().catch(function (error) {
+                toast(error.message || "Unable to regenerate the reply.", "error");
+            });
+        });
+        dom.exportThreadBtn.addEventListener("click", handleExportThread);
+        dom.deleteThreadBtn.addEventListener("click", function () {
+            handleDeleteThread().catch(function (error) {
+                toast(error.message || "Unable to delete the chat.", "error");
+            });
+        });
+        dom.clearChatsBtn.addEventListener("click", function () {
+            handleClearAllChats().catch(function (error) {
+                toast(error.message || "Unable to clear chats.", "error");
+            });
+        });
+        dom.logoutBtn.addEventListener("click", function () {
+            auth.signOut();
+        });
+        dom.sidebarRailAdminLink.addEventListener("click", function () {
+            openAdminView("settings");
+        });
+        dom.adminLink.addEventListener("click", function () {
+            openAdminView("settings");
+        });
+        dom.settingsAdminLink.addEventListener("click", function () {
+            openAdminView("settings");
+        });
+        dom.composerForm.addEventListener("submit", function (event) {
+            handleSend(event).catch(function (error) {
+                toast(error.message || "Unable to send the message.", "error");
+                setBusy(false);
+                setChatFeedback("error", error.message || "Unable to send the message.");
+            });
+        });
+        dom.composerIntentToggle.addEventListener("click", handleInteractionModeClick);
+        dom.composerAttachBtn.addEventListener("click", handleComposerAttachClick);
+        dom.composerFileInput.addEventListener("change", handleComposerFileChange);
+        dom.composerModeTrigger.addEventListener("click", handleComposerModeTrigger);
+        dom.composerModeMenu.addEventListener("click", handleComposerModeMenuClick);
+        if (dom.composerModelSelect) {
+            dom.composerModelSelect.addEventListener("change", handleComposerModelChange);
+        }
+        dom.stopBtn.addEventListener("click", handleStop);
+        dom.composerAttachments.addEventListener("click", handleComposerAttachmentClick);
+        dom.messages.addEventListener("click", handleMessageActions);
+        dom.messages.addEventListener("scroll", handleMessagesScroll);
+        dom.messages.addEventListener("wheel", handleMessagesWheel, { passive: true });
+        dom.messages.addEventListener("touchstart", handleMessagesTouchStart, { passive: true });
+        dom.messages.addEventListener("touchmove", handleMessagesTouchMove, { passive: true });
+        if (dom.jumpLatestBtn) {
+            dom.jumpLatestBtn.addEventListener("click", handleJumpToLatest);
+        }
+        dom.welcomePanel.addEventListener("click", handleQuickPrompt);
+        dom.promptInput.addEventListener("input", function () {
+            utils.autoResizeTextarea(dom.promptInput);
+            updatePromptCount();
+        });
+        dom.promptInput.addEventListener("keydown", handlePromptKeydown);
+        document.addEventListener("pointerdown", handleGlobalPointerDown);
+        document.addEventListener("keydown", handleGlobalKeydown);
+        window.addEventListener("resize", handleWindowResize);
+
+        updatePromptCount();
+        renderComposerAttachments();
+        utils.autoResizeTextarea(dom.promptInput);
+        syncDocumentTitle();
+        if (state.preferences.activeView === "chat") {
+            dom.promptInput.focus();
+        }
+    }
+
+    init().catch(function (error) {
+        setAppReady(true);
+        utils.renderBlockingState("Chat unavailable", error && error.message ? error.message : "Unable to load the chat workspace.", "login.html", "Back to login");
+    });
+}());
